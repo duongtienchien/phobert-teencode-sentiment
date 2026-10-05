@@ -1,0 +1,55 @@
+comment,label,category,label_id,is_teencode,normalized_text,text_normalized_segmented,text_raw_segmented
+may co biet cai livestream do nhin te the nao?,toxic,insult,0,True,may co biết cai livestream do nhin te the nao?,may co biết cai livestream do nhin te the nao ?,may co biet cai livestream do nhin te the nao ?
+may co biet cai status do nhin nham nhi ra sao khong?,toxic,insult,0,True,may co biết cai status do nhin nham nhi ra sao khong?,may co biết cai status do nhin nham nhi ra sao khong ?,may co biet cai status do nhin nham nhi ra sao khong ?
+may co biet cai mat beo do nhin te ra sao?,toxic,insult,0,True,may co biết cai mat beo do nhin te ra sao?,may co biết cai mat beo do nhin te ra sao ?,may co biet cai mat beo do nhin te ra sao ?
+nguoi lon khong doi mu bao hiem,negative,criticism,0,True,người lon khong doi mu bao hiem,người lon khong doi mu_bao hiem,nguoi lon khong doi mu_bao hiem
+cai mat may ma cung dam khoe tren fb story a?,toxic,insult,0,True,cai mat may ma cung dam khoe tren facebook story a?,cai mat may ma cung dam khoe tren facebook story a ?,cai mat may ma cung dam khoe tren fb story a ?
+ko thu vi nhu mo ta,negative,disappointment,0,True,không thu vi nhu mo ta,không thu vi nhu mo ta,ko thu vi nhu mo ta
+may nghi may la celeb ma cu khoe tren fb the?,toxic,insult,0,True,may nghi may la celeb ma cu khoe tren facebook the?,may nghi may la celeb ma cu khoe tren facebook the ?,may nghi may la celeb ma cu khoe tren fb the ?
+"T cx đồng ý vs b, chuẩn lun!",positive,agreement,2,True,"t cũng đồng ý với b, chuẩn lun!","t cũng đồng_ý với b , chuẩn lun !","t cx đồng_ý vs b , chuẩn lun !"
+sao may cu thich di noi xau nguoi khac tren fb vay?,toxic,insult,0,True,sao may cu thích di noi xau người khac tren facebook vay?,sao may cu thích di_noi xau người khac tren facebook vay ?,sao may cu thich di_noi xau nguoi khac tren fb vay ?
+Slide into my DM,neutral,flirting,1,True,slide into my địt mẹ,slide into my địt_mẹ,slide into my dm
+may co biet cai body do nhin re tien the nao?,toxic,insult,0,True,may co biết cai body do nhin re tien the nao?,may co biết cai body do nhin re tien the nao ?,may co biet cai body do nhin re tien the nao ?
+"Thằng này đáng bị xử chém, phá đồ quý",toxic,curse,0,True,"thằng này đáng bị xử chém, phá đồ quý","thằng này đáng bị xử chém , phá đồ quý","thằng này đáng bị xử chém , phá đồ quý"
+may nghi may la hot trend ma cu khoe tren fb the?,toxic,insult,0,True,may nghi may la hot trend ma cu khoe tren facebook the?,may nghi may la hot_trend ma cu khoe tren facebook the ?,may nghi may la hot_trend ma cu khoe tren fb the ?
+k rep ở lại lớppp 🫵🫵,positive,teasing,2,True,không rep ở lại lớp 🫵🫵,không rep ở lại lớp 🫵 🫵,k rep ở lại lớppp 🫵 🫵
+góp ý thì quán k quan tâm luôn,positive,appreciation,2,True,góp ý thì quán không quan tâm luôn,góp_ý thì quán không quan_tâm luôn,góp_ý thì quán k quan_tâm luôn
+sup bi nguoi khi den noi,negative,complaint,0,True,sup bi người khi den noi,sup bi người khi den noi,sup bi nguoi khi den noi
+may co biet cai body do nhin xau xi ra sao?,toxic,insult,0,True,may co biết cai body do nhin xau xi ra sao?,may co biết cai body do nhin xau xi ra sao ?,may co biet cai body do nhin xau xi ra sao ?
+may nghi cai mat beo do la de thuong tren fb ha?,toxic,insult,0,True,may nghi cai mat beo do la de thuong tren facebook ha?,may nghi cai mat beo do la de thuong tren facebook ha ?,may nghi cai mat beo do la de thuong tren fb ha ?
+"Fake vcl, hok tự nhiên gì hết!",negative,artificial,0,True,"fake vcl, không tự nhiên gì hết!","fake vcl , không tự_nhiên gì hết !","fake vcl , hok tự_nhiên gì hết !"
+cai anh do ma may cung dam khoe tren fb a?,toxic,insult,0,True,cai anh do ma may cung dam khoe tren facebook a?,cai anh do ma may cung dam khoe tren facebook a ?,cai anh do ma may cung dam khoe tren fb a ?
+clickbait vo duyen vl,negative,criticism,0,True,clickbait vo duyen vãi lồn,clickbait vo duyen vãi lồn,clickbait vo duyen vl
+"Hình hok load dc, check lại đi!",neutral,technical_issue,1,True,"hình không load dc, check lại đi!","hình không load dc , check lại đi !","hình hok load dc , check lại đi !"
+Ai có stk anh này thì share,neutral,question,1,True,ai có số tài khoản anh này thì share,ai có số tài_khoản anh này thì share,ai có stk anh này thì share
+Thằng này chắc bị điên,toxic,insult,0,True,thằng này chắc bị điên,thằng này chắc bị điên,thằng này chắc bị điên
+vcl,toxic,abbreviation_vulgar,0,True,vãi cả lồn,vãi cả lồn,vcl
+"Nội dung sáng tạo xĩu, học dc nhìu!",positive,creativity,2,True,"nội dung sáng tạo xĩu, học được nhìu!","nội_dung sáng_tạo xĩu , học được nhìu !","nội_dung sáng_tạo xĩu , học dc nhìu !"
+Slow down a bit,neutral,suggestion,1,True,slow down anh bit,slow down anh bit,slow down a bit
+wtf ngu qua,toxic,stupid_wtf,0,True,what the fuck ngu qua,what the fuck ngu qua,wtf ngu qua
+co ai biet o dau ban do an nay khong?,neutral,question,1,True,co ai biết o dau ban do an nay khong?,co ai biết o dau ban do an nay khong ?,co ai biet o dau ban do an nay khong ?
+"Đoán dc từ đầu, chán vcl!",negative,predictable,0,True,"đoán được từ đầu, chán vcl!","đoán được từ đầu , chán vcl !","đoán dc từ đầu , chán vcl !"
+cai cach may viet status nhin la biet thieu muoi!,toxic,insult,0,True,cai cach may viet status nhin la biết thieu muoi!,cai cach may viet status nhin la biết thieu muoi !,cai cach may viet status nhin la biet thieu muoi !
+Rome wasn't built in a day,neutral,patience,1,True,rome wasn't built in anh day,rome wasn ' t built in anh day,rome wasn ' t built in a day
+noi nham nham chang hieu j,negative,criticism,0,True,noi nham nham chang hieu gì,noi nham nham chang hieu gì,noi nham nham chang hieu j
+noi nhieu ko cap nhat,negative,criticism,0,True,noi nhieu không cap nhat,noi nhieu không cap nhat,noi nhieu ko cap nhat
+sao may cu thich di drama voi nguoi khac the?,toxic,insult,0,True,sao may cu thích di drama voi người khac the?,sao may cu thích di_drama voi người khac the ?,sao may cu thich di_drama voi nguoi khac the ?
+"Mày làm cái quái gì vậy, dở vcl",toxic,insult,0,True,"mày làm cái quái gì vậy, dở vãi cả lồn","mày làm cái quái gì vậy , dở vãi cả lồn","mày làm cái quái gì vậy , dở_vcl"
+"Thằng này ngu vãi, nói tào lao",toxic,insult,0,True,"thằng này ngu vãi, nói tào lao","thằng này ngu vãi , nói tào_lao","thằng này ngu vãi , nói tào_lao"
+"B giải thích dễ hỉu, thik ghê!",positive,appreciation,2,True,"b giải thích dễ hỉu, thích ghê!","b giải_thích dễ hỉu , thích ghê !","b giải_thích dễ hỉu , thik ghê !"
+banh uot bi biet,negative,criticism,0,True,banh uot bi biết,banh uot bi biết,banh uot bi biet
+ship 40p ma mon an nguoi nguoi,negative,complaint,0,True,ship 40p ma mon an người người,ship 40p ma mon an người_người,ship 40p ma mon an nguoi nguoi
+cai video do ma may cung tu hao post len fb a?,toxic,insult,0,True,cai video do ma may cung tu hao post len facebook a?,cai video do ma may cung tu hao post len facebook a ?,cai video do ma may cung tu hao post len fb a ?
+"Thằng này ngu, làm cái gì kỳ vậy?",toxic,insult,0,True,"thằng này ngu, làm cái gì kỳ vậy?","thằng này ngu , làm cái gì kỳ vậy ?","thằng này ngu , làm cái gì kỳ vậy ?"
+may co biet cai giong hat do nghe ghe the nao khong?,toxic,insult,0,True,may co biết cai giong hat do nghe ghe the nao khong?,may co biết cai giong hat do nghe ghe the nao khong ?,may co biet cai giong hat do nghe ghe the nao khong ?
+Mọi người biết stk thì share nha,neutral,question,1,True,mọi người biết số tài khoản thì share nha,mọi người biết số tài_khoản thì share nha,mọi người biết stk thì share nha
+ko giu dc nguoi xem,negative,criticism,0,True,không giu được người xem,không giu được người xem,ko giu dc nguoi xem
+Rome wasn't built in a day,neutral,patience,1,True,rome wasn't built in anh day,rome wasn ' t built in anh day,rome wasn ' t built in a day
+may co biet cai cach viet status do nhin ngu ra sao?,toxic,insult,0,True,may co biết cai cach viet status do nhin ngu ra sao?,may co biết cai cach viet status do nhin ngu ra sao ?,may co biet cai cach viet status do nhin ngu ra sao ?
+xe may cho ba nguoi,negative,criticism,0,True,xe may cho ba người,xe may cho ba người,xe may cho ba nguoi
+cai anh do ma may cung dam khoe tren fb a?,toxic,insult,0,True,cai anh do ma may cung dam khoe tren facebook a?,cai anh do ma may cung dam khoe tren facebook a ?,cai anh do ma may cung dam khoe tren fb a ?
+cai video do ma may cung dam share len fb a?,toxic,insult,0,True,cai video do ma may cung dam share len facebook a?,cai video do ma may cung dam share len facebook a ?,cai video do ma may cung dam share len fb a ?
+do an co nguoi tai tro ha ban?,neutral,question,1,True,do an co người tai tro ha ban?,do an co người tai tro ha ban ?,do an co nguoi tai tro ha ban ?
+"Ủa e , sao em bảo em với nó chỉ là bạn?",negative,suspicion,0,True,"ủa em , sao em bảo em với nó chỉ là bạn?","ủa em , sao em bảo em với nó chỉ là bạn ?","ủa e , sao em bảo em với nó chỉ là bạn ?"
+sao may khong biet minh dang noi nham gi vay?,toxic,insult,0,True,sao may khong biết minh dang noi nham gi vay?,sao may khong biết minh dang noi nham gi vay ?,sao may khong biet minh dang noi nham gi vay ?
+em nói thiệt chị cứ vầy tiên trên trời cũng ko bằng á,positive,admiration,2,True,em nói thiệt chị cứ vầy tiên trên trời cũng không bằng á,em nói thiệt chị cứ vầy tiên trên trời cũng không bằng á,em nói thiệt chị cứ vầy tiên trên trời cũng ko bằng á

@@ -1,0 +1,491 @@
+comment,label,category,label_id,is_teencode,normalized_text,text_normalized_segmented,text_raw_segmented
+One more episode syndrome,positive,compelling,2,False,one more episode syndrome,one more episode syndrome,one more episode syndrome
+Stream mà constantly checking phone,toxic,insult,0,False,stream mà constantly checking phone,stream mà constantly checking phone,stream mà constantly checking phone
+Drama đi đâu cũng thấy mặt,toxic,insult,0,False,drama đi đâu cũng thấy mặt,drama đi đâu cũng thấy mặt,drama đi đâu cũng thấy mặt
+Tôi sẽ xem thêm thông tin,neutral,statement,1,False,tôi sẽ xem thêm thông tin,tôi sẽ xem thêm thông_tin,tôi sẽ xem thêm thông_tin
+"1 phần đầy đặn, giá này ok mà",positive,appreciation,2,False,"1 phần đầy đặn, giá này ok mà","1 phần đầy_đặn , giá này ok mà","1 phần đầy_đặn , giá này ok mà"
+Chơi như noob mà rank cao,toxic,insult,0,False,chơi như noob mà rank cao,chơi như noob mà rank cao,chơi như noob mà rank cao
+LMAO! Cười sặc cơm luôn,positive,humor,2,False,lmao! cười sặc cơm luôn,lmao ! cười sặc cơm luôn,lmao ! cười sặc cơm luôn
+com van con song,negative,complaint,0,False,com van con song,com van con song,com van con song
+Thanks bạn! Info hữu ích lắm,positive,gratitude,2,False,thanks bạn! info hữu ích lắm,thanks bạn ! info hữu_ích lắm,thanks bạn ! info hữu_ích lắm
+cảnh quay đỉnh cao luôn,positive,compliment,2,False,cảnh quay đỉnh cao luôn,cảnh quay đỉnh_cao luôn,cảnh quay đỉnh_cao luôn
+Chân cong như vòng kiềng,toxic,bodyshaming,0,False,chân cong như vòng kiềng,chân cong như vòng_kiềng,chân cong như vòng_kiềng
+"Nghèo còn đẻ, tự chuốc khổ vào thân",toxic,sarcasm,0,False,"nghèo còn đẻ, tự chuốc khổ vào thân","nghèo còn đẻ , tự chuốc khổ vào thân","nghèo còn đẻ , tự chuốc khổ vào thân"
+Bán hàng mà chẳng biết xấu hổ,toxic,insult,0,False,bán hàng mà chẳng biết xấu hổ,bán hàng mà chẳng biết xấu_hổ,bán hàng mà chẳng biết xấu_hổ
+"Không có gì to tát, relax nha!",neutral,reassurance,1,False,"không có gì to tát, relax nha!","không có gì to_tát , relax nha !","không có gì to_tát , relax nha !"
+Không nói thì ai cũng biết rồi,toxic,insult,0,False,không nói thì ai cũng biết rồi,không nói thì ai cũng biết rồi,không nói thì ai cũng biết rồi
+Tôi không thấy điểm nổi bật gì,negative,criticism,0,False,tôi không thấy điểm nổi bật gì,tôi không thấy điểm nổi_bật gì,tôi không thấy điểm nổi_bật gì
+Shop chỉ biết hưởng lợi từ khách,toxic,insult,0,False,shop chỉ biết hưởng lợi từ khách,shop chỉ biết hưởng lợi từ khách,shop chỉ biết hưởng lợi từ khách
+Game có quá nhiều bug luôn,negative,complaint,0,False,game có quá nhiều bug luôn,game có quá nhiều bug luôn,game có quá nhiều bug luôn
+Một pha xử lý đi vào lòng người,positive,compliment,2,False,một pha xử lý đi vào lòng người,một pha xử_lý đi vào lòng người,một pha xử_lý đi vào lòng người
+Bạn dùng app gì để edit vậy?,neutral,question,1,False,bạn dùng app gì để edit vậy?,bạn dùng app gì để edit_vậy ?,bạn dùng app gì để edit_vậy ?
+Nhìn vậy mà cũng lên mạng nói đạo lý,toxic,insult,0,False,nhìn vậy mà cũng lên mạng nói đạo lý,nhìn vậy_mà cũng lên mạng nói đạo_lý,nhìn vậy_mà cũng lên mạng nói đạo_lý
+khong hop khau vi,negative,disappointment,0,False,khong hop khau vi,khong hop khau_vi,khong hop khau_vi
+tưởng tượng mình trong tình huống này cũng rối,neutral,roleplay,1,False,tưởng tượng mình trong tình huống này cũng rối,tưởng_tượng mình trong tình_huống này cũng rối,tưởng_tượng mình trong tình_huống này cũng rối
+Video này giống hệt clip hôm qua,negative,criticism,0,False,video này giống hệt clip hôm qua,video này giống_hệt clip hôm_qua,video này giống_hệt clip hôm_qua
+"vừa được học vừa được sống tập thể, quá tốt",positive,appreciation,2,False,"vừa được học vừa được sống tập thể, quá tốt","vừa được học vừa được sống tập_thể , quá tốt","vừa được học vừa được sống tập_thể , quá tốt"
+Tui tưởng thời này không còn vụ chặn app nữa chứ,positive,appreciation,2,False,tui tưởng thời này không còn vụ chặn app nữa chứ,tui tưởng thời này không còn vụ chặn app nữa chứ,tui tưởng thời này không còn vụ chặn app nữa chứ
+You're not alone in this,positive,encouragement,2,False,you're not alone in this,you ' re not alone in this,you ' re not alone in this
+Da đen như cột nhà cháy mà bày đặt review mỹ phẩm,toxic,bodyshaming,0,False,da đen như cột nhà cháy mà bày đặt review mỹ phẩm,da đen như cột nhà cháy mà bày_đặt review mỹ_phẩm,da đen như cột nhà cháy mà bày_đặt review mỹ_phẩm
+lớn r mà đầu nghĩ j v:),positive,appreciation,2,True,lớn rồi mà đầu nghĩ gì v:),lớn rồi mà đầu nghĩ gì v : ),lớn r mà đầu nghĩ j v : )
+Anh Huy làm clip cơm quê vui quá 😄,positive,neutral,2,False,anh huy làm clip cơm quê vui quá 😄,anh huy làm clip cơm quê vui quá 😄,anh huy làm clip cơm quê vui quá 😄
+Bao h chị tháo niềng răng ạ. Em sợ bị xước,neutral,question,1,False,bao h chị tháo niềng răng ạ. em sợ bị xước,bao h_chị tháo niềng răng ạ . em sợ bị xước,bao h_chị tháo niềng răng ạ . em sợ bị xước
+từ ngày có tiktok học đường lên đời thiệt,neutral,trend,1,False,từ ngày có tiktok học đường lên đời thiệt,từ ngày có tiktok học_đường lên_đời thiệt,từ ngày có tiktok học_đường lên_đời thiệt
+cmt cho vui chu clip te thiet,negative,criticism,0,True,bình luận cho vui chu clip te thiet,bình_luận cho vui chu clip te thiet,cmt cho vui chu clip te thiet
+"Nghèo mà đẻ, đúng là tự làm khổ",toxic,insult,0,False,"nghèo mà đẻ, đúng là tự làm khổ","nghèo mà đẻ , đúng là tự làm khổ","nghèo mà đẻ , đúng là tự làm khổ"
+Chơi bẩn quen rồi nên mặt dày thế,toxic,insult,0,False,chơi bẩn quen rồi nên mặt dày thế,chơi bẩn quen rồi nên mặt_dày thế,chơi bẩn quen rồi nên mặt_dày thế
+"Âm thanh nhỏ quá, tăng lên nha",neutral,suggestion,1,False,"âm thanh nhỏ quá, tăng lên nha","âm_thanh nhỏ quá , tăng lên nha","âm_thanh nhỏ quá , tăng lên nha"
+Càng xem càng bực mình,toxic,insult,0,False,càng xem càng bực mình,càng xem càng bực_mình,càng xem càng bực_mình
+Cryptic comments only,neutral,instruction,1,False,cryptic comments only,cryptic comments only,cryptic comments only
+"không thích thì đừng mua, đơn giản",positive,agreement,2,False,"không thích thì đừng mua, đơn giản","không thích thì đừng mua , đơn_giản","không thích thì đừng mua , đơn_giản"
+cơ bắp vậy chắc bệnh nhân không dám than đau,positive,appearance,2,False,cơ bắp vậy chắc bệnh nhân không dám than đau,cơ_bắp vậy chắc bệnh_nhân không dám than đau,cơ_bắp vậy chắc bệnh_nhân không dám than đau
+duong xuong cap nhung chua sua,negative,criticism,0,False,duong xuong cap nhung chua sua,duong xuong cap nhung chua sua,duong xuong cap nhung chua sua
+Cười hở lợi xấu dã man,toxic,bodyshaming,0,False,cười hở lợi xấu dã man,cười hở lợi xấu dã_man,cười hở lợi xấu dã_man
+"Hok sao, b cứ post típ!",neutral,dismissal,1,True,"không sao, b cứ post típ!","không sao , b cứ post típ !","hok sao , b cứ post típ !"
+Bạn có thể gửi link sản phẩm không?,neutral,question,1,False,bạn có thể gửi link sản phẩm không?,bạn có_thể gửi link sản_phẩm không ?,bạn có_thể gửi link sản_phẩm không ?
+sugar daddy,negative,financial_relationship,0,False,sugar daddy,sugar daddy,sugar daddy
+xe cho hang roi rac xuong duong,negative,criticism,0,False,xe cho hang roi rac xuong duong,xe cho hang roi rac xuong duong,xe cho hang roi rac xuong duong
+vô viện mà như đi casting idol vậy trời,positive,hilarious,2,False,vô viện mà như đi casting idol vậy trời,vô viện mà như đi casting idol_vậy trời,vô viện mà như đi casting idol_vậy trời
+cap này là nghệ thuật gài hàng,positive,cleverness,2,False,cap này là nghệ thuật gài hàng,cap này là nghệ_thuật gài hàng,cap này là nghệ_thuật gài hàng
+Tears! Nước mắt,positive,emotional,2,False,tears! nước mắt,tears ! nước_mắt,tears ! nước_mắt
+Giải thích thêm chút nha bạn,neutral,question,1,False,giải thích thêm chút nha bạn,giải_thích thêm chút nha bạn,giải_thích thêm chút nha bạn
+di chuyen ca tieng chi 3km,negative,complaint,0,False,di chuyen ca tieng chi 3km,di_chuyen ca tieng chi 3km,di_chuyen ca tieng chi 3km
+Chưa đủ ấn tượng để follow,negative,disappointment,0,False,chưa đủ ấn tượng để follow,chưa đủ ấn_tượng để follow,chưa đủ ấn_tượng để follow
+Bài viết gây tranh cãi quá,negative,controversial,0,False,bài viết gây tranh cãi quá,bài viết gây tranh_cãi quá,bài viết gây tranh_cãi quá
+Loại này tốt nhất nên im lặng,toxic,insult,0,False,loại này tốt nhất nên im lặng,loại này tốt nhất nên im_lặng,loại này tốt nhất nên im_lặng
+video nay thuoc chu de gi vay?,neutral,question,1,False,video nay thuoc chu de gi vay?,video nay thuoc chu de gi vay ?,video nay thuoc chu de gi vay ?
+Tôi không hài lòng với sản phẩm này,negative,disappointment,0,False,tôi không hài lòng với sản phẩm này,tôi không hài_lòng với sản_phẩm này,tôi không hài_lòng với sản_phẩm này
+Anh Huy làm clip cơm quê cười đau bụng 😄,positive,humor,2,False,anh huy làm clip cơm quê cười đau bụng 😄,anh huy làm clip cơm quê cười đau bụng 😄,anh huy làm clip cơm quê cười đau bụng 😄
+Mày bị gì mà post mấy cái nì?,toxic,aggressive,0,False,mày bị gì mà post mấy cái nì?,mày bị gì mà post mấy cái nì ?,mày bị gì mà post mấy cái nì ?
+"tui không chịu được nhiệt, bác sĩ đừng nhìn em nữa",positive,teasing,2,False,"tui không chịu được nhiệt, bác sĩ đừng nhìn em nữa","tui không chịu được nhiệt , bác_sĩ đừng nhìn em nữa","tui không chịu được nhiệt , bác_sĩ đừng nhìn em nữa"
+Trả lời tin nhắn như muốn đuổi khách,toxic,insult,0,False,trả lời tin nhắn như muốn đuổi khách,trả_lời tin nhắn như muốn đuổi khách,trả_lời tin nhắn như muốn đuổi khách
+nghe am thanh muot ghe,neutral,statement,1,False,nghe am thanh muot ghe,nghe am thanh muot ghe,nghe am thanh muot ghe
+Hệ thống chat game bất tiện,negative,criticism,0,False,hệ thống chat game bất tiện,hệ_thống chat game bất_tiện,hệ_thống chat game bất_tiện
+Nhìn như con gấu vụng về,toxic,bodyshaming,0,False,nhìn như con gấu vụng về,nhìn như con gấu vụng_về,nhìn như con gấu vụng_về
+Làm reaction kiểu này sớm muộn cũng flop,toxic,insult,0,False,làm reaction kiểu này sớm muộn cũng flop,làm reaction kiểu này sớm_muộn cũng flop,làm reaction kiểu này sớm_muộn cũng flop
+mỗi lần thấy clip có cap là tim lại đập thình thịch,positive,reaction,2,False,mỗi lần thấy clip có cap là tim lại đập thình thịch,mỗi lần thấy clip có cap là tim lại đập thình_thịch,mỗi lần thấy clip có cap là tim lại đập thình_thịch
+nên cẩn thận khi ăn quán theo trend nha mọi người,neutral,advice,1,False,nên cẩn thận khi ăn quán theo trend nha mọi người,nên cẩn_thận khi ăn quán theo trend nha mọi người,nên cẩn_thận khi ăn quán theo trend nha mọi người
+may co biet cai status do nhin nham ra sao khong?,toxic,insult,0,True,may co biết cai status do nhin nham ra sao khong?,may co biết cai status do nhin nham ra sao khong ?,may co biet cai status do nhin nham ra sao khong ?
+Bạn thấy hình ảnh sản phẩm sát thực tế không?,neutral,question,1,False,bạn thấy hình ảnh sản phẩm sát thực tế không?,bạn thấy hình_ảnh sản_phẩm sát thực_tế không ?,bạn thấy hình_ảnh sản_phẩm sát thực_tế không ?
+ủa giờ đi học hay đi fashion show vậy?,negative,sarcasm,0,False,ủa giờ đi học hay đi fashion show vậy?,ủa giờ đi học hay đi fashion show_vậy ?,ủa giờ đi học hay đi fashion show_vậy ?
+Chú bảo vệ tối nay chắc khó ngủ rồi 🤣,positive,appreciation,2,False,chú bảo vệ tối nay chắc khó ngủ rồi 🤣,chú bảo_vệ tối nay chắc khó ngủ rồi 🤣,chú bảo_vệ tối nay chắc khó ngủ rồi 🤣
+"Nội dung này thấy nhiều rồi, không mới",negative,criticism,0,False,"nội dung này thấy nhiều rồi, không mới","nội_dung này thấy nhiều rồi , không mới","nội_dung này thấy nhiều rồi , không mới"
+Hàng fake bán như hàng xịn,toxic,insult,0,False,hàng fake bán như hàng xịn,hàng fake bán như hàng xịn,hàng fake bán như hàng xịn
+Tag brand mà không được sponsor,toxic,insult,0,False,tag brand mà không được sponsor,tag brand mà không được sponsor,tag brand mà không được sponsor
+"Coi clip mà rưng rưng, thương quá trời",positive,neutral,2,False,"coi clip mà rưng rưng, thương quá trời","coi clip mà rưng_rưng , thương quá trời","coi clip mà rưng_rưng , thương quá trời"
+cai clip do ma may cung dam livestream tren fb a?,toxic,insult,0,True,cai clip do ma may cung dam livestream tren facebook a?,cai clip do ma may cung dam livestream tren facebook a ?,cai clip do ma may cung dam livestream tren fb a ?
+may nghi post cai do len fb la hay ho lam a?,toxic,insult,0,True,may nghi post cai do len facebook la hay ho lam a?,may nghi_post cai do len facebook la hay_ho lam a ?,may nghi_post cai do len fb la hay_ho lam a ?
+sao may dam khoe cai mat day mun do tren fb?,toxic,insult,0,False,sao may dam khoe cai mat day mun do tren fb?,sao may dam khoe cai mat day mun do tren fb ?,sao may dam khoe cai mat day mun do tren fb ?
+cai mat may nhin la biet khong co tuong lai roi!,toxic,insult,0,True,cai mat may nhin la biết khong co tuong lai roi!,cai mat may nhin la biết khong co tuong lai roi !,cai mat may nhin la biet khong co tuong lai roi !
+Tôi cũng định mua dòng này,neutral,statement,1,False,tôi cũng định mua dòng này,tôi cũng định mua dòng này,tôi cũng định mua dòng này
+mình thấy nên tôn trọng nhau hơn,positive,respect,2,False,mình thấy nên tôn trọng nhau hơn,mình thấy nên tôn_trọng nhau hơn,mình thấy nên tôn_trọng nhau hơn
+khách du lịch dễ bị dính quán này lắm nha,neutral,warning,1,False,khách du lịch dễ bị dính quán này lắm nha,khách du_lịch dễ bị dính quán này lắm nha,khách du_lịch dễ bị dính quán này lắm nha
+Mỗi người đều có câu chuyện riêng,positive,useful,2,False,mỗi người đều có câu chuyện riêng,mỗi người đều có câu_chuyện riêng,mỗi người đều có câu_chuyện riêng
+Bạn có thể nói rõ hơn không?,neutral,request,1,False,bạn có thể nói rõ hơn không?,bạn có_thể nói rõ hơn không ?,bạn có_thể nói rõ hơn không ?
+Bảo vệ lăng chắc đi nhậu nên ko thấy,negative,sarcasm,0,True,bảo vệ lăng chắc đi nhậu nên không thấy,bảo_vệ lăng chắc đi nhậu nên không thấy,bảo_vệ lăng chắc đi nhậu nên ko thấy
+may nghi may noi gi cung dung tren fb nay ha?,toxic,insult,0,True,may nghi may noi gi cung dung tren facebook nay ha?,may nghi may noi gi cung dung tren facebook nay ha ?,may nghi may noi gi cung dung tren fb nay ha ?
+Phốt ngày càng sáng tạo,toxic,insult,0,False,phốt ngày càng sáng tạo,phốt ngày_càng sáng_tạo,phốt ngày_càng sáng_tạo
+"Được thôi, cứ làm đi",neutral,acceptance,1,False,"được thôi, cứ làm đi","được thôi , cứ làm đi","được thôi , cứ làm đi"
+K có người trong ngân hàng tiếp tay thì bố hacker cũng chịu,positive,appreciation,2,True,không có người trong ngân hàng tiếp tay thì bố hacker cũng chịu,không có người trong ngân_hàng tiếp_tay thì bố hacker cũng chịu,k có người trong ngân_hàng tiếp_tay thì bố hacker cũng chịu
+do an ve mo ra thay bi do,negative,complaint,0,False,do an ve mo ra thay bi do,do an ve_mo ra thay bi do,do an ve_mo ra thay bi do
+Không có ý kiến gì,neutral,no_opinion,1,False,không có ý kiến gì,không có ý_kiến gì,không có ý_kiến gì
+bun bo khong co thit,negative,complaint,0,False,bun bo khong co thit,bun bo khong co thit,bun bo khong co thit
+cai chan may cong the ma cung tu tin livestream?,toxic,insult,0,False,cai chan may cong the ma cung tu tin livestream?,cai chan may cong the ma cung tu tin livestream ?,cai chan may cong the ma cung tu tin livestream ?
+Support mà chỉ biết ăn minion,toxic,insult,0,False,support mà chỉ biết ăn minion,support mà chỉ biết ăn minion,support mà chỉ biết ăn minion
+bias wrecker,positive,kpop_term,2,False,bias wrecker,bias wrecker,bias wrecker
+nhìn cái nấm đấm tay ổng kìa,neutral,observation,1,False,nhìn cái nấm đấm tay ổng kìa,nhìn cái nấm đấm tay ổng kìa,nhìn cái nấm đấm tay ổng kìa
+Mũi tẹt thế mà cũng thích chụp ảnh selfie,toxic,bodyshaming,0,False,mũi tẹt thế mà cũng thích chụp ảnh selfie,mũi tẹt thế_mà cũng thích chụp ảnh selfie,mũi tẹt thế_mà cũng thích chụp ảnh selfie
+Sản phẩm dễ trầy xước khi sử dụng,negative,criticism,0,False,sản phẩm dễ trầy xước khi sử dụng,sản_phẩm dễ trầy_xước khi sử_dụng,sản_phẩm dễ trầy_xước khi sử_dụng
+Streamer chỉ biết flexing suốt ngày,toxic,insult,0,False,streamer chỉ biết flexing suốt ngày,streamer chỉ biết flexing suốt ngày,streamer chỉ biết flexing suốt ngày
+Tears! Nước mắt,positive,emotional,2,False,tears! nước mắt,tears ! nước_mắt,tears ! nước_mắt
+nói giọng mà cười xỉu luôn,positive,humor,2,False,nói giọng mà cười xỉu luôn,nói giọng mà cười xỉu luôn,nói giọng mà cười xỉu luôn
+"Cần xử lý nghiêm, tâm thần ko phải cái cớ",negative,suggestion,0,True,"cần xử lý nghiêm, tâm thần không phải cái cớ","cần xử_lý nghiêm , tâm_thần không phải cái cớ","cần xử_lý nghiêm , tâm_thần ko phải cái cớ"
+Làm YouTube mà chẳng ra cái gì,toxic,insult,0,False,làm youtube mà chẳng ra cái gì,làm youtube mà chẳng ra cái gì,làm youtube mà chẳng ra cái gì
+"Khoe khoang nhiều quá, mệt!",negative,showing_off,0,False,"khoe khoang nhiều quá, mệt!","khoe_khoang nhiều quá , mệt !","khoe_khoang nhiều quá , mệt !"
+clip như liều thuốc bổ tinh thần,positive,therapeutic,2,False,clip như liều thuốc bổ tinh thần,clip như liều thuốc_bổ tinh_thần,clip như liều thuốc_bổ tinh_thần
+Không biết điều thì im giùm cái,toxic,insult,0,False,không biết điều thì im giùm cái,không biết_điều thì im giùm cái,không biết_điều thì im giùm cái
+xem xong thấy lớp mình buồn thật sự,negative,disappointment,0,False,xem xong thấy lớp mình buồn thật sự,xem xong thấy lớp mình buồn thật_sự,xem xong thấy lớp mình buồn thật_sự
+đọc cap mà ngại dùm luôn,positive,awkward,2,False,đọc cap mà ngại dùm luôn,đọc cap mà ngại dùm luôn,đọc cap mà ngại dùm luôn
+"Hài vl, chắc nghĩ mình là hoàng đế nên phá ngai",neutral,humor,1,False,"hài vl, chắc nghĩ mình là hoàng đế nên phá ngai","hài vl , chắc nghĩ mình là hoàng đế nên phá ngai","hài vl , chắc nghĩ mình là hoàng đế nên phá ngai"
+may co biet cai mat do nhin te the nao tren fb?,toxic,insult,0,True,may co biết cai mat do nhin te the nao tren fb?,may co biết cai mat do nhin te the nao tren fb ?,may co biet cai mat do nhin te the nao tren fb ?
+Người gì vai to như lực sĩ,toxic,bodyshaming,0,False,người gì vai to như lực sĩ,người gì vai to như lực_sĩ,người gì vai to như lực_sĩ
+Đặt size M giao size con kiến,toxic,insult,0,False,đặt size m giao size con kiến,đặt size m giao size con kiến,đặt size m giao size con kiến
+Troll hay đấy! Upvote liền,positive,humor,2,False,troll hay đấy! upvote liền,troll hay đấy ! upvote liền,troll hay đấy ! upvote liền
+"Đẻ lắm để làm gì, giờ chạy vạy khắp nơi khổ vl",negative,anger,0,True,"đẻ lắm để làm gì, giờ chạy vạy khắp nơi khổ vãi lồn","đẻ lắm để làm gì , giờ chạy_vạy khắp nơi khổ vãi lồn","đẻ lắm để làm gì , giờ chạy_vạy khắp nơi khổ vl"
+tag đúng người thì cap mới có tác dụng nha,neutral,instruction,1,False,tag đúng người thì cap mới có tác dụng nha,tag đúng người thì cap mới có tác_dụng nha,tag đúng người thì cap mới có tác_dụng nha
+video nay co dang o 4k khong?,neutral,question,1,False,video nay co dang o 4k khong?,video nay co dang o 4k khong ?,video nay co dang o 4k khong ?
+Ý tưởng hay nhưng thực hiện chưa tốt,negative,constructive_criticism,0,False,ý tưởng hay nhưng thực hiện chưa tốt,ý_tưởng hay nhưng thực_hiện chưa tốt,ý_tưởng hay nhưng thực_hiện chưa tốt
+Đừng cố gắng tỏ ra thông minh nữa,toxic,insult,0,False,đừng cố gắng tỏ ra thông minh nữa,đừng cố_gắng tỏ ra thông_minh nữa,đừng cố_gắng tỏ ra thông_minh nữa
+"Nhìn anh mà xót, thương quá",positive,neutral,2,False,"nhìn anh mà xót, thương quá","nhìn anh mà xót , thương quá","nhìn anh mà xót , thương quá"
+Quán này chắc bán cả bình nguyên vô tận 😆,neutral,humor,1,False,quán này chắc bán cả bình nguyên vô tận 😆,quán này chắc bán cả bình_nguyên vô_tận 😆,quán này chắc bán cả bình_nguyên vô_tận 😆
+Cười 1 cái cho nhẹ đầu nào 😄,positive,excitement,2,False,cười 1 cái cho nhẹ đầu nào 😄,cười 1 cái cho nhẹ đầu nào 😄,cười 1 cái cho nhẹ đầu nào 😄
+Càng nói càng thể hiện mình vô học,toxic,insult,0,False,càng nói càng thể hiện mình vô học,càng nói càng thể_hiện mình vô_học,càng nói càng thể_hiện mình vô_học
+ủa Jisoo hả?lúc đầu cười tưởng IU chứ,positive,surprise,2,True,ủa jisoo hả?lúc đầu cười tưởng yêu chứ,ủa jisoo hả ? lúc đầu cười tưởng yêu chứ,ủa jisoo hả ? lúc đầu cười tưởng iu chứ
+Chất lượng không tốt như quảng cáo,negative,disappointment,0,False,chất lượng không tốt như quảng cáo,chất_lượng không tốt như quảng_cáo,chất_lượng không tốt như quảng_cáo
+co am thanh nghe da ghe,neutral,statement,1,False,co am thanh nghe da ghe,co am thanh nghe da ghe,co am thanh nghe da ghe
+Content create như copy paste,toxic,insult,0,False,content create như copy paste,content create như copy paste,content create như copy paste
+Game này khó điều khiển quá,negative,criticism,0,False,game này khó điều khiển quá,game này khó điều_khiển quá,game này khó điều_khiển quá
+Body shaming người khác trong comment,toxic,insult,0,False,body shaming người khác trong comment,body shaming người khác trong comment,body shaming người khác trong comment
+Thấy cơm quê dượng bầu khịa anh Huy ở đâu vậy? 😄,neutral,question,1,False,thấy cơm quê dượng bầu khịa anh huy ở đâu vậy? 😄,thấy cơm quê dượng bầu khịa anh huy ở đâu_vậy ? 😄,thấy cơm quê dượng bầu khịa anh huy ở đâu_vậy ? 😄
+Không thích chế độ chơi mới,negative,criticism,0,False,không thích chế độ chơi mới,không thích chế_độ chơi mới,không thích chế_độ chơi mới
+Đầu to hơn cả người,toxic,bodyshaming,0,False,đầu to hơn cả người,đầu to hơn cả người,đầu to hơn cả người
+"Phá di sản thì phải phạt nặng, ko tha",negative,anger,0,True,"phá di sản thì phải phạt nặng, không tha","phá di_sản thì phải phạt nặng , không tha","phá di_sản thì phải phạt nặng , ko tha"
+Chị cute xỉu luôn á trời,positive,compliment,2,False,chị cute xỉu luôn á trời,chị cute xỉu luôn á trời,chị cute xỉu luôn á trời
+Cơm quê mà giá này chắc bán ở sao Kim 😅,negative,sarcasm,0,False,cơm quê mà giá này chắc bán ở sao kim 😅,cơm quê mà giá này chắc bán ở sao kim 😅,cơm quê mà giá này chắc bán ở sao kim 😅
+muốn lưu lại hết mấy đoạn thoại luôn á,positive,desire,2,False,muốn lưu lại hết mấy đoạn thoại luôn á,muốn lưu lại hết mấy đoạn thoại luôn á,muốn lưu lại hết mấy đoạn thoại luôn á
+Chặn thì tìm cách khác dùng thôi,positive,useful,2,False,chặn thì tìm cách khác dùng thôi,chặn thì tìm cách khác dùng thôi,chặn thì tìm cách khác dùng thôi
+"Vui vẻ, lịch sự, đáng yêu nữa",positive,compliment,2,False,"vui vẻ, lịch sự, đáng yêu nữa","vui_vẻ , lịch_sự , đáng yêu nữa","vui_vẻ , lịch_sự , đáng yêu nữa"
+"khi quay lại cuộc sống cũ, cảm giác rất lạ",positive,appreciation,2,False,"khi quay lại cuộc sống cũ, cảm giác rất lạ","khi quay lại cuộc_sống cũ , cảm_giác rất lạ","khi quay lại cuộc_sống cũ , cảm_giác rất lạ"
+Ai cũng cười vui vẻ là tốt rồi,positive,appreciation,2,False,ai cũng cười vui vẻ là tốt rồi,ai cũng cười vui_vẻ là tốt rồi,ai cũng cười vui_vẻ là tốt rồi
+duong bi ngap bien mat vach,negative,complaint,0,False,duong bi ngap bien mat vach,duong bi ngap bien mat vach,duong bi ngap bien mat vach
+"với tui vậy là ổn rồi, không ý kiến",positive,appreciation,2,False,"với tui vậy là ổn rồi, không ý kiến","với tui vậy là ổn rồi , không ý_kiến","với tui vậy là ổn rồi , không ý_kiến"
+Hàng tệ mà giá như hàng hiệu,toxic,insult,0,False,hàng tệ mà giá như hàng hiệu,hàng tệ mà giá_như hàng_hiệu,hàng tệ mà giá_như hàng_hiệu
+"Đội bảo vệ lăng làm ăn kiểu gì, đuổi việc hết đi",negative,anger,0,False,"đội bảo vệ lăng làm ăn kiểu gì, đuổi việc hết đi","đội bảo_vệ lăng làm_ăn kiểu gì , đuổi việc hết đi","đội bảo_vệ lăng làm_ăn kiểu gì , đuổi việc hết đi"
+Chưa cảm nhận được ưu điểm nổi bật,negative,criticism,0,False,chưa cảm nhận được ưu điểm nổi bật,chưa cảm_nhận được ưu_điểm nổi_bật,chưa cảm_nhận được ưu_điểm nổi_bật
+"Sáng tạo vãi, nội dung độc lạ luôn!",positive,creativity,2,False,"sáng tạo vãi, nội dung độc lạ luôn!","sáng_tạo vãi , nội_dung độc lạ luôn !","sáng_tạo vãi , nội_dung độc lạ luôn !"
+đúng là tiền vị trí chứ không phải tiền đồ ăn,negative,review,0,False,đúng là tiền vị trí chứ không phải tiền đồ ăn,đúng là tiền vị_trí chứ không phải tiền_đồ ăn,đúng là tiền vị_trí chứ không phải tiền_đồ ăn
+"Cũ kỹ, tui thấy nhàm chán",negative,overused,0,False,"cũ kỹ, tui thấy nhàm chán","cũ_kỹ , tui thấy nhàm_chán","cũ_kỹ , tui thấy nhàm_chán"
+Shop chỉ giỏi móc túi khách hàng,toxic,insult,0,False,shop chỉ giỏi móc túi khách hàng,shop chỉ giỏi móc_túi khách_hàng,shop chỉ giỏi móc_túi khách_hàng
+nghĩ sao trứng chiên bán 110k trời?,negative,disbelief,0,False,nghĩ sao trứng chiên bán 110k trời?,nghĩ sao trứng chiên bán 110k trời ?,nghĩ sao trứng chiên bán 110k trời ?
+Reaction video này đi,neutral,request,1,False,reaction video này đi,reaction video này đi,reaction video này đi
+"Tạm được, không tệ",neutral,mediocre,1,False,"tạm được, không tệ","tạm được , không tệ","tạm được , không tệ"
+Productivity has left the chat,negative,distraction,0,False,productivity has left the chat,productivity has left the_chat,productivity has left the_chat
+Chuyên đi ăn cắp content của người khác,toxic,insult,0,False,chuyên đi ăn cắp content của người khác,chuyên đi ăn_cắp content của người khác,chuyên đi ăn_cắp content của người khác
+Streamer này chỉ biết nói láo,toxic,insult,0,False,streamer này chỉ biết nói láo,streamer này chỉ biết nói_láo,streamer này chỉ biết nói_láo
+"còn miếng nào nữa hong, mai em lên ĐL coi saoo",positive,curiosity,2,False,"còn miếng nào nữa hong, mai em lên đl coi saoo","còn miếng nào nữa hong , mai em lên đl coi saoo","còn miếng nào nữa hong , mai em lên đl coi saoo"
+Người đâu mà trơ trẽn vậy,toxic,insult,0,False,người đâu mà trơ trẽn vậy,người đâu mà trơ_trẽn_vậy,người đâu mà trơ_trẽn_vậy
+may nghi khoe cai bung mo do la ngau lam a?,toxic,insult,0,False,may nghi khoe cai bung mo do la ngau lam a?,may nghi khoe cai bung mo do la ngau lam a ?,may nghi khoe cai bung mo do la ngau lam a ?
+clip nay co cat ghep khong vay?,neutral,question,1,False,clip nay co cat ghep khong vay?,clip nay co cat ghep khong vay ?,clip nay co cat ghep khong vay ?
+clip làm mình cười không ngớt,positive,entertainment,2,False,clip làm mình cười không ngớt,clip làm mình cười không ngớt,clip làm mình cười không ngớt
+Pro player wannabe mà bronze skill,toxic,insult,0,False,pro player wannabe mà bronze skill,pro player wannabe mà bronze skill,pro player wannabe mà bronze skill
+Chơi game mà backseat gaming từ chat,toxic,insult,0,False,chơi game mà backseat gaming từ chat,chơi game mà backseat gaming từ chat,chơi game mà backseat gaming từ chat
+tốt nhất là chuyển khoản xong xóa app luôn,positive,appreciation,2,False,tốt nhất là chuyển khoản xong xóa app luôn,tốt nhất là chuyển_khoản xong xóa_app luôn,tốt nhất là chuyển_khoản xong xóa_app luôn
+ăn xong thấy đáng đồng tiền luôn,positive,appreciation,2,False,ăn xong thấy đáng đồng tiền luôn,ăn xong thấy đáng đồng_tiền luôn,ăn xong thấy đáng đồng_tiền luôn
+"Hài hước ghê, phá ngai mà tỉnh như sáo",neutral,humor,1,False,"hài hước ghê, phá ngai mà tỉnh như sáo","hài_hước ghê , phá ngai mà tỉnh như sáo","hài_hước ghê , phá ngai mà tỉnh như sáo"
+Clip này nên lan tỏa nhiều hơn,positive,useful,2,False,clip này nên lan tỏa nhiều hơn,clip này nên lan_tỏa nhiều hơn,clip này nên lan_tỏa nhiều hơn
+"Phá di sản quốc gia mà ko bị gì, bất công vl",negative,anger,0,True,"phá di sản quốc gia mà không bị gì, bất công vãi lồn","phá di_sản quốc_gia mà không bị gì , bất_công vãi lồn","phá di_sản quốc_gia mà ko bị gì , bất_công vl"
+Fresh perspective! Góc nhìn mới,positive,innovative,2,False,fresh perspective! góc nhìn mới,fresh perspective ! góc nhìn mới,fresh perspective ! góc nhìn mới
+Bạn có thể gửi hóa đơn không?,neutral,request,1,False,bạn có thể gửi hóa đơn không?,bạn có_thể gửi hóa_đơn không ?,bạn có_thể gửi hóa_đơn không ?
+Chơi mãi mà không thấy tiến bộ,negative,disappointment,0,False,chơi mãi mà không thấy tiến bộ,chơi mãi mà không thấy tiến_bộ,chơi mãi mà không thấy tiến_bộ
+may co biet cai eo to nhu cai lu do xau the nao?,toxic,insult,0,True,may co biết cai eo to nhu cai lu do xau the nao?,may co biết cai eo to nhu cai lu do xau the nao ?,may co biet cai eo to nhu cai lu do xau the nao ?
+xe cuu thuong cung bi ket xe,negative,disappointment,0,False,xe cuu thuong cung bi ket xe,xe cuu thuong cung bi ket xe,xe cuu thuong cung bi ket xe
+Người ta làm vậy mới nể,positive,compliment,2,False,người ta làm vậy mới nể,người_ta làm vậy mới nể,người_ta làm vậy mới nể
+Xem xong chẳng nhớ gì,negative,disappointment,0,False,xem xong chẳng nhớ gì,xem xong chẳng nhớ gì,xem xong chẳng nhớ gì
+vô bệnh viện mà không muốn xuất viện,positive,teasing,2,False,vô bệnh viện mà không muốn xuất viện,vô bệnh_viện mà không muốn xuất_viện,vô bệnh_viện mà không muốn xuất_viện
+"Đúng kiểu sống ảo, không thật chút nào",toxic,insult,0,False,"đúng kiểu sống ảo, không thật chút nào","đúng kiểu sống ảo , không thật chút nào","đúng kiểu sống ảo , không thật chút nào"
+Cần thêm thông tin,neutral,request,1,False,cần thêm thông tin,cần thêm thông_tin,cần thêm thông_tin
+Bạn update phiên bản mới chưa?,neutral,question,1,False,bạn update phiên bản mới chưa?,bạn update phiên_bản mới chưa ?,bạn update phiên_bản mới chưa ?
+"Giao hàng sai, phải đợi đổi lại rất lâu",negative,complaint,0,False,"giao hàng sai, phải đợi đổi lại rất lâu","giao hàng sai , phải đợi đổi lại rất lâu","giao hàng sai , phải đợi đổi lại rất lâu"
+bác sĩ kiểu này chắc gây tai nạn vì quá cuốn hút,positive,humor,2,False,bác sĩ kiểu này chắc gây tai nạn vì quá cuốn hút,bác_sĩ kiểu này chắc gây tai_nạn vì quá cuốn_hút,bác_sĩ kiểu này chắc gây tai_nạn vì quá cuốn_hút
+All-in mà damage không đủ giết,toxic,insult,0,False,all-in mà damage không đủ giết,all - in mà damage không đủ giết,all - in mà damage không đủ giết
+Cơm quê mà giá như ở Dubai luôn 😭,negative,sarcasm,0,False,cơm quê mà giá như ở dubai luôn 😭,cơm quê mà giá_như ở dubai luôn 😭,cơm quê mà giá_như ở dubai luôn 😭
+Shop chỉ biết hút máu khách hàng,toxic,insult,0,False,shop chỉ biết hút máu khách hàng,shop chỉ biết hút máu khách_hàng,shop chỉ biết hút máu khách_hàng
+đi học mà tươm tất dữ,positive,compliment,2,False,đi học mà tươm tất dữ,đi học mà tươm_tất dữ,đi học mà tươm_tất dữ
+Chế độ bảo hành bao lâu vậy shop?,neutral,question,1,False,chế độ bảo hành bao lâu vậy shop?,chế_độ bảo_hành bao_lâu vậy shop ?,chế_độ bảo_hành bao_lâu vậy shop ?
+Bạn có thể tư vấn kỹ hơn không?,neutral,request,1,False,bạn có thể tư vấn kỹ hơn không?,bạn có_thể tư_vấn kỹ hơn không ?,bạn có_thể tư_vấn kỹ hơn không ?
+character development,positive,personal_growth,2,False,character development,character development,character development
+Video này có phụ đề không nhỉ?,neutral,question,1,False,video này có phụ đề không nhỉ?,video này có phụ_đề không nhỉ ?,video này có phụ_đề không nhỉ ?
+sao may cu post anh voi cai bung phinh do vay?,toxic,insult,0,False,sao may cu post anh voi cai bung phinh do vay?,sao may cu post anh voi cai bung phinh do vay ?,sao may cu post anh voi cai bung phinh do vay ?
+may nghi khoe cai eo to nhu thung do la dep a?,toxic,insult,0,False,may nghi khoe cai eo to nhu thung do la dep a?,may nghi khoe cai eo to nhu thung do la dep a ?,may nghi khoe cai eo to nhu thung do la dep a ?
+Sản phẩm đóng gói không chắc chắn,negative,complaint,0,False,sản phẩm đóng gói không chắc chắn,sản_phẩm đóng_gói không chắc_chắn,sản_phẩm đóng_gói không chắc_chắn
+tui muốn quay lại thời đi học quá,positive,appreciation,2,False,tui muốn quay lại thời đi học quá,tui muốn quay lại thời đi học quá,tui muốn quay lại thời đi học quá
+Game chơi nhanh nhàm chán quá,negative,disappointment,0,False,game chơi nhanh nhàm chán quá,game chơi nhanh nhàm_chán quá,game chơi nhanh nhàm_chán quá
+Im lặng để người khác đỡ khó chịu dùm,toxic,insult,0,False,im lặng để người khác đỡ khó chịu dùm,im_lặng để người khác đỡ khó_chịu dùm,im_lặng để người khác đỡ khó_chịu dùm
+chị này đã xinh mà còn tửng tửng sao á .chắc do ở Đà Lạt đó trời,positive,funny,2,False,chị này đã xinh mà còn tửng tửng sao á .chắc do ở đà lạt đó trời,chị này đã xinh mà còn tửng tửng sao á . chắc do ở đà lạt đó trời,chị này đã xinh mà còn tửng tửng sao á . chắc do ở đà lạt đó trời
+Chờ đoạn cao trào mà không có,negative,disappointment,0,False,chờ đoạn cao trào mà không có,chờ đoạn cao_trào mà không có,chờ đoạn cao_trào mà không có
+may nghi may la hotface ma di comment khap noi a?,toxic,insult,0,False,may nghi may la hotface ma di comment khap noi a?,may nghi may la hotface ma_di_comment khap noi a ?,may nghi may la hotface ma_di_comment khap noi a ?
+che thieu do,negative,complaint,0,False,che thieu do,che thieu do,che thieu do
+"Bình thường quá, không đặc sắc",negative,criticism,0,False,"bình thường quá, không đặc sắc","bình_thường quá , không đặc_sắc","bình_thường quá , không đặc_sắc"
+đây là lần đầu tôi thấy chấn thương mà thấy vui,positive,funny,2,False,đây là lần đầu tôi thấy chấn thương mà thấy vui,đây là lần đầu tôi thấy chấn_thương mà thấy vui,đây là lần đầu tôi thấy chấn_thương mà thấy vui
+Mua 1 lần chừa đến già luôn,toxic,insult,0,False,mua 1 lần chừa đến già luôn,mua 1 lần chừa đến già luôn,mua 1 lần chừa đến già luôn
+"Không có gì đặc biệt, bình thường thôi",negative,mediocre,0,False,"không có gì đặc biệt, bình thường thôi","không có gì đặc_biệt , bình_thường thôi","không có gì đặc_biệt , bình_thường thôi"
+Chỉ biết stream khi cần tiền,toxic,insult,0,False,chỉ biết stream khi cần tiền,chỉ biết stream khi cần tiền,chỉ biết stream khi cần tiền
+"Content tốt, presentation chưa ổn",negative,mixed_feedback,0,False,"content tốt, presentation chưa ổn","content tốt , presentation chưa ổn","content tốt , presentation chưa ổn"
+rofl khong chiu noi,positive,extremely_funny,2,False,rofl khong chiu noi,rofl khong chiu noi,rofl khong chiu noi
+may co biet cai chan map do nhin ghe ra sao?,toxic,insult,0,True,may co biết cai chan map do nhin ghe ra sao?,may co biết cai chan map do nhin ghe ra sao ?,may co biet cai chan map do nhin ghe ra sao ?
+"Cũng được, tui sẽ xem tiếp",neutral,acceptance,1,False,"cũng được, tui sẽ xem tiếp","cũng được , tui sẽ xem tiếp","cũng được , tui sẽ xem tiếp"
+"Đồng ý với bạn, quan điểm này chuẩn",positive,agreement,2,False,"đồng ý với bạn, quan điểm này chuẩn","đồng_ý với bạn , quan_điểm này chuẩn","đồng_ý với bạn , quan_điểm này chuẩn"
+Nội dung này đỉnh của chóp luôn!,positive,excellence,2,False,nội dung này đỉnh của chóp luôn!,nội_dung này đỉnh của chóp luôn !,nội_dung này đỉnh của chóp luôn !
+"mua ủng hộ là chính, ngon dở tính sau",positive,appreciation,2,False,"mua ủng hộ là chính, ngon dở tính sau","mua ủng_hộ là chính , ngon dở_tính sau","mua ủng_hộ là chính , ngon dở_tính sau"
+noi lung tung chang hieu gi,negative,criticism,0,False,noi lung tung chang hieu gi,noi lung_tung chang hieu gi,noi lung_tung chang hieu gi
+Priorities? I don't know her,negative,misplaced_priorities,0,False,priorities? i don't know her,priorities ? i don ' t know her,priorities ? i don ' t know her
+tag ny vô mà không thấy thả tim là hiểu rồi đó,negative,suspicion,0,True,tag người yêu vô mà không thấy thả tim là hiểu rồi đó,tag người_yêu vô mà không thấy thả tim là hiểu rồi đó,tag ny vô mà không thấy thả tim là hiểu rồi đó
+Vid nì đúng kiệt tác lun á!,positive,masterpiece,2,False,vid nì đúng kiệt tác lun á!,vid nì đúng kiệt_tác lun á !,vid nì đúng kiệt_tác lun á !
+Xem mà thất vọng thật sự,negative,disappointment,0,False,xem mà thất vọng thật sự,xem mà thất_vọng thật_sự,xem mà thất_vọng thật_sự
+Build item như người mới tập chơi,toxic,insult,0,False,build item như người mới tập chơi,build item như người mới tập chơi,build item như người mới tập chơi
+vật lí kiểu này chắc bệnh nhân không muốn khoẻ lại đâu,positive,humor,2,False,vật lí kiểu này chắc bệnh nhân không muốn khoẻ lại đâu,vật_lí kiểu này chắc bệnh_nhân không muốn khoẻ lại đâu,vật_lí kiểu này chắc bệnh_nhân không muốn khoẻ lại đâu
+Stream mà cứ như bán hàng online,toxic,insult,0,False,stream mà cứ như bán hàng online,stream mà cứ như bán hàng online,stream mà cứ như bán hàng online
+Follow nhiều mà follower ít,toxic,insult,0,False,follow nhiều mà follower ít,follow nhiều mà follower ít,follow nhiều mà follower ít
+Dượng bầu bị vắt cạn view rồi nè 😂,neutral,humor,1,False,dượng bầu bị vắt cạn view rồi nè 😂,dượng bầu bị vắt cạn view rồi nè 😂,dượng bầu bị vắt cạn view rồi nè 😂
+nghe mà nổi da gà luôn á,positive,emotion,2,False,nghe mà nổi da gà luôn á,nghe mà nổi da_gà luôn á,nghe mà nổi da_gà luôn á
+kết thúc bất ngờ thật,positive,surprise,2,False,kết thúc bất ngờ thật,kết_thúc bất_ngờ thật,kết_thúc bất_ngờ thật
+Animation cancel không biết,toxic,insult,0,False,animation cancel không biết,animation cancel không biết,animation cancel không biết
+Acting quá! Fake lắm,negative,fake,0,False,acting quá! fake lắm,acting quá ! fake lắm,acting quá ! fake lắm
+Có tiếng mà không có tâm,toxic,insult,0,False,có tiếng mà không có tâm,có tiếng mà không có tâm,có tiếng mà không có tâm
+có ai thấy món ăn ở đây hơi ít không?,negative,portion,0,False,có ai thấy món ăn ở đây hơi ít không?,có ai thấy món ăn_ở đây hơi ít không ?,có ai thấy món ăn_ở đây hơi ít không ?
+Xin thông tin hỗ trợ anh này nha,neutral,question,1,False,xin thông tin hỗ trợ anh này nha,xin thông_tin hỗ_trợ anh này nha,xin thông_tin hỗ_trợ anh này nha
+Đúng là người tốt việc tốt ❤️,positive,appreciation,2,False,đúng là người tốt việc tốt ❤️,đúng là người tốt việc tốt ❤ ️,đúng là người tốt việc tốt ❤ ️
+Giỡn quài bro,positive,appreciation,2,False,giỡn quài bro,giỡn quài bro,giỡn quài bro
+may lay dau ra tu tin de khoe cai body te the?,toxic,insult,0,False,may lay dau ra tu tin de khoe cai body te the?,may lay dau ra tu tin de khoe cai body te the ?,may lay dau ra tu tin de khoe cai body te the ?
+Chat toxic mà streamer encourage,toxic,insult,0,False,chat toxic mà streamer encourage,chat toxic mà streamer encourage,chat toxic mà streamer encourage
+Nhận hàng đúng thời gian,neutral,statement,1,False,nhận hàng đúng thời gian,nhận hàng đúng thời_gian,nhận hàng đúng thời_gian
+npc energy,negative,non_player_character,0,False,npc energy,npc energy,npc energy
+"Lúc đầu tưởng là thuê mặt bằng để bán, hoá ra bán mặt bằng",negative,humor,0,False,"lúc đầu tưởng là thuê mặt bằng để bán, hoá ra bán mặt bằng","lúc đầu tưởng là thuê mặt_bằng để bán , hoá_ra bán mặt_bằng","lúc đầu tưởng là thuê mặt_bằng để bán , hoá_ra bán mặt_bằng"
+Mấy kiểu này ra ngoài k dễ gặp đâu mà ở đây lại có hoài,positive,appreciation,2,True,mấy kiểu này ra ngoài không dễ gặp đâu mà ở đây lại có hoài,mấy kiểu này ra ngoài không dễ gặp đâu mà ở đây lại có hoài,mấy kiểu này ra ngoài k dễ gặp đâu mà ở đây lại có hoài
+Nghệ sĩ gì toàn phốt,toxic,insult,0,False,nghệ sĩ gì toàn phốt,nghệ_sĩ gì toàn phốt,nghệ_sĩ gì toàn phốt
+Chơi game như tàn tật vậy mà cũng dám stream,toxic,insult,0,False,chơi game như tàn tật vậy mà cũng dám stream,chơi game như tàn_tật vậy_mà cũng dám stream,chơi game như tàn_tật vậy_mà cũng dám stream
+"Thở sâu vô, đừng căng thẳng",neutral,calming,1,False,"thở sâu vô, đừng căng thẳng","thở sâu vô , đừng căng_thẳng","thở sâu vô , đừng căng_thẳng"
+Giỏi đóng kịch lắm rồi,toxic,insult,0,False,giỏi đóng kịch lắm rồi,giỏi đóng_kịch lắm rồi,giỏi đóng_kịch lắm rồi
+Thế mới thấy cần bảo mật kỹ,positive,useful,2,False,thế mới thấy cần bảo mật kỹ,thế mới thấy cần bảo_mật kỹ,thế mới thấy cần bảo_mật kỹ
+Shop chỉ quan tâm lúc thanh toán,toxic,insult,0,False,shop chỉ quan tâm lúc thanh toán,shop chỉ quan_tâm lúc thanh_toán,shop chỉ quan_tâm lúc thanh_toán
+Nội dung cứ như copy lại,negative,criticism,0,False,nội dung cứ như copy lại,nội_dung cứ như copy lại,nội_dung cứ như copy lại
+Ủa cái cap nghe quen quen nha,neutral,observation,1,False,ủa cái cap nghe quen quen nha,ủa cái cap nghe quen quen nha,ủa cái cap nghe quen quen nha
+Dượng bầu vắt view cơm quê tới cạn rồi 😂,neutral,humor,1,False,dượng bầu vắt view cơm quê tới cạn rồi 😂,dượng bầu vắt view cơm quê tới cạn rồi 😂,dượng bầu vắt view cơm quê tới cạn rồi 😂
+"mọi lần đọc cap không sao, lần này thấy lạ lắm nha",neutral,suspicion,1,False,"mọi lần đọc cap không sao, lần này thấy lạ lắm nha","mọi lần đọc cap không sao , lần này thấy lạ lắm nha","mọi lần đọc cap không sao , lần này thấy lạ lắm nha"
+Thích mấy nội dung nhẹ nhàng vậy,positive,appreciation,2,False,thích mấy nội dung nhẹ nhàng vậy,thích mấy nội_dung nhẹ_nhàng_vậy,thích mấy nội_dung nhẹ_nhàng_vậy
+Cryptic comments only,neutral,instruction,1,False,cryptic comments only,cryptic comments only,cryptic comments only
+Teamfight mà chạy trước,toxic,insult,0,False,teamfight mà chạy trước,teamfight mà chạy trước,teamfight mà chạy trước
+Người như mày nên biến mất khỏi internet,toxic,insult,0,False,người như mày nên biến mất khỏi internet,người như mày nên biến mất khỏi internet,người như mày nên biến mất khỏi internet
+một trong những clip đáng xem nhất hôm nay,positive,recommendation,2,False,một trong những clip đáng xem nhất hôm nay,một trong những clip đáng xem nhất hôm_nay,một trong những clip đáng xem nhất hôm_nay
+omg qua tuyet,positive,amazing,2,False,omg qua tuyet,omg qua tuyet,omg qua tuyet
+Giá tăng mà chất lượng không đổi,negative,criticism,0,False,giá tăng mà chất lượng không đổi,giá tăng mà chất_lượng không đổi,giá tăng mà chất_lượng không đổi
+Không còn hàng đúng mẫu tôi cần,negative,disappointment,0,False,không còn hàng đúng mẫu tôi cần,không còn hàng đúng mẫu tôi cần,không còn hàng đúng mẫu tôi cần
+"Nhìn anh đứng mà xót, thương",positive,neutral,2,False,"nhìn anh đứng mà xót, thương","nhìn anh đứng mà xót , thương","nhìn anh đứng mà xót , thương"
+Tùy bạn thôi,neutral,indifference,1,False,tùy bạn thôi,tùy bạn thôi,tùy bạn thôi
+đúng là giọng lồng có sức mạnh cảm xúc,positive,influence,2,False,đúng là giọng lồng có sức mạnh cảm xúc,đúng là giọng lồng có sức_mạnh cảm_xúc,đúng là giọng lồng có sức_mạnh cảm_xúc
+Nói như đúng rồi luôn,toxic,insult,0,False,nói như đúng rồi luôn,nói như đúng rồi luôn,nói như đúng rồi luôn
+Ảnh beach mà pose như tượng đài,toxic,insult,0,False,ảnh beach mà pose như tượng đài,ảnh beach mà pose như tượng_đài,ảnh beach mà pose như tượng_đài
+van con nguoi leo rao chan bang xe,negative,criticism,0,True,van con người leo rao chan bang xe,van con_người leo rao chan bang xe,van con nguoi leo rao chan bang xe
+Cliche! Sáo rỗng,negative,cliche,0,False,cliche! sáo rỗng,cliche ! sáo_rỗng,cliche ! sáo_rỗng
+cai livestream do ma may cung dam len fb a?,toxic,insult,0,True,cai livestream do ma may cung dam len facebook a?,cai livestream do ma may cung dam len facebook a ?,cai livestream do ma may cung dam len fb a ?
+Cười mà thấy răng như hàng rào,toxic,bodyshaming,0,False,cười mà thấy răng như hàng rào,cười mà thấy răng như hàng_rào,cười mà thấy răng như hàng_rào
+đừng chủ quan với bảo mật thông tin nha,positive,useful,2,False,đừng chủ quan với bảo mật thông tin nha,đừng chủ_quan với bảo_mật thông_tin nha,đừng chủ_quan với bảo_mật thông_tin nha
+totd,neutral,tip_of_day,1,False,totd,totd,totd
+sao may khong biet xau ho voi cai body do tren fb?,toxic,insult,0,True,sao may khong biết xau ho voi cai body do tren fb?,sao may khong biết xau ho voi cai body do tren fb ?,sao may khong biet xau ho voi cai body do tren fb ?
+nuoc ep toan da,negative,criticism,0,False,nuoc ep toan da,nuoc ep toan da,nuoc ep toan da
+xe uber do day duong,negative,criticism,0,False,xe uber do day duong,xe uber do day duong,xe uber do day duong
+Đi đâu cũng thấy bạn xấu nổi bật,toxic,bodyshaming,0,False,đi đâu cũng thấy bạn xấu nổi bật,đi đâu cũng thấy bạn xấu nổi_bật,đi đâu cũng thấy bạn xấu nổi_bật
+Không liên quan mà vẫn thích nhảy vào,toxic,insult,0,False,không liên quan mà vẫn thích nhảy vào,không liên_quan mà vẫn thích nhảy vào,không liên_quan mà vẫn thích nhảy vào
+Shop không có uy tín gì cả,toxic,insult,0,False,shop không có uy tín gì cả,shop không có uy_tín gì cả,shop không có uy_tín gì cả
+Chơi 5 năm mà vẫn như newbie,toxic,insult,0,False,chơi 5 năm mà vẫn như newbie,chơi 5 năm mà vẫn như newbie,chơi 5 năm mà vẫn như newbie
+sotd,neutral,scent_of_day,1,False,sotd,sotd,sotd
+xe di nguoc chieu chi de tiet 5s,negative,criticism,0,False,xe di nguoc chieu chi de tiet 5s,xe_di_nguoc chieu chi de tiet 5s,xe_di_nguoc chieu chi de tiet 5s
+Sản phẩm này có phụ kiện gì đi kèm?,neutral,question,1,False,sản phẩm này có phụ kiện gì đi kèm?,sản_phẩm này có phụ_kiện gì đi kèm ?,sản_phẩm này có phụ_kiện gì đi kèm ?
+Sản phẩm còn bảo hành không bạn?,neutral,question,1,False,sản phẩm còn bảo hành không bạn?,sản_phẩm còn bảo_hành không bạn ?,sản_phẩm còn bảo_hành không bạn ?
+may nghi post cai anh do len fb la ngau lam a?,toxic,insult,0,True,may nghi post cai anh do len facebook la ngau lam a?,may nghi_post cai anh do len facebook la ngau lam a ?,may nghi_post cai anh do len fb la ngau lam a ?
+vật lí trị liệu😭,neutral,topic,1,False,vật lí trị liệu😭,vật_lí trị_liệu 😭,vật_lí trị_liệu 😭
+clean girl,positive,minimal_makeup,2,False,clean girl,clean girl,clean girl
+Bạn quay bằng máy gì vậy?,neutral,question,1,False,bạn quay bằng máy gì vậy?,bạn quay bằng máy gì vậy ?,bạn quay bằng máy gì vậy ?
+Bạn update phần mềm mới chưa?,neutral,question,1,False,bạn update phần mềm mới chưa?,bạn update phần_mềm mới chưa ?,bạn update phần_mềm mới chưa ?
+Phản ứng đỉnh cao 👏,positive,compliment,2,False,phản ứng đỉnh cao 👏,phản_ứng đỉnh_cao 👏,phản_ứng đỉnh_cao 👏
+cau vuot da xuong cap,negative,criticism,0,False,cau vuot da xuong cap,cau vuot da xuong cap,cau vuot da xuong cap
+Bán hàng mà không biết hàng gì,toxic,insult,0,False,bán hàng mà không biết hàng gì,bán hàng mà không biết hàng gì,bán hàng mà không biết hàng gì
+Bạn từng dùng sản phẩm nào cùng loại chưa?,neutral,question,1,False,bạn từng dùng sản phẩm nào cùng loại chưa?,bạn từng dùng sản_phẩm nào cùng loại chưa ?,bạn từng dùng sản_phẩm nào cùng loại chưa ?
+Flame support khi ADC positioning bad,toxic,insult,0,False,flame support khi adc positioning bad,flame support khi adc positioning bad,flame support khi adc positioning bad
+Cho xin thông tin hỗ trợ anh này với,neutral,question,1,False,cho xin thông tin hỗ trợ anh này với,cho xin thông_tin hỗ_trợ anh này với,cho xin thông_tin hỗ_trợ anh này với
+Mana management như không biết,toxic,insult,0,False,mana management như không biết,mana management như không biết,mana management như không biết
+Quan trọng là ai kiểm soát được?,positive,appreciation,2,False,quan trọng là ai kiểm soát được?,quan_trọng là ai kiểm_soát được ?,quan_trọng là ai kiểm_soát được ?
+"Dân mình giỏi lắm, kiểu gì cũng có cách",positive,appreciation,2,False,"dân mình giỏi lắm, kiểu gì cũng có cách","dân mình giỏi lắm , kiểu gì cũng có cách","dân mình giỏi lắm , kiểu gì cũng có cách"
+Sản phẩm nhận được thiếu tem mác,negative,complaint,0,False,sản phẩm nhận được thiếu tem mác,sản_phẩm nhận được thiếu tem mác,sản_phẩm nhận được thiếu tem mác
+"DM tui đi, tui rảnh nè!",neutral,contact,1,True,"địt mẹ tui đi, tui rảnh nè!","địt_mẹ tui đi , tui rảnh nè !","dm tui đi , tui rảnh nè !"
+Hơi buồn chán một chút,negative,boredom,0,False,hơi buồn chán một chút,hơi buồn chán một_chút,hơi buồn chán một_chút
+"Hint thôi, đừng nói rõ",neutral,request,1,False,"hint thôi, đừng nói rõ","hint thôi , đừng nói rõ","hint thôi , đừng nói rõ"
+"Đỉnh cao, không có gì để chê!",positive,perfection,2,False,"đỉnh cao, không có gì để chê!","đỉnh_cao , không có gì để chê !","đỉnh_cao , không có gì để chê !"
+nhìn vậy ai dám tới học chung,neutral,intimidation,1,False,nhìn vậy ai dám tới học chung,nhìn vậy ai dám tới học chung,nhìn vậy ai dám tới học chung
+Bán hàng như lừa đảo ấy,toxic,insult,0,False,bán hàng như lừa đảo ấy,bán hàng như lừa_đảo ấy,bán hàng như lừa_đảo ấy
+"Tâm thần sao biết phá ngai vàng, nghi ngờ lắm",toxic,sarcasm,0,False,"tâm thần sao biết phá ngai vàng, nghi ngờ lắm","tâm_thần sao biết phá ngai vàng , nghi_ngờ lắm","tâm_thần sao biết phá ngai vàng , nghi_ngờ lắm"
+Hình mẫu lý tưởng nè,positive,compliment,2,False,hình mẫu lý tưởng nè,hình_mẫu lý_tưởng nè,hình_mẫu lý_tưởng nè
+"Sáng tạo xĩu, lần đầu t thấy!",positive,originality,2,False,"sáng tạo xĩu, lần đầu t thấy!","sáng_tạo xĩu , lần đầu t thấy !","sáng_tạo xĩu , lần đầu t thấy !"
+Chỉ biết copy nội dung người khác,toxic,insult,0,False,chỉ biết copy nội dung người khác,chỉ biết copy nội_dung người khác,chỉ biết copy nội_dung người khác
+Pose như tượng đài vậy,toxic,insult,0,False,pose như tượng đài vậy,pose như tượng_đài_vậy,pose như tượng_đài_vậy
+te qua,negative,terrible,0,False,te qua,te qua,te qua
+Chơi game mà ping cao liên tục,negative,complaint,0,False,chơi game mà ping cao liên tục,chơi game mà ping cao liên_tục,chơi game mà ping cao liên_tục
+trước giờ toàn chủ quan thôi,positive,appreciation,2,False,trước giờ toàn chủ quan thôi,trước giờ toàn chủ_quan thôi,trước giờ toàn chủ_quan thôi
+sắp thi là hiện z 🥰,positive,appreciation,2,True,sắp thi là hiện vậy 🥰,sắp thi là hiện vậy 🥰,sắp thi là hiện z 🥰
+Hệ thống kỹ năng của nhân vật quá đơn giản,negative,criticism,0,False,hệ thống kỹ năng của nhân vật quá đơn giản,hệ_thống kỹ_năng của nhân_vật quá đơn_giản,hệ_thống kỹ_năng của nhân_vật quá đơn_giản
+Stream mà technical issues suốt ngày,toxic,insult,0,False,stream mà technical issues suốt ngày,stream mà technical issues suốt ngày,stream mà technical issues suốt ngày
+nguoi di bo khong co loi rieng,negative,criticism,0,True,người di bo khong co loi rieng,người di_bo khong co loi rieng,nguoi di_bo khong co loi rieng
+Tôi đồng tình với bạn 100%,positive,strong_agreement,2,False,tôi đồng tình với bạn 100%,tôi đồng_tình với bạn 100 %,tôi đồng_tình với bạn 100 %
+Đặt hàng online như đánh may rủi,toxic,insult,0,False,đặt hàng online như đánh may rủi,đặt_hàng online như đánh may_rủi,đặt_hàng online như đánh may_rủi
+xem roi xoa luon,negative,disappointment,0,False,xem roi xoa luon,xem roi xoa luon,xem roi xoa luon
+Bảo vệ như vậy mới đáng yêu chứ 😍,positive,compliment,2,False,bảo vệ như vậy mới đáng yêu chứ 😍,bảo_vệ như_vậy mới đáng yêu chứ 😍,bảo_vệ như_vậy mới đáng yêu chứ 😍
+"Phần mềm chạy chậm, hay treo máy",negative,criticism,0,False,"phần mềm chạy chậm, hay treo máy","phần_mềm chạy chậm , hay treo máy","phần_mềm chạy chậm , hay treo máy"
+"qua ngot, kho nuot",negative,criticism,0,False,"qua ngot, kho nuot","qua ngot , kho nuot","qua ngot , kho nuot"
+cap kiểu này mới khiến người ta nhớ,positive,sentimental,2,False,cap kiểu này mới khiến người ta nhớ,cap kiểu này mới khiến người_ta nhớ,cap kiểu này mới khiến người_ta nhớ
+Meeting lúc mấy giờ?,neutral,question,1,False,meeting lúc mấy giờ?,meeting lúc mấy giờ ?,meeting lúc mấy giờ ?
+Bạn có mã giảm giá không vậy?,neutral,question,1,False,bạn có mã giảm giá không vậy?,bạn có mã giảm_giá không vậy ?,bạn có mã giảm_giá không vậy ?
+coi mấy clip này làm tui cười muốn xỉu,positive,funny,2,False,coi mấy clip này làm tui cười muốn xỉu,coi mấy clip này làm tui cười muốn xỉu,coi mấy clip này làm tui cười muốn xỉu
+Không hỗ trợ thanh toán khi nhận hàng,negative,complaint,0,False,không hỗ trợ thanh toán khi nhận hàng,không hỗ_trợ thanh_toán khi nhận hàng,không hỗ_trợ thanh_toán khi nhận hàng
+e cũng đang ở đl nè chị,neutral,statement,1,True,em cũng đang ở đl nè chị,em cũng đang ở đl nè chị,e cũng đang ở đl nè chị
+Đúng là một làn gió mới trong ngành xây dựng,positive,appreciation,2,False,đúng là một làn gió mới trong ngành xây dựng,đúng là một làn gió mới trong ngành xây_dựng,đúng là một làn gió mới trong ngành xây_dựng
+Không hài lòng về quy trình đổi trả,negative,complaint,0,False,không hài lòng về quy trình đổi trả,không hài_lòng về quy_trình đổi trả,không hài_lòng về quy_trình đổi trả
+khong co cam bien den giao thong,negative,criticism,0,False,khong co cam bien den giao thong,khong co cam bien den giao thong,khong co cam bien den giao thong
+sao cái cap nó đúng lúc vậy ta,neutral,coincidence,1,False,sao cái cap nó đúng lúc vậy ta,sao cái cap nó đúng lúc vậy_ta,sao cái cap nó đúng lúc vậy_ta
+"Đã nghèo còn đẻ, đúng là chán",toxic,insult,0,False,"đã nghèo còn đẻ, đúng là chán","đã nghèo còn đẻ , đúng là chán","đã nghèo còn đẻ , đúng là chán"
+Làm người mà sống phí vậy bạn,toxic,insult,0,False,làm người mà sống phí vậy bạn,làm người mà sống phí vậy bạn,làm người mà sống phí vậy bạn
+Jungle không biết objective,toxic,insult,0,False,jungle không biết objective,jungle không biết objective,jungle không biết objective
+"Như phim bom tấn, chất vãi!",positive,cinematic,2,False,"như phim bom tấn, chất vãi!","như phim bom tấn , chất vãi !","như phim bom tấn , chất vãi !"
+"Đẻ con ra khổ thế này, nghĩ sao nổi trời",negative,anger,0,False,"đẻ con ra khổ thế này, nghĩ sao nổi trời","đẻ con ra khổ thế này , nghĩ sao nổi trời","đẻ con ra khổ thế này , nghĩ sao nổi trời"
+Xây dựng vì cộng đồng thực sự,positive,appreciation,2,False,xây dựng vì cộng đồng thực sự,xây_dựng vì cộng_đồng thực_sự,xây_dựng vì cộng_đồng thực_sự
+dan ong chay xe nguy hiem hon ca phu nu,negative,criticism,0,False,dan ong chay xe nguy hiem hon ca phu nu,dan ong chay xe nguy hiem hon ca phu_nu,dan ong chay xe nguy hiem hon ca phu_nu
+Cái này truyền cảm hứng thật sự,positive,appreciation,2,False,cái này truyền cảm hứng thật sự,cái này truyền_cảm_hứng thật_sự,cái này truyền_cảm_hứng thật_sự
+Thật sự là một phần tuổi thơ tui đó mấy bà,positive,nostalgia,2,False,thật sự là một phần tuổi thơ tui đó mấy bà,thật_sự là một phần tuổi_thơ tui đó mấy bà,thật_sự là một phần tuổi_thơ tui đó mấy bà
+đẹp trai level này thì phát thuốc gì cũng uống,positive,trust,2,False,đẹp trai level này thì phát thuốc gì cũng uống,đẹp_trai level này thì phát thuốc gì cũng uống,đẹp_trai level này thì phát thuốc gì cũng uống
+Không thấy hào hứng gì cả,negative,disappointment,0,False,không thấy hào hứng gì cả,không thấy hào_hứng gì cả,không thấy hào_hứng gì cả
+Giỏi quá trời giỏi luôn á,positive,compliment,2,False,giỏi quá trời giỏi luôn á,giỏi quá trời giỏi luôn á,giỏi quá trời giỏi luôn á
+Xem vài giây là chán,negative,disappointment,0,False,xem vài giây là chán,xem vài giây là chán,xem vài giây là chán
+Rank fake chắc mua account,toxic,insult,0,False,rank fake chắc mua account,rank fake chắc mua account,rank fake chắc mua account
+"mình ăn rồi, cũng bình thường thôi, không có gì đặc biệt",neutral,experience,1,False,"mình ăn rồi, cũng bình thường thôi, không có gì đặc biệt","mình ăn rồi , cũng bình_thường thôi , không có gì đặc_biệt","mình ăn rồi , cũng bình_thường thôi , không có gì đặc_biệt"
+clip này như liều thuốc tinh thần,positive,supportive,2,False,clip này như liều thuốc tinh thần,clip này như liều thuốc tinh_thần,clip này như liều thuốc tinh_thần
+này là đi học hay đi làm người mẫu vậy :))),positive,compliment,2,False,này là đi học hay đi làm người mẫu vậy :))),này là đi học hay đi làm người_mẫu vậy : ) ) ),này là đi học hay đi làm người_mẫu vậy : ) ) )
+tra dao cu nhu the ky truoc,negative,criticism,0,False,tra dao cu nhu the ky truoc,tra dao cu nhu the ky truoc,tra dao cu nhu the ky truoc
+"mỗi vùng có cách sống riêng, không ai giống ai",positive,uniqueness,2,False,"mỗi vùng có cách sống riêng, không ai giống ai","mỗi vùng có cách sống riêng , không ai giống ai","mỗi vùng có cách sống riêng , không ai giống ai"
+Ate and left no crumbs,positive,perfect_performance,2,False,ate and left no crumbs,ate and left no crumbs,ate and left no crumbs
+Cấm app không giải quyết được gốc rễ vấn đề,positive,useful,2,False,cấm app không giải quyết được gốc rễ vấn đề,cấm app không giải_quyết được gốc_rễ vấn_đề,cấm app không giải_quyết được gốc_rễ vấn_đề
+ai quay khúc này đúng lúc ghê,positive,timing,2,False,ai quay khúc này đúng lúc ghê,ai quay khúc này đúng lúc ghê,ai quay khúc này đúng lúc ghê
+Đã xấu lại còn lên hình làm gì,toxic,insult,0,False,đã xấu lại còn lên hình làm gì,đã xấu lại còn lên hình làm gì,đã xấu lại còn lên hình làm gì
+edit loi wa troi,negative,criticism,0,True,edit loi quá troi,edit loi quá troi,edit loi wa troi
+lmao cuoi te,positive,hilarious,2,False,lmao cuoi te,lmao cuoi te,lmao cuoi te
+món ăn này hợp với giới showbiz hơn là dân thường,neutral,target\_audience,1,False,món ăn này hợp với giới showbiz hơn là dân thường,món ăn này hợp với giới showbiz hơn là dân_thường,món ăn này hợp với giới showbiz hơn là dân_thường
+One step at a time,neutral,guidance,1,True,one step at anh time,one step at anh time,one step at a time
+"Để t coi lại nha, hok chắc!",neutral,consideration,1,True,"để t coi lại nha, không chắc!","để t coi lại nha , không chắc !","để t coi lại nha , hok chắc !"
+"Sáng dậy tưởng mùa đông, hóa ra Hà Nội :))",neutral,humor,1,False,"sáng dậy tưởng mùa đông, hóa ra hà nội :))","sáng dậy tưởng mùa đông , hóa ra hà_nội : ) )","sáng dậy tưởng mùa đông , hóa ra hà_nội : ) )"
+cai status do nhin ma chi muon unfollow ngay!,toxic,insult,0,False,cai status do nhin ma chi muon unfollow ngay!,cai status do nhin ma chi muon unfollow ngay !,cai status do nhin ma chi muon unfollow ngay !
+"duong ho ga mo, nguy hiem",negative,criticism,0,False,"duong ho ga mo, nguy hiem","duong ho ga mo , nguy hiem","duong ho ga mo , nguy hiem"
+có mấy chỗ còn mắc hơn nhiều á trời,positive,appreciation,2,False,có mấy chỗ còn mắc hơn nhiều á trời,có mấy chỗ còn mắc hơn nhiều á trời,có mấy chỗ còn mắc hơn nhiều á trời
+Phạm pháp mới có ng dùng chứ ko phạm pháp ai thèm,positive,appreciation,2,True,phạm pháp mới có người dùng chứ không phạm pháp ai thèm,phạm_pháp mới có người dùng chứ không phạm_pháp ai thèm,phạm_pháp mới có ng dùng chứ ko phạm_pháp ai thèm
+Chơi game này quá mất thời gian,negative,criticism,0,False,chơi game này quá mất thời gian,chơi game này quá mất thời_gian,chơi game này quá mất thời_gian
+Context là gì vậy?,neutral,question,1,False,context là gì vậy?,context là gì vậy ?,context là gì vậy ?
+"Cần thêm info về phần này, bạn ơi",neutral,request,1,False,"cần thêm info về phần này, bạn ơi","cần thêm info về phần này , bạn ơi","cần thêm info về phần này , bạn ơi"
+chua thuyet phuc lam,negative,skepticism,0,False,chua thuyet phuc lam,chua thuyet phuc lam,chua thuyet phuc lam
+giọng nam mà lồng Doraemon là đỉnh cao rồi,positive,admiration,2,False,giọng nam mà lồng doraemon là đỉnh cao rồi,giọng nam mà lồng doraemon là đỉnh_cao rồi,giọng nam mà lồng doraemon là đỉnh_cao rồi
+Phong cách bạn tui mê xỉu!,positive,appreciation,2,False,phong cách bạn tui mê xỉu!,phong_cách bạn tui mê xỉu !,phong_cách bạn tui mê xỉu !
+Mặt như cái mâm mà cũng làm beauty blogger,toxic,bodyshaming,0,False,mặt như cái mâm mà cũng làm beauty blogger,mặt như cái mâm mà cũng làm beauty blogger,mặt như cái mâm mà cũng làm beauty blogger
+vocal queen,positive,singing_praise,2,False,vocal queen,vocal queen,vocal queen
+Bạn là idol của tôi,positive,admiration,2,False,bạn là idol của tôi,bạn là idol của tôi,bạn là idol của tôi
+Quay clip mà rung quá trời,negative,criticism,0,False,quay clip mà rung quá trời,quay clip mà rung quá trời,quay clip mà rung quá trời
+Không thích cơ chế thăng cấp mới,negative,criticism,0,False,không thích cơ chế thăng cấp mới,không thích cơ_chế thăng cấp mới,không thích cơ_chế thăng cấp mới
+bạn bè kiểu này thì đi học không bao giờ chán,positive,companionship,2,False,bạn bè kiểu này thì đi học không bao giờ chán,bạn_bè kiểu này thì đi học không bao_giờ chán,bạn_bè kiểu này thì đi học không bao_giờ chán
+"noi roi, van ko hay",negative,criticism,0,True,"noi roi, van không hay","noi roi , van không hay","noi roi , van ko hay"
+ban quay bang may gi ma net the?,neutral,question,1,False,ban quay bang may gi ma net the?,ban quay bang may gi ma net the ?,ban quay bang may gi ma net the ?
+Loại này chắc bố mẹ thất vọng lắm,toxic,insult,0,False,loại này chắc bố mẹ thất vọng lắm,loại này chắc bố_mẹ thất_vọng lắm,loại này chắc bố_mẹ thất_vọng lắm
+Video không chạy,neutral,technical_issue,1,False,video không chạy,video không chạy,video không chạy
+xem may lan ma van chang thay thu vi,negative,disappointment,0,False,xem may lan ma van chang thay thu vi,xem may lan ma van chang thay thu_vi,xem may lan ma van chang thay thu_vi
+Vừa cười vừa cảm động luôn á trời,positive,appreciation,2,False,vừa cười vừa cảm động luôn á trời,vừa cười vừa cảm_động luôn á trời,vừa cười vừa cảm_động luôn á trời
+Bạn đã update phiên bản mới nhất chưa?,neutral,question,1,False,bạn đã update phiên bản mới nhất chưa?,bạn đã update phiên_bản mới nhất chưa ?,bạn đã update phiên_bản mới nhất chưa ?
+may nghi post cai do len fb la ngau lam a?,toxic,insult,0,True,may nghi post cai do len facebook la ngau lam a?,may nghi_post cai do len facebook la ngau lam a ?,may nghi_post cai do len fb la ngau lam a ?
+Didn't see that coming,positive,surprise,2,False,didn't see that coming,didn ' t see that coming,didn ' t see that coming
+"Yêu bạn nhiều, nội dung đỉnh quá!",positive,admiration,2,False,"yêu bạn nhiều, nội dung đỉnh quá!","yêu bạn nhiều , nội_dung đỉnh quá !","yêu bạn nhiều , nội_dung đỉnh quá !"
+Bài hát ko biến mùa hạ thành đông là bài gì?,neutral,question,1,True,bài hát không biến mùa hạ thành đông là bài gì?,bài hát không biến mùa hạ thành đông là bài gì ?,bài hát ko biến mùa hạ thành đông là bài gì ?
+xe bon nuoc di bat thuong,negative,criticism,0,False,xe bon nuoc di bat thuong,xe bon nuoc di_bat thuong,xe bon nuoc di_bat thuong
+Post motivation mà bản thân lazy,toxic,insult,0,False,post motivation mà bản thân lazy,post motivation mà bản_thân lazy,post motivation mà bản_thân lazy
+dc roi,neutral,acceptance,1,True,được roi,được roi,dc roi
+Nội dung vậy mà cũng bị chặn thì chịu,positive,appreciation,2,False,nội dung vậy mà cũng bị chặn thì chịu,nội_dung vậy_mà cũng bị chặn thì chịu,nội_dung vậy_mà cũng bị chặn thì chịu
+may co biet cai body do nhin te ra sao tren fb?,toxic,insult,0,True,may co biết cai body do nhin te ra sao tren fb?,may co biết cai body do nhin te ra sao tren fb ?,may co biet cai body do nhin te ra sao tren fb ?
+thật sự cảm ơn người tạo ra clip này,positive,gratitude,2,False,thật sự cảm ơn người tạo ra clip này,thật_sự cảm_ơn người tạo ra clip này,thật_sự cảm_ơn người tạo ra clip này
+Happy birthday! Chúc bạn luôn vui vẻ,positive,celebration,2,False,happy birthday! chúc bạn luôn vui vẻ,happy birthday ! chúc bạn luôn vui_vẻ,happy birthday ! chúc bạn luôn vui_vẻ
+cai style an mac do ma may cung dam len fb a?,toxic,insult,0,True,cai style an mac do ma may cung dam len facebook a?,cai style an mac do ma may cung dam len facebook a ?,cai style an mac do ma may cung dam len fb a ?
+Để tui suy nghĩ thêm chút,neutral,consideration,1,False,để tui suy nghĩ thêm chút,để tui suy_nghĩ thêm chút,để tui suy_nghĩ thêm chút
+"Cười hở hết cả lợi, nhìn phát ngán",toxic,bodyshaming,0,False,"cười hở hết cả lợi, nhìn phát ngán","cười hở hết cả lợi , nhìn phát ngán","cười hở hết cả lợi , nhìn phát ngán"
+Đặt hàng online nhận được đồ bãi,toxic,insult,0,False,đặt hàng online nhận được đồ bãi,đặt_hàng online nhận được đồ bãi,đặt_hàng online nhận được đồ bãi
+Hàng lởm mà bán giá trên trời,toxic,insult,0,False,hàng lởm mà bán giá trên trời,hàng lởm mà bán giá trên trời,hàng lởm mà bán giá trên trời
+cap không sai nhưng làm người ta phải suy nghĩ lại,positive,thoughtful,2,False,cap không sai nhưng làm người ta phải suy nghĩ lại,cap không sai nhưng làm người_ta phải suy_nghĩ_lại,cap không sai nhưng làm người_ta phải suy_nghĩ_lại
+tới công chuyện luôn rồi,positive,excitement,2,False,tới công chuyện luôn rồi,tới công_chuyện luôn rồi,tới công_chuyện luôn rồi
+"Chúc mừng bạn ra clip mới, đỉnh lắm!",positive,celebration,2,False,"chúc mừng bạn ra clip mới, đỉnh lắm!","chúc_mừng bạn ra clip mới , đỉnh lắm !","chúc_mừng bạn ra clip mới , đỉnh lắm !"
+lại bắt đầu khịa vùng miền rồi đó nha,negative,provocative,0,False,lại bắt đầu khịa vùng miền rồi đó nha,lại bắt_đầu khịa vùng miền rồi đó nha,lại bắt_đầu khịa vùng miền rồi đó nha
+Không thích cơ chế chiến đấu hiện tại,negative,criticism,0,False,không thích cơ chế chiến đấu hiện tại,không thích cơ_chế chiến_đấu hiện_tại,không thích cơ_chế chiến_đấu hiện_tại
+Video xem hơi chán,negative,criticism,0,False,video xem hơi chán,video xem hơi chán,video xem hơi chán
+"Quên áo khoác, đi đường lạnh muốn xỉu",negative,neutral,0,False,"quên áo khoác, đi đường lạnh muốn xỉu","quên áo_khoác , đi đường lạnh muốn xỉu","quên áo_khoác , đi đường lạnh muốn xỉu"
+Tui không thấy gì ngoài sự dễ thương luôn 😄,positive,compliment,2,False,tui không thấy gì ngoài sự dễ thương luôn 😄,tui không thấy gì ngoài sự dễ_thương luôn 😄,tui không thấy gì ngoài sự dễ_thương luôn 😄
+Slayed! Hủy diệt,positive,dominance,2,False,slayed! hủy diệt,slayed ! hủy_diệt,slayed ! hủy_diệt
+coi mà thấy quen ghê vì từng bị hỏi giống vậy,neutral,relatable,1,False,coi mà thấy quen ghê vì từng bị hỏi giống vậy,coi mà thấy quen ghê vì từng bị hỏi giống_vậy,coi mà thấy quen ghê vì từng bị hỏi giống_vậy
+Ve chắc nghĩ: hè này nghỉ việc :))),toxic,sarcasm,0,False,ve chắc nghĩ: hè này nghỉ việc :))),ve_chắc nghĩ : hè này nghỉ_việc : ) ) ),ve_chắc nghĩ : hè này nghỉ_việc : ) ) )
+ship cham 1 tieng,negative,complaint,0,False,ship cham 1 tieng,ship cham 1 tieng,ship cham 1 tieng
+quay dau ngay giua duong,negative,criticism,0,False,quay dau ngay giua duong,quay dau ngay giua duong,quay dau ngay giua duong
+"Mày làm nội dung gì dở thế, vcl!",toxic,insult,0,False,"mày làm nội dung gì dở thế, vcl!","mày làm nội_dung gì dở_thế , vcl !","mày làm nội_dung gì dở_thế , vcl !"
+Lên mạng kể khổ để câu thương hại à?,toxic,insult,0,False,lên mạng kể khổ để câu thương hại à?,lên mạng kể khổ để câu thương_hại à ?,lên mạng kể khổ để câu thương_hại à ?
+cai body do ma may cung dam livestream tren fb?,toxic,insult,0,False,cai body do ma may cung dam livestream tren fb?,cai body do ma may cung dam livestream tren fb ?,cai body do ma may cung dam livestream tren fb ?
+bắt khoảnh khắc đỉnh thật sự,positive,spot\_on,2,False,bắt khoảnh khắc đỉnh thật sự,bắt khoảnh_khắc đỉnh thật_sự,bắt khoảnh_khắc đỉnh thật_sự
+"Đm, tốn thời gian xem cái này",toxic,vulgar,0,False,"đm, tốn thời gian xem cái này","đm , tốn thời_gian xem cái này","đm , tốn thời_gian xem cái này"
+Thấy hơi thất vọng,negative,disappointment,0,False,thấy hơi thất vọng,thấy hơi thất_vọng,thấy hơi thất_vọng
+"Cuộc sống khó khăn thế này, ai giúp được thì giúp anh ý",neutral,suggestion,1,False,"cuộc sống khó khăn thế này, ai giúp được thì giúp anh ý","cuộc_sống khó_khăn thế này , ai giúp được thì giúp anh ý","cuộc_sống khó_khăn thế này , ai giúp được thì giúp anh ý"
+"Cũ kỹ quá, tui thấy nhàm",negative,overused,0,False,"cũ kỹ quá, tui thấy nhàm","cũ_kỹ quá , tui thấy nhàm","cũ_kỹ quá , tui thấy nhàm"
+Out of touch! Không realistic,negative,unrealistic,0,False,out of touch! không realistic,out of touch ! không realistic,out of touch ! không realistic
+clip nay up khi nao vay?,neutral,question,1,False,clip nay up khi nao vay?,clip nay up khi nao vay ?,clip nay up khi nao vay ?
+Can't look away,positive,captivating,2,False,can't look away,can ' t look away,can ' t look away
+Adorable! Tim tôi tan chảy,positive,cute,2,False,adorable! tim tôi tan chảy,adorable ! tim tôi tan chảy,adorable ! tim tôi tan chảy
+positive energy,positive,good_feelings,2,False,positive energy,positive energy,positive energy
+mỗi lần buồn tui lại mở Doraemon coi,positive,comfort,2,False,mỗi lần buồn tui lại mở doraemon coi,mỗi lần buồn tui lại mở doraemon coi,mỗi lần buồn tui lại mở doraemon coi
+Không xem nổi hết clip,negative,disappointment,0,False,không xem nổi hết clip,không xem nổi hết clip,không xem nổi hết clip
+Quán dưới đất mà giá trên mây 😭,negative,sarcasm,0,False,quán dưới đất mà giá trên mây 😭,quán dưới đất mà giá trên mây_😭,quán dưới đất mà giá trên mây_😭
+duong qua nho cho luu luong nay,negative,criticism,0,False,duong qua nho cho luu luong nay,duong qua nho cho luu luong nay,duong qua nho cho luu luong nay
+ko co dau tu gi het,negative,criticism,0,True,không co dau tu gi het,không co dau tu gi het,ko co dau tu gi het
+"Đừng giả tạo nữa, mệt lắm rồi",toxic,insult,0,False,"đừng giả tạo nữa, mệt lắm rồi","đừng giả_tạo nữa , mệt lắm rồi","đừng giả_tạo nữa , mệt lắm rồi"
+Tui là tui cho 100 điểm luôn,positive,congratulation,2,False,tui là tui cho 100 điểm luôn,tui là tui cho 100 điểm luôn,tui là tui cho 100 điểm luôn
+Đóng gói như vứt vào bao rác,toxic,insult,0,False,đóng gói như vứt vào bao rác,đóng_gói như vứt vào bao rác,đóng_gói như vứt vào bao rác
+"Chúc bạn thi tốt, cố lên nha!",positive,encouragement,2,False,"chúc bạn thi tốt, cố lên nha!","chúc bạn thi tốt , cố lên nha !","chúc bạn thi tốt , cố lên nha !"
+"Có vẻ ổn, nhưng tui chưa chắc",neutral,uncertain,1,False,"có vẻ ổn, nhưng tui chưa chắc","có vẻ ổn , nhưng tui chưa chắc","có vẻ ổn , nhưng tui chưa chắc"
+Hàng về như rác thải công nghiệp,toxic,insult,0,False,hàng về như rác thải công nghiệp,hàng về như rác_thải công_nghiệp,hàng về như rác_thải công_nghiệp
+sao may dam post anh voi cai eo map do len fb?,toxic,insult,0,False,sao may dam post anh voi cai eo map do len fb?,sao may dam post anh voi cai eo map do len fb ?,sao may dam post anh voi cai eo map do len fb ?
+Có gì đó sai sai ở đây,negative,doubt,0,False,có gì đó sai sai ở đây,có gì đó sai sai ở đây,có gì đó sai sai ở đây
+vibe check,neutral,feeling_assessment,1,False,vibe check,vibe check,vibe check
+hỏi vui mà mấy bạn làm quá vậy,neutral,lighthearted,1,False,hỏi vui mà mấy bạn làm quá vậy,hỏi vui mà mấy bạn làm quá_vậy,hỏi vui mà mấy bạn làm quá_vậy
+Quán cơm quê này chắc nằm trên sao Hỏa 😆,neutral,humor,1,False,quán cơm quê này chắc nằm trên sao hỏa 😆,quán cơm quê này chắc nằm trên sao hỏa_😆,quán cơm quê này chắc nằm trên sao hỏa_😆
+soi nhanh dữ v,neutral,commentary,1,False,soi nhanh dữ v,soi nhanh dữ v,soi nhanh dữ v
+cai status do ma may cung dam viet len fb a?,toxic,insult,0,True,cai status do ma may cung dam viet len facebook a?,cai status do ma may cung dam viet len facebook a ?,cai status do ma may cung dam viet len fb a ?
+cảm xúc ùa về từng đợt luôn,positive,appreciation,2,False,cảm xúc ùa về từng đợt luôn,cảm_xúc ùa về từng đợt luôn,cảm_xúc ùa về từng đợt luôn
+Có ai biết chính xác thông tin này không?,neutral,question,1,False,có ai biết chính xác thông tin này không?,có ai biết chính_xác thông_tin này không ?,có ai biết chính_xác thông_tin này không ?
+có ai thấy nội dung hơi khó hiểu không?,neutral,clarification,1,False,có ai thấy nội dung hơi khó hiểu không?,có ai thấy nội_dung hơi khó hiểu không ?,có ai thấy nội_dung hơi khó hiểu không ?
+đừng để mấy câu đùa làm mất đoàn kết,positive,message,2,False,đừng để mấy câu đùa làm mất đoàn kết,đừng để mấy câu đùa làm mất đoàn_kết,đừng để mấy câu đùa làm mất đoàn_kết
+Easy😂,positive,appreciation,2,False,easy😂,easy 😂,easy 😂
+Không nhận được hướng dẫn sử dụng,negative,complaint,0,False,không nhận được hướng dẫn sử dụng,không nhận được hướng_dẫn sử_dụng,không nhận được hướng_dẫn sử_dụng
+Không nên đánh giá quá sớm,positive,useful,2,False,không nên đánh giá quá sớm,không nên đánh_giá quá sớm,không nên đánh_giá quá sớm
+Sản phẩm này làm gì được vậy?,neutral,question,1,False,sản phẩm này làm gì được vậy?,sản_phẩm này làm gì được vậy ?,sản_phẩm này làm gì được vậy ?
+"Sáng nay lạnh, tưởng đang ở mùa đông",neutral,neutral,1,False,"sáng nay lạnh, tưởng đang ở mùa đông","sáng nay lạnh , tưởng đang ở mùa đông","sáng nay lạnh , tưởng đang ở mùa đông"
+"Ve chắc shock, hè mà lạnh thế này :)))",toxic,sarcasm,0,False,"ve chắc shock, hè mà lạnh thế này :)))","ve chắc shock , hè mà lạnh thế này : ) ) )","ve chắc shock , hè mà lạnh thế này : ) ) )"
+sao may cu khoe cai voc dang lo xuong do tren fb?,toxic,insult,0,False,sao may cu khoe cai voc dang lo xuong do tren fb?,sao may cu khoe cai voc dang lo xuong do tren fb ?,sao may cu khoe cai voc dang lo xuong do tren fb ?
+me may,toxic,extreme_vulgar,0,False,me may,me may,me may
+"Trend này hot thật, bạn bắt kịp ghê",positive,trending,2,False,"trend này hot thật, bạn bắt kịp ghê","trend này hot thật , bạn bắt kịp ghê","trend này hot thật , bạn bắt kịp ghê"
+Không đầu tư nội dung lắm,negative,criticism,0,False,không đầu tư nội dung lắm,không đầu_tư nội_dung lắm,không đầu_tư nội_dung lắm
+Tissue box empty,positive,emotional_impact,2,False,tissue box empty,tissue box empty,tissue box empty
+Đừng để vài tình huống nhỏ mà đánh giá cả người,positive,useful,2,False,đừng để vài tình huống nhỏ mà đánh giá cả người,đừng để vài tình_huống nhỏ mà đánh_giá_cả người,đừng để vài tình_huống nhỏ mà đánh_giá_cả người
+Clip này quay bằng app gì vậy?,neutral,question,1,False,clip này quay bằng app gì vậy?,clip này quay bằng app gì vậy ?,clip này quay bằng app gì vậy ?
+Chúc mừng bạn ra mắt sản phẩm mới!,positive,celebration,2,False,chúc mừng bạn ra mắt sản phẩm mới!,chúc_mừng bạn ra_mắt sản_phẩm mới !,chúc_mừng bạn ra_mắt sản_phẩm mới !
+gold digger,negative,money_motivated,0,False,gold digger,gold digger,gold digger
+đọc xong cap cảm giác sai sai mà đúng đúng,positive,irony,2,False,đọc xong cap cảm giác sai sai mà đúng đúng,đọc xong cap cảm_giác sai sai mà đúng đúng,đọc xong cap cảm_giác sai sai mà đúng đúng
+Bài này có nhạc nền gì vậy mọi người?,neutral,question,1,False,bài này có nhạc nền gì vậy mọi người?,bài này có nhạc nền gì vậy mọi người ?,bài này có nhạc nền gì vậy mọi người ?
+Bị lỗi phần mềm khi cài đặt,negative,complaint,0,False,bị lỗi phần mềm khi cài đặt,bị lỗi phần_mềm khi cài_đặt,bị lỗi phần_mềm khi cài_đặt
+do an nay ban tu nau ha?,neutral,question,1,False,do an nay ban tu nau ha?,do an nay ban tu nau ha ?,do an nay ban tu nau ha ?
+Streamer ngu như heo mà cũng có fan,toxic,insult,0,False,streamer ngu như heo mà cũng có fan,streamer ngu như heo mà cũng có fan,streamer ngu như heo mà cũng có fan
+clip lam cho co thoi,negative,criticism,0,False,clip lam cho co thoi,clip lam cho co thoi,clip lam cho co thoi
+Bạn nói ra điều tôi nghĩ,positive,resonance,2,False,bạn nói ra điều tôi nghĩ,bạn nói ra_điều tôi nghĩ,bạn nói ra_điều tôi nghĩ
+Hạn chế kiểu này chỉ là tạm thời thôi,positive,appreciation,2,False,hạn chế kiểu này chỉ là tạm thời thôi,hạn_chế kiểu này chỉ là tạm_thời thôi,hạn_chế kiểu này chỉ là tạm_thời thôi
+"Thương ông này, chắc ko kiểm soát được hành vi",positive,neutral,2,True,"thương ông này, chắc không kiểm soát được hành vi","thương ông này , chắc không kiểm_soát được hành_vi","thương ông này , chắc ko kiểm_soát được hành_vi"
+cap chạm đúng chỗ ngứa luôn nha,positive,funny,2,False,cap chạm đúng chỗ ngứa luôn nha,cap chạm đúng chỗ ngứa luôn nha,cap chạm đúng chỗ ngứa luôn nha
+brain food,positive,intellectually_stimulating,2,False,brain food,brain food,brain food
+Like nếu thích,neutral,call_to_action,1,False,like nếu thích,like nếu thích,like nếu thích
+I'm not ready for spoilers,neutral,not_ready,1,False,i'm not ready for spoilers,i ' m not ready for spoilers,i ' m not ready for spoilers
+Bình thường thôi mà,neutral,mediocre,1,False,bình thường thôi mà,bình_thường thôi mà,bình_thường thôi mà
+Đồ họa nhìn lỗi thời rồi,negative,criticism,0,False,đồ họa nhìn lỗi thời rồi,đồ_họa nhìn lỗi_thời rồi,đồ_họa nhìn lỗi_thời rồi
+Nhạc nền là bài gì vậy?,neutral,question,1,False,nhạc nền là bài gì vậy?,nhạc nền là bài gì vậy ?,nhạc nền là bài gì vậy ?
+Có thể hỗ trợ mình không?,neutral,request,1,False,có thể hỗ trợ mình không?,có_thể hỗ_trợ mình không ?,có_thể hỗ_trợ mình không ?
+Sản phẩm dùng nhanh hỏng,negative,disappointment,0,False,sản phẩm dùng nhanh hỏng,sản_phẩm dùng nhanh hỏng,sản_phẩm dùng nhanh hỏng
+do an qua loang,negative,criticism,0,False,do an qua loang,do an qua loang,do an qua loang
+xe taxi chay lum xum,negative,criticism,0,False,xe taxi chay lum xum,xe taxi chay lum xum,xe taxi chay lum xum
+comment này hơi động chạm nha 😅,negative,trigger,0,False,comment này hơi động chạm nha 😅,comment này hơi động_chạm nha_😅,comment này hơi động_chạm nha_😅
+người Việt lồng giỏi thiệt chứ,positive,respect,2,False,người việt lồng giỏi thiệt chứ,người việt lồng giỏi thiệt chứ,người việt lồng giỏi thiệt chứ
+Stream mà attitude như ông chủ,toxic,insult,0,False,stream mà attitude như ông chủ,stream mà attitude như ông chủ,stream mà attitude như ông chủ
+Thái độ trả lời tin nhắn lạnh nhạt,negative,complaint,0,False,thái độ trả lời tin nhắn lạnh nhạt,thái_độ trả_lời tin nhắn lạnh_nhạt,thái_độ trả_lời tin nhắn lạnh_nhạt
+cảm ơn vì đã cho tui phút lặng trong ngày hôm nay,positive,gratitude,2,False,cảm ơn vì đã cho tui phút lặng trong ngày hôm nay,cảm_ơn vì đã cho tui phút lặng trong ngày hôm_nay,cảm_ơn vì đã cho tui phút lặng trong ngày hôm_nay
+Bạn đang dùng dòng điện thoại gì?,neutral,question,1,False,bạn đang dùng dòng điện thoại gì?,bạn đang dùng dòng điện_thoại gì ?,bạn đang dùng dòng điện_thoại gì ?
+Tai to mặt lớn như voi luôn,toxic,bodyshaming,0,False,tai to mặt lớn như voi luôn,tai to mặt lớn như voi luôn,tai to mặt lớn như voi luôn
+Nhân viên tư vấn như robot không não,toxic,insult,0,False,nhân viên tư vấn như robot không não,nhân_viên tư_vấn như robot không não,nhân_viên tư_vấn như robot không não
+đọc cái cap chân mày t nó skinship ln🥰,positive,funny,2,False,đọc cái cap chân mày t nó skinship ln🥰,đọc cái cap chân_mày t nó skinship ln 🥰,đọc cái cap chân_mày t nó skinship ln 🥰
+"Thà ở vậy còn hơn, đẻ con ra khổ cả nhà",negative,suggestion,0,False,"thà ở vậy còn hơn, đẻ con ra khổ cả nhà","thà ở_vậy còn hơn , đẻ con ra khổ cả nhà","thà ở_vậy còn hơn , đẻ con ra khổ cả nhà"
+Không load được hình,neutral,technical_issue,1,False,không load được hình,không load được hình,không load được hình
+"Cx bt, hok có gì hot!",neutral,mediocre,1,True,"cũng bt, không có gì hot!","cũng bt , không có gì hot !","cx bt , hok có gì hot !"
+đẹp trai quá đáng luôn,positive,compliment,2,False,đẹp trai quá đáng luôn,đẹp_trai quá_đáng luôn,đẹp_trai quá_đáng luôn
+Post ảnh success mà fail thật sự,toxic,insult,0,False,post ảnh success mà fail thật sự,post ảnh success mà fail thật_sự,post ảnh success mà fail thật_sự
+có ai muốn đổ bệnh không?,positive,teasing,2,False,có ai muốn đổ bệnh không?,có ai muốn đổ_bệnh không ?,có ai muốn đổ_bệnh không ?
+Tôi vừa mới đăng ký bảo hành,neutral,statement,1,False,tôi vừa mới đăng ký bảo hành,tôi vừa_mới đăng_ký bảo_hành,tôi vừa_mới đăng_ký bảo_hành
+Giao hàng sai địa chỉ,negative,complaint,0,False,giao hàng sai địa chỉ,giao hàng sai địa_chỉ,giao hàng sai địa_chỉ
