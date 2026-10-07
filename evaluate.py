@@ -32,7 +32,32 @@ def plot_label_distribution():
     plt.close()
     print("-> Da luu bieu do phan bo tai: evaluation_results/label_distribution.png\n")
 
-# 2. Đánh giá Macro F1, Confusion Matrix, Error Analysis
+# 2. Biểu đồ phân mảnh từ vựng (Subword Fragmentation)
+def plot_fragmentation_metric():
+    print("--- 2. Đang vẽ biểu đồ phân mảnh từ vựng ---")
+    categories = ['Truoc chuan hoa (Raw)', 'Sau chuan hoa (Normalized)']
+    subwords = [7421, 7092]
+    percentages = [17.38, 16.69]
+    
+    fig, ax1 = plt.subplots(figsize=(7, 5))
+    
+    # Vẽ biểu đồ cột cho số lượng Subword
+    bars = ax1.bar(categories, subwords, color=['#e74c3c', '#2ecc71'], width=0.4)
+    ax1.set_ylabel('So luong Subword bi phan manh', color='black')
+    ax1.set_ylim(6000, 8000)
+    
+    # Hiển thị số liệu chi tiết trên từng cột
+    for bar, sub, pct in zip(bars, subwords, percentages):
+        yval = bar.get_height()
+        ax1.text(bar.get_x() + bar.get_width()/2.0, yval + 50, f'{sub:,} subword\n({pct}%)', ha='center', va='bottom', fontweight='bold')
+        
+    plt.title('So sanh muc do phan manh Subword truoc va sau chuan hoa Teencode\n(Giam 4.43% - Khoi phuc 329 token)')
+    plt.tight_layout()
+    plt.savefig("evaluation_results/subword_fragmentation.png")
+    plt.close()
+    print("-> Da luu bieu do phan manh tai: evaluation_results/subword_fragmentation.png\n")
+
+# 3. Đánh giá Macro F1, Confusion Matrix, Error Analysis (Sẽ dùng khi Ní 2 gửi file dự đoán)
 def evaluate_predictions(pred_csv_path, output_prefix="baseline"):
     if not os.path.exists(pred_csv_path):
         print(f"Chua tim thay file {pred_csv_path}. Can Ni 2 (Hieu) xuat file du doan truoc!")
@@ -70,3 +95,4 @@ def evaluate_predictions(pred_csv_path, output_prefix="baseline"):
 
 if __name__ == "__main__":
     plot_label_distribution()
+    plot_fragmentation_metric()
