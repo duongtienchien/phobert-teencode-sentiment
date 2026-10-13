@@ -1,31 +1,50 @@
 import json
-from datasets import load_dataset
+import pandas as pd
 
-# 1. Tải tập dữ liệu từ Hugging Face
-print("Đang tải dữ liệu...")
-ds = load_dataset("vanhai123/vietnamese-social-comments")
-train_data = ds["train"]
+# 1. Doc du lieu train co san trong du an
+print("Dang doc du lieu train.csv...")
+train_data = pd.read_csv("train.csv", encoding="utf-8-sig")
 
-# 2. Đọc từ điển teencode
+# 2. Doc tu dien teencode
 with open("teencode_dict.json", "r", encoding="utf-8") as f:
     teencode_dict = json.load(f)
 
-# 3. Quét kiểm tra tỷ lệ teencode
+# Chuan hoa cac tu trong tu dien
+teencode_dict = {
+    str(key).lower(): value
+    for key, value in teencode_dict.items()
+}
+
+# 3. Quet kiem tra teencode
 count_with_teencode = 0
 total = len(train_data)
 teencode_found = set()
 
-for row in train_data:
-    words = set(str(row["comment"]).lower().split())
-    matched = [w for w in words if w in teencode_dict]
+for comment in train_data["comment"].fillna("").astype(str):
+    words = set(comment.lower().split())
+    matched = [word for word in words if word in teencode_dict]
+
     if matched:
         count_with_teencode += 1
         teencode_found.update(matched)
 
-# 4. Xuất kết quả thống kê
-print("-" * 40)
-print(f"Tổng số mẫu trong tập train: {total}")
-print(f"Số câu chứa teencode: {count_with_teencode} ({count_with_teencode / total * 100:.2f}%)")
-print(f"Số lượng từ teencode độc bản bắt gặp: {len(teencode_found)}")
-print(f"Một số teencode xuất hiện thực tế: {list(teencode_found)[:15]}")
-print("-" * 40)
+# 4. In ket qua
+print("-" * 45)
+print("KET QUA KIEM TRA TEENCODE")
+print("-" * 45)
+print(f"Tong so mau train: {total}")
+
+if total > 0:
+    rate = count_with_teencode / total * 100
+    print(f"So cau chua teencode: {count_with_teencode} ({rate:.2f}%)")
+else:
+    print("Tap train khong co du lieu.")
+
+print(f"So tu teencode khac nhau tim thay: {len(teencode_found)}")
+print("Mot so tu teencode tim thay:")
+
+for word in sorted(teencode_found)[:20]:
+    print(f"- {word} -> {teencode_dict[word]}")
+
+print("-" * 45)
+print("DA KIEM TRA XONG!")
