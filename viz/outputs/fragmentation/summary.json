@@ -1,0 +1,42 @@
+[
+  {
+    "tap": "Toàn bộ dữ liệu",
+    "phien_ban": "Gốc",
+    "so_cau": 4478,
+    "so_tu": 31745,
+    "so_subword": 35314,
+    "ty_le_tu_oov_pct": 9.255,
+    "subword_moi_tu": 1.1124,
+    "ty_le_token_@@_pct": 10.1065
+  },
+  {
+    "tap": "Toàn bộ dữ liệu",
+    "phien_ban": "Chuẩn hóa",
+    "so_cau": 4478,
+    "so_tu": 31831,
+    "so_subword": 34914,
+    "ty_le_tu_oov_pct": 7.9105,
+    "subword_moi_tu": 1.0969,
+    "ty_le_token_@@_pct": 8.8303
+  },
+  {
+    "tap": "Câu có teencode",
+    "phien_ban": "Gốc",
+    "so_cau": 621,
+    "so_tu": 5442,
+    "so_subword": 6702,
+    "ty_le_tu_oov_pct": 20.0845,
+    "subword_moi_tu": 1.2315,
+    "ty_le_token_@@_pct": 18.8004
+  },
+  {
+    "tap": "Câu có teencode",
+    "phien_ban": "Chuẩn hóa",
+    "so_cau": 621,
+    "so_tu": 5590,
+    "so_subword": 6383,
+    "ty_le_tu_oov_pct": 12.415,
+    "subword_moi_tu": 1.1419,
+    "ty_le_token_@@_pct": 12.4236
+  }
+]

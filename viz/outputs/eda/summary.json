@@ -1,0 +1,23 @@
+{
+  "so_binh_luan": 4478,
+  "ty_le_cau_chua_teencode_pct": 13.87,
+  "ty_le_cau_bi_module_thay_doi_pct": 16.95,
+  "so_lan_thay_teencode": 765,
+  "so_dang_teencode_duoc_thay": 75,
+  "v1_bo_sot_teencode_dinh_dau_cau": 113,
+  "v2_van_sot_teencode_dinh_dau_cau": 0,
+  "kich_thuoc_tu_vung_goc": 3751,
+  "kich_thuoc_tu_vung_chuan_hoa": 3637,
+  "do_dai_tb_goc": 7.45,
+  "do_dai_tb_chuan_hoa": 7.96,
+  "ty_le_kieu_viet_pct": {
+    "Có dấu": 82.31,
+    "Không dấu": 14.38,
+    "Khác": 3.31
+  },
+  "ty_le_khong_dau_theo_nhan_pct": {
+    "Tiêu cực": 22.62,
+    "Trung tính": 12.06,
+    "Tích cực": 0.73
+  }
+}
