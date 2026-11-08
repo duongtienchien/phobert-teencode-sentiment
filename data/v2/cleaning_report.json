@@ -1,0 +1,168 @@
+{
+  "seed": 42,
+  "cac_buoc_lam_sach": [
+    {
+      "buoc": "Dữ liệu gốc",
+      "so_cau_bi_loai": 0,
+      "con_lai": 4896
+    },
+    {
+      "buoc": "Rỗng, không có chữ hoặc nhãn không hợp lệ",
+      "so_cau_bi_loai": 1,
+      "con_lai": 4895
+    },
+    {
+      "buoc": "Tiếng Anh thuần",
+      "so_cau_bi_loai": 246,
+      "con_lai": 4649
+    },
+    {
+      "buoc": "Sửa nhãn theo duyệt tay",
+      "so_cau_bi_loai": 0,
+      "so_cau_sua_nhan": 8,
+      "con_lai": 4649
+    },
+    {
+      "buoc": "Sửa nhãn theo quy tắc thương cảm → Trung tính",
+      "so_cau_bi_loai": 0,
+      "so_cau_sua_nhan": 15,
+      "con_lai": 4649
+    },
+    {
+      "buoc": "Trùng nội dung nhưng khác nhãn (bỏ cả nhóm)",
+      "so_cau_bi_loai": 2,
+      "con_lai": 4647
+    },
+    {
+      "buoc": "Trùng lặp (giữ bản đầu tiên)",
+      "so_cau_bi_loai": 169,
+      "con_lai": 4478
+    }
+  ],
+  "so_cau": {
+    "train": 3582,
+    "val": 448,
+    "test": 448,
+    "test_teencode": 56
+  },
+  "phan_bo_nhan": {
+    "train": {
+      "0": 1849,
+      "1": 743,
+      "2": 990
+    },
+    "val": {
+      "0": 231,
+      "1": 93,
+      "2": 124
+    },
+    "test": {
+      "0": 232,
+      "1": 93,
+      "2": 123
+    },
+    "test_teencode": {
+      "0": 40,
+      "1": 8,
+      "2": 8
+    }
+  },
+  "kiem_tra_ro_ri": {
+    "train ∩ val": 0,
+    "train ∩ test": 0,
+    "val ∩ test": 0
+  },
+  "so_cau_can_duyet_ngon_ngu": 43,
+  "bo_sinh_teencode": {
+    "so_tu_chuan": 296,
+    "so_bien_the": 450,
+    "bien_the_held_out": 37,
+    "luat_bien_am": [
+      "qu→w",
+      "gi→j",
+      "v→z",
+      "-ng→-g",
+      "-nh→-h",
+      "ph→f",
+      "c→k"
+    ],
+    "luat_held_out": [
+      "c→k",
+      "ph→f"
+    ]
+  },
+  "tang_cuong_train": {
+    "ty_le_khong_dau_muc_tieu_pct": 26.55,
+    "so_ban_teencode": 6201,
+    "so_ban_khong_dau": 316,
+    "tong_so_cau_train_aug": 10099,
+    "phan_bo_nhan": {
+      "0": 4909,
+      "1": 2151,
+      "2": 3039
+    }
+  },
+  "tap_test_nhieu": [
+    {
+      "muc_nhieu_p": 0.1,
+      "ty_le_tu_bi_bien_doi_pct": 3.26,
+      "ty_le_cau_co_bien_doi_pct": 21.21
+    },
+    {
+      "muc_nhieu_p": 0.3,
+      "ty_le_tu_bi_bien_doi_pct": 8.57,
+      "ty_le_cau_co_bien_doi_pct": 48.66
+    },
+    {
+      "muc_nhieu_p": 0.5,
+      "ty_le_tu_bi_bien_doi_pct": 15.15,
+      "ty_le_cau_co_bien_doi_pct": 65.62
+    }
+  ],
+  "ty_le_khoi_phuc_cua_module": {
+    "module_v1": {
+      "luật biến âm": {
+        "khoi_phuc_pct": 0.0,
+        "so_bien_the": 51
+      },
+      "từ điển": {
+        "khoi_phuc_pct": 100.0,
+        "so_bien_the": 271
+      },
+      "held-out (chưa từng thấy)": {
+        "khoi_phuc_pct": 0.0,
+        "so_bien_the": 69
+      },
+      "kéo dài ký tự": {
+        "khoi_phuc_pct": 97.78,
+        "so_bien_the": 45
+      },
+      "bổ sung": {
+        "khoi_phuc_pct": 0.0,
+        "so_bien_the": 56
+      }
+    },
+    "module_v2": {
+      "luật biến âm": {
+        "khoi_phuc_pct": 78.43,
+        "so_bien_the": 51
+      },
+      "từ điển": {
+        "khoi_phuc_pct": 100.0,
+        "so_bien_the": 271
+      },
+      "held-out (chưa từng thấy)": {
+        "khoi_phuc_pct": 4.35,
+        "so_bien_the": 69
+      },
+      "kéo dài ký tự": {
+        "khoi_phuc_pct": 97.78,
+        "so_bien_the": 45
+      },
+      "bổ sung": {
+        "khoi_phuc_pct": 73.21,
+        "so_bien_the": 56
+      }
+    }
+  }
+}

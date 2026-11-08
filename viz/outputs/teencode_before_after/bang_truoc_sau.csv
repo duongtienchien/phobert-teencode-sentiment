@@ -1,0 +1,7 @@
+﻿,so_cau,cau_co_teencode,ty_le_cau_co_teencode_pct,tong_luot_teencode,teencode_tb_moi_cau,so_dang_teencode_khac_nhau,ty_le_cau_co_tu_long_tieng_anh_pct
+Train gốc,3582.0,395.0,11.03,483.0,0.135,62.0,4.83
+Train tăng cường,9783.0,5852.0,59.82,8494.0,0.868,863.0,4.94
+Test gốc,448.0,46.0,10.27,59.0,0.132,25.0,3.35
+Nhiễu 10%,448.0,115.0,25.67,140.0,0.312,84.0,3.35
+Nhiễu 30%,448.0,217.0,48.44,282.0,0.629,165.0,3.57
+Nhiễu 50%,448.0,289.0,64.51,456.0,1.018,207.0,4.02

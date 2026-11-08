@@ -1,0 +1,449 @@
+id,comment,label,label_id,category,is_teencode,replacements,normalized_text,text_raw_segmented,text_normalized_segmented,source_id,augment,n_changes
+vne_04833,Co tieng ma khong co tam,toxic,0,insult,False,[],co tieng ma khong co tam,co tieng ma_khong co tam,co tieng ma_khong co tam,vne_04833,khong_dau,0
+vne_02675,Thu an hai xa hoi la day,toxic,0,insult,False,[],thu an hai xa hoi la day,thu an hai xa hoi la day,thu an hai xa hoi la day,vne_02675,khong_dau,0
+vne_00676,Noi dung thieu chieu sau va kho hieu,negative,0,criticism,False,[],noi dung thieu chieu sau va kho hieu,noi dung thieu chieu sau va kho hieu,noi dung thieu chieu sau va kho hieu,vne_00676,khong_dau,0
+vne_02707,Lam on dung xuat hien tren mang nua,toxic,0,insult,False,[],lam on dung xuat hien tren mang nua,lam on dung xuat hien tren mang nua,lam on dung xuat hien tren mang nua,vne_02707,khong_dau,0
+vne_00459,tuyet voi qua,positive,2,excellent,False,[],tuyet voi qua,tuyet voi qua,tuyet voi qua,vne_00459,khong_dau,0
+vne_03198,Chat toxic thay vi focus game,toxic,0,insult,True,"[""toxic→độc hại""]",chat độc hại thay vi focus game,chat toxic thay_vi focus game,chat độc_hại thay_vi focus game,vne_03198,khong_dau,0
+vne_01847,goc may dep la ma rat dien anh,positive,2,cinematic,False,[],goc may dep la ma rat dien anh,goc may dep la ma rat dien anh,goc may dep la ma rat dien anh,vne_01847,khong_dau,0
+vne_00839,"Chuc nam moi vui ve, phat tai!",positive,2,celebration,False,[],"chuc nam moi vui ve , phat tai !","chuc nam moi vui ve , phat tai !","chuc nam moi vui ve , phat tai !",vne_00839,khong_dau,0
+vne_03255,Khong hieu sao van co nguoi dang ky kenh nay,toxic,0,insult,True,"[""nguoi→người""]",khong hieu sao van co người dang ky kenh nay,khong hieu sao van co nguoi dang ky kenh nay,khong hieu sao van co người dang ky kenh nay,vne_03255,khong_dau,0
+vne_01079,"Nhu phim bom tan, chat xiu!",positive,2,cinematic,False,[],"nhu phim bom tan , chat xiu !","nhu phim bom tan , chat xiu !","nhu phim bom tan , chat xiu !",vne_01079,khong_dau,0
+vne_01719,quan song nho review chu khong nho chat luong,negative,0,criticism,False,[],quan song nho review chu khong nho chat luong,quan song nho review chu khong nho chat luong,quan song nho review chu khong nho chat luong,vne_01719,khong_dau,0
+vne_01855,ai ma nghi ra kich ban nay hay du,positive,2,creativity,False,[],ai ma nghi ra kich ban nay hay du,ai ma nghi ra kich ban nay hay du,ai ma nghi ra kich ban nay hay du,vne_01855,khong_dau,0
+vne_02466,"voi tui vay la on roi, khong y kien",positive,2,appreciation,False,[],"voi tui vay la on roi , khong y kien","voi tui vay la on roi , khong y kien","voi tui vay la on roi , khong y kien",vne_02466,khong_dau,0
+vne_01722,mon nay chac danh cho rich kid thoi,neutral,1,affordability,False,[],mon nay chac danh cho rich kid thoi,mon nay chac danh cho rich kid thoi,mon nay chac danh cho rich kid thoi,vne_01722,khong_dau,0
+vne_00166,Respect! Toi admire ban,positive,2,admiration,False,[],respect ! toi admire ban,respect ! toi admire ban,respect ! toi admire ban,vne_00166,khong_dau,0
+vne_02300,Qua hop ly luon roi con gi,positive,2,agreement,False,[],qua hop ly luon roi con gi,qua hop ly luon roi con gi,qua hop ly luon roi con gi,vne_02300,khong_dau,0
+vne_04414,phai noi la xem thua time,negative,0,disappointment,False,[],phai noi la xem thua time,phai noi la xem thua time,phai noi la xem thua time,vne_04414,khong_dau,0
+vne_03597,sao may cu khoe cai voc dang te hai do tren fb?,toxic,0,insult,True,"[""fb→facebook""]",sao may cu khoe cai voc dang te hai do tren facebook ?,sao may cu khoe cai voc dang te hai do tren fb ?,sao may cu khoe cai voc dang te hai do tren facebook ?,vne_03597,khong_dau,0
+vne_03958,Ban da gap loi trong qua trinh dung chua?,neutral,1,question,False,[],ban da gap loi trong qua trinh dung chua ?,ban da gap loi trong qua trinh dung chua ?,ban da gap loi trong qua trinh dung chua ?,vne_03958,khong_dau,0
+vne_02670,Cang noi cang the hien minh vo hoc,toxic,0,insult,False,[],cang noi cang the hien minh vo hoc,cang noi cang the hien minh vo hoc,cang noi cang the hien minh vo hoc,vne_02670,khong_dau,0
+vne_01922,"clip chi la vui thoi, dung soi qua",positive,2,lighthearted,False,[],"clip chi la vui thoi , dung soi qua","clip chi la vui thoi , dung soi qua","clip chi la vui thoi , dung soi qua",vne_01922,khong_dau,0
+vne_01969,moi lan vo lop la mot buoi dien thoi trang,positive,2,humor,False,[],moi lan vo lop la mot buoi dien thoi trang,moi lan vo lop la mot buoi dien thoi trang,moi lan vo lop la mot buoi dien thoi trang,vne_01969,khong_dau,0
+vne_03063,Anh skincare ma da nhin van te,toxic,0,insult,False,[],anh skincare ma da nhin van te,anh skincare ma da nhin van te,anh skincare ma da nhin van te,vne_03063,khong_dau,0
+vne_04416,ko lay gi lam thu vi,negative,0,disappointment,True,"[""ko→không""]",không lay gi lam thu vi,ko lay gi lam thu_vi,không lay gi lam thu_vi,vne_04416,khong_dau,0
+vne_00990,"Fake vai, cha tu nhien ti nao!",negative,0,artificial,False,[],"fake vai , cha tu nhien ti nao !","fake vai , cha tu nhien ti nao !","fake vai , cha tu nhien ti nao !",vne_00990,khong_dau,0
+vne_03553,sao may dam khoe cai chan cong queo do tren fb?,toxic,0,insult,True,"[""fb→facebook""]",sao may dam khoe cai chan cong queo do tren facebook ?,sao may dam khoe cai chan cong_queo do tren fb ?,sao may dam khoe cai chan cong_queo do tren facebook ?,vne_03553,khong_dau,0
+vne_03124,Post anh minimalist ma hoard stuff,toxic,0,insult,True,"[""post→đăng""]",đăng anh minimalist ma hoard stuff,post anh minimalist ma hoard stuff,đăng anh minimalist ma hoard stuff,vne_03124,khong_dau,0
+vne_02387,ai cung nen trai qua de truong thanh hon,positive,2,useful,False,[],ai cung nen trai qua de truong thanh hon,ai cung nen trai qua de truong thanh hon,ai cung nen trai qua de truong thanh hon,vne_02387,khong_dau,0
+vne_00097,"Content tot, presentation chua on",negative,0,mixed_feedback,False,[],"content tot , presentation chua on","content tot , presentation chua on","content tot , presentation chua on",vne_00097,khong_dau,0
+vne_04718,den xanh chua sang da bam coi,negative,0,criticism,False,[],den xanh chua sang da bam coi,den xanh chua sang da bam coi,den xanh chua sang da bam coi,vne_04718,khong_dau,0
+vne_02757,Lam YouTube kieu nay nen nghi di,toxic,0,insult,False,[],lam youtube kieu nay nen nghi di,lam youtube kieu nay nen nghi_di,lam youtube kieu nay nen nghi_di,vne_02757,khong_dau,0
+vne_00670,"Chu de nay dang rat hot, cam on ban da viet",positive,2,trending,False,[],"chu de nay dang rat hot , cam on ban da viet","chu de nay dang rat hot , cam on_ban da viet","chu de nay dang rat hot , cam on_ban da viet",vne_00670,khong_dau,0
+vne_03949,Ban danh gia sao ve tong the san pham?,neutral,1,question,False,[],ban danh gia sao ve tong the san pham ?,ban danh gia sao ve_tong the san pham ?,ban danh gia sao ve_tong the san pham ?,vne_03949,khong_dau,0
+vne_04252,Nhac nen hoi on ao,negative,0,criticism,False,[],nhac nen hoi on ao,nhac nen hoi on ao,nhac nen hoi on ao,vne_04252,khong_dau,0
+vne_00845,"Ban oi, lam tut chi tiet hon nha?",neutral,1,request,False,[],"ban oi , lam tut chi tiet hon nha ?","ban oi , lam tut chi tiet hon nha ?","ban oi , lam tut chi tiet hon nha ?",vne_00845,khong_dau,0
+vne_01713,an xong ra quan khac an tiep moi du,negative,0,satire,False,[],an xong ra quan khac an tiep moi du,an xong ra quan khac an tiep moi du,an xong ra quan khac an tiep moi du,vne_01713,khong_dau,0
+vne_00147,Font chu gi day?,neutral,1,question,False,[],font chu gi day ?,font chu gi day ?,font chu gi day ?,vne_00147,khong_dau,0
+vne_04533,nuoc cham qua chua,negative,0,criticism,False,[],nuoc cham qua chua,nuoc cham qua chua,nuoc cham qua chua,vne_04533,khong_dau,0
+vne_04116,San pham de tray xuoc khi su dung,negative,0,criticism,False,[],san pham de tray xuoc khi su dung,san pham de tray xuoc khi su dung,san pham de tray xuoc khi su dung,vne_04116,khong_dau,0
+vne_00226,"Valentine's Day is coming, toi can gau",neutral,1,single_status,False,[],"valentine ' s day is coming , toi can gau","valentine ' s day is coming , toi can gau","valentine ' s day is coming , toi can gau",vne_00226,khong_dau,0
+vne_03756,Thoi gian giao hang khoang bao lau?,neutral,1,question,False,[],thoi gian giao hang khoang bao lau ?,thoi gian giao hang khoang bao lau ?,thoi gian giao hang khoang bao lau ?,vne_03756,khong_dau,0
+vne_02606,"Da, em ngheo :)))",positive,2,appreciation,False,"["":)))→cười""]","da , em ngheo cười","da , em ngheo : ) ) )","da , em ngheo cười",vne_02606,khong_dau,0
+vne_03543,may co biet cai bung to nhu cai thung do te sao?,toxic,0,insult,True,"[""biet→biết""]",may co biết cai bung to nhu cai thung do te sao ?,may co biet cai bung to nhu cai thung do te sao ?,may co biết cai bung to nhu cai thung do te sao ?,vne_03543,khong_dau,0
+vne_02315,Hanh xu qua van minh luon,positive,2,compliment,False,[],hanh xu qua van minh luon,hanh xu qua van minh luon,hanh xu qua van minh luon,vne_02315,khong_dau,0
+vne_03926,Toi cung thich san pham nay,neutral,1,statement,True,"[""thich→thích""]",toi cung thích san pham nay,toi cung thich san pham nay,toi cung thích san pham nay,vne_03926,khong_dau,0
+vne_00808,"Video nay dai dong qua, chan ghe",negative,0,boredom,False,[],"video nay dai dong qua , chan ghe","video nay dai dong qua , chan ghe","video nay dai dong qua , chan ghe",vne_00808,khong_dau,0
+vne_00992,"Chill di ban oi, binh tinh nao!",neutral,1,calm_down,False,[],"chill di ban oi , binh tinh nao !","chill di_ban oi , binh tinh nao !","chill di_ban oi , binh tinh nao !",vne_00992,khong_dau,0
+vne_03123,Story ask me anything ma khong tra loi,toxic,0,insult,False,[],story ask me anything ma khong tra loi,story ask me anything ma khong tra loi,story ask me anything ma khong tra loi,vne_03123,khong_dau,0
+vne_00193,Flex hard qua ban oi,negative,0,showing_off,True,"[""flex→khoe khoang""]",khoe khoang hard qua ban oi,flex hard qua ban oi,khoe_khoang hard qua ban oi,vne_00193,khong_dau,0
+vne_02308,Hoc hoi duoc nhieu lam luon,positive,2,useful,False,[],hoc hoi duoc nhieu lam luon,hoc hoi duoc nhieu lam luon,hoc hoi duoc nhieu lam luon,vne_02308,khong_dau,0
+vne_03518,cai mat may nhin map the ma cung dam post story?,toxic,0,insult,True,"[""post→đăng""]",cai mat may nhin map the ma cung dam đăng story ?,cai mat may nhin map the ma cung dam post story ?,cai mat may nhin map the ma cung dam đăng story ?,vne_03518,khong_dau,0
+vne_02327,Dep tu trong ra ngoai luon,positive,2,compliment,False,[],dep tu trong ra ngoai luon,dep tu trong ra ngoai luon,dep tu trong ra ngoai luon,vne_02327,khong_dau,0
+vne_01970,ua day la giang duong hay studio vay?,neutral,1,confused,False,[],ua day la giang duong hay studio vay ?,ua day la_giang duong hay studio vay ?,ua day la_giang duong hay studio vay ?,vne_01970,khong_dau,0
+vne_00738,Chuc ban som binh phuc nha,positive,2,care,False,[],chuc ban som binh phuc nha,chuc ban som binh phuc nha,chuc ban som binh phuc nha,vne_00738,khong_dau,0
+vne_04002,Da thu nhung khong hieu qua,negative,0,disappointment,False,[],da thu nhung khong hieu qua,da thu nhung khong hieu qua,da thu nhung khong hieu qua,vne_04002,khong_dau,0
+vne_02344,moi lan kiem tra la het hon chim en luon,positive,2,excitement,False,[],moi lan kiem tra la het hon chim en luon,moi lan kiem tra la het hon chim en luon,moi lan kiem tra la het hon chim en luon,vne_02344,khong_dau,0
+vne_01979,minh ma hoc lop nay la khong tap trung noi,positive,2,distracted,False,[],minh ma hoc lop nay la khong tap trung noi,minh ma hoc lop nay la khong tap trung noi,minh ma hoc lop nay la khong tap trung noi,vne_01979,khong_dau,0
+vne_01332,Mat me the nay di an lau la chuan,positive,2,neutral,False,[],mat me the nay di an lau la chuan,mat me the nay di_an lau la chuan,mat me the nay di_an lau la chuan,vne_01332,khong_dau,0
+vne_01464,dep qua di mat thoi,positive,2,compliment,False,[],dep qua di mat thoi,dep qua di_mat thoi,dep qua di_mat thoi,vne_01464,khong_dau,0
+vne_01164,"Doi bao ve lang lam an kieu gi, duoi het",negative,0,anger,False,[],"doi bao ve lang lam an kieu gi , duoi het","doi bao ve_lang lam an kieu gi , duoi het","doi bao ve_lang lam an kieu gi , duoi het",vne_01164,khong_dau,0
+vne_04771,nguoi di bo khong co loi rieng,negative,0,criticism,True,"[""nguoi→người""]",người di bo khong co loi rieng,nguoi di_bo khong co loi rieng,người di_bo khong co loi rieng,vne_04771,khong_dau,0
+vne_00809,"Co gi do khong on, can cai thien",negative,0,criticism,False,[],"co gi do khong on , can cai thien","co gi do khong on , can cai thien","co gi do khong on , can cai thien",vne_00809,khong_dau,0
+vne_04169,Khong hieu doan intro de lam gi,negative,0,criticism,False,[],khong hieu doan intro de lam gi,khong hieu doan intro de lam gi,khong hieu doan intro de lam gi,vne_04169,khong_dau,0
+vne_01106,"Ngao da chu tam than gi, nhin cai mat la biet lien",toxic,0,insult,True,"[""biet→biết""]","ngao da chu tam than gi , nhin cai mat la biết lien","ngao da chu tam than gi , nhin cai mat la biet lien","ngao da chu tam than gi , nhin cai mat la biết lien",vne_01106,khong_dau,0
+vne_04280,Coi xong thay that vong,negative,0,disappointment,False,[],coi xong thay that vong,coi xong thay that vong,coi xong thay that vong,vne_04280,khong_dau,0
+vne_02998,Stream ma background noise nhu cho bua,toxic,0,insult,False,[],stream ma background noise nhu cho bua,stream ma background noise nhu cho bua,stream ma background noise nhu cho bua,vne_02998,khong_dau,0
+vne_01409,"Clip anh Huy vui, xem xong cuoi dau bung ",positive,2,humor,False,[],"clip anh huy vui , xem xong cuoi dau bung","clip anh huy vui , xem xong cuoi dau bung","clip anh huy vui , xem xong cuoi dau bung",vne_01409,khong_dau,0
+vne_00855,"Dang hot tren mang, hay lam ban!",positive,2,buzzing,False,[],"dang hot tren mang , hay lam ban !","dang hot_tren mang , hay lam ban !","dang hot_tren mang , hay lam ban !",vne_00855,khong_dau,0
+vne_03327,may nghi may la hot trend ma cu khoe tren fb the?,toxic,0,insult,True,"[""trend→xu hướng"", ""fb→facebook""]",may nghi may la hot xu hướng ma cu khoe tren facebook the ?,may nghi may la hot_trend ma cu khoe tren fb the ?,may nghi may la hot xu_hướng ma cu khoe tren facebook the ?,vne_03327,khong_dau,0
+vne_04578,do an nhu chua nau chin,negative,0,criticism,False,[],do an nhu chua nau chin,do an nhu chua nau chin,do an nhu chua nau chin,vne_04578,khong_dau,0
+vne_04217,Khong ro noi dung clip,negative,0,criticism,False,[],khong ro noi dung clip,khong ro noi dung clip,khong ro noi dung clip,vne_04217,khong_dau,0
+vne_03164,Support ma khong ward,toxic,0,insult,False,[],support ma khong ward,support ma khong ward,support ma khong ward,vne_03164,khong_dau,0
+vne_01055,"Noi gi zay, t hok hiu gi het?",neutral,1,confusion,True,"[""zay→vay"", ""hok→không""]","noi gi vay , t không hiu gi het ?","noi gi zay , t hok hiu gi het ?","noi gi vay , t không hiu gi het ?",vne_01055,khong_dau,0
+vne_02293,Hong biet noi gi ngoai 2 chu: Dinh!,positive,2,compliment,True,"[""biet→biết""]",hong biết noi gi ngoai 2 chu : dinh !,hong biet noi gi ngoai 2 chu : dinh !,hong biết noi gi ngoai 2 chu : dinh !,vne_02293,khong_dau,0
+vne_02360,cam xuc ua ve tung dot luon,positive,2,appreciation,False,[],cam xuc ua ve tung dot luon,cam xuc ua ve_tung dot luon,cam xuc ua ve_tung dot luon,vne_02360,khong_dau,0
+vne_02935,Noi dung nham chan muon tat stream,toxic,0,insult,False,[],noi dung nham chan muon tat stream,noi dung_nham chan muon tat stream,noi dung_nham chan muon tat stream,vne_02935,khong_dau,0
+vne_02713,May dung la het thuoc chua roi,toxic,0,insult,False,[],may dung la het thuoc chua roi,may dung la het thuoc chua roi,may dung la het thuoc chua roi,vne_02713,khong_dau,0
+vne_01239,"Sinh con ra kho the nay, chan that",toxic,0,sarcasm,False,[],"sinh con ra kho the nay , chan that","sinh con ra kho the nay , chan that","sinh con ra kho the nay , chan that",vne_01239,khong_dau,0
+vne_00996,"Khong doan duoc, hay qua troi!",positive,2,amazement,False,[],"khong doan duoc , hay qua troi !","khong doan duoc , hay qua troi !","khong doan duoc , hay qua troi !",vne_00996,khong_dau,0
+vne_02724,Lam YouTube ma chang ra cai gi,toxic,0,insult,False,[],lam youtube ma chang ra cai gi,lam youtube ma chang ra cai gi,lam youtube ma chang ra cai gi,vne_02724,khong_dau,0
+vne_03929,Toi se cho danh gia chi tiet tu ban,neutral,1,statement,False,[],toi se cho danh gia chi tiet tu ban,toi se cho danh gia chi tiet tu ban,toi se cho danh gia chi tiet tu ban,vne_03929,khong_dau,0
+vne_02025,co ai vo hoc ma khong loi may quay ra khong?,neutral,1,commentary,False,[],co ai vo hoc ma khong loi may quay ra khong ?,co ai vo hoc ma khong loi may quay ra khong ?,co ai vo hoc ma khong loi may quay ra khong ?,vne_02025,khong_dau,0
+vne_03719,Ban co the noi ro hon khong?,neutral,1,request,False,[],ban co the noi ro hon khong ?,ban co the noi ro hon khong ?,ban co the noi ro hon khong ?,vne_03719,khong_dau,0
+vne_00200,Overreacting! Phan ung thai qua,negative,0,excessive,False,[],overreacting ! phan ung thai qua,overreacting ! phan_ung thai qua,overreacting ! phan_ung thai qua,vne_00200,khong_dau,0
+vne_04591,ban an gi trong clip vay?,neutral,1,question,False,[],ban an gi trong clip vay ?,ban an gi trong clip vay ?,ban an gi trong clip vay ?,vne_04591,khong_dau,0
+vne_02485,Uoc gi nhieu noi lam an nhu vay,positive,2,appreciation,False,[],uoc gi nhieu noi lam an nhu vay,uoc gi nhieu noi lam an nhu vay,uoc gi nhieu noi lam an nhu vay,vne_02485,khong_dau,0
+vne_02978,Content create nhu copy paste,toxic,0,insult,False,[],content create nhu copy paste,content create nhu copy paste,content create nhu copy paste,vne_02978,khong_dau,0
+vne_04836,Nguoi nhu nay nen tranh xa,toxic,0,insult,True,"[""nguoi→người""]",người nhu nay nen tranh xa,nguoi nhu nay nen tranh xa,người nhu nay nen tranh xa,vne_04836,khong_dau,0
+vne_04729,khong co cam bien den giao thong,negative,0,criticism,False,[],khong co cam bien den giao thong,khong co cam bien den giao thong,khong co cam bien den giao thong,vne_04729,khong_dau,0
+vne_02343,thi xong la ngu li bi luon a,positive,2,appreciation,False,[],thi xong la ngu li bi luon a,thi xong la ngu li bi luon a,thi xong la ngu li bi luon a,vne_02343,khong_dau,0
+vne_02084,xem xong cam giac yeu doi hon han,positive,2,emotion,False,[],xem xong cam giac yeu doi hon han,xem xong cam giac yeu doi hon han,xem xong cam giac yeu doi hon han,vne_02084,khong_dau,0
+vne_03882,Toi da xem het video,neutral,1,statement,False,[],toi da xem het video,toi da xem het video,toi da xem het video,vne_03882,khong_dau,0
+vne_03264,"Noi dung nham nhi, toan lap lai y cu",toxic,0,insult,False,[],"noi dung nham nhi , toan lap lai y cu","noi dung_nham nhi , toan lap lai y cu","noi dung_nham nhi , toan lap lai y cu",vne_03264,khong_dau,0
+vne_01374,20k an duoc gi o quan com que duong bau? ,negative,0,question,False,"[""20k→20 nghìn""]",20 nghìn an duoc gi o quan com que duong bau ?,20k an duoc gi o quan com que duong bau ?,20 nghìn an duoc gi o quan com que duong bau ?,vne_01374,khong_dau,0
+vne_01553,"Doraemon khong chi la phim, la ca thanh xuan",positive,2,nostalgia,False,[],"doraemon khong chi la phim , la ca thanh xuan","doraemon khong chi la phim , la ca thanh xuan","doraemon khong chi la phim , la ca thanh xuan",vne_01553,khong_dau,0
+vne_04720,xe tai chay vuot toc do,negative,0,criticism,False,[],xe tai chay vuot toc do,xe tai chay vuot toc do,xe tai chay vuot toc do,vne_04720,khong_dau,0
+vne_03272,Lam nhu vay ma cung doi lam YouTuber,toxic,0,insult,False,[],lam nhu vay ma cung doi lam youtuber,lam nhu vay ma cung doi lam youtuber,lam nhu vay ma cung doi lam youtuber,vne_03272,khong_dau,0
+vne_04199,Noi dung don gian qua,negative,0,criticism,False,[],noi dung don gian qua,noi dung don gian qua,noi dung don gian qua,vne_04199,khong_dau,0
+vne_00596,motd,neutral,1,makeup_of_day,False,[],motd,motd,motd,vne_00596,khong_dau,0
+vne_00064,Troll hay day! Upvote lien,positive,2,humor,False,[],troll hay day ! upvote lien,troll hay day ! upvote lien,troll hay day ! upvote lien,vne_00064,khong_dau,0
+vne_00575,honey skin,positive,2,golden_glow,False,[],honey skin,honey skin,honey skin,vne_00575,khong_dau,0
+vne_02063,"gay me chua du, phai gay thuong nho",positive,2,flirt,False,[],"gay me chua du , phai gay thuong nho","gay me chua du , phai gay thuong nho","gay me chua du , phai gay thuong nho",vne_02063,khong_dau,0
+vne_02236,tuong ban nay hoc dien xuat luon a,positive,2,acting,False,[],tuong ban nay hoc dien xuat luon a,tuong ban nay hoc dien xuat luon a,tuong ban nay hoc dien xuat luon a,vne_02236,khong_dau,0
+vne_00907,"Cuoi xiu voi video nay, hai qua!",positive,2,humor,False,[],"cuoi xiu voi video nay , hai qua !","cuoi xiu voi video nay , hai qua !","cuoi xiu voi video nay , hai qua !",vne_00907,khong_dau,0
+vne_03149,Mid laner ma farm kem hon ca jungle,toxic,0,insult,False,[],mid laner ma farm kem hon ca jungle,mid laner ma farm kem hon ca jungle,mid laner ma farm kem hon ca jungle,vne_03149,khong_dau,0
+vne_04769,xe bon nuoc di bat thuong,negative,0,criticism,False,[],xe bon nuoc di bat thuong,xe bon nuoc di_bat thuong,xe bon nuoc di_bat thuong,vne_04769,khong_dau,0
+vne_04585,menu nhieu nhung nhieu mon het,negative,0,complaint,False,[],menu nhieu nhung nhieu mon het,menu nhieu nhung nhieu mon het,menu nhieu nhung nhieu mon het,vne_04585,khong_dau,0
+vne_03059,Tag location sai de lam mau,toxic,0,insult,False,[],tag location sai de lam mau,tag location sai de lam mau,tag location sai de lam mau,vne_03059,khong_dau,0
+vne_02979,Stream ma attitude nhu ong chu,toxic,0,insult,False,[],stream ma attitude nhu ong chu,stream ma attitude nhu ong chu,stream ma attitude nhu ong chu,vne_02979,khong_dau,0
+vne_02594,Han che kieu nay chi la tam thoi thoi,positive,2,appreciation,False,[],han che kieu nay chi la tam thoi thoi,han che kieu nay chi la tam thoi thoi,han che kieu nay chi la tam thoi thoi,vne_02594,khong_dau,0
+vne_02445,"thay vay ma ngon do, dung danh gia som",positive,2,useful,False,[],"thay vay ma ngon do , dung danh gia som","thay vay ma ngon do , dung danh gia som","thay vay ma ngon do , dung danh gia som",vne_02445,khong_dau,0
+vne_01841,noi dung don gian nhung goi mo suy nghi,positive,2,minimalism,False,[],noi dung don gian nhung goi mo suy nghi,noi dung don gian nhung goi mo suy_nghi,noi dung don gian nhung goi mo suy_nghi,vne_01841,khong_dau,0
+vne_04327,Khong thich giao dien moi cua game,negative,0,criticism,True,"[""thich→thích""]",khong thích giao dien moi cua game,khong thich giao dien moi cua game,khong thích giao dien moi cua game,vne_04327,khong_dau,0
+vne_02859,Hang khong qua duoc kiem dinh nao,toxic,0,insult,False,[],hang khong qua duoc kiem dinh nao,hang khong qua duoc kiem dinh nao,hang khong qua duoc kiem dinh nao,vne_02859,khong_dau,0
+vne_03816,Co ai gap truong hop nhu minh khong?,neutral,1,question,False,[],co ai gap truong hop nhu minh khong ?,co ai gap truong hop nhu minh khong ?,co ai gap truong hop nhu minh khong ?,vne_03816,khong_dau,0
+vne_04145,Khong thay gi hai huoc nhu moi nguoi noi,negative,0,criticism,True,"[""nguoi→người""]",khong thay gi hai huoc nhu moi người noi,khong thay gi hai huoc nhu moi nguoi noi,khong thay gi hai huoc nhu moi người noi,vne_04145,khong_dau,0
+vne_04493,quan nay phuc vu cham qua,negative,0,complaint,False,[],quan nay phuc vu cham qua,quan nay phuc vu cham qua,quan nay phuc vu cham qua,vne_04493,khong_dau,0
+vne_04660,co video huong dan lam khong?,neutral,1,request,False,[],co video huong dan lam khong ?,co video huong dan lam khong ?,co video huong dan lam khong ?,vne_04660,khong_dau,0
+vne_01865,ae thanh hoa thi sao bac ,neutral,1,question,True,"[""ae→anh em""]",anh em thanh hoa thi sao bac,ae thanh hoa thi sao bac,anh_em thanh hoa thi sao bac,vne_01865,khong_dau,0
+vne_02177,bi bat qua tang anh mat hinh vien dan,positive,2,humor,False,[],bi bat qua tang anh mat hinh vien dan,bi bat qua tang anh mat hinh vien dan,bi bat qua tang anh mat hinh vien dan,vne_02177,khong_dau,0
+vne_00848,"Hinh khong load duoc, check lai di",neutral,1,technical_issue,False,[],"hinh khong load duoc , check lai di","hinh khong load duoc , check lai_di","hinh khong load duoc , check lai_di",vne_00848,khong_dau,0
+vne_00912,"Khong co gi dac biet, binh thuong thoi",negative,0,mediocre,True,"[""biet→biết""]","khong co gi dac biết , binh thuong thoi","khong co gi dac biet , binh thuong thoi","khong co gi dac biết , binh thuong thoi",vne_00912,khong_dau,0
+vne_04596,ban tu nau hay dat tu quan vay?,neutral,1,question,False,[],ban tu nau hay dat tu quan vay ?,ban tu nau hay dat tu quan vay ?,ban tu nau hay dat tu quan vay ?,vne_04596,khong_dau,0
+vne_02389,co nhung bai hoc chi co trong quan ngu moi co,positive,2,useful,False,[],co nhung bai hoc chi co trong quan ngu moi co,co nhung bai hoc chi co trong quan ngu moi co,co nhung bai hoc chi co trong quan ngu moi co,vne_02389,khong_dau,0
+vne_01525,ban nay long Jaian hay ghe,positive,2,praise,False,[],ban nay long jaian hay ghe,ban nay long jaian hay ghe,ban nay long jaian hay ghe,vne_01525,khong_dau,0
+vne_03057,Bio viet nhu CEO ma thuc te that nghiep,toxic,0,insult,False,[],bio viet nhu ceo ma thuc te that nghiep,bio viet nhu ceo ma thuc te that nghiep,bio viet nhu ceo ma thuc te that nghiep,vne_03057,khong_dau,0
+vne_02760,Clip vo bo vai,toxic,0,insult,False,[],clip vo bo vai,clip vo bo vai,clip vo bo vai,vne_02760,khong_dau,0
+vne_04470,video lam chieu cho co,negative,0,criticism,False,[],video lam chieu cho co,video lam chieu cho co,video lam chieu cho co,vne_04470,khong_dau,0
+vne_03911,Ban co the huong dan dang ky bao hanh khong?,neutral,1,request,False,[],ban co the huong dan dang ky bao hanh khong ?,ban co the huong dan dang ky bao hanh khong ?,ban co the huong dan dang ky bao hanh khong ?,vne_03911,khong_dau,0
+vne_04179,Lam lai video khac duoc khong,negative,0,criticism,False,[],lam lai video khac duoc khong,lam lai video khac duoc khong,lam lai video khac duoc khong,vne_04179,khong_dau,0
+vne_02709,Loai nay tot nhat nen im lang,toxic,0,insult,False,[],loai nay tot nhat nen im lang,loai nay tot nhat nen im_lang,loai nay tot nhat nen im_lang,vne_02709,khong_dau,0
+vne_04627,ban dung cam am thanh nao vay?,neutral,1,question,False,[],ban dung cam am thanh nao vay ?,ban dung cam am thanh nao vay ?,ban dung cam am thanh nao vay ?,vne_04627,khong_dau,0
+vne_03480,"Nguoi thi lun, mac gi cung khong dep noi",toxic,0,bodyshaming,True,"[""nguoi→người""]","người thi lun , mac gi cung khong dep noi","nguoi thi lun , mac gi cung khong dep noi","người thi lun , mac gi cung khong dep noi",vne_03480,khong_dau,0
+vne_02616,sao khong co canh bao ro rang hon tu ngan hang,positive,2,useful,False,[],sao khong co canh bao ro rang hon tu ngan hang,sao khong co canh bao ro rang hon tu ngan hang,sao khong co canh bao ro rang hon tu ngan hang,vne_02616,khong_dau,0
+vne_04687,ban quay bang may nao ma chat luong the?,neutral,1,question,False,[],ban quay bang may nao ma chat luong the ?,ban quay bang may nao ma chat luong the ?,ban quay bang may nao ma chat luong the ?,vne_04687,khong_dau,0
+vne_04750,xe cho da cham nguoi,negative,0,disappointment,True,"[""nguoi→người""]",xe cho da cham người,xe cho da cham nguoi,xe cho da cham người,vne_04750,khong_dau,0
+vne_02021,toi truong ma nhu di picnic,positive,2,relaxing,False,[],toi truong ma nhu di picnic,toi truong ma nhu di_picnic,toi truong ma nhu di_picnic,vne_02021,khong_dau,0
+vne_04052,San pham bi loi tu khi nhan,negative,0,complaint,False,[],san pham bi loi tu khi nhan,san pham bi loi tu khi nhan,san pham bi loi tu khi nhan,vne_04052,khong_dau,0
+vne_02448,ai che thi thoi chu tui van thay on,positive,2,appreciation,False,[],ai che thi thoi chu tui van thay on,ai che thi thoi chu tui van thay on,ai che thi thoi chu tui van thay on,vne_02448,khong_dau,0
+vne_01551,tui nghe phat doan ra nhan vat luon,positive,2,recognition,False,[],tui nghe phat doan ra nhan vat luon,tui nghe phat doan ra nhan vat luon,tui nghe phat doan ra nhan vat luon,vne_01551,khong_dau,0
+vne_04188,Khong hieu sao video nay noi,negative,0,criticism,False,[],khong hieu sao video nay noi,khong hieu sao video nay noi,khong hieu sao video nay noi,vne_04188,khong_dau,0
+vne_04737,khong co bien bao ro rang,negative,0,criticism,False,[],khong co bien bao ro rang,khong co bien bao ro rang,khong co bien bao ro rang,vne_04737,khong_dau,0
+vne_01375,Xa hoi moi co quan com gia cong troi the nay ,negative,0,sarcasm,False,[],xa hoi moi co quan com gia cong troi the nay,xa hoi moi co quan com gia cong troi the nay,xa hoi moi co quan com gia cong troi the nay,vne_01375,khong_dau,0
+vne_01225,"Ngheo ma de con, kho ca doi cha xong",negative,0,anger,False,[],"ngheo ma de con , kho ca doi cha xong","ngheo ma de con , kho ca doi cha xong","ngheo ma de con , kho ca doi cha xong",vne_01225,khong_dau,0
+vne_01009,"Cuoi xiu vs clip ni, hai vl!",positive,2,humor,True,"[""vs→với"", ""vl→vãi lồn""]","cuoi xiu với clip ni , hai vãi lồn !","cuoi xiu vs clip ni , hai vl !","cuoi xiu với clip ni , hai vãi lồn !",vne_01009,khong_dau,0
+vne_01666,cap cham dung cho ngua luon nha,positive,2,funny,False,[],cap cham dung cho ngua luon nha,cap cham dung cho ngua luon nha,cap cham dung cho ngua luon nha,vne_01666,khong_dau,0
+vne_02342,phong cach khong ai do noi,positive,2,compliment,False,[],phong cach khong ai do noi,phong cach khong ai do noi,phong cach khong ai do noi,vne_02342,khong_dau,0
+vne_02282,so huong nhat VN:)),positive,2,appreciation,True,"[""vn→việt nam""]",so huong nhat việt nam : ) ),so huong nhat vn : ) ),so huong nhat việt_nam : ) ),vne_02282,khong_dau,0
+vne_02184,mat kieu: lai drama nua ha troi,positive,2,reaction,False,[],mat kieu : lai drama nua ha troi,mat kieu : lai drama nua ha troi,mat kieu : lai drama nua ha troi,vne_02184,khong_dau,0
+vne_02460,coi ky thi gia khong cao dau nha,positive,2,appreciation,False,[],coi ky thi gia khong cao dau nha,coi ky thi gia khong cao dau nha,coi ky thi gia khong cao dau nha,vne_02460,khong_dau,0
+vne_04767,canh sat giao thong khong xu ly vi pham ro rang,negative,0,complaint,False,[],canh sat giao thong khong xu ly vi pham ro rang,canh sat giao thong khong xu ly vi pham ro rang,canh sat giao thong khong xu ly vi pham ro rang,vne_04767,khong_dau,0
+vne_02536,Nen nhin nhan da chieu hon,positive,2,useful,False,[],nen nhin nhan da chieu hon,nen nhin nhan da chieu hon,nen nhin nhan da chieu hon,vne_02536,khong_dau,0
+vne_04798,Choi ban quen roi nen mat day the,toxic,0,insult,False,[],choi ban quen roi nen mat day the,choi ban quen roi nen mat day the,choi ban quen roi nen mat day the,vne_04798,khong_dau,0
+vne_03093,Story close friends ma add bua,toxic,0,insult,False,[],story close friends ma add bua,story close friends ma add bua,story close friends ma add bua,vne_03093,khong_dau,0
+vne_02666,Dung lam ban mat nguoi khac nua,toxic,0,insult,True,"[""nguoi→người""]",dung lam ban mat người khac nua,dung lam ban mat nguoi khac nua,dung lam ban mat người khac nua,vne_02666,khong_dau,0
+vne_03902,Ban da thu so sanh voi hang chinh hang chua?,neutral,1,question,False,[],ban da thu so sanh voi hang chinh hang chua ?,ban da thu so sanh voi hang chinh hang chua ?,ban da thu so sanh voi hang chinh hang chua ?,vne_03902,khong_dau,0
+vne_03883,Ban mua san pham nay o dau?,neutral,1,question,False,[],ban mua san pham nay o dau ?,ban mua san pham nay o dau ?,ban mua san pham nay o dau ?,vne_03883,khong_dau,0
+vne_02641,cam on vi da canh bao kip thoi,positive,2,gratitude,False,[],cam on vi da canh bao kip thoi,cam on_vi da canh bao kip thoi,cam on_vi da canh bao kip thoi,vne_02641,khong_dau,0
+vne_03098,Anh hair style ma nhu tai nan,toxic,0,insult,False,[],anh hair style ma nhu tai nan,anh hair style ma nhu tai_nan,anh hair style ma nhu tai_nan,vne_03098,khong_dau,0
+vne_02742,Khong co ti sang tao nao luon,toxic,0,insult,False,[],khong co ti sang tao nao luon,khong co ti sang tao nao luon,khong co ti sang tao nao luon,vne_02742,khong_dau,0
+vne_04770,duong cong va hep nguy hiem,negative,0,criticism,False,[],duong cong va hep nguy hiem,duong cong va hep nguy hiem,duong cong va hep nguy hiem,vne_04770,khong_dau,0
+vne_03982,Dong goi khong can than,negative,0,complaint,False,[],dong goi khong can than,dong goi khong can than,dong goi khong can than,vne_03982,khong_dau,0
+vne_02307,Troi oi de thuong qua,positive,2,compliment,False,[],troi oi de thuong qua,troi oi de thuong qua,troi oi de thuong qua,vne_02307,khong_dau,0
+vne_00887,"Try hard qua, bot di ban oi!",negative,0,criticism,False,[],"try hard qua , bot di ban oi !","try hard qua , bot di_ban oi !","try hard qua , bot di_ban oi !",vne_00887,khong_dau,0
+vne_01552,moi lan buon tui lai mo Doraemon coi,positive,2,comfort,False,[],moi lan buon tui lai mo doraemon coi,moi lan buon tui lai mo doraemon coi,moi lan buon tui lai mo doraemon coi,vne_01552,khong_dau,0
+vne_02681,Song kieu ban chac chang ai ua noi,toxic,0,insult,False,[],song kieu ban chac chang ai ua noi,song kieu ban chac chang ai ua noi,song kieu ban chac chang ai ua noi,vne_02681,khong_dau,0
+vne_03056,Story highlight chi toan selfie,toxic,0,insult,False,[],story highlight chi toan selfie,story highlight chi toan selfie,story highlight chi toan selfie,vne_03056,khong_dau,0
+vne_00501,ai day,neutral,1,who,False,[],ai day,ai day,ai day,vne_00501,khong_dau,0
+vne_03843,Can them trai nghiem thuc te tu nguoi dung,neutral,1,statement,True,"[""nguoi→người""]",can them trai nghiem thuc te tu người dung,can them trai nghiem thuc te tu nguoi dung,can them trai nghiem thuc te tu người dung,vne_03843,khong_dau,0
+vne_03791,Can tham khao them y kien nguoi khac,neutral,1,statement,True,"[""nguoi→người""]",can tham khao them y kien người khac,can tham khao them y kien nguoi khac,can tham khao them y kien người khac,vne_03791,khong_dau,0
+vne_02408,qua trinh khong de dang nhung ket qua xung dang,positive,2,appreciation,False,[],qua trinh khong de dang nhung ket qua xung dang,qua trinh khong de dang nhung ket qua xung_dang,qua trinh khong de dang nhung ket qua xung_dang,vne_02408,khong_dau,0
+vne_04772,di xe ban dem rat nguy hiem,negative,0,criticism,False,[],di xe ban dem rat nguy hiem,di xe ban dem rat nguy hiem,di xe ban dem rat nguy hiem,vne_04772,khong_dau,0
+vne_03074,Post anh book ma chua chac da doc,toxic,0,insult,True,"[""post→đăng""]",đăng anh book ma chua chac da doc,post anh book ma chua chac da doc,đăng anh book ma chua chac da doc,vne_03074,khong_dau,0
+vne_03205,Inting khi khong duoc position,toxic,0,insult,False,[],inting khi khong duoc position,inting khi khong duoc position,inting khi khong duoc position,vne_03205,khong_dau,0
+vne_01473,lon roi moi hieu dc y nghia cua nhac nay,positive,2,nostalgia,True,"[""dc→được""]",lon roi moi hieu được y nghia cua nhac nay,lon roi moi hieu dc y nghia cua nhac nay,lon roi moi hieu được y nghia cua nhac nay,vne_01473,khong_dau,0
+vne_03638,Di dau cung thay ban xau noi bat,toxic,0,bodyshaming,False,[],di dau cung thay ban xau noi bat,di_dau cung thay ban xau noi bat,di_dau cung thay ban xau noi bat,vne_03638,khong_dau,0
+vne_00015,Toi khong dong y voi quan diem nay,negative,0,disagreement,False,[],toi khong dong y voi quan diem nay,toi khong dong y voi quan diem nay,toi khong dong y voi quan diem nay,vne_00015,khong_dau,0
+vne_00777,"Dung vibe tui luon, yeu ghe!",positive,2,lifestyle,False,[],"dung vibe tui luon , yeu ghe !","dung vibe tui luon , yeu ghe !","dung vibe tui luon , yeu ghe !",vne_00777,khong_dau,0
+vne_01995,can them dan den san khau la xong,positive,2,joke,False,[],can them dan den san khau la xong,can them dan den san khau la xong,can them dan den san khau la xong,vne_01995,khong_dau,0
+vne_04511,banh trang uot het,negative,0,complaint,False,[],banh trang uot het,banh trang uot het,banh trang uot het,vne_04511,khong_dau,0
+vne_03276,"Coi thay buc minh, phi ca MB mang",toxic,0,insult,False,[],"coi thay buc minh , phi ca mb mang","coi thay buc minh , phi_ca mb mang","coi thay buc minh , phi_ca mb mang",vne_03276,khong_dau,0
+vne_01938,nhieu ban tuong dua nhung nguoi khac ton thuong that,negative,0,realization,True,"[""nguoi→người""]",nhieu ban tuong dua nhung người khac ton thuong that,nhieu ban tuong dua nhung nguoi khac ton thuong that,nhieu ban tuong dua nhung người khac ton thuong that,vne_01938,khong_dau,0
+vne_00784,"Ngai gium luon, awkward vai",negative,0,awkward,False,[],"ngai gium luon , awkward vai","ngai gium luon , awkward vai","ngai gium luon , awkward vai",vne_00784,khong_dau,0
+vne_02647,Loai nay chac bo me that vong lam,toxic,0,insult,False,[],loai nay chac bo me that vong lam,loai nay chac bo me that vong lam,loai nay chac bo me that vong lam,vne_02647,khong_dau,0
+vne_02072,xem clip xong muon hoc lai nganh y,positive,2,inspiration,False,[],xem clip xong muon hoc lai nganh y,xem clip xong muon hoc lai nganh y,xem clip xong muon hoc lai nganh y,vne_02072,khong_dau,0
+vne_01759,cai quan nay lam minh mat niem tin vo review tren mang,negative,0,disappointment,False,[],cai quan nay lam minh mat niem tin vo review tren mang,cai quan nay lam minh mat niem tin vo review tren mang,cai quan nay lam minh mat niem tin vo review tren mang,vne_01759,khong_dau,0
+vne_02513,lon r ma dau nghi j v:),negative,0,appreciation,True,"[""r→rồi"", ""j→gì""]",lon rồi ma dau nghi gì v : ),lon r ma dau nghi j v : ),lon rồi ma dau nghi gì v : ),vne_02513,khong_dau,0
+vne_03231,Disengage khi team dang win fight,toxic,0,insult,False,[],disengage khi team dang win fight,disengage khi team dang win fight,disengage khi team dang win fight,vne_03231,khong_dau,0
+vne_01023,"Dm, clip ni rac vcl, xoa di!",toxic,0,curse,True,"[""dm→địt mẹ"", ""vcl→vãi cả lồn""]","địt mẹ , clip ni rac vãi cả lồn , xoa di !","dm , clip ni rac vcl , xoa di !","địt_mẹ , clip ni rac vãi cả lồn , xoa di !",vne_01023,khong_dau,0
+vne_03244,Tier list worshipper ma skill C tier,toxic,0,insult,False,[],tier list worshipper ma skill c tier,tier list worshipper ma skill c tier,tier list worshipper ma skill c tier,vne_03244,khong_dau,0
+vne_04325,That vong voi update lan nay,negative,0,disappointment,False,[],that vong voi update lan nay,that vong voi update lan nay,that vong voi update lan nay,vne_04325,khong_dau,0
+vne_02260,Bao ve nhu vay moi dang yeu chu ,positive,2,compliment,False,[],bao ve nhu vay moi dang yeu chu,bao ve_nhu vay moi dang yeu chu,bao ve_nhu vay moi dang yeu chu,vne_02260,khong_dau,0
+vne_02902,Dat hang online nhu danh may rui,toxic,0,insult,False,[],dat hang online nhu danh may rui,dat hang online nhu danh may rui,dat hang online nhu danh may rui,vne_02902,khong_dau,0
+vne_03236,Item timing khong biet gi,toxic,0,insult,True,"[""biet→biết""]",item timing khong biết gi,item timing khong biet gi,item timing khong biết gi,vne_03236,khong_dau,0
+vne_03360,may co biet cai cach viet status do nhin ngu the nao?,toxic,0,insult,True,"[""biet→biết""]",may co biết cai cach viet status do nhin ngu the nao ?,may co biet cai cach viet status do nhin ngu the nao ?,may co biết cai cach viet status do nhin ngu the nao ?,vne_03360,khong_dau,0
+vne_00212,OTP cua toi day!,positive,2,shipping,False,[],otp cua toi day !,otp cua toi day !,otp cua toi day !,vne_00212,khong_dau,0
+vne_03404,cai video do nhin ma chi muon report ngay!,toxic,0,insult,False,[],cai video do nhin ma chi muon report ngay !,cai video do nhin ma chi muon report ngay !,cai video do nhin ma chi muon report ngay !,vne_03404,khong_dau,0
+vne_01337,"He ma lanh the nay, ve chac shock nang",toxic,0,sarcasm,False,[],"he ma lanh the nay , ve chac shock nang","he ma_lanh the nay , ve_chac shock nang","he ma_lanh the nay , ve_chac shock nang",vne_01337,khong_dau,0
+vne_02905,Ban hang ma khong co chut luong tam,toxic,0,insult,False,[],ban hang ma khong co chut luong tam,ban hang ma_khong co chut luong tam,ban hang ma_khong co chut luong tam,vne_02905,khong_dau,0
+vne_03633,Giong da chua lai con mat xau,toxic,0,bodyshaming,False,[],giong da chua lai con mat xau,giong da chua lai con mat xau,giong da chua lai con mat xau,vne_03633,khong_dau,0
+vne_01349,"Vat kiet view com que duong bau, Huy oi!",neutral,1,humor,False,[],"vat kiet view com que duong bau , huy oi !","vat kiet view com que duong bau , huy oi !","vat kiet view com que duong bau , huy oi !",vne_01349,khong_dau,0
+vne_01470,va sau nay khi lon khon roi,neutral,1,reflection,False,[],va sau nay khi lon khon roi,va sau nay khi lon khon roi,va sau nay khi lon khon roi,vne_01470,khong_dau,0
+vne_04821,Thich the hien ma khong biet xau ho,toxic,0,insult,True,"[""thich→thích"", ""biet→biết""]",thích the hien ma khong biết xau ho,thich the hien ma khong biet xau_ho,thích the hien ma khong biết xau_ho,vne_04821,khong_dau,0
+vne_00905,"Sang tao vai, noi dung doc la luon!",positive,2,creativity,False,[],"sang tao vai , noi dung doc la luon !","sang tao vai , noi dung doc la luon !","sang tao vai , noi dung doc la luon !",vne_00905,khong_dau,0
+vne_04146,Comment cho co chu video chan that,negative,0,criticism,True,"[""comment→bình luận""]",bình luận cho co chu video chan that,comment cho co chu video chan that,bình_luận cho co chu video chan that,vne_04146,khong_dau,0
+vne_03831,Ban thay cach dong goi the nao?,neutral,1,question,False,[],ban thay cach dong goi the nao ?,ban thay cach dong goi the nao ?,ban thay cach dong goi the nao ?,vne_03831,khong_dau,0
+vne_03118,Post anh book recommendation ma chua doc,toxic,0,insult,True,"[""post→đăng""]",đăng anh book recommendation ma chua doc,post anh book recommendation ma chua doc,đăng anh book recommendation ma chua doc,vne_03118,khong_dau,0
+vne_00112,Meeting luc may gio?,neutral,1,question,False,[],meeting luc may gio ?,meeting luc may gio ?,meeting luc may gio ?,vne_00112,khong_dau,0
+vne_02740,Lam gi cung thay gia tao,toxic,0,insult,False,[],lam gi cung thay gia tao,lam gi cung thay gia tao,lam gi cung thay gia tao,vne_02740,khong_dau,0
+vne_00731,"Khong sao dau, cu lam di",neutral,1,dismissal,False,[],"khong sao dau , cu lam di","khong sao dau , cu lam_di","khong sao dau , cu lam_di",vne_00731,khong_dau,0
+vne_03409,cai status nay nhin la biet khong co chat gi!,toxic,0,insult,True,"[""biet→biết""]",cai status nay nhin la biết khong co chat gi !,cai status nay nhin la biet khong co chat gi !,cai status nay nhin la biết khong co chat gi !,vne_03409,khong_dau,0
+vne_00827,"OK, tui hieu roi",neutral,1,acknowledgment,False,[],"ok , tui hieu roi","ok , tui hieu roi","ok , tui hieu roi",vne_00827,khong_dau,0
+vne_01479,nghe hoai khong chan luon,positive,2,appreciation,False,[],nghe hoai khong chan luon,nghe hoai khong chan luon,nghe hoai khong chan luon,vne_01479,khong_dau,0
+vne_01395,An com que ma tuong dang o Dubai ,negative,0,humor,False,[],an com que ma tuong dang o dubai,an com que ma tuong dang o dubai,an com que ma tuong dang o dubai,vne_01395,khong_dau,0
+vne_01198,"Pha di san quoc gia ma ko bi gi, bat cong vl",negative,0,anger,True,"[""ko→không"", ""vl→vãi lồn""]","pha di san quoc gia ma không bi gi , bat cong vãi lồn","pha di_san quoc gia ma ko bi gi , bat cong vl","pha di_san quoc gia ma không bi gi , bat cong vãi lồn",vne_01198,khong_dau,0
+vne_00934,"O, tui se check sau",neutral,1,acknowledgment,False,[],"o , tui se check sau","o , tui se check sau","o , tui se check sau",vne_00934,khong_dau,0
+vne_01737,quan chi phu hop de song ao,neutral,1,social\_use,False,[],quan chi phu hop de song ao,quan chi phu hop de song ao,quan chi phu hop de song ao,vne_01737,khong_dau,0
+vne_01311,"Thoi tiet bat on the nay, mai nong lai chac",negative,0,anger,False,[],"thoi tiet bat on the nay , mai nong lai chac","thoi tiet bat on the nay , mai nong lai chac","thoi tiet bat on the nay , mai nong lai chac",vne_01311,khong_dau,0
+vne_03715,Ban dang dung dong dien thoai gi?,neutral,1,question,False,[],ban dang dung dong dien thoai gi ?,ban dang dung dong dien thoai gi ?,ban dang dung dong dien thoai gi ?,vne_03715,khong_dau,0
+vne_02932,Choi game te ma con day nguoi khac,toxic,0,insult,True,"[""nguoi→người""]",choi game te ma con day người khac,choi game te ma con day nguoi khac,choi game te ma con day người khac,vne_02932,khong_dau,0
+vne_02265,Tran trong tung hanh dong dep nhu nay,positive,2,appreciation,False,[],tran trong tung hanh dong dep nhu nay,tran trong tung hanh dong dep nhu nay,tran trong tung hanh dong dep nhu nay,vne_02265,khong_dau,0
+vne_02150,met chet :))),neutral,1,exhausted,False,"["":)))→cười""]",met chet cười,met chet : ) ) ),met chet cười,vne_02150,khong_dau,0
+vne_03131,Anh self care ma mental health bad,toxic,0,insult,False,[],anh self care ma mental health bad,anh self care ma mental health bad,anh self care ma mental health bad,vne_03131,khong_dau,0
+vne_00047,Tuy ban thoi,neutral,1,indifference,False,[],tuy ban thoi,tuy ban thoi,tuy ban thoi,vne_00047,khong_dau,0
+vne_00759,"Dm, lua dao ha? Dung tin!",toxic,0,warning,True,"[""dm→địt mẹ""]","địt mẹ , lua dao ha ? dung tin !","dm , lua dao ha ? dung tin !","địt_mẹ , lua dao ha ? dung tin !",vne_00759,khong_dau,0
+vne_04786,xe oto cho hang thi dong ma lam on,negative,0,complaint,False,[],xe oto cho hang thi dong ma lam on,xe oto cho hang thi dong ma lam on,xe oto cho hang thi dong ma lam on,vne_04786,khong_dau,0
+vne_04337,Khong hai long voi co che giao dich,negative,0,complaint,False,[],khong hai long voi co che giao dich,khong hai long voi co che giao dich,khong hai long voi co che giao dich,vne_04337,khong_dau,0
+vne_01282,Xin stk de ho tro chut dinh,neutral,1,question,True,"[""stk→số tài khoản""]",xin số tài khoản de ho tro chut dinh,xin stk de ho tro chut dinh,xin số tài_khoản de ho tro chut dinh,vne_01282,khong_dau,0
+vne_03657,Ban dang dung dien thoai gi quay vay?,neutral,1,question,False,[],ban dang dung dien thoai gi quay vay ?,ban dang dung dien thoai gi quay vay ?,ban dang dung dien thoai gi quay vay ?,vne_03657,khong_dau,0
+vne_02234,tui cuoi toi khan tieng luon a,positive,2,reaction,False,[],tui cuoi toi khan tieng luon a,tui cuoi toi khan tieng luon a,tui cuoi toi khan tieng luon a,vne_02234,khong_dau,0
+vne_03666,Ban noi dung,neutral,1,agreement,False,[],ban noi dung,ban noi dung,ban noi dung,vne_03666,khong_dau,0
+vne_04832,Tuong ai hay ho lam hoa ra cung vay,toxic,0,insult,False,[],tuong ai hay ho lam hoa ra cung vay,tuong ai hay_ho lam hoa ra cung vay,tuong ai hay_ho lam hoa ra cung vay,vne_04832,khong_dau,0
+vne_02054,Em nhan saunha,positive,2,flirty,False,[],em nhan saunha,em nhan saunha,em nhan saunha,vne_02054,khong_dau,0
+vne_02479,"Lam duong, xay cau chu khong di ho khau hieu",positive,2,appreciation,False,[],"lam duong , xay cau chu khong di ho khau hieu","lam duong , xay cau chu khong_di_ho khau hieu","lam duong , xay cau chu khong_di_ho khau hieu",vne_02479,khong_dau,0
+vne_01245,"Ngheo thi o vay, de chi cho kho",negative,0,suggestion,False,[],"ngheo thi o vay , de chi cho kho","ngheo thi o vay , de chi cho kho","ngheo thi o vay , de chi cho kho",vne_01245,khong_dau,0
+vne_01912,"tung bi treu vi giong que, nen hieu cam giac",negative,0,empathy,False,[],"tung bi treu vi giong que , nen hieu cam giac","tung bi treu vi giong que , nen hieu cam giac","tung bi treu vi giong que , nen hieu cam giac",vne_01912,khong_dau,0
+vne_02786,San pham khac hoan toan mo ta,toxic,0,insult,False,[],san pham khac hoan toan mo ta,san pham khac hoan toan mo ta,san pham khac hoan toan mo ta,vne_02786,khong_dau,0
+vne_04694,"duong ngap nhu song, khong chay xe noi",negative,0,complaint,False,[],"duong ngap nhu song , khong chay xe noi","duong ngap nhu song , khong chay xe noi","duong ngap nhu song , khong chay xe noi",vne_04694,khong_dau,0
+vne_01776,van chua hieu thong diep lam,neutral,1,confused,False,[],van chua hieu thong diep lam,van chua hieu thong diep lam,van chua hieu thong diep lam,vne_01776,khong_dau,0
+vne_04332,Khong thich cach can bang tuong hien tai,negative,0,criticism,True,"[""thich→thích""]",khong thích cach can bang tuong hien tai,khong thich cach can bang tuong hien tai,khong thích cach can bang tuong hien tai,vne_04332,khong_dau,0
+vne_02241,nhiu thang con chui bac bao ve chac do gio k duoc ai day,positive,2,appreciation,True,"[""k→không""]",nhiu thang con chui bac bao ve chac do gio không duoc ai day,nhiu thang con chui bac bao ve_chac do gio k duoc ai day,nhiu thang con chui bac bao ve_chac do gio không duoc ai day,vne_02241,khong_dau,0
+vne_02220,ai dam noi hoc sinh khong biet dien xuat,positive,2,student\_talent,True,"[""biet→biết""]",ai dam noi hoc sinh khong biết dien xuat,ai dam noi hoc sinh khong biet dien xuat,ai dam noi hoc sinh khong biết dien xuat,vne_02220,khong_dau,0
+vne_02687,Cai loai gay o nhiem khong gian mang,toxic,0,insult,False,[],cai loai gay o nhiem khong gian mang,cai loai gay o nhiem khong gian mang,cai loai gay o nhiem khong gian mang,vne_02687,khong_dau,0
+vne_03735,Ban co video huong dan khong?,neutral,1,request,False,[],ban co video huong dan khong ?,ban co video huong dan khong ?,ban co video huong dan khong ?,vne_03735,khong_dau,0
+vne_02444,"moi nguoi moi cam nhan, dung ep nhau",positive,2,appreciation,True,"[""nguoi→người""]","moi người moi cam nhan , dung ep nhau","moi nguoi moi cam nhan , dung ep nhau","moi người moi cam nhan , dung ep nhau",vne_02444,khong_dau,0
+vne_01877,cai gi ma cu dem vung mien ra dua vay troi,negative,0,criticism,False,[],cai gi ma cu dem vung mien ra dua vay troi,cai gi ma cu dem vung mien ra dua vay troi,cai gi ma cu dem vung mien ra dua vay troi,vne_01877,khong_dau,0
+vne_04799,Chiu khong noi cai kieu song hai mat,toxic,0,insult,False,[],chiu khong noi cai kieu song hai mat,chiu khong noi cai kieu song hai mat,chiu khong noi cai kieu song hai mat,vne_04799,khong_dau,0
+vne_03655,"Doan nay hoi nhanh, toi xem chua kip",neutral,1,statement,False,[],"doan nay hoi nhanh , toi xem chua kip","doan nay hoi nhanh , toi xem chua kip","doan nay hoi nhanh , toi xem chua kip",vne_03655,khong_dau,0
+vne_01186,Bao ve lang chac di choi nen ko thay,negative,0,sarcasm,True,"[""ko→không""]",bao ve lang chac di choi nen không thay,bao ve_lang chac di_choi nen ko thay,bao ve_lang chac di_choi nen không thay,vne_01186,khong_dau,0
+vne_00835,Cho phan tiep theo cua ban nha,neutral,1,anticipation,False,[],cho phan tiep theo cua ban nha,cho phan tiep theo cua ban nha,cho phan tiep theo cua ban nha,vne_00835,khong_dau,0
+vne_00745,"Video lag qua, fix gium nha",neutral,1,technical_issue,False,[],"video lag qua , fix gium nha","video lag qua , fix gium nha","video lag qua , fix gium nha",vne_00745,khong_dau,0
+vne_02012,muon xin slot hoc ke lop nay,positive,2,joke,False,[],muon xin slot hoc ke lop nay,muon xin slot hoc ke lop nay,muon xin slot hoc ke lop nay,vne_02012,khong_dau,0
+vne_02929,Stream ma lag nhu rua bo,toxic,0,insult,False,[],stream ma lag nhu rua bo,stream ma lag nhu rua bo,stream ma lag nhu rua bo,vne_02929,khong_dau,0
+vne_04307,Khong thay vui nhu quang cao,negative,0,disappointment,False,[],khong thay vui nhu quang cao,khong thay vui nhu quang cao,khong thay vui nhu quang cao,vne_04307,khong_dau,0
+vne_00762,"Do rac ruoi, dung dang nua",toxic,0,offensive,False,[],"do rac ruoi , dung dang nua","do rac ruoi , dung dang nua","do rac ruoi , dung dang nua",vne_00762,khong_dau,0
+vne_01501,nghe thoi da thay nhe long,positive,2,soothing,False,[],nghe thoi da thay nhe long,nghe thoi da thay nhe long,nghe thoi da thay nhe long,vne_01501,khong_dau,0
+vne_01500,giong chi nay gan lien voi ca thanh xuan toi,positive,2,nostalgia,False,[],giong chi nay gan lien voi ca thanh xuan toi,giong chi nay gan lien voi ca thanh xuan toi,giong chi nay gan lien voi ca thanh xuan toi,vne_01500,khong_dau,0
+vne_02055,Em nhan saunhe,positive,2,flirty,False,[],em nhan saunhe,em nhan saunhe,em nhan saunhe,vne_02055,khong_dau,0
+vne_01334,Thoi tiet Ha Noi dung la drama queen,negative,0,humor,False,[],thoi tiet ha noi dung la drama queen,thoi tiet ha noi dung la drama queen,thoi tiet ha noi dung la drama queen,vne_01334,khong_dau,0
+vne_01235,"Da ngheo con de, dung la het noi",toxic,0,insult,False,[],"da ngheo con de , dung la het noi","da ngheo con de , dung la het noi","da ngheo con de , dung la het noi",vne_01235,khong_dau,0
+vne_01628,"tuc ghe, sao minh nghi nhieu the",neutral,1,overthinking,False,[],"tuc ghe , sao minh nghi nhieu the","tuc ghe , sao minh nghi nhieu the","tuc ghe , sao minh nghi nhieu the",vne_01628,khong_dau,0
+vne_00138,Part 2 khi nao ra vay?,neutral,1,anticipation,False,[],part 2 khi nao ra vay ?,part 2 khi nao ra vay ?,part 2 khi nao ra vay ?,vne_00138,khong_dau,0
+vne_04525,"cha lua thiu, hoi moc",negative,0,complaint,False,[],"cha lua thiu , hoi moc","cha lua thiu , hoi moc","cha lua thiu , hoi moc",vne_04525,khong_dau,0
+vne_02564,the xem se co pham phap khong,positive,2,appreciation,False,[],the xem se co pham phap khong,the xem se co pham phap khong,the xem se co pham phap khong,vne_02564,khong_dau,0
+vne_02764,Cu tuong noi tieng lam,toxic,0,insult,False,[],cu tuong noi tieng lam,cu tuong noi tieng lam,cu tuong noi tieng lam,vne_02764,khong_dau,0
+vne_00833,"Khong sao, cu tiep tuc nha",neutral,1,dismissal,False,[],"khong sao , cu tiep tuc nha","khong sao , cu tiep tuc nha","khong sao , cu tiep tuc nha",vne_00833,khong_dau,0
+vne_01065,"Dm, lua dao ha? Dung tin nha!",toxic,0,warning,True,"[""dm→địt mẹ""]","địt mẹ , lua dao ha ? dung tin nha !","dm , lua dao ha ? dung tin nha !","địt_mẹ , lua dao ha ? dung tin nha !",vne_01065,khong_dau,0
+vne_01003,"Tks b nhiu, info huu ich vcl!",positive,2,gratitude,True,"[""tks→cảm ơn"", ""vcl→vãi cả lồn""]","cảm ơn b nhiu , info huu ich vãi cả lồn !","tks b nhiu , info huu ich vcl !","cảm_ơn b nhiu , info huu ich vãi cả lồn !",vne_01003,khong_dau,0
+vne_03004,Streamer fake enthusiasm suot ngay,toxic,0,insult,False,[],streamer fake enthusiasm suot ngay,streamer fake enthusiasm suot ngay,streamer fake enthusiasm suot ngay,vne_03004,khong_dau,0
+vne_02218,dien ma nhu khong dien,positive,2,natural,False,[],dien ma nhu khong dien,dien ma nhu khong dien,dien ma nhu khong dien,vne_02218,khong_dau,0
+vne_01775,may clip kieu nay hay ma hoi thieu logic,neutral,1,critique,False,[],may clip kieu nay hay ma hoi thieu logic,may clip kieu nay hay ma hoi thieu logic,may clip kieu nay hay ma hoi thieu logic,vne_01775,khong_dau,0
+vne_02736,Chan chang buon binh luan,toxic,0,insult,False,[],chan chang buon binh luan,chan chang buon binh luan,chan chang buon binh luan,vne_02736,khong_dau,0
+vne_01566,nguoi Viet long gioi thiet chu,positive,2,respect,True,"[""nguoi→người""]",người viet long gioi thiet chu,nguoi viet long gioi thiet chu,người viet long gioi thiet chu,vne_01566,khong_dau,0
+vne_01418,Duong bau vat view com que toi kho luon ,neutral,1,humor,False,[],duong bau vat view com que toi kho luon,duong bau vat view com que toi kho luon,duong bau vat view com que toi kho luon,vne_01418,khong_dau,0
+vne_01151,"Pha di san quoc gia ma ko bi gi, bat cong qua",negative,0,anger,True,"[""ko→không""]","pha di san quoc gia ma không bi gi , bat cong qua","pha di_san quoc gia ma ko bi gi , bat cong qua","pha di_san quoc gia ma không bi gi , bat cong qua",vne_01151,khong_dau,0
+vne_01690,quan trang tri dep nhung do an khong tuong xung gia,negative,0,review,False,[],quan trang tri dep nhung do an khong tuong xung gia,quan trang tri dep nhung do an khong tuong xung_gia,quan trang tri dep nhung do an khong tuong xung_gia,vne_01690,khong_dau,0
+vne_00737,Happy new year! Chuc nam moi vui ve,positive,2,celebration,False,[],happy new year ! chuc nam moi vui ve,happy new year ! chuc nam moi vui ve,happy new year ! chuc nam moi vui ve,vne_00737,khong_dau,0
+vne_00764,"Chat qua, ban la so 1!",positive,2,compliment,False,[],"chat qua , ban la so 1 !","chat qua , ban la so 1 !","chat qua , ban la so 1 !",vne_00764,khong_dau,0
+vne_02358,may ban nho gio xin ghe ha,positive,2,compliment,False,[],may ban nho gio xin ghe ha,may ban nho gio xin ghe ha,may ban nho gio xin ghe ha,vne_02358,khong_dau,0
+vne_02534,Giai tri nhe thoi ne,positive,2,appreciation,False,[],giai tri nhe thoi ne,giai tri_nhe thoi ne,giai tri_nhe thoi ne,vne_02534,khong_dau,0
+vne_04731,xe may chay len via he nhu cho khong nguoi,negative,0,criticism,True,"[""nguoi→người""]",xe may chay len via he nhu cho khong người,xe may chay len via he nhu cho khong nguoi,xe may chay len via he nhu cho khong người,vne_04731,khong_dau,0
+vne_02530,Nen hoc cach cam thong nhieu hon,positive,2,useful,False,[],nen hoc cach cam thong nhieu hon,nen hoc cach cam thong nhieu hon,nen hoc cach cam thong nhieu hon,vne_02530,khong_dau,0
+vne_00491,23333 trung funny,positive,2,chinese_laugh,False,[],23333 trung funny,23333 trung funny,23333 trung funny,vne_00491,khong_dau,0
+vne_04739,duong moi lam ma da bong troc,negative,0,criticism,False,[],duong moi lam ma da bong troc,duong moi lam ma da bong troc,duong moi lam ma da bong troc,vne_04739,khong_dau,0
+vne_04439,nghe muon tat am thanh,negative,0,disappointment,False,[],nghe muon tat am thanh,nghe muon tat am thanh,nghe muon tat am thanh,vne_04439,khong_dau,0
+vne_02864,Hang ve muon dot cho sach,toxic,0,insult,False,[],hang ve muon dot cho sach,hang ve_muon dot cho sach,hang ve_muon dot cho sach,vne_02864,khong_dau,0
+vne_04383,Khong thay vui nhu gioi thieu,negative,0,disappointment,False,[],khong thay vui nhu gioi thieu,khong thay vui nhu gioi thieu,khong thay vui nhu gioi thieu,vne_04383,khong_dau,0
+vne_04557,cha ca khong con nong,negative,0,criticism,False,[],cha ca khong con nong,cha ca khong con nong,cha ca khong con nong,vne_04557,khong_dau,0
+vne_00710,Thong tin nay khong dung dau ban,negative,0,correction,False,[],thong tin nay khong dung dau ban,thong tin nay khong dung dau ban,thong tin nay khong dung dau ban,vne_00710,khong_dau,0
+vne_04303,Matchmaking khong cong bang chut nao,negative,0,criticism,False,[],matchmaking khong cong bang chut nao,matchmaking khong cong_bang chut nao,matchmaking khong cong_bang chut nao,vne_04303,khong_dau,0
+vne_02284,:))) ma anh vi oiiiiii a vua chua quaaa,positive,2,appreciation,True,"["":)))→cười"", ""oiiiiii→oi"", ""quaaa→qua""]",cười ma anh vi oi a vua chua qua,: ) ) ) ma anh vi oiiiiii a vua chua quaaa,cười ma anh vi oi a vua chua qua,vne_02284,khong_dau,0
+vne_02013,ca lop nhu buoc ra tu phim dien anh,positive,2,style,False,[],ca lop nhu buoc ra tu phim dien anh,ca lop nhu buoc ra tu phim dien anh,ca lop nhu buoc ra tu phim dien anh,vne_02013,khong_dau,0
+vne_00751,"Trend nay hot that, ban bat kip ghe",positive,2,trending,True,"[""trend→xu hướng""]","xu hướng nay hot that , ban bat kip ghe","trend nay hot_that , ban bat kip ghe","xu_hướng nay hot_that , ban bat kip ghe",vne_00751,khong_dau,0
+vne_03913,Ban thay chinh sach doi tra co de khong?,neutral,1,question,False,[],ban thay chinh sach doi tra co de khong ?,ban thay chinh sach doi tra co de khong ?,ban thay chinh sach doi tra co de khong ?,vne_03913,khong_dau,0
+vne_03520,may nghi body beo nhu banh bao do la dep a?,toxic,0,insult,False,[],may nghi body beo nhu banh bao do la dep a ?,may nghi body beo nhu banh bao do la dep a ?,may nghi body beo nhu banh bao do la dep a ?,vne_03520,khong_dau,0
+vne_04626,video quay ngoai troi ha?,neutral,1,question,False,[],video quay ngoai troi ha ?,video quay ngoai troi ha ?,video quay ngoai troi ha ?,vne_04626,khong_dau,0
+vne_03819,Ban thay phan mem co on khong?,neutral,1,question,False,[],ban thay phan mem co on khong ?,ban thay phan mem co on khong ?,ban thay phan mem co on khong ?,vne_03819,khong_dau,0
+vne_01793,minh tung trai qua dung kieu vay luon,positive,2,real\_life,False,[],minh tung trai qua dung kieu vay luon,minh tung trai qua dung kieu vay luon,minh tung trai qua dung kieu vay luon,vne_01793,khong_dau,0
+vne_00510,ko ro,neutral,1,unclear,True,"[""ko→không""]",không ro,ko ro,không ro,vne_00510,khong_dau,0
+vne_01866,dan quang ninh cung trang treo ma,positive,2,defense,False,[],dan quang ninh cung trang treo ma,dan quang ninh cung trang treo ma,dan quang ninh cung trang treo ma,vne_01866,khong_dau,0
+vne_02663,Khong biet dieu thi im gium cai,toxic,0,insult,True,"[""biet→biết""]",khong biết dieu thi im gium cai,khong biet dieu thi im gium_cai,khong biết dieu thi im gium_cai,vne_02663,khong_dau,0
+vne_03811,Co the dong goi ky khong ban?,neutral,1,request,False,[],co the dong goi ky khong ban ?,co the_dong goi ky khong ban ?,co the_dong goi ky khong ban ?,vne_03811,khong_dau,0
+vne_04697,"xe buyt dung bat ngo, nguy hiem",negative,0,criticism,False,[],"xe buyt dung bat ngo , nguy hiem","xe buyt dung bat ngo , nguy hiem","xe buyt dung bat ngo , nguy hiem",vne_04697,khong_dau,0
+vne_03783,San pham co de ve sinh khong ban?,neutral,1,question,False,[],san pham co de ve sinh khong ban ?,san pham co de ve_sinh khong ban ?,san pham co de ve_sinh khong ban ?,vne_03783,khong_dau,0
+vne_01149,Tam than thi gia dinh phai quan ly chu,neutral,1,suggestion,False,[],tam than thi gia dinh phai quan ly chu,tam than thi gia dinh phai quan ly chu,tam than thi gia dinh phai quan ly chu,vne_01149,khong_dau,0
+vne_00037,Toi se xem xet,neutral,1,consideration,False,[],toi se xem xet,toi se xem xet,toi se xem xet,vne_00037,khong_dau,0
+vne_04218,Xem video chan that su,negative,0,disappointment,False,[],xem video chan that su,xem video chan that su,xem video chan that su,vne_04218,khong_dau,0
+vne_04344,Khong thich meta game hien tai chut nao,negative,0,criticism,True,"[""thich→thích""]",khong thích meta game hien tai chut nao,khong thich meta game hien tai chut nao,khong thích meta game hien tai chut nao,vne_04344,khong_dau,0
+vne_02627,moi ngay hoc them 1 dieu moi,positive,2,useful,False,[],moi ngay hoc them 1 dieu moi,moi ngay hoc them 1 dieu moi,moi ngay hoc them 1 dieu moi,vne_02627,khong_dau,0
+vne_01932,may cai clip vay de bi bop meo y nghia,neutral,1,distortion,False,[],may cai clip vay de bi bop meo y nghia,may cai clip vay de bi bop meo y nghia,may cai clip vay de bi bop meo y nghia,vne_01932,khong_dau,0
+vne_01610,cap khong sai nhung lam nguoi ta phai suy nghi lai,positive,2,thoughtful,True,"[""nguoi→người""]",cap khong sai nhung lam người ta phai suy nghi lai,cap khong sai nhung lam nguoi ta phai suy nghi_lai,cap khong sai nhung lam người_ta phai suy nghi_lai,vne_01610,khong_dau,0
+vne_04804,Len mang ke kho de cau thuong hai a?,toxic,0,insult,False,[],len mang ke kho de cau thuong hai a ?,len mang ke kho de cau thuong hai a ?,len mang ke kho de cau thuong hai a ?,vne_04804,khong_dau,0
+vne_01930,moi lan vung mien bi loi ra la thay drama,negative,0,drama,False,[],moi lan vung mien bi loi ra la thay drama,moi lan vung mien bi loi ra la thay drama,moi lan vung mien bi loi ra la thay drama,vne_01930,khong_dau,0
+vne_04265,Noi dung cu nhu copy lai,negative,0,criticism,False,[],noi dung cu nhu copy lai,noi dung cu nhu copy lai,noi dung cu nhu copy lai,vne_04265,khong_dau,0
+vne_02892,Chat luong nhu do choi tre con,toxic,0,insult,False,[],chat luong nhu do choi tre con,chat luong nhu do choi tre con,chat luong nhu do choi tre con,vne_02892,khong_dau,0
+vne_01216,"Thuong anh lam, co len anh nhe",positive,2,neutral,False,[],"thuong anh lam , co len anh nhe","thuong anh lam , co len anh nhe","thuong anh lam , co len anh nhe",vne_01216,khong_dau,0
+vne_03058,Anh OOTD ma outfit xau kinh hoang,toxic,0,insult,False,[],anh ootd ma outfit xau kinh hoang,anh ootd ma outfit xau kinh hoang,anh ootd ma outfit xau kinh hoang,vne_03058,khong_dau,0
+vne_04450,noi loi nhieu,negative,0,criticism,False,[],noi loi nhieu,noi loi nhieu,noi loi nhieu,vne_04450,khong_dau,0
+vne_04605,video nay co sub khong ban?,neutral,1,question,True,"[""sub→đăng ký""]",video nay co đăng ký khong ban ?,video nay co sub khong ban ?,video nay co đăng_ký khong ban ?,vne_04605,khong_dau,0
+vne_02515,Check bien so xe la ra ngay,positive,2,appreciation,False,[],check bien so xe la ra ngay,check bien so xe la ra ngay,check bien so xe la ra ngay,vne_02515,khong_dau,0
+vne_02068,vo benh vien ma khong muon xuat vien,positive,2,teasing,False,[],vo benh vien ma khong muon xuat vien,vo benh vien ma khong muon xuat vien,vo benh vien ma khong muon xuat vien,vne_02068,khong_dau,0
+vne_01949,"clip chi la 1 goc nhin, dung ap len tat ca",neutral,1,perspective,False,[],"clip chi la 1 goc nhin , dung ap len tat ca","clip chi la 1 goc nhin , dung ap len tat ca","clip chi la 1 goc nhin , dung ap len tat ca",vne_01949,khong_dau,0
+vne_00921,"Dm, video nay rac vcl, xoa di!",toxic,0,curse,True,"[""dm→địt mẹ"", ""vcl→vãi cả lồn""]","địt mẹ , video nay rac vãi cả lồn , xoa di !","dm , video nay rac vcl , xoa di !","địt_mẹ , video nay rac vãi cả lồn , xoa di !",vne_00921,khong_dau,0
+vne_00267,Killed it! Xuat sac,positive,2,excellence,False,[],killed it ! xuat sac,killed it ! xuat sac,killed it ! xuat sac,vne_00267,khong_dau,0
+vne_02102,clip nay la nguon nang luong tich cuc moi sang,positive,2,positive\_vibes,False,[],clip nay la nguon nang luong tich cuc moi sang,clip nay la nguon nang luong tich cuc moi sang,clip nay la nguon nang luong tich cuc moi sang,vne_02102,khong_dau,0
+vne_03182,Counter pick ma van thua lane,toxic,0,insult,False,[],counter pick ma van thua lane,counter pick ma van thua lane,counter pick ma van thua lane,vne_03182,khong_dau,0
+vne_04835,Cu dong vai dang thuong la duoc tha thu a?,toxic,0,insult,False,[],cu dong vai dang thuong la duoc tha thu a ?,cu dong vai dang thuong la duoc tha thu a ?,cu dong vai dang thuong la duoc tha thu a ?,vne_04835,khong_dau,0
+vne_01362,Com que duong bau khia anh Huy clip nua ne,neutral,1,humor,False,[],com que duong bau khia anh huy clip nua ne,com que duong bau khia anh huy clip nua ne,com que duong bau khia anh huy clip nua ne,vne_01362,khong_dau,0
+vne_03077,Post anh workout ma body fake,toxic,0,insult,True,"[""post→đăng""]",đăng anh workout ma body fake,post anh workout ma body fake,đăng anh workout ma body fake,vne_03077,khong_dau,0
+vne_04839,Luc can im thi lai len tieng,toxic,0,insult,False,[],luc can im thi lai len tieng,luc can im thi lai len tieng,luc can im thi lai len tieng,vne_04839,khong_dau,0
+vne_03332,may nghi post cai clip do len fb la ngau lam a?,toxic,0,insult,True,"[""post→đăng"", ""fb→facebook""]",may nghi đăng cai clip do len facebook la ngau lam a ?,may nghi_post cai clip do len fb la ngau lam a ?,may nghi đăng_cai clip do len facebook la ngau lam a ?,vne_03332,khong_dau,0
+vne_01398,"Clip anh Huy vui, xem xong muon an com que ",positive,2,neutral,False,[],"clip anh huy vui , xem xong muon an com que","clip anh huy vui , xem xong muon an com que","clip anh huy vui , xem xong muon an com que",vne_01398,khong_dau,0
+vne_04622,ngon nhin la biet,neutral,1,statement,True,"[""biet→biết""]",ngon nhin la biết,ngon nhin la biet,ngon nhin la biết,vne_04622,khong_dau,0
+vne_00217,Relationship nay precious lam,positive,2,precious,False,[],relationship nay precious lam,relationship nay precious lam,relationship nay precious lam,vne_00217,khong_dau,0
+vne_00098,Y tuong hay nhung thuc hien chua tot,negative,0,constructive_criticism,False,[],y tuong hay nhung thuc hien chua tot,y tuong hay nhung thuc hien chua tot,y tuong hay nhung thuc hien chua tot,vne_00098,khong_dau,0
+vne_04401,ko thu vi nhu mo ta,negative,0,disappointment,True,"[""ko→không""]",không thu vi nhu mo ta,ko thu vi nhu mo ta,không thu vi nhu mo ta,vne_04401,khong_dau,0
+vne_04569,tra sua nhin khong dep mat,negative,0,criticism,False,[],tra sua nhin khong dep mat,tra sua nhin khong dep mat,tra sua nhin khong dep mat,vne_04569,khong_dau,0
+vne_02804,Ban hang ma chang biet xau ho,toxic,0,insult,True,"[""biet→biết""]",ban hang ma chang biết xau ho,ban hang ma chang biet xau_ho,ban hang ma chang biết xau_ho,vne_02804,khong_dau,0
+vne_01538,giong long tung nhan vat khac nhau cuc hay,positive,2,skill,False,[],giong long tung nhan vat khac nhau cuc hay,giong long tung nhan vat khac nhau cuc hay,giong long tung nhan vat khac nhau cuc hay,vne_01538,khong_dau,0
+vne_00142,Reaction video nay di,neutral,1,request,False,[],reaction video nay di,reaction video nay di,reaction video nay di,vne_00142,khong_dau,0
+vne_01346,Mat me the nay dung la troi chieu long nguoi,positive,2,neutral,True,"[""nguoi→người""]",mat me the nay dung la troi chieu long người,mat me the nay dung la troi chieu long nguoi,mat me the nay dung la troi chieu long người,vne_01346,khong_dau,0
+vne_00888,"Fake vcl, cha tu nhien gi het",negative,0,artificial,True,"[""vcl→vãi cả lồn""]","fake vãi cả lồn , cha tu nhien gi het","fake vcl , cha tu nhien gi het","fake vãi cả lồn , cha tu nhien gi het",vne_00888,khong_dau,0
+vne_01846,clip nay nhu tho luon a,positive,2,poetic,False,[],clip nay nhu tho luon a,clip nay nhu tho luon a,clip nay nhu tho luon a,vne_01846,khong_dau,0
+vne_04509,cafe nhat va chua,negative,0,criticism,False,[],cafe nhat va chua,cafe nhat va chua,cafe nhat va chua,vne_04509,khong_dau,0
+vne_04290,Khong ro noi dung truyen tai,negative,0,criticism,False,[],khong ro noi dung truyen tai,khong ro noi dung truyen tai,khong ro noi dung truyen tai,vne_04290,khong_dau,0
+vne_03919,Ban thay hieu suat san pham ra sao?,neutral,1,question,False,[],ban thay hieu suat san pham ra sao ?,ban thay hieu suat san pham ra sao ?,ban thay hieu suat san pham ra sao ?,vne_03919,khong_dau,0
+vne_04603,cai nay la banh trang cuon phai khong?,neutral,1,question,False,[],cai nay la banh trang cuon phai khong ?,cai nay la banh trang cuon phai khong ?,cai nay la banh trang cuon phai khong ?,vne_04603,khong_dau,0
+vne_03501,Nguoi dau vua lun vua beo,toxic,0,bodyshaming,True,"[""nguoi→người""]",người dau vua lun vua beo,nguoi dau vua lun vua beo,người dau vua lun vua beo,vne_03501,khong_dau,0
+vne_02728,Xem clip thay te vo cung,toxic,0,insult,False,[],xem clip thay te vo cung,xem clip thay te vo cung,xem clip thay te vo cung,vne_02728,khong_dau,0
+vne_04555,quan an hoi hoi,negative,0,criticism,False,[],quan an hoi hoi,quan_an hoi hoi,quan_an hoi hoi,vne_04555,khong_dau,0
+vne_04879,Khong lien quan ma van thich nhay vao,toxic,0,insult,True,"[""thich→thích""]",khong lien quan ma van thích nhay vao,khong lien quan ma van thich nhay vao,khong lien quan ma van thích nhay vao,vne_04879,khong_dau,0
+vne_02509,Rat mong nha nuoc tao dieu kien cho cac don vi nhu vay phat trien,positive,2,useful,False,[],rat mong nha nuoc tao dieu kien cho cac don vi nhu vay phat trien,rat mong nha nuoc tao dieu kien cho cac don vi nhu vay phat trien,rat mong nha nuoc tao dieu kien cho cac don vi nhu vay phat trien,vne_02509,khong_dau,0
+vne_04300,Nhan vat can bang kem qua,negative,0,criticism,False,[],nhan vat can bang kem qua,nhan vat can bang kem qua,nhan vat can bang kem qua,vne_04300,khong_dau,0
+vne_02115,phai goi day la chan dong thi giac,positive,2,dramatic,False,[],phai goi day la chan dong thi giac,phai goi day la chan dong thi giac,phai goi day la chan dong thi giac,vne_02115,khong_dau,0
+vne_03599,may co biet cai chan ngan do nhin te the nao?,toxic,0,insult,True,"[""biet→biết""]",may co biết cai chan ngan do nhin te the nao ?,may co biet cai chan ngan do nhin te the nao ?,may co biết cai chan ngan do nhin te the nao ?,vne_03599,khong_dau,0
+vne_03612,Rang khenh lon xon nhin kem duyen,toxic,0,bodyshaming,False,[],rang khenh lon xon nhin kem duyen,rang khenh lon xon nhin kem duyen,rang khenh lon xon nhin kem duyen,vne_03612,khong_dau,0
+vne_02799,Do khong khac gi do secondhand,toxic,0,insult,False,[],do khong khac gi do secondhand,do khong khac gi do secondhand,do khong khac gi do secondhand,vne_02799,khong_dau,0
+vne_02734,Cha hieu sao co nguoi dang ky kenh nay,toxic,0,insult,True,"[""nguoi→người""]",cha hieu sao co người dang ky kenh nay,cha hieu sao co nguoi dang ky kenh nay,cha hieu sao co người dang ky kenh nay,vne_02734,khong_dau,0
+vne_02419,trai nghiem mot lan de biet ro ban than hon,positive,2,useful,True,"[""biet→biết""]",trai nghiem mot lan de biết ro ban than hon,trai nghiem mot lan de biet ro ban than hon,trai nghiem mot lan de biết ro ban than hon,vne_02419,khong_dau,0
+vne_00499,khi nao,neutral,1,when,False,[],khi nao,khi nao,khi nao,vne_00499,khong_dau,0
+vne_02601,Cuoi lan voi may ly do cam app ,positive,2,excitement,False,[],cuoi lan voi may ly do cam app,cuoi lan voi may ly do cam app,cuoi lan voi may ly do cam app,vne_02601,khong_dau,0
+vne_04205,Khong thay hai huoc gi het,negative,0,criticism,False,[],khong thay hai huoc gi het,khong thay hai huoc gi het,khong thay hai huoc gi het,vne_04205,khong_dau,0
+vne_02896,Mua hang nhu mua buc minh,toxic,0,insult,False,[],mua hang nhu mua buc minh,mua hang nhu mua buc minh,mua hang nhu mua buc minh,vne_02896,khong_dau,0
+vne_02026,"dep la mot chuyen, hoc hanh moi la chinh nha may ban",neutral,1,reminder,False,[],"dep la mot chuyen , hoc hanh moi la chinh nha may ban","dep la mot chuyen , hoc hanh moi la chinh nha may ban","dep la mot chuyen , hoc hanh moi la chinh nha may ban",vne_02026,khong_dau,0
+vne_01653,moi lan thay clip co cap la tim lai dap thinh thich,positive,2,reaction,True,"[""thich→thích""]",moi lan thay clip co cap la tim lai dap thinh thích,moi lan thay clip co cap la tim lai dap thinh thich,moi lan thay clip co cap la tim lai dap thinh_thích,vne_01653,khong_dau,0
+vne_02028,lop tui hoi xua khong ai trang diem bao gio,neutral,1,contrast,False,[],lop tui hoi xua khong ai trang diem bao gio,lop tui hoi xua khong ai trang diem bao gio,lop tui hoi xua khong ai trang diem bao gio,vne_02028,khong_dau,0
+vne_02146,ua chu tin cx co ngiu cu ha??,neutral,1,surprised,True,"[""cx→cũng""]",ua chu tin cũng co ngiu cu ha ? ?,ua chu tin cx co ngiu cu ha ? ?,ua chu tin cũng co ngiu cu ha ? ?,vne_02146,khong_dau,0
+vne_04278,Khong thay hay nhu moi nguoi noi,negative,0,criticism,True,"[""nguoi→người""]",khong thay hay nhu moi người noi,khong thay hay nhu moi nguoi noi,khong thay hay nhu moi người noi,vne_04278,khong_dau,0
+vne_01101,"Sang tao xiu, lan dau t thay!",positive,2,originality,False,[],"sang tao xiu , lan dau t thay !","sang tao xiu , lan dau t thay !","sang tao xiu , lan dau t thay !",vne_01101,khong_dau,0
+vne_01573,2 long may cua t bat dau skinship voi nhau sau khi doc cap,positive,2,funny,False,[],2 long may cua t bat dau skinship voi nhau sau khi doc cap,2 long may cua t bat dau skinship voi nhau sau khi doc cap,2 long may cua t bat dau skinship voi nhau sau khi doc cap,vne_01573,khong_dau,0
+vne_00088,Co ai online khong?,neutral,1,question,False,[],co ai online khong ?,co ai online khong ?,co ai online khong ?,vne_00088,khong_dau,0
+vne_04178,Coi ma cha hieu muon truyen dat gi,negative,0,criticism,False,[],coi ma cha hieu muon truyen dat gi,coi ma_cha hieu muon truyen dat gi,coi ma_cha hieu muon truyen dat gi,vne_04178,khong_dau,0
+vne_04374,He thong mua ban trong game bat tien,negative,0,criticism,False,[],he thong mua ban trong game bat tien,he thong mua ban trong game bat tien,he thong mua ban trong game bat tien,vne_04374,khong_dau,0
+vne_03920,Ban co gap loi khi su dung khong?,neutral,1,question,False,[],ban co gap loi khi su dung khong ?,ban co gap loi khi su dung khong ?,ban co gap loi khi su dung khong ?,vne_03920,khong_dau,0
+vne_01092,"Fake vcl, hok tu nhien gi het!",negative,0,artificial,True,"[""vcl→vãi cả lồn"", ""hok→không""]","fake vãi cả lồn , không tu nhien gi het !","fake vcl , hok tu nhien gi het !","fake vãi cả lồn , không tu nhien gi het !",vne_01092,khong_dau,0
+vne_00484,lmao cuoi te,positive,2,hilarious,True,"[""lmao→cười""]",cười cuoi te,lmao cuoi te,cười cuoi te,vne_00484,khong_dau,0
+vne_02955,Stream nhu dang dien kich cam,toxic,0,insult,False,[],stream nhu dang dien kich cam,stream nhu dang dien kich cam,stream nhu dang dien kich cam,vne_02955,khong_dau,0
+vne_02784,Dat hang tram lan roi ma lan nao cung loi,toxic,0,insult,False,[],dat hang tram lan roi ma lan nao cung loi,dat hang tram lan roi ma_lan nao cung loi,dat hang tram lan roi ma_lan nao cung loi,vne_02784,khong_dau,0
+vne_03624,Thay cai bung la muon ne xa 10 met,toxic,0,bodyshaming,False,[],thay cai bung la muon ne xa 10 met,thay cai bung la muon ne xa 10 met,thay cai bung la muon ne xa 10 met,vne_03624,khong_dau,0
+vne_00481,vl,toxic,0,abbreviation_vulgar,True,"[""vl→vãi lồn""]",vãi lồn,vl,vãi lồn,vne_00481,khong_dau,0
+vne_00027,Thang nay chac bi dien,toxic,0,insult,False,[],thang nay chac bi dien,thang nay chac bi dien,thang nay chac bi dien,vne_00027,khong_dau,0
+vne_01772,cam thay hoi bi lu sau khi xem,neutral,1,confusion,False,[],cam thay hoi bi lu sau khi xem,cam thay hoi bi lu sau khi xem,cam thay hoi bi lu sau khi xem,vne_01772,khong_dau,0
+vne_03592,may nghi khoe cai eo to nhu thung do la dep a?,toxic,0,insult,False,[],may nghi khoe cai eo to nhu thung do la dep a ?,may nghi khoe cai eo to nhu thung do la dep a ?,may nghi khoe cai eo to nhu thung do la dep a ?,vne_03592,khong_dau,0
+vne_04403,no dung lap di lap lai,negative,0,criticism,False,[],no dung lap di lap lai,no dung lap di_lap lai,no dung lap di_lap lai,vne_04403,khong_dau,0
+vne_03167,ADC positioning nhu dung an don,toxic,0,insult,False,[],adc positioning nhu dung an don,adc positioning nhu dung an don,adc positioning nhu dung an don,vne_03167,khong_dau,0
+vne_00053,Fake news! Dung tin,negative,0,warning,False,[],fake news ! dung tin,fake news ! dung tin,fake news ! dung tin,vne_00053,khong_dau,0
+vne_02800,Hang xai duoc 1 ngay thi hong,toxic,0,insult,False,[],hang xai duoc 1 ngay thi hong,hang xai duoc 1 ngay thi hong,hang xai duoc 1 ngay thi hong,vne_02800,khong_dau,0
+vne_03313,sao may khong nhin lai minh truoc khi di comment?,toxic,0,insult,True,"[""comment→bình luận""]",sao may khong nhin lai minh truoc khi di bình luận ?,sao may khong nhin lai minh truoc khi di_comment ?,sao may khong nhin lai minh truoc khi di_bình_luận ?,vne_03313,khong_dau,0
+vne_04753,van con nguoi leo rao chan bang xe,negative,0,criticism,True,"[""nguoi→người""]",van con người leo rao chan bang xe,van con nguoi leo rao chan bang xe,van con_người leo rao chan bang xe,vne_04753,khong_dau,0
+vne_04490,video nhu may chup,negative,0,criticism,False,[],video nhu may chup,video nhu may chup,video nhu may chup,vne_04490,khong_dau,0
+vne_01327,Mat the nay cu nhu o Sapa chu Ha Noi dau,positive,2,humor,False,[],mat the nay cu nhu o sapa chu ha noi dau,mat the nay cu nhu o sapa chu ha noi dau,mat the nay cu nhu o sapa chu ha noi dau,vne_01327,khong_dau,0
+vne_00244,Foreshadowing! Bao hieu truoc,positive,2,literary_appreciation,False,[],foreshadowing ! bao hieu truoc,foreshadowing ! bao hieu truoc,foreshadowing ! bao hieu truoc,vne_00244,khong_dau,0
+vne_00916,"Noi dung nay chan, can cai thien nhieu",negative,0,criticism,False,[],"noi dung nay chan , can cai thien nhieu","noi dung nay chan , can cai thien nhieu","noi dung nay chan , can cai thien nhieu",vne_00916,khong_dau,0
+vne_04550,bun bo khong co thit,negative,0,complaint,False,[],bun bo khong co thit,bun bo khong co thit,bun bo khong co thit,vne_04550,khong_dau,0
+vne_03341,cai cach may viet status nhin la biet khong co hoc!,toxic,0,insult,True,"[""biet→biết""]",cai cach may viet status nhin la biết khong co hoc !,cai cach may viet status nhin la biet khong co hoc !,cai cach may viet status nhin la biết khong co hoc !,vne_03341,khong_dau,0
+vne_02406,tinh dong doi la thu khong gi thay the duoc,positive,2,appreciation,False,[],tinh dong doi la thu khong gi thay the duoc,tinh dong doi la thu khong gi thay the_duoc,tinh dong doi la thu khong gi thay the_duoc,vne_02406,khong_dau,0
+vne_02633,chia se them cach phong tranh di moi nguoi,positive,2,useful,True,"[""nguoi→người""]",chia se them cach phong tranh di moi người,chia se them cach phong tranh di_moi nguoi,chia se them cach phong tranh di_moi người,vne_02633,khong_dau,0
+vne_03677,Khong lien quan lam,neutral,1,statement,False,[],khong lien quan lam,khong lien quan lam,khong lien quan lam,vne_03677,khong_dau,0
+vne_02104,em se tai kham moi tuan chi de nhin thay anh,positive,2,flirt,False,[],em se tai kham moi tuan chi de nhin thay anh,em se tai kham moi tuan chi de nhin thay anh,em se tai kham moi tuan chi de nhin thay anh,vne_02104,khong_dau,0
+vne_03435,may co biet cai cach an mac do nhin re tien?,toxic,0,insult,True,"[""biet→biết""]",may co biết cai cach an mac do nhin re tien ?,may co biet cai cach an mac do nhin re tien ?,may co biết cai cach an mac do nhin re tien ?,vne_03435,khong_dau,0
+vne_01040,"Tam oke, nhung cx hok an tuong!",neutral,1,mediocre,True,"[""cx→cũng"", ""hok→không""]","tam oke , nhung cũng không an tuong !","tam oke , nhung cx hok an tuong !","tam oke , nhung cũng không an tuong !",vne_01040,khong_dau,0
+vne_03240,Draft strategy nhu dua,toxic,0,insult,False,[],draft strategy nhu dua,draft strategy nhu dua,draft strategy nhu dua,vne_03240,khong_dau,0
+vne_03945,Ban thay san pham de bao tri khong?,neutral,1,question,False,[],ban thay san pham de bao tri khong ?,ban thay san pham de bao tri khong ?,ban thay san pham de bao tri khong ?,vne_03945,khong_dau,0
+vne_03795,Ban thay phan mem on khong?,neutral,1,question,False,[],ban thay phan mem on khong ?,ban thay phan mem on khong ?,ban thay phan mem on khong ?,vne_03795,khong_dau,0
+vne_03683,Day la phien ban moi nhat a?,neutral,1,question,False,[],day la phien ban moi nhat a ?,day la phien ban moi nhat a ?,day la phien ban moi nhat a ?,vne_03683,khong_dau,0
+vne_04113,Khong thay phu kien kem theo,negative,0,complaint,False,[],khong thay phu kien kem theo,khong thay phu kien kem theo,khong thay phu kien kem theo,vne_04113,khong_dau,0
+vne_02377,may ban hoc sinh gio khac that,positive,2,appreciation,False,[],may ban hoc sinh gio khac that,may ban hoc sinh gio khac that,may ban hoc sinh gio khac that,vne_02377,khong_dau,0
+vne_01990,xem clip ma tu dung thay thieu nang luong,neutral,1,envy,False,[],xem clip ma tu dung thay thieu nang luong,xem clip ma tu dung thay thieu nang luong,xem clip ma tu dung thay thieu nang luong,vne_01990,khong_dau,0
+vne_03386,may co biet cai anh do nhin xau xi ra sao khong?,toxic,0,insult,True,"[""biet→biết""]",may co biết cai anh do nhin xau xi ra sao khong ?,may co biet cai anh do nhin xau xi ra sao khong ?,may co biết cai anh do nhin xau xi ra sao khong ?,vne_03386,khong_dau,0
+vne_02916,Giao hang cham nhu thoi do da,toxic,0,insult,False,[],giao hang cham nhu thoi do da,giao hang cham nhu thoi do da,giao hang cham nhu thoi do da,vne_02916,khong_dau,0
+vne_01911,moi lan co chuyen nay lai gay war hoai,negative,0,repetitive,False,[],moi lan co chuyen nay lai gay war hoai,moi lan co chuyen nay lai gay war hoai,moi lan co chuyen nay lai gay war hoai,vne_01911,khong_dau,0
+vne_00881,"Doi nay cute vai, ship nhiet tinh!",positive,2,relationship_goals,False,[],"doi nay cute vai , ship nhiet tinh !","doi nay cute vai , ship nhiet tinh !","doi nay cute vai , ship nhiet tinh !",vne_00881,khong_dau,0
+vne_00531,no cap,positive,2,truth,False,[],no cap,no cap,no cap,vne_00531,khong_dau,0
+vne_03317,may nghi post cai do len fb la ai cung thich a?,toxic,0,insult,True,"[""post→đăng"", ""fb→facebook"", ""thich→thích""]",may nghi đăng cai do len facebook la ai cung thích a ?,may nghi_post cai do len fb la ai cung thich a ?,may nghi đăng_cai do len facebook la ai cung thích a ?,vne_03317,khong_dau,0
+vne_03268,"Clip rac that su, chang mang lai gia tri gi",toxic,0,insult,False,[],"clip rac that su , chang mang lai gia tri gi","clip rac that su , chang mang lai gia tri gi","clip rac that su , chang mang lai gia tri gi",vne_03268,khong_dau,0
+vne_03804,Ban danh gia the nao ve do ben san pham?,neutral,1,question,False,[],ban danh gia the nao ve do ben san pham ?,ban danh gia the nao ve do ben san pham ?,ban danh gia the nao ve do ben san pham ?,vne_03804,khong_dau,0
+vne_00515,cai deo gi,toxic,0,wtf_vulgar,False,[],cai deo gi,cai deo gi,cai deo gi,vne_00515,khong_dau,0
+vne_03568,may nghi khoe cai chan ngan do la ngau lam a?,toxic,0,insult,False,[],may nghi khoe cai chan ngan do la ngau lam a ?,may nghi khoe cai chan ngan do la ngau lam a ?,may nghi khoe cai chan ngan do la ngau lam a ?,vne_03568,khong_dau,0
+vne_03569,sao may dam mac quan bo voi cai body te the do?,toxic,0,insult,False,[],sao may dam mac quan bo voi cai body te the do ?,sao may dam mac quan bo voi cai body te the do ?,sao may dam mac quan bo voi cai body te the do ?,vne_03569,khong_dau,0
+vne_03105,Story template ma dien thong tin fake,toxic,0,insult,False,[],story template ma dien thong tin fake,story template ma dien thong tin fake,story template ma dien thong tin fake,vne_03105,khong_dau,0
+vne_00938,"Tam duoc, nhung chua an tuong",neutral,1,mediocre,False,[],"tam duoc , nhung chua an tuong","tam duoc , nhung chua an tuong","tam duoc , nhung chua an tuong",vne_00938,khong_dau,0
+vne_01796,chac tui phai xem lai lan nua moi hieu,neutral,1,rewatch,False,[],chac tui phai xem lai lan nua moi hieu,chac tui phai xem lai lan nua moi hieu,chac tui phai xem lai lan nua moi hieu,vne_01796,khong_dau,0
+vne_04109,Khong hai long ve chinh sach bao hanh,negative,0,complaint,False,[],khong hai long ve chinh sach bao hanh,khong hai long ve_chinh sach bao_hanh,khong hai long ve_chinh sach bao_hanh,vne_04109,khong_dau,0
+vne_01403,"Com que gia Dubai, an xong muon len cong troi ",negative,0,humor,False,[],"com que gia dubai , an xong muon len cong troi","com que gia dubai , an xong muon len cong troi","com que gia dubai , an xong muon len cong troi",vne_01403,khong_dau,0
+vne_04652,co cong thuc do an nay khong?,neutral,1,question,False,[],co cong thuc do an nay khong ?,co cong thuc do an nay khong ?,co cong thuc do an nay khong ?,vne_04652,khong_dau,0
+vne_01597,gion vay chu cap gi nghe tham qua,positive,2,realization,False,[],gion vay chu cap gi nghe tham qua,gion vay chu cap gi nghe tham qua,gion vay chu cap gi nghe tham qua,vne_01597,khong_dau,0
+vne_03749,San pham nay lam duoc gi nua khong?,neutral,1,question,False,[],san pham nay lam duoc gi nua khong ?,san pham nay lam duoc gi nua khong ?,san pham nay lam duoc gi nua khong ?,vne_03749,khong_dau,0
+vne_04407,ko co thong diep ro rang,negative,0,criticism,True,"[""ko→không""]",không co thong diep ro rang,ko co thong diep ro rang,không co thong diep ro rang,vne_04407,khong_dau,0
+vne_03909,Can them nhan xet tu khach da dung,neutral,1,request,False,[],can them nhan xet tu khach da dung,can them nhan xet tu khach da dung,can them nhan xet tu khach da dung,vne_03909,khong_dau,0
+vne_03113,Anh new haircut ma nhu cat bang cua,toxic,0,insult,False,[],anh new haircut ma nhu cat bang cua,anh new haircut ma nhu cat bang cua,anh new haircut ma nhu cat bang cua,vne_03113,khong_dau,0
+vne_01607,muon luu cai clip nay de gui luc cai nhau,positive,2,humor,False,[],muon luu cai clip nay de gui luc cai nhau,muon luu cai clip nay de gui luc cai nhau,muon luu cai clip nay de gui luc cai nhau,vne_01607,khong_dau,0
+vne_01161,Ai tha ong nay ra ma de vo pha vay,neutral,1,question,False,[],ai tha ong nay ra ma de vo pha vay,ai tha ong nay ra ma de vo pha vay,ai tha ong nay ra ma de vo pha vay,vne_01161,khong_dau,0
+vne_04724,ke vach duong qua mo,negative,0,criticism,False,[],ke vach duong qua mo,ke vach duong qua mo,ke vach duong qua mo,vne_04724,khong_dau,0
+vne_03298,sao may cu thich di drama voi nguoi khac the?,toxic,0,insult,True,"[""thich→thích"", ""nguoi→người""]",sao may cu thích di drama voi người khac the ?,sao may cu thich di_drama voi nguoi khac the ?,sao may cu thích di_drama voi người khac the ?,vne_03298,khong_dau,0
+vne_03262,"Reaction ma nhu doc kich ban, gia qua",toxic,0,insult,False,[],"reaction ma nhu doc kich ban , gia qua","reaction ma nhu doc kich ban , gia qua","reaction ma nhu doc kich ban , gia qua",vne_03262,khong_dau,0
+vne_02876,Khach hang voi shop nhu thu voi oan,toxic,0,insult,False,[],khach hang voi shop nhu thu voi oan,khach hang voi shop nhu thu voi oan,khach hang voi shop nhu thu voi oan,vne_02876,khong_dau,0
+vne_03186,Poke damage nhu gai ngua,toxic,0,insult,False,[],poke damage nhu gai ngua,poke damage nhu gai ngua,poke damage nhu gai ngua,vne_03186,khong_dau,0
+vne_02456,gia tri nam o chat luong mon an,positive,2,appreciation,False,[],gia tri nam o chat luong mon an,gia tri_nam o chat luong mon an,gia tri_nam o chat luong mon an,vne_02456,khong_dau,0
+vne_02545,Cang xem cang thay de thuong ghe,positive,2,compliment,False,[],cang xem cang thay de thuong ghe,cang xem cang thay de thuong ghe,cang xem cang thay de thuong ghe,vne_02545,khong_dau,0
+vne_01715,quan dong nhung khong hieu ly do,negative,0,confusion,False,[],quan dong nhung khong hieu ly do,quan dong nhung khong hieu ly do,quan dong nhung khong hieu ly do,vne_01715,khong_dau,0
+vne_02524,Clip vui thoi dung nghi nhieu,positive,2,appreciation,False,[],clip vui thoi dung nghi nhieu,clip vui thoi dung nghi nhieu,clip vui thoi dung nghi nhieu,vne_02524,khong_dau,0
+vne_01141,"Hai huoc ghe, pha ngai vang ma tinh bo luon",neutral,1,humor,False,[],"hai huoc ghe , pha ngai vang ma tinh bo luon","hai huoc ghe , pha ngai vang ma_tinh bo luon","hai huoc ghe , pha ngai vang ma_tinh bo luon",vne_01141,khong_dau,0
+vne_01220,"Nhin clip ma thuong, ai giup duoc thi giup di",neutral,1,neutral,False,[],"nhin clip ma thuong , ai giup duoc thi giup di","nhin clip ma thuong , ai giup duoc thi giup_di","nhin clip ma thuong , ai giup duoc thi giup_di",vne_01220,khong_dau,0
+vne_03750,Ban dung thu chua?,neutral,1,question,False,[],ban dung thu chua ?,ban dung thu chua ?,ban dung thu chua ?,vne_03750,khong_dau,0
+vne_04009,Chua nhan duoc hang du da dat lau,negative,0,complaint,False,[],chua nhan duoc hang du da dat lau,chua nhan duoc hang_du da dat lau,chua nhan duoc hang_du da dat lau,vne_04009,khong_dau,0
+vne_03165,Jungle khong biet objective,toxic,0,insult,True,"[""biet→biết""]",jungle khong biết objective,jungle khong biet objective,jungle khong biết objective,vne_03165,khong_dau,0
+vne_01643,ban minh moi chia tay ma toi tag no vo day dung khong sai,toxic,0,provocative,False,[],ban minh moi chia tay ma toi tag no vo day dung khong sai,ban minh moi chia_tay ma toi tag no vo day dung khong sai,ban minh moi chia_tay ma toi tag no vo day dung khong sai,vne_01643,khong_dau,0
+vne_03526,cai anh do nhin cai bung may ma muon tat ngay!,toxic,0,insult,False,[],cai anh do nhin cai bung may ma muon tat ngay !,cai anh do nhin cai bung may ma muon tat ngay !,cai anh do nhin cai bung may ma muon tat ngay !,vne_03526,khong_dau,0
