@@ -1,0 +1,419 @@
+﻿id,comment,label,reason
+vne_00524,10-4,neutral,"Rỗng, không có chữ hoặc nhãn không hợp lệ"
+vne_00080,Much appreciated!,positive,Tiếng Anh thuần
+vne_00089,Anyone here?,neutral,Tiếng Anh thuần
+vne_00123,Everyone's talking about this,positive,Tiếng Anh thuần
+vne_00128,Current status,neutral,Tiếng Anh thuần
+vne_00129,Location check-in,neutral,Tiếng Anh thuần
+vne_00130,Food diary,neutral,Tiếng Anh thuần
+vne_00131,Selfie Sunday,neutral,Tiếng Anh thuần
+vne_00132,Throwback Thursday,neutral,Tiếng Anh thuần
+vne_00133,Monday motivation,positive,Tiếng Anh thuần
+vne_00134,Weekend vibes,positive,Tiếng Anh thuần
+vne_00135,Friday feeling,positive,Tiếng Anh thuần
+vne_00159,"Been there, done that",positive,Tiếng Anh thuần
+vne_00162,You're not alone in this,positive,Tiếng Anh thuần
+vne_00184,Secondhand embarrassment,negative,Tiếng Anh thuần
+vne_00190,Attention seeking much?,negative,Tiếng Anh thuần
+vne_00194,Rich kid problems,negative,Tiếng Anh thuần
+vne_00195,First world problems,negative,Tiếng Anh thuần
+vne_00196,Privileged much?,negative,Tiếng Anh thuần
+vne_00204,It's not that serious,neutral,Tiếng Anh thuần
+vne_00206,Take it easy,neutral,Tiếng Anh thuần
+vne_00207,Slow down a bit,neutral,Tiếng Anh thuần
+vne_00208,One step at a time,neutral,Tiếng Anh thuần
+vne_00209,Rome wasn't built in a day,neutral,Tiếng Anh thuần
+vne_00210,Good things take time,positive,Tiếng Anh thuần
+vne_00219,Fairy tale vibes!,positive,Tiếng Anh thuần
+vne_00220,Happily ever after energy,positive,Tiếng Anh thuần
+vne_00222,Forever alone club,negative,Tiếng Anh thuần
+vne_00223,Third wheel life,neutral,Tiếng Anh thuần
+vne_00225,"Love is in the air, except for me",negative,Tiếng Anh thuần
+vne_00230,Hit me up if interested,neutral,Tiếng Anh thuần
+vne_00231,Let's be friends!,positive,Tiếng Anh thuần
+vne_00234,No spoilers please!,neutral,Tiếng Anh thuần
+vne_00236,I'm not ready for spoilers,neutral,Tiếng Anh thuần
+vne_00237,Spoiler-free zone here,neutral,Tiếng Anh thuần
+vne_00238,Don't ruin it for others,neutral,Tiếng Anh thuần
+vne_00239,Keep it vague please,neutral,Tiếng Anh thuần
+vne_00241,Cryptic comments only,neutral,Tiếng Anh thuần
+vne_00247,Didn't see that coming,positive,Tiếng Anh thuần
+vne_00249,Saw it coming from miles away,negative,Tiếng Anh thuần
+vne_00256,Out of the box thinking,positive,Tiếng Anh thuần
+vne_00264,*Chef's kiss*,positive,Tiếng Anh thuần
+vne_00265,Flawless execution,positive,Tiếng Anh thuần
+vne_00270,Demolished the competition,positive,Tiếng Anh thuần
+vne_00272,Ate and left no crumbs,positive,Tiếng Anh thuần
+vne_00275,Did not disappoint,positive,Tiếng Anh thuần
+vne_00276,Exceeded expectations,positive,Tiếng Anh thuần
+vne_00281,Ugly crying right now,positive,Tiếng Anh thuần
+vne_00282,Bawling my eyes out,positive,Tiếng Anh thuần
+vne_00285,Tissue box empty,positive,Tiếng Anh thuần
+vne_00287,Butterflies in stomach,positive,Tiếng Anh thuần
+vne_00290,On the edge of my seat,positive,Tiếng Anh thuần
+vne_00291,Holding my breath,positive,Tiếng Anh thuần
+vne_00292,Can't look away,positive,Tiếng Anh thuần
+vne_00293,Glued to the screen,positive,Tiếng Anh thuần
+vne_00294,Binge-watching mode activated,positive,Tiếng Anh thuần
+vne_00295,One more episode syndrome,positive,Tiếng Anh thuần
+vne_00296,Sleep is for the weak,positive,Tiếng Anh thuần
+vne_00297,Productivity has left the chat,negative,Tiếng Anh thuần
+vne_00298,Procrastination level: expert,negative,Tiếng Anh thuần
+vne_00299,Deadline? What deadline?,negative,Tiếng Anh thuần
+vne_00300,Priorities? I don't know her,negative,Tiếng Anh thuần
+vne_00301,Responsible adult? Not today,negative,Tiếng Anh thuần
+vne_00332,Secondhand embarrassment,negative,Tiếng Anh thuần
+vne_00338,Attention seeking much?,negative,Tiếng Anh thuần
+vne_00342,Rich kid problems,negative,Tiếng Anh thuần
+vne_00343,First world problems,negative,Tiếng Anh thuần
+vne_00344,Privileged much?,negative,Tiếng Anh thuần
+vne_00352,It's not that serious,neutral,Tiếng Anh thuần
+vne_00354,Take it easy,neutral,Tiếng Anh thuần
+vne_00355,Slow down a bit,neutral,Tiếng Anh thuần
+vne_00356,One step at a time,neutral,Tiếng Anh thuần
+vne_00357,Rome wasn't built in a day,neutral,Tiếng Anh thuần
+vne_00358,Good things take time,positive,Tiếng Anh thuần
+vne_00367,Fairy tale vibes!,positive,Tiếng Anh thuần
+vne_00368,Happily ever after energy,positive,Tiếng Anh thuần
+vne_00370,Forever alone club,negative,Tiếng Anh thuần
+vne_00371,Third wheel life,neutral,Tiếng Anh thuần
+vne_00373,"Love is in the air, except for me",negative,Tiếng Anh thuần
+vne_00378,Hit me up if interested,neutral,Tiếng Anh thuần
+vne_00379,Let's be friends!,positive,Tiếng Anh thuần
+vne_00382,No spoilers please!,neutral,Tiếng Anh thuần
+vne_00384,I'm not ready for spoilers,neutral,Tiếng Anh thuần
+vne_00385,Spoiler-free zone here,neutral,Tiếng Anh thuần
+vne_00386,Don't ruin it for others,neutral,Tiếng Anh thuần
+vne_00387,Keep it vague please,neutral,Tiếng Anh thuần
+vne_00389,Cryptic comments only,neutral,Tiếng Anh thuần
+vne_00395,Didn't see that coming,positive,Tiếng Anh thuần
+vne_00397,Saw it coming from miles away,negative,Tiếng Anh thuần
+vne_00404,Out of the box thinking,positive,Tiếng Anh thuần
+vne_00412,*Chef's kiss*,positive,Tiếng Anh thuần
+vne_00413,Flawless execution,positive,Tiếng Anh thuần
+vne_00418,Demolished the competition,positive,Tiếng Anh thuần
+vne_00420,Ate and left no crumbs,positive,Tiếng Anh thuần
+vne_00423,Did not disappoint,positive,Tiếng Anh thuần
+vne_00424,Exceeded expectations,positive,Tiếng Anh thuần
+vne_00429,Ugly crying right now,positive,Tiếng Anh thuần
+vne_00430,Bawling my eyes out,positive,Tiếng Anh thuần
+vne_00433,Tissue box empty,positive,Tiếng Anh thuần
+vne_00435,Butterflies in stomach,positive,Tiếng Anh thuần
+vne_00438,On the edge of my seat,positive,Tiếng Anh thuần
+vne_00439,Holding my breath,positive,Tiếng Anh thuần
+vne_00440,Can't look away,positive,Tiếng Anh thuần
+vne_00441,Glued to the screen,positive,Tiếng Anh thuần
+vne_00442,Binge-watching mode activated,positive,Tiếng Anh thuần
+vne_00443,One more episode syndrome,positive,Tiếng Anh thuần
+vne_00444,Sleep is for the weak,positive,Tiếng Anh thuần
+vne_00445,Productivity has left the chat,negative,Tiếng Anh thuần
+vne_00446,Procrastination level: expert,negative,Tiếng Anh thuần
+vne_00447,Deadline? What deadline?,negative,Tiếng Anh thuần
+vne_00448,Priorities? I don't know her,negative,Tiếng Anh thuần
+vne_00449,Responsible adult? Not today,negative,Tiếng Anh thuần
+vne_00487,hehe cute,positive,Tiếng Anh thuần
+vne_00518,bruh moment,negative,Tiếng Anh thuần
+vne_00521,okie dokie,neutral,Tiếng Anh thuần
+vne_00522,roger that,neutral,Tiếng Anh thuần
+vne_00523,copy that,neutral,Tiếng Anh thuần
+vne_00525,yes sir,neutral,Tiếng Anh thuần
+vne_00527,gotcha,neutral,Tiếng Anh thuần
+vne_00528,bet,neutral,Tiếng Anh thuần
+vne_00529,say less,neutral,Tiếng Anh thuần
+vne_00530,bet that,positive,Tiếng Anh thuần
+vne_00532,fr fr,positive,Tiếng Anh thuần
+vne_00533,periodt,positive,Tiếng Anh thuần
+vne_00534,and i oop,neutral,Tiếng Anh thuần
+vne_00536,tea,neutral,Tiếng Anh thuần
+vne_00537,spill the tea,neutral,Tiếng Anh thuần
+vne_00538,that's the tea,neutral,Tiếng Anh thuần
+vne_00539,periodt pooh,positive,Tiếng Anh thuần
+vne_00540,purr,positive,Tiếng Anh thuần
+vne_00542,go off,positive,Tiếng Anh thuần
+vne_00545,bias wrecker,positive,Tiếng Anh thuần
+vne_00546,ult bias,positive,Tiếng Anh thuần
+vne_00547,visual king,positive,Tiếng Anh thuần
+vne_00548,vocal queen,positive,Tiếng Anh thuần
+vne_00549,dance machine,positive,Tiếng Anh thuần
+vne_00550,rap god,positive,Tiếng Anh thuần
+vne_00551,all rounder,positive,Tiếng Anh thuần
+vne_00554,nation's mc,positive,Tiếng Anh thuần
+vne_00557,variety idol,positive,Tiếng Anh thuần
+vne_00559,selfie queen,positive,Tiếng Anh thuần
+vne_00560,airport fashion,positive,Tiếng Anh thuần
+vne_00561,red carpet look,positive,Tiếng Anh thuần
+vne_00562,casual king,positive,Tiếng Anh thuần
+vne_00563,street style,positive,Tiếng Anh thuần
+vne_00564,vintage vibes,positive,Tiếng Anh thuần
+vne_00566,cottagecore,positive,Tiếng Anh thuần
+vne_00567,dark academia,positive,Tiếng Anh thuần
+vne_00569,e-girl,positive,Tiếng Anh thuần
+vne_00571,that girl,positive,Tiếng Anh thuần
+vne_00573,no makeup makeup,positive,Tiếng Anh thuần
+vne_00574,glass skin,positive,Tiếng Anh thuần
+vne_00577,matte finish,positive,Tiếng Anh thuần
+vne_00578,highlight poppin,positive,Tiếng Anh thuần
+vne_00579,contour snatched,positive,Tiếng Anh thuần
+vne_00580,brows on fleek,positive,Tiếng Anh thuần
+vne_00581,lashes for days,positive,Tiếng Anh thuần
+vne_00583,mlbb shade,positive,Tiếng Anh thuần
+vne_00584,holy grail,positive,Tiếng Anh thuần
+vne_00585,repurchase,positive,Tiếng Anh thuần
+vne_00586,empties,neutral,Tiếng Anh thuần
+vne_00587,haul,neutral,Tiếng Anh thuần
+vne_00588,unboxing,neutral,Tiếng Anh thuần
+vne_00589,first impressions,neutral,Tiếng Anh thuần
+vne_00590,wear test,neutral,Tiếng Anh thuần
+vne_00591,before and after,neutral,Tiếng Anh thuần
+vne_00592,get ready with me,neutral,Tiếng Anh thuần
+vne_00593,grwm,neutral,Tiếng Anh thuần
+vne_00597,notd,neutral,Tiếng Anh thuần
+vne_00598,sotd,neutral,Tiếng Anh thuần
+vne_00600,qotd,neutral,Tiếng Anh thuần
+vne_00604,mood,neutral,Tiếng Anh thuần
+vne_00605,vibe check,neutral,Tiếng Anh thuần
+vne_00606,energy,neutral,Tiếng Anh thuần
+vne_00607,aura,positive,Tiếng Anh thuần
+vne_00608,main character,positive,Tiếng Anh thuần
+vne_00609,side character,negative,Tiếng Anh thuần
+vne_00610,npc energy,negative,Tiếng Anh thuần
+vne_00611,background character,negative,Tiếng Anh thuần
+vne_00612,extra,negative,Tiếng Anh thuần
+vne_00613,supporting role,neutral,Tiếng Anh thuần
+vne_00614,plot armor,positive,Tiếng Anh thuần
+vne_00615,character development,positive,Tiếng Anh thuần
+vne_00616,redemption arc,positive,Tiếng Anh thuần
+vne_00617,villain arc,negative,Tiếng Anh thuần
+vne_00618,hero's journey,positive,Tiếng Anh thuần
+vne_00619,coming of age,positive,Tiếng Anh thuần
+vne_00620,slow burn,positive,Tiếng Anh thuần
+vne_00621,enemies to lovers,positive,Tiếng Anh thuần
+vne_00622,friends to lovers,positive,Tiếng Anh thuần
+vne_00623,love triangle,negative,Tiếng Anh thuần
+vne_00624,second lead syndrome,negative,Tiếng Anh thuần
+vne_00625,happy ending,positive,Tiếng Anh thuần
+vne_00626,cliffhanger,negative,Tiếng Anh thuần
+vne_00627,plot hole,negative,Tiếng Anh thuần
+vne_00629,mary sue,negative,Tiếng Anh thuần
+vne_00631,self insert,negative,Tiếng Anh thuần
+vne_00632,power fantasy,positive,Tiếng Anh thuần
+vne_00633,guilty pleasure,positive,Tiếng Anh thuần
+vne_00634,comfort show,positive,Tiếng Anh thuần
+vne_00635,comfort food,positive,Tiếng Anh thuần
+vne_00636,soul food,positive,Tiếng Anh thuần
+vne_00637,brain food,positive,Tiếng Anh thuần
+vne_00638,eye candy,positive,Tiếng Anh thuần
+vne_00639,ear candy,positive,Tiếng Anh thuần
+vne_00640,arm candy,negative,Tiếng Anh thuần
+vne_00641,trophy wife,negative,Tiếng Anh thuần
+vne_00642,sugar daddy,negative,Tiếng Anh thuần
+vne_00643,gold digger,negative,Tiếng Anh thuần
+vne_00644,clout chaser,negative,Tiếng Anh thuần
+vne_00645,social climber,negative,Tiếng Anh thuần
+vne_00646,wannabe,negative,Tiếng Anh thuần
+vne_00647,poser,negative,Tiếng Anh thuần
+vne_00648,fake it till you make it,neutral,Tiếng Anh thuần
+vne_00649,dress for the job you want,positive,Tiếng Anh thuần
+vne_00650,act as if,positive,Tiếng Anh thuần
+vne_00651,manifestation,positive,Tiếng Anh thuần
+vne_00652,law of attraction,positive,Tiếng Anh thuần
+vne_00653,good vibes only,positive,Tiếng Anh thuần
+vne_00654,positive energy,positive,Tiếng Anh thuần
+vne_00655,toxic positivity,negative,Tiếng Anh thuần
+vne_00656,gaslight gatekeep girlboss,negative,Tiếng Anh thuần
+vne_00657,live laugh love,negative,Tiếng Anh thuần
+vne_00658,blessed,positive,Tiếng Anh thuần
+vne_00659,grateful,positive,Tiếng Anh thuần
+vne_00660,thankful,positive,Tiếng Anh thuần
+vne_00661,abundance mindset,positive,Tiếng Anh thuần
+vne_00662,scarcity mindset,negative,Tiếng Anh thuần
+vne_00663,growth mindset,positive,Tiếng Anh thuần
+vne_00664,fixed mindset,negative,Tiếng Anh thuần
+vne_01570,Pick me girl,toxic,Tiếng Anh thuần
+vne_01571,friend...with benefits,neutral,Tiếng Anh thuần
+vne_01572,vietnamese kiss,neutral,Tiếng Anh thuần
+vne_01962,selamat anda menemukan komen indo,neutral,Tiếng Anh thuần
+vne_02561,Easy😂,positive,Tiếng Anh thuần
+vne_03120,Comment body shaming openly,toxic,Tiếng Anh thuần
+vne_03138,Comment racism subtly,toxic,Tiếng Anh thuần
+vne_03158,Map awareness = 0,toxic,Tiếng Anh thuần
+vne_03191,Skill shot accuracy 10%,toxic,Tiếng Anh thuần
+vne_03212,Never admit mistake,toxic,Tiếng Anh thuần
+vne_03213,Always others' fault,toxic,Tiếng Anh thuần
+vne_03214,Keyboard warrior in chat,toxic,Tiếng Anh thuần
+vne_03225,Greedy for resources,toxic,Tiếng Anh thuần
+vne_03226,Never sacrifice for team,toxic,Tiếng Anh thuần
+vne_03227,Main character syndrome,toxic,Tiếng Anh thuần
+vne_03235,Cooldown tracking = 0,toxic,Tiếng Anh thuần
+vne_03241,Champion mastery fake,toxic,Tiếng Anh thuần
+vne_00070,Tôi cũng nghĩ vậy,positive,Trùng nội dung nhưng khác nhãn (bỏ cả nhóm)
+vne_03665,Tôi cũng nghĩ vậy,neutral,Trùng nội dung nhưng khác nhãn (bỏ cả nhóm)
+vne_00333,Awkward! Ngại ngùng giùm bạn,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00334,Too much! Quá đà rồi,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00335,Try hard quá không?,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00336,Forced! Không natural,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00337,Acting quá! Fake lắm,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00339,Show off! Khoe khoang,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00340,Humble brag đúng không?,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00341,Flex hard quá bạn ơi,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00345,Out of touch! Không realistic,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00346,Spoiled! Được nuông chiều quá,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00347,Drama queen! Làm to chuyện,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00348,Overreacting! Phản ứng thái quá,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00349,Chill đi bạn! Bình tĩnh,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00350,Relax! Đừng stress,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00351,No big deal! Không sao đâu,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00353,Breathe! Thở sâu vào,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00359,Tôi ship hai bạn này!,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00360,OTP của tôi đây!,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00361,Chemistry tuyệt vời!,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00362,Perfect match! Đôi hoàn hảo,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00363,Meant to be! Trời sinh một cặp,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00364,Couple goals thật sự!,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00365,Relationship này precious lắm,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00366,Love story này sweet quá,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00369,Single pringle ở đây!,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00372,Cupid skip tôi rồi,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00374,"Valentine's Day is coming, tôi cần gấu",neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00375,Ai rảnh thì inbox tôi,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00376,DM is open,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00377,Slide into my DM,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00380,Tôi vừa bị spoil rồi!,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00381,Spoiler alert! Cảnh báo,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00383,Đừng spoil cho ai nha,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00388,"Hint thôi, đừng nói rõ",neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00390,Easter egg! Tìm được rồi,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00391,Hidden detail! Tinh tế lắm,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00392,Foreshadowing! Báo hiệu trước,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00393,Plot twist! Không ngờ,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00394,Mind blown! Sốc não,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00396,Predictable! Đoán được rồi,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00398,Too obvious! Dễ đoán quá,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00399,Cliche! Sáo rỗng,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00400,Trope này cũ rồi,negative,Trùng lặp (giữ bản đầu tiên)
+vne_00401,Original! Sáng tạo lắm,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00402,Fresh perspective! Góc nhìn mới,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00403,Creative! Độc đáo,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00405,Groundbreaking! Đột phá,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00406,Game changer! Thay đổi cuộc chơi,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00407,Iconic! Biểu tượng luôn,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00408,Legendary! Huyền thoại,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00409,Epic! Hoành tráng,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00410,Masterpiece! Kiệt tác,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00411,Chef's kiss! Hoàn hảo,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00414,Nailed it! Làm chuẩn,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00415,Killed it! Xuất sắc,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00416,Slayed! Hủy diệt,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00417,Destroyed! Nghiền nát,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00419,Left no crumbs! Không chừa gì,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00421,Served! Phục vụ chuẩn,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00422,Delivered! Giao hàng đúng hẹn,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00425,Blew my mind! Thổi bay tâm trí,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00426,Goosebumps! Da gà,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00427,Chills! Rùng mình,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00428,Tears! Nước mắt,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00431,Sobbing! Khóc nức nở,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00432,Waterworks! Vòi nước mắt,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00434,Heart is full! Tim đầy ấp,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00436,Heart racing! Tim đập mạnh,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00437,Adrenaline rush! Máu sôi,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00834,"Có vẻ ổn, nhưng tui chưa chắc",neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00859,"Spam comment hoài, mệt ghê!",negative,Trùng lặp (giữ bản đầu tiên)
+vne_00865,Mày bị gì mà post mấy cái này?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_00897,"Sáng tạo vãi, lần đầu thấy luôn!",positive,Trùng lặp (giữ bản đầu tiên)
+vne_00936,"Có vẻ ổn, nhưng tui chưa chắc",neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00949,"Video lag quá, fix giùm nha",neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00950,"Hình không load được, check lại đi",neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00955,"Trend này hot vãi, bạn bắt trend đỉnh!",positive,Trùng lặp (giữ bản đầu tiên)
+vne_00967,Mày bị gì mà post mấy cái này?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_00970,Phong cách bạn tui mê xỉu!,positive,Trùng lặp (giữ bản đầu tiên)
+vne_00981,"Đúng vibe tui luôn, yêu ghê!",positive,Trùng lặp (giữ bản đầu tiên)
+vne_00983,"Đôi này cute vãi, ship nhiệt tình!",positive,Trùng lặp (giữ bản đầu tiên)
+vne_00987,"Ghét thật, nội dung này cringe quá!",negative,Trùng lặp (giữ bản đầu tiên)
+vne_00993,"Không có gì to tát, relax nha!",neutral,Trùng lặp (giữ bản đầu tiên)
+vne_00994,"Thở sâu vô, đừng căng thẳng!",neutral,Trùng lặp (giữ bản đầu tiên)
+vne_01000,"Đỉnh của chóp, bạn là huyền thoại!",positive,Trùng lặp (giữ bản đầu tiên)
+vne_01096,"Thở sâu vô, đừng căng thẳng!",neutral,Trùng lặp (giữ bản đầu tiên)
+vne_01159,"Tâm thần mà phá đúng chỗ, kn nổi",toxic,Trùng lặp (giữ bản đầu tiên)
+vne_01173,"An ninh yếu quá, cần cải thiện ngay",negative,Trùng lặp (giữ bản đầu tiên)
+vne_01174,"Tâm thần mà phá đúng chỗ, kn nổi",toxic,Trùng lặp (giữ bản đầu tiên)
+vne_01188,"Hài hước ghê, phá ngai mà tỉnh như sáo",neutral,Trùng lặp (giữ bản đầu tiên)
+vne_01190,"Tâm thần mà phá đúng chỗ, kn nổi",toxic,Trùng lặp (giữ bản đầu tiên)
+vne_01191,"Phá di sản thì phải phạt nặng, ko tha",negative,Trùng lặp (giữ bản đầu tiên)
+vne_01192,Ai thả ông này ra mà để vô phá vậy,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_01196,"Tâm thần thì nhốt vô viện, thả ra làm gì",neutral,Trùng lặp (giữ bản đầu tiên)
+vne_01199,"Tâm thần sao biết phá ngai vàng, nghi ngờ lắm",toxic,Trùng lặp (giữ bản đầu tiên)
+vne_01263,"Đã nghèo còn đẻ, đúng là hết nói",toxic,Trùng lặp (giữ bản đầu tiên)
+vne_01296,"Thương gia đình anh, cố lên",positive,Trùng lặp (giữ bản đầu tiên)
+vne_01297,"Nghèo mà đẻ, khổ cả nhà",negative,Trùng lặp (giữ bản đầu tiên)
+vne_01411,Quán này chắc bán cả bình nguyên vô tận 😆,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_01417,"Clip anh Huy vui, xem xong muốn ăn cơm quê 😄",positive,Trùng lặp (giữ bản đầu tiên)
+vne_01419,Cơm quê mà giá này chắc bán ở sao Thủy 😅,negative,Trùng lặp (giữ bản đầu tiên)
+vne_01423,"Cơm quê giá cổng trời, ăn xong hết ví 😅",negative,Trùng lặp (giữ bản đầu tiên)
+vne_01424,Quán này chắc bán cả bình nguyên vô tận 😆,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_01425,Thấy cơm quê dượng bầu khịa anh Huy ở đâu vậy? 😄,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_01426,Cơm quê mà giá này chắc bán ở sao Kim 😭,negative,Trùng lặp (giữ bản đầu tiên)
+vne_01427,Anh Huy làm clip cơm quê vui quá 😎,positive,Trùng lặp (giữ bản đầu tiên)
+vne_01428,Quán cơm quê này chắc nằm trên mặt trăng 😆,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_01429,"Cơm quê giá cổng trời, ăn xong nhớ mãi 😅",negative,Trùng lặp (giữ bản đầu tiên)
+vne_01430,"Clip anh Huy vui, xem xong muốn ăn cơm quê 😄",positive,Trùng lặp (giữ bản đầu tiên)
+vne_01433,Quán cơm quê dượng bầu đúng là huyền thoại 😎,positive,Trùng lặp (giữ bản đầu tiên)
+vne_01434,Ăn cơm quê mà giá như đi du lịch nước ngoài 😭,negative,Trùng lặp (giữ bản đầu tiên)
+vne_01436,"Cơm quê giá cổng trời, ăn xong hết tiền 😅",negative,Trùng lặp (giữ bản đầu tiên)
+vne_01437,Quán này chắc bán cả bình nguyên vô tận 😆,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_01438,Thấy cơm quê dượng bầu khịa anh Huy ở đâu? 😄,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_01439,Cơm quê mà giá này chắc bán ở Dubai 😭,negative,Trùng lặp (giữ bản đầu tiên)
+vne_01440,Anh Huy làm clip cơm quê đỉnh quá 😎,positive,Trùng lặp (giữ bản đầu tiên)
+vne_01442,"Cơm quê giá cổng trời, ăn xong nhớ đời 😅",negative,Trùng lặp (giữ bản đầu tiên)
+vne_01443,"Clip anh Huy vui, xem xong muốn ăn cơm quê 😄",positive,Trùng lặp (giữ bản đầu tiên)
+vne_01444,Dượng bầu vắt view cơm quê tới khô luôn 😂,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_01445,Cơm quê mà giá này chắc bán ở sao Kim 😅,negative,Trùng lặp (giữ bản đầu tiên)
+vne_01446,Quán cơm quê dượng bầu đúng là số 1 😎,positive,Trùng lặp (giữ bản đầu tiên)
+vne_01447,Ăn cơm quê mà giá như đi du lịch Dubai 😭,negative,Trùng lặp (giữ bản đầu tiên)
+vne_01448,Anh Huy làm clip cơm quê cười đau cả bụng 😄,positive,Trùng lặp (giữ bản đầu tiên)
+vne_02153,"mệt chết ""🥵🥵🥵🥵""",neutral,Trùng lặp (giữ bản đầu tiên)
+vne_02924,Shop chỉ biết hút máu khách hàng,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03367,may nghi may noi gi cung dung tren fb nay a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03369,cai video do ma may cung dam share len fb a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03371,cai cach may viet status nhin la biet thieu muoi!,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03372,may nghi may la hot trend ma cu khoe tren fb the?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03373,sao may cu thich di cong kich nguoi khac tren fb?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03388,sao may cu thich di noi xau nguoi khac tren fb?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03390,may co biet cai giong noi do nghe muoi mat khong?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03394,cai clip nay nhin ma chi muon bo qua ngay!,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03399,cai livestream do ma may cung dam len fb a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03401,cai status nay ma may cung tu hao viet len a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03403,sao may khong biet minh dang lam tro tren fb?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03406,cai anh do ma may cung dam khoe tren fb a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03408,sao may cu thich di drama voi nguoi khac tren fb?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03411,cai cach may comment tren fb nhin la biet vo hoc!,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03412,may nghi may noi gi cung dung tren fb nay a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03414,cai video do ma may cung dam share len fb a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03416,cai cach may viet status nhin la biet thieu muoi!,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03418,sao may cu thich di cong kich nguoi khac tren fb?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03421,cai status do ma may cung dam viet len fb a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03422,may nghi may la celeb ma cu khoe tren fb the?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03423,sao may khong biet minh dang noi nham gi vay?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03425,may co biet minh nhin te the tren fb nay khong?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03433,sao may khong nhin lai minh truoc khi post status?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03434,cai livestream do ma may cung dam len fb a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03436,cai status nay ma may cung tu hao share len a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03438,sao may cu thich di noi xau nguoi khac tren fb?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03441,cai status do ma may cung dam viet len fb a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03442,may nghi may la celeb ma cu khoe tren fb story?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03443,sao may khong biet minh dang lam tro tren fb?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03446,cai anh do ma may cung dam lam anh dai dien a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03447,may nghi post cai do len fb la ngau lam a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03451,cai cach may comment tren fb nhin la biet vo hoc!,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03453,sao may khong nhin lai cach an mac cua minh truoc?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03454,cai video do ma may cung dam share len fb a?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03457,may nghi may la hot trend ma cu khoe tren fb the?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03458,sao may cu thich di cong kich nguoi khac tren fb?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03463,sao may khong biet minh dang noi nham nhan gi?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03466,cai cach may viet status nhin la biet khong co hoc!,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03467,may nghi may la ai ma di noi xau nguoi khac the?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03595,may co biet cai body do nhin xau xi ra sao?,toxic,Trùng lặp (giữ bản đầu tiên)
+vne_03663,Cũng được,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_03687,Bạn mua ở đâu vậy?,neutral,Trùng lặp (giữ bản đầu tiên)
+vne_04133,Chất lượng hình ảnh mờ quá,negative,Trùng lặp (giữ bản đầu tiên)
+vne_04195,Chất lượng hình ảnh mờ quá,negative,Trùng lặp (giữ bản đầu tiên)

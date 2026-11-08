@@ -1,0 +1,645 @@
+﻿comment,label,label_id,split
+muon comment nhung chang biet ghi gi,negative,0,Train
+cai anh do nhin ma chi muon unlike ngay luon!,toxic,0,Train
+clip nay dung may quay nao ma ro the?,neutral,1,Train
+noi ma khong co lien ket,negative,0,Train
+may co biet cai chan ngan tui do nhin ghe sao?,toxic,0,Train
+mon an nay co kho lam khong?,neutral,1,Train
+co ai xem clip nay luc dang do an khong?,neutral,1,Train
+may co biet cai livestream do nhin te the nao khong?,toxic,0,Train
+"quang cao hoai, chan vl",negative,0,Train
+may nghi body te nhu vay ma ai thich nhin a?,toxic,0,Train
+sao may dam khoe cai body lo xuong do tren fb?,toxic,0,Train
+"banh beo toan bot, khong co tom",negative,0,Train
+sao may khong biet minh dang noi nham gi vay?,toxic,0,Train
+sao may cu thich di drama voi nguoi khac tren fb?,toxic,0,Train
+sao the,neutral,1,Train
+sao may cu khoe cai bung mo do tren fb vay?,toxic,0,Train
+sao may cu thich di comment vo van hoa tren fb?,toxic,0,Train
+cai body do ma may cung dam mac do bo len fb?,toxic,0,Train
+bi tac duong ngay giua trua nang,negative,0,Train
+duong lam xong roi van xoc,negative,0,Train
+xe khach don tra khach bat quy tac,negative,0,Train
+bi CSGT thoi vi loi nho nhat,negative,0,Train
+may nghi cai chan ngan tui do la hot tren fb a?,toxic,0,Train
+may nghi post cai anh do len fb la ai cung khen a?,toxic,0,Train
+may co biet cai status nay nhin ngu ngoc the nao khong?,toxic,0,Train
+hoi buon chan chut,negative,0,Train
+tra dao cu nhu the ky truoc,negative,0,Train
+may co biet minh nhin te the tren fb nay khong?,toxic,0,Train
+ban dung micro gi ma ro vay?,neutral,1,Train
+xe o to dau choang het loi di,negative,0,Train
+may co biet cai chan map do nhin ghe ra sao?,toxic,0,Train
+sao may khong biet minh dang lam tro tren fb?,toxic,0,Train
+hay lam,positive,2,Train
+cai status nay nhin la biet khong co chat xam!,toxic,0,Train
+cai anh do nhin ma chi muon unlike ngay va luon!,toxic,0,Train
+xe may tranh nhau tung met,negative,0,Train
+cai mat may map vay ma cung tu tin post anh a?,toxic,0,Train
+do an nay ban tu lam hay mua ngoai?,neutral,1,Train
+"quan dong nghet, khong sach",negative,0,Train
+may co biet cai status do nhin nham ra sao khong?,toxic,0,Train
+duong bi hang rong chiem cho,negative,0,Train
+clip nay thuoc kenh gi vay?,neutral,1,Train
+ko giu duoc khan gia,negative,0,Train
+sao may cu post anh voi cai voc dang te hai do?,toxic,0,Train
+chua thuyet phuc lam,negative,0,Train
+ban hay an kieu nay ha?,neutral,1,Train
+may co biet cai giong hat do nghe ghe the nao khong?,toxic,0,Train
+duong ray tau khong co rao chan,negative,0,Train
+cai chan may cong the ma cung tu tin khoe a?,toxic,0,Train
+cai noi dung re tien nay ma cung co nguoi like ha?,toxic,0,Train
+nuoc mam loang loet,negative,0,Train
+tam on,neutral,1,Train
+nhin do an ma them ghe,neutral,1,Train
+ngay nao cung ket xe o nga tu nay,negative,0,Train
+cai body do ma may cung dam lam anh dai dien a?,toxic,0,Train
+noi that la xem xong thay cha co gi,negative,0,Train
+mon uot nhem,negative,0,Train
+"duong nay toi qua, khong co den",negative,0,Train
+cai nay la tom chien xu ha?,neutral,1,Train
+cai mat may nhin la biet khong co tuong lai roi!,toxic,0,Train
+may co biet cai cach viet status do nhin ngu ra sao?,toxic,0,Train
+xe cho rac hoi thoi,negative,0,Train
+ban co hay an nhe buoi toi khong?,neutral,1,Train
+do uong bi do het ra tui,negative,0,Train
+nuoc cham nha lam,negative,0,Train
+ban an nhanh that,neutral,1,Train
+cai cach may viet status nhin la biet thieu muoi!,toxic,0,Train
+chao ca nhieu xuong qua,negative,0,Train
+may nghi cai voc dang lo xuong do la chat lam a?,toxic,0,Train
+may co biet cai body do nhin re tien the nao?,toxic,0,Train
+duong cao toc van bi ket,negative,0,Train
+noi doi nhieu,negative,0,Train
+may co biet cai status do nhin nham nhi ra sao khong?,toxic,0,Train
+day la lan thu may ban lam mukbang vay?,neutral,1,Train
+thach trong ly toan da,negative,0,Train
+sao may cu mac do bo voi cai voc dang xau do?,toxic,0,Train
+do an khong nhin duoc,negative,0,Train
+cai gi,neutral,1,Train
+mon nay an ngai lam,negative,0,Train
+tra sua bi chua,negative,0,Train
+sao may dam khoe cai body beo nhu heo do tren fb?,toxic,0,Train
+may co biet minh nhin te the tren fb nay ra sao?,toxic,0,Train
+ban co the cho minh dia chi mua do an khong?,neutral,1,Train
+cai anh do nhin ma chi muon block ngay va luon!,toxic,0,Train
+cai status nay ma may cung dam viet len fb a?,toxic,0,Train
+cai cach may comment nhin la biet thieu i ot roi!,toxic,0,Train
+nghe am thanh muot ghe,neutral,1,Train
+clip nay up khi nao vay?,neutral,1,Train
+phuc vu qua la cham,negative,0,Train
+"cha gio cu qua, chong mui",negative,0,Train
+ko co y kien gi,neutral,1,Train
+cai status do ma may cung dam viet len fb a?,toxic,0,Train
+may nghi cai mat do ai thich nhin tren fb ha?,toxic,0,Train
+giao thong rat hon loan,negative,0,Train
+may co biet cai body do nhin re tien ra sao?,toxic,0,Train
+khong co su thong nhat,negative,0,Train
+tai xe mo cua bat ngo gay nguy hiem,negative,0,Train
+may co biet cai livestream do nhin te ra sao?,toxic,0,Train
+cung hay,positive,2,Train
+may nghi may la hotface ma cu comment khap noi?,toxic,0,Train
+thang lon,toxic,0,Train
+may nghi minh la hotface ma cu viet status the?,toxic,0,Train
+xe container chay lan xe may,negative,0,Train
+com rang nhu bot chien,negative,0,Train
+duong mot chieu nhieu nguoi van chay nguoc,negative,0,Train
+may co biet cai status nay nhin re tien the nao?,toxic,0,Train
+cai cach may an mac nhin la biet que mua roi!,toxic,0,Train
+khong ai nhuong duong cho cuu thuong,negative,0,Train
+ban quay tu may quay nao vay?,neutral,1,Train
+nam nao,neutral,1,Train
+sao may khong biet xau ho khi khoe tren fb?,toxic,0,Train
+video ko co noi dung,negative,0,Train
+xe cuu thuong cung bi ket xe,negative,0,Train
+cau vuot da xuong cap,negative,0,Train
+ban thuong review do an o dau?,neutral,1,Train
+cai anh do ma may cung dam lam avatar fb a?,toxic,0,Train
+may nghi cai mat day mun do la quyen ru a?,toxic,0,Train
+xe taxi chay lum xum,negative,0,Train
+canh sat giao thong an mac loi,negative,0,Train
+banh mi bi khong gion,negative,0,Train
+cong truong lam duong hoai khong xong,negative,0,Train
+phuc vu le me,negative,0,Train
+may co biet cai mat do nhin re tien the nao?,toxic,0,Train
+thang nao,neutral,1,Train
+noi roi nhin van loi,negative,0,Train
+duong xuong cap nhung chua sua,negative,0,Train
+ban thuong an vao gio nao?,neutral,1,Train
+xe khach dung bat ngo giua duong,negative,0,Train
+cai mat may ma cung dam khoe tren fb story a?,toxic,0,Train
+ngay nao,neutral,1,Train
+ko co y tuong,negative,0,Train
+may co biet cai mat do nhin te the nao tren fb?,toxic,0,Train
+video chi la su lap lai,negative,0,Train
+via he bi chiem dung hoan toan,negative,0,Train
+sao may khong nhin lai cach viet status cua minh?,toxic,0,Train
+may nghi may la ai ma di cong kich nguoi khac?,toxic,0,Train
+cam on b nhieu nhe,positive,2,Train
+ko co y nghia gi het,negative,0,Train
+may co biet cai eo to nhu cai lu do xau the nao?,toxic,0,Train
+chay xe nhu dua tren duong pho,negative,0,Train
+"banh can cu, hoi hoi",negative,0,Train
+ban quay bang dien thoai hay may quay?,neutral,1,Train
+cai mat may map the ma cung dam khoe story a?,toxic,0,Train
+"nuoc da tan het, nhat nheo",negative,0,Train
+nuoc uong chua le,negative,0,Train
+sao may cu khoe cai mat xau xi do tren fb vay?,toxic,0,Train
+ban lam video moi vao thu may?,neutral,1,Train
+may co biet cai giong noi do nghe muoi mat khong?,toxic,0,Train
+may co biet cai body do nhin te ra sao tren fb?,toxic,0,Train
+cam giac clip lam cho co,negative,0,Train
+banh uot bi biet,negative,0,Train
+"duong ho roi, khong sua chua",negative,0,Train
+xe may leo vao duong ray tau,negative,0,Train
+co giao thong gi ma nhu ran cuon,negative,0,Train
+cai cach may comment nhin la biet vo hoc roi!,toxic,0,Train
+xem hoai chang thay hay,negative,0,Train
+video nay duoc quay bao nhieu phut?,neutral,1,Train
+may nghi post cai do len fb la ngau lam a?,toxic,0,Train
+sao may dam mac quan bo voi cai chan ngan do?,toxic,0,Train
+cai style an mac do ma may cung dam len fb a?,toxic,0,Train
+do an qua loang,negative,0,Train
+mon nay co ban o sieu thi khong?,neutral,1,Train
+"noi nhanh wa, nghe ko kip",negative,0,Train
+co ai da thu mon nay chua?,neutral,1,Train
+co ai thay ban nay an nhieu ma khong beo khong?,neutral,1,Train
+im di! k ai hoi may het,toxic,0,Train
+con cho,toxic,0,Train
+sao may dam khoe cai mat xau xi do tren fb vay?,toxic,0,Train
+sao may khong biet xau ho voi cai body do tren fb?,toxic,0,Train
+cai cach may noi chuyen tren fb nghe ghe qua ha?,toxic,0,Train
+di chuyen ca tieng chi 3km,negative,0,Train
+may nghi body lo xuong do la dep lam a?,toxic,0,Train
+ko co gi moi me,negative,0,Train
+me may,toxic,0,Train
+nhin do an dep mat qua,neutral,1,Train
+phuc vu mat lanh nhu tien,negative,0,Train
+do ngu,toxic,0,Train
+phuot thu chay chan nhieu nguoi,negative,0,Train
+cai clip do nhin ma chi muon report ngay luon!,toxic,0,Train
+cai anh dai dien do nhin ma muon block ngay!,toxic,0,Train
+day la do an chay hay man vay?,neutral,1,Train
+"giong keo keo, nghe chan",negative,0,Train
+banh trang bi kho,negative,0,Train
+cai clip nay nhin ma chi muon bo qua ngay luon!,toxic,0,Train
+may co biet cai giong hat do nghe ghe ra sao?,toxic,0,Train
+may co biet cai giong hat do nghe muoi mat khong?,toxic,0,Train
+dan ong chay xe nguy hiem hon ca phu nu,negative,0,Train
+nhin la biet mon nay cay roi,neutral,1,Train
+clip nay quay tu bao gio vay?,neutral,1,Train
+noi loan xa,negative,0,Train
+gia cao so voi chat luong,negative,0,Train
+"k hay lam, t nghi co the lam tot hon",negative,0,Train
+nghe roi ma them theo,neutral,1,Train
+cai body do ma may cung dam lam anh dai dien?,toxic,0,Train
+noi chuyen chang ro,negative,0,Train
+cha gio bi dong dau,negative,0,Train
+"video nay khong co am thanh, chi hinh thoi ha?",neutral,1,Train
+via he bi kinh doanh chiem het,negative,0,Train
+ban co len ke hoach truoc khi quay khong?,neutral,1,Train
+xe di nguoc chieu chi de tiet 5s,negative,0,Train
+banh xeo toan dau,negative,0,Train
+cai clip nay nhin ma chi muon bo qua ngay!,toxic,0,Train
+clip chang an khop gi voi nhau,negative,0,Train
+may co biet cai anh do nhin xau xi the nao khong?,toxic,0,Train
+dit me,toxic,0,Train
+may nghi cai mat map do la de thuong tren fb a?,toxic,0,Train
+khong hop khau vi,negative,0,Train
+may nghi may la hotface ma di comment khap noi a?,toxic,0,Train
+sao may khong biet xau ho ma cu thich khoe tren fb?,toxic,0,Train
+may co biet cai eo map do nhin ghe the nao?,toxic,0,Train
+ban co quay thuc don trong tuan khong?,neutral,1,Train
+gia tren troi ma mon nho xiu,negative,0,Train
+te qua,negative,0,Train
+sao may cu thich di comment nham nhi tren fb the?,toxic,0,Train
+banh trang tron qua nhieu dau,negative,0,Train
+ko cam xuc,negative,0,Train
+sao may cu thich di drama tren fb voi nguoi khac?,toxic,0,Train
+may co biet cai livestream do nhin te the nao?,toxic,0,Train
+t cam thay hoi that vong,negative,0,Train
+may nghi khoe cai mat day mun do la hot a?,toxic,0,Train
+noi nhieu ko cap nhat,negative,0,Train
+noi chung la khong an tuong,negative,0,Train
+che thieu do,negative,0,Train
+an xong bi dau bung,negative,0,Train
+vach ke duong khong ro,negative,0,Train
+an xong ma chang thay ngon,negative,0,Train
+cai cach may viet status nhin la biet vo van hoa!,toxic,0,Train
+sao may cu khoe cai voc dang lo xuong do tren fb?,toxic,0,Train
+sao may dam post anh voi cai mat beo nhu banh a?,toxic,0,Train
+cai cach may livestream nhin la biet vo duyen!,toxic,0,Train
+may nghi post cai do len fb la ai cung quan tam a?,toxic,0,Train
+cai chan may cong queo ma cung dam khoe a?,toxic,0,Train
+cai chan may ngan the ma cung dam livestream a?,toxic,0,Train
+day la clip moi nhat cua kenh ha?,neutral,1,Train
+xe khach thi don tra tu do,negative,0,Train
+do an co nguoi tai tro ha ban?,neutral,1,Train
+clip loi tu dau den cuoi,negative,0,Train
+khong thay cong an luc cao diem,negative,0,Train
+clip dai bao lau vay?,neutral,1,Train
+do an man kinh khung,negative,0,Train
+tra sua toan bot,negative,0,Train
+may co biet cai bung mo do nhin xau xi ra sao?,toxic,0,Train
+may nghi post cai anh do len fb la ai cung khen ha?,toxic,0,Train
+do an ve mo ra thay bi do,negative,0,Train
+tra sua bi dong mang,negative,0,Train
+may co biet cai mat mun do nhin ghe the nao khong?,toxic,0,Train
+cai body do ma may cung tu tin livestream a?,toxic,0,Train
+thach dai va bi nhat,negative,0,Train
+sao may dam khoe cai mat day mun do tren fb?,toxic,0,Train
+order ve mo ra thay bi doi mon,negative,0,Train
+nhin nhu mon han quoc phai khong?,neutral,1,Train
+cai mat may mun the ma cung dam post story a?,toxic,0,Train
+duong qua hep cho luong xe lon,negative,0,Train
+sao may cu post anh voi cai chan ngan do vay?,toxic,0,Train
+noi roi chang nho gi,negative,0,Train
+may nghi may la ai ma di cong kich nguoi khac the?,toxic,0,Train
+may nghi cai voc dang xap xe do la hot trend a?,toxic,0,Train
+do an man muon khoc,negative,0,Train
+may co biet cai body do nhin xau xi ra sao?,toxic,0,Train
+may co biet cai status do nhin nham nhi ra sao?,toxic,0,Train
+cai livestream do ma may cung dam len fb a?,toxic,0,Train
+xem 1 phut la muon bo,negative,0,Train
+duong nay cu mua la ngap,negative,0,Train
+noi gi the,negative,0,Train
+xe uber do day duong,negative,0,Train
+ket xe ca tieng dong ho,negative,0,Train
+nhac nen on ao,negative,0,Train
+sao may dam khoe cai body te hai do tren fb?,toxic,0,Train
+"noi dai dong, dai dong",negative,0,Train
+xe may leo via he,negative,0,Train
+do an chay nuoc,negative,0,Train
+cai status nay nhin la biet khong co chat xam gi!,toxic,0,Train
+cai cach may comment tren fb nhin la biet vo hoc!,toxic,0,Train
+day la video am thanh thuc hay ghep?,neutral,1,Train
+ko biet noi gi ca,neutral,1,Train
+"quan on ao, nhieu ruoi",negative,0,Train
+duong que ho ga khong nap,negative,0,Train
+tai xe di ngu gat,negative,0,Train
+cam thay met moi moi lan ra duong,negative,0,Train
+vi sao,neutral,1,Train
+ban quay bang may gi ma net the?,neutral,1,Train
+may nghi khoe cai bung mo do la dep lam a?,toxic,0,Train
+sao may khong tu nhin lai minh truoc khi viet status?,toxic,0,Train
+duong bi ngap bien mat vach,negative,0,Train
+day la video quay ngoai troi ha?,neutral,1,Train
+clip co thoi luong bao nhieu?,neutral,1,Train
+noi nhu doc rap,negative,0,Train
+ban quay video vao buoi toi ha?,neutral,1,Train
+may co biet cai mat beo do nhin te ra sao?,toxic,0,Train
+t nghi can cai thien them,negative,0,Train
+may co biet cai cach an mac do nhin re tien khong?,toxic,0,Train
+sao may cu thich khoe cai mat xau xi do tren fb?,toxic,0,Train
+sao may khong biet minh dang lam tro tren fb vay?,toxic,0,Train
+chinh sua loi qua,negative,0,Train
+co ruoi trong mon an,negative,0,Train
+may da soi guong thay cai mat minh tham hai chua?,toxic,0,Train
+co phan edit lam roi mat,negative,0,Train
+ko thich kieu lam video nay,negative,0,Train
+sao may cu khoe cai body xap xe do tren fb?,toxic,0,Train
+co ai cung them nhu minh khong?,neutral,1,Train
+chao long hoi hoi,negative,0,Train
+banh trang cu nhu cao su,negative,0,Train
+may co nghi cai clip do nhin ngu ngoc ra sao?,toxic,0,Train
+gi ma,neutral,1,Train
+sao may cu khoe cai voc dang xau xi do tren fb?,toxic,0,Train
+do an trong clip duoc nau san hay tu lam?,neutral,1,Train
+ban an nhieu thuc pham huu co ha?,neutral,1,Train
+ko ai hieu ban dang noi gi,negative,0,Train
+com chien bi soi dau,negative,0,Train
+clip lam theo mot kieu cu,negative,0,Train
+bao nhieu,neutral,1,Train
+"giao thong lon xon, khong co truc tu",negative,0,Train
+may nghi post cai anh do len fb la ai cung thich?,toxic,0,Train
+noi ma chang hieu,negative,0,Train
+"qua ngot, kho nuot",negative,0,Train
+nguoi lon khong doi mu bao hiem,negative,0,Train
+noi nham nham chang hieu j,negative,0,Train
+sao may cu mac do bo voi cai body te hai do?,toxic,0,Train
+sao may cu thich di noi xau nguoi khac tren fb?,toxic,0,Train
+noi linh tinh,negative,0,Train
+sao may dam mac bikini voi cai body te hai do?,toxic,0,Train
+do an nay ban tu nau ha?,neutral,1,Train
+co ai biet do an nay ten gi khong?,neutral,1,Train
+ban co hay an cay khong?,neutral,1,Train
+thach dai nhai hoai,negative,0,Train
+may nghi khoe cai bung mo do la ngau lam a?,toxic,0,Train
+co ve k thu vi lam,negative,0,Train
+nuoc ep toan da,negative,0,Train
+tra sua loang nhu nuoc loc,negative,0,Train
+noi dai chang de lam gi,negative,0,Train
+ko hieu noi y chinh,negative,0,Train
+may nghi cai body beo nhu heo do la hot trend a?,toxic,0,Train
+may nghi may la ai ma di day doi nguoi khac the?,toxic,0,Train
+sao may khong nhin lai minh truoc khi post status?,toxic,0,Train
+cai anh do nhin ma chi muon block ngay luon!,toxic,0,Train
+ko co y nghia,negative,0,Train
+cai bung may mo the ma cung dam post anh a?,toxic,0,Train
+sao may khong nhin lai minh truoc khi comment?,toxic,0,Train
+quan rong ma phuc vu nhu rua,negative,0,Train
+ban an nhieu thuc an nuoc ngoai ha?,neutral,1,Train
+noi chuyen chang ket thuc,negative,0,Train
+may nghi may la hot trend ma cu khoe tren fb?,toxic,0,Train
+ban co lam them phan 2 khong?,neutral,1,Train
+duong nho ma oto dau loang choang,negative,0,Train
+cong trinh lam duong keo dai,negative,0,Train
+chan vit hoi ghet,negative,0,Train
+cai cach may viet comment nhin la biet thieu i ot!,toxic,0,Train
+sao may dam mac do bo voi cai mat map do len fb?,toxic,0,Train
+sao may cu khoe cai body xau xi do tren fb?,toxic,0,Train
+sao may cu khoe cai body te hai do tren fb vay?,toxic,0,Train
+"sup dai, nhai met",negative,0,Train
+do an nay bao nhieu tien mot phan?,neutral,1,Train
+xe may chay vao duong cam,negative,0,Train
+may co biet cai cach noi chuyen nay nghe ghe khong?,toxic,0,Train
+nhac nen am am chan,negative,0,Train
+may co biet cai chan ngan tui do nhin te the nao?,toxic,0,Train
+ko dang xem,negative,0,Train
+sup bi nguoi khi den noi,negative,0,Train
+noi nhieu ma chang co gi,negative,0,Train
+may nghi cai mat beo do la de thuong tren fb ha?,toxic,0,Train
+cai cach may noi chuyen tren fb nhin la vo van hoa!,toxic,0,Train
+sao may dam mac bikini voi cai body te the do?,toxic,0,Train
+cai chan ngan tui do ma may cung dam khoe a?,toxic,0,Train
+may co biet cai anh do nhin re tien the nao khong?,toxic,0,Train
+den do chua het da bam coi,negative,0,Train
+may nghi cai body lo xuong do la quyen ru a?,toxic,0,Train
+dep trai qua,positive,2,Train
+ban thuong lam clip vao cuoi tuan ha?,neutral,1,Train
+noi lan man,negative,0,Train
+cai chan may cong the ma cung tu tin livestream?,toxic,0,Train
+bi ket xe tu 6h sang,negative,0,Train
+xe buyt qua dong nguoi,negative,0,Train
+may nghi may la celeb ma cu khoe tren fb the?,toxic,0,Train
+ko giu dc nguoi xem,negative,0,Train
+mon nay an kem voi gi thi ngon?,neutral,1,Train
+nghe am thanh an gion ghe,neutral,1,Train
+noi lech chu de,negative,0,Train
+ban an nhanh that do,neutral,1,Train
+xe ban tai leo len dai phan cach,negative,0,Train
+xe rac bi roi rac tren duong,negative,0,Train
+ban co lam video nau an khong?,neutral,1,Train
+bun dau mam tom loang,negative,0,Train
+cai mat may nhin la biet khong co gi hay ho roi!,toxic,0,Train
+banh bao khong co nhan,negative,0,Train
+may co biet cai cach viet status do ngu the nao?,toxic,0,Train
+"noi roi, van ko hay",negative,0,Train
+may co nghi cai eo to nhu cai thung do dep khong?,toxic,0,Train
+cai anh do nhin ma muon report ngay va luon!,toxic,0,Train
+cai status nay ma may cung tu hao share len a?,toxic,0,Train
+cau vuot di bo ma xe may leo len,negative,0,Train
+khong thay ai dieu tiet giao thong,negative,0,Train
+tuy ban,neutral,1,Train
+kem bi chay het khi nhan,negative,0,Train
+xe may cho ba nguoi,negative,0,Train
+sao may dam post anh voi cai eo map do len fb?,toxic,0,Train
+noi nhieu ma chang co noi dung,negative,0,Train
+xinh gai qua,positive,2,Train
+may nghi may noi gi cung hay tren fb nay a?,toxic,0,Train
+cai anh do ma may cung dam lam anh dai dien a?,toxic,0,Train
+clip nay co cat ghep khong vay?,neutral,1,Train
+xem may lan ma van chang thay thu vi,negative,0,Train
+sao may khong nhin lai cach an mac cua minh truoc?,toxic,0,Train
+cai cach may viet status nhin la biet khong hoc!,toxic,0,Train
+day la thuong hieu nao vay?,neutral,1,Train
+may nghi khoe cai body te hai do la hot a?,toxic,0,Train
+xem roi xoa luon,negative,0,Train
+clip chang co su thu vi,negative,0,Train
+sao may cu thich di noi xau nguoi khac tren fb vay?,toxic,0,Train
+co ai biet ten do uong trong clip nay khong?,neutral,1,Train
+clip dai va chang co gi ca,negative,0,Train
+quay dau ngay giua duong,negative,0,Train
+may lay dau ra tu tin de khoe cai body te the?,toxic,0,Train
+the nao,neutral,1,Train
+may co biet cai body do nhin xau xi the nao?,toxic,0,Train
+xe dap chay chan duong o to,negative,0,Train
+lam sao,neutral,1,Train
+xe o to mo cua dot ngot,negative,0,Train
+xe container chay cat dau,negative,0,Train
+ship lau muon xiu do,negative,0,Train
+may co nghi cai status nay nham nhi the nao khong?,toxic,0,Train
+duong da xau lai con bui,negative,0,Train
+cau vuot bi rach sat,negative,0,Train
+duong lam moi xong da xuong cap,negative,0,Train
+clip co tieng an nghe da tai ghe,neutral,1,Train
+"bot nhieu, nhan it",negative,0,Train
+video chang co lo trinh gi,negative,0,Train
+"xe ca nhan qua dong, khong kiem soat duoc",negative,0,Train
+nga tu nay tai nan thuong xuyen,negative,0,Train
+an xong hoi bung,negative,0,Train
+may nghi cai body beo nhu heo do la dep a?,toxic,0,Train
+nuoc cham qua nhieu toi,negative,0,Train
+ko hieu dang noi cai gi lun,negative,0,Train
+may nghi cai bung mo do la hot trend tren fb a?,toxic,0,Train
+nghe am thanh gion thi thich ghe,neutral,1,Train
+o dau,neutral,1,Train
+xe cho hang roi rac xuong duong,negative,0,Train
+may nghi cai voc dang lo xuong do la dep a?,toxic,0,Train
+nuoc mia bi chang ngot,negative,0,Train
+"duong ho ga mo, nguy hiem",negative,0,Train
+ban co the chia se link mua khong?,neutral,1,Train
+cai mat may beo the ma cung tu tin post anh a?,toxic,0,Train
+an xong khat nuoc vi man,negative,0,Train
+may co nghi cai anh do nhin ghe mat khong?,toxic,0,Train
+co ai biet cong thuc nuoc cham nay khong?,neutral,1,Train
+may co biet minh nhin te the tren fb khong?,toxic,0,Train
+duong dai ma khong co bang huong dan,negative,0,Train
+"com van con song, khong an duoc",negative,0,Train
+may gio,neutral,1,Train
+binh thuong,neutral,1,Train
+tra sua nhat nheo,negative,0,Train
+may nghi may viet status vay la hay ho lam a?,toxic,0,Train
+noi nhu ke chuyen,negative,0,Train
+may co biet cai mat mun do nhin muoi mat khong?,toxic,0,Train
+sao may cu thich di cong kich nguoi khac tren fb?,toxic,0,Train
+may co biet cai eo to nhu cai lu do te sao?,toxic,0,Train
+cai clip nay nhin ma chi muon tat ngay luon!,toxic,0,Train
+cai body do nhin ma chi muon block ngay luon!,toxic,0,Train
+giong noi nghe nhuc dau,negative,0,Train
+may co biet cai chan cong do nhin muoi mat khong?,toxic,0,Train
+cai anh do nhin cai body may ma muon block ngay!,toxic,0,Train
+noi chuyen ko co dau,negative,0,Train
+clip lam cho co thoi,negative,0,Train
+nem chua chua lau qua,negative,0,Train
+day la an mot minh hay cung ai do?,neutral,1,Train
+sao may khong biet minh dang noi nham nhan gi?,toxic,0,Train
+noi lo xo,negative,0,Train
+do an trong clip co cay khong ban?,neutral,1,Train
+khong dat ma van giao,negative,0,Train
+cai body do nhin ma chi muon report ngay luon!,toxic,0,Train
+co ai thu lam mon nay chua?,neutral,1,Train
+cai mat may map vay ma cung dam livestream a?,toxic,0,Train
+may nghi post cai do len fb la hay ho lam a?,toxic,0,Train
+day la mon gi vay?,neutral,1,Train
+may nghi post may cai hashtag do la chat a?,toxic,0,Train
+ngu nhu bo,toxic,0,Train
+ban quay lien tuc hay cat ra tung phan?,neutral,1,Train
+may co biet cai status nay nham nhi the nao?,toxic,0,Train
+an xong ngat vi bot ngot,negative,0,Train
+cai anh do nhin ma chi muon unlike fanpage ngay!,toxic,0,Train
+may nghi khoe cai body xap xe do la ngau a?,toxic,0,Train
+bo kho dai nhai muon nut,negative,0,Train
+cai anh do ma may cung dam khoe tren fb a?,toxic,0,Train
+may nghi khoe cai chan cong do la dep lam a?,toxic,0,Train
+may nghi viet status vo duyen vay la hai huoc a?,toxic,0,Train
+xe may chay nguoc chieu nhieu qua,negative,0,Train
+sao may cu khoe cai mat xau xi do tren fb ha?,toxic,0,Train
+chat luong hinh kem,negative,0,Train
+nguoi di bo di tren lan xe may,negative,0,Train
+do an bi do ra het tui,negative,0,Train
+xe dap khong den do,negative,0,Train
+tai nan lien tuc o doan nay,negative,0,Train
+khong co chat luong,negative,0,Train
+may nghi cai mat beo do la de thuong tren fb a?,toxic,0,Train
+do an trong clip la gi vay ca nha?,neutral,1,Train
+may co biet cai status nay nhin ngu ngoc the nao?,toxic,0,Train
+nguoi di xe may khong doi mu bao hiem,negative,0,Train
+may co biet cai status nay nham nhi ra sao khong?,toxic,0,Train
+may co biet minh dang lam tro tren fb khong?,toxic,0,Train
+quay dau khong bao xinhan,negative,0,Train
+sao may khong nhin lai cach an mac cua minh?,toxic,0,Train
+may co nghi cai status nay nhin ngu ngoc ra sao khong?,toxic,0,Train
+"duong thi hep, nguoi thi dong",negative,0,Train
+den do roi ma van co nguoi vuot,negative,0,Train
+may co biet cai cach an mac do nhin te the nao khong?,toxic,0,Train
+co the lam tot hon nhieu,negative,0,Train
+cai bung may to the ma cung tu tin post anh a?,toxic,0,Train
+ban co the lam clip chia se cach che bien khong?,neutral,1,Train
+co ai noi cai giong noi nghe muoi mat do hay ho gi dau?,toxic,0,Train
+sao vay,neutral,1,Train
+"noi ko ro, nhieu doan bi mo",negative,0,Train
+co len fyp ma ko hieu vi sao,negative,0,Train
+cai cach may noi chuyen tren fb nhin la biet vo duyen!,toxic,0,Train
+day la video quay o nha ha?,neutral,1,Validation
+may co biet cai cach noi chuyen do te the nao?,toxic,0,Validation
+may nghi may la ai ma di noi xau nguoi khac the?,toxic,0,Validation
+clip bi cam xuc roi,negative,0,Validation
+nuoc sot chua ngon,negative,0,Validation
+tai sao,neutral,1,Validation
+nem nuong nhieu mo qua,negative,0,Validation
+video dai qua xem muon ngu,negative,0,Validation
+ga ran cu nhu chien lai,negative,0,Validation
+co am thanh nghe da ghe,neutral,1,Validation
+may nghi may noi gi cung dung tren fb nay a?,toxic,0,Validation
+may nghi khoe cai style do la chat lam a?,toxic,0,Validation
+ko co dau tu gi het,negative,0,Validation
+may nghi cai chan cong queo do la quyen ru a?,toxic,0,Validation
+tra sua ngot gac co,negative,0,Validation
+may co biet cai giong noi do nghe te the nao?,toxic,0,Validation
+duong nay ngay nao cung ket,negative,0,Validation
+may co biet cai voc dang do nhin te the nao?,toxic,0,Validation
+do an khong tuoi,negative,0,Validation
+clip nay quay o dau vay?,neutral,1,Validation
+com van con song,negative,0,Validation
+cai cach may viet status nhin la biet thieu i ot!,toxic,0,Validation
+may co biet cai status nay nhin ngu the nao?,toxic,0,Validation
+sao may cu post anh voi cai bung phinh do vay?,toxic,0,Validation
+co ai thay ban nay an rat sang khong?,neutral,1,Validation
+cai cach may noi chuyen tren fb nhin la vo duyen!,toxic,0,Validation
+ban hay lam mukbang the nay ha?,neutral,1,Validation
+quan dong ma nhan vien nhu ngu,negative,0,Validation
+giao thong gio cao diem nhu dia nguc,negative,0,Validation
+cha gio khong con nong,negative,0,Validation
+xe may lan vao lan o to,negative,0,Validation
+di bo tren cau ma con lo xe may,negative,0,Validation
+quan khong co may lanh,negative,0,Validation
+may nghi post cai anh do len fb la ngau lam a?,toxic,0,Validation
+ban co the chia se cong thuc duoc khong?,neutral,1,Validation
+dang yeu qua,positive,2,Validation
+xem roi muon bo theo doi,negative,0,Validation
+tks vi da chia se nhe,positive,2,Validation
+cai giong hat do ma may cung dam livestream ha?,toxic,0,Validation
+cai status nay ma may cung tu hao viet len a?,toxic,0,Validation
+video nay dang buoi toi ha?,neutral,1,Validation
+quan doi mon lien tuc,negative,0,Validation
+video nay thuoc chu de gi vay?,neutral,1,Validation
+nhin ban an ma cung muon an theo,neutral,1,Validation
+ban co ke hoach lam video tiep theo chua?,neutral,1,Validation
+tra sua khong co sua,negative,0,Validation
+may nghi may noi gi cung dung tren fb nay ha?,toxic,0,Validation
+com tam bi chay mem,negative,0,Validation
+cai dau oc may co van de gi ma viet status ngu the?,toxic,0,Validation
+may co biet cai mat mun do nhin muoi mat sao?,toxic,0,Validation
+clip nhu duoc cat ghep voi,negative,0,Validation
+chua hieu,negative,0,Validation
+ko xac dinh,negative,0,Validation
+cai status do ma may cung dam viet len fb ha?,toxic,0,Validation
+cai livestream do nhin ma chi muon tat ngay!,toxic,0,Validation
+duong nay nhieu o ga qua,negative,0,Validation
+video nay co dung am thanh thuc te khong?,neutral,1,Validation
+duong qua nho cho luu luong nay,negative,0,Validation
+co ai biet o dau ban do an nay khong?,neutral,1,Validation
+may nghi may la hotface ma cu comment khap noi a?,toxic,0,Validation
+cai bung may to the ma cung tu tin khoe a?,toxic,0,Validation
+noi lung tung chang hieu gi,negative,0,Validation
+clip bi dung giua chang hieu gi,negative,0,Validation
+tuyet voi qua,positive,2,Test
+phai noi la xem thua time,negative,0,Test
+sao may cu khoe cai voc dang te hai do tren fb?,toxic,0,Test
+ko lay gi lam thu vi,negative,0,Test
+sao may dam khoe cai chan cong queo do tren fb?,toxic,0,Test
+den xanh chua sang da bam coi,negative,0,Test
+nuoc cham qua chua,negative,0,Test
+may co biet cai bung to nhu cai thung do te sao?,toxic,0,Test
+cai mat may nhin map the ma cung dam post story?,toxic,0,Test
+nguoi di bo khong co loi rieng,negative,0,Test
+may nghi may la hot trend ma cu khoe tren fb the?,toxic,0,Test
+do an nhu chua nau chin,negative,0,Test
+ban an gi trong clip vay?,neutral,1,Test
+khong co cam bien den giao thong,negative,0,Test
+xe tai chay vuot toc do,negative,0,Test
+xe bon nuoc di bat thuong,negative,0,Test
+menu nhieu nhung nhieu mon het,negative,0,Test
+quan nay phuc vu cham qua,negative,0,Test
+co video huong dan lam khong?,neutral,1,Test
+ban tu nau hay dat tu quan vay?,neutral,1,Test
+video lam chieu cho co,negative,0,Test
+ban dung cam am thanh nao vay?,neutral,1,Test
+ban quay bang may nao ma chat luong the?,neutral,1,Test
+xe cho da cham nguoi,negative,0,Test
+khong co bien bao ro rang,negative,0,Test
+canh sat giao thong khong xu ly vi pham ro rang,negative,0,Test
+duong cong va hep nguy hiem,negative,0,Test
+ai day,neutral,1,Test
+di xe ban dem rat nguy hiem,negative,0,Test
+banh trang uot het,negative,0,Test
+may co biet cai cach viet status do nhin ngu the nao?,toxic,0,Test
+cai status nay nhin la biet khong co chat gi!,toxic,0,Test
+xe oto cho hang thi dong ma lam on,negative,0,Test
+"duong ngap nhu song, khong chay xe noi",negative,0,Test
+"cha lua thiu, hoi moc",negative,0,Test
+xe may chay len via he nhu cho khong nguoi,negative,0,Test
+duong moi lam ma da bong troc,negative,0,Test
+nghe muon tat am thanh,negative,0,Test
+cha ca khong con nong,negative,0,Test
+may nghi body beo nhu banh bao do la dep a?,toxic,0,Test
+video quay ngoai troi ha?,neutral,1,Test
+ko ro,neutral,1,Test
+"xe buyt dung bat ngo, nguy hiem",negative,0,Test
+noi loi nhieu,negative,0,Test
+ngon nhin la biet,neutral,1,Test
+ko thu vi nhu mo ta,negative,0,Test
+tra sua nhin khong dep mat,negative,0,Test
+cai nay la banh trang cuon phai khong?,neutral,1,Test
+quan an hoi hoi,negative,0,Test
+may co biet cai chan ngan do nhin te the nao?,toxic,0,Test
+khi nao,neutral,1,Test
+may nghi khoe cai eo to nhu thung do la dep a?,toxic,0,Test
+no dung lap di lap lai,negative,0,Test
+sao may khong nhin lai minh truoc khi di comment?,toxic,0,Test
+van con nguoi leo rao chan bang xe,negative,0,Test
+bun bo khong co thit,negative,0,Test
+cai cach may viet status nhin la biet khong co hoc!,toxic,0,Test
+may co biet cai cach an mac do nhin re tien?,toxic,0,Test
+may co biet cai anh do nhin xau xi ra sao khong?,toxic,0,Test
+no cap,positive,2,Test
+may nghi post cai do len fb la ai cung thich a?,toxic,0,Test
+cai deo gi,toxic,0,Test
+may nghi khoe cai chan ngan do la ngau lam a?,toxic,0,Test
+sao may dam mac quan bo voi cai body te the do?,toxic,0,Test
+co cong thuc do an nay khong?,neutral,1,Test
+ko co thong diep ro rang,negative,0,Test
+ke vach duong qua mo,negative,0,Test
+sao may cu thich di drama voi nguoi khac the?,toxic,0,Test
+cai anh do nhin cai bung may ma muon tat ngay!,toxic,0,Test

@@ -1,0 +1,449 @@
+id,comment,label,label_id,category,is_teencode,replacements,normalized_text,text_raw_segmented,text_normalized_segmented
+vne_04833,Có tiếng mà không có tâm,toxic,0,insult,False,[],có tiếng mà không có tâm,có tiếng mà không có tâm,có tiếng mà không có tâm
+vne_02675,Thứ ăn hại xã hội là đây,toxic,0,insult,False,[],thứ ăn hại xã hội là đây,thứ ăn_hại xã_hội là đây,thứ ăn_hại xã_hội là đây
+vne_00676,Nội dung thiếu chiều sâu và khó hiểu,negative,0,criticism,False,[],nội dung thiếu chiều sâu và khó hiểu,nội_dung thiếu chiều sâu và khó hiểu,nội_dung thiếu chiều sâu và khó hiểu
+vne_02707,Làm ơn đừng xuất hiện trên mạng nữa,toxic,0,insult,False,[],làm ơn đừng xuất hiện trên mạng nữa,làm_ơn đừng xuất_hiện trên mạng nữa,làm_ơn đừng xuất_hiện trên mạng nữa
+vne_00459,tuyet voi qua,positive,2,excellent,False,[],tuyet voi qua,tuyet voi qua,tuyet voi qua
+vne_03198,Chat toxic thay vì focus game,toxic,0,insult,True,"[""toxic→độc hại""]",chat độc hại thay vì focus game,chat toxic thay_vì focus game,chat độc_hại thay_vì focus game
+vne_01847,góc máy đẹp lạ mà rất điện ảnh,positive,2,cinematic,False,[],góc máy đẹp lạ mà rất điện ảnh,góc máy đẹp lạ mà rất điện_ảnh,góc máy đẹp lạ mà rất điện_ảnh
+vne_00839,"Chúc năm mới vui vẻ, phát tài!",positive,2,celebration,False,[],"chúc năm mới vui vẻ , phát tài !","chúc năm mới vui_vẻ , phát_tài !","chúc năm mới vui_vẻ , phát_tài !"
+vne_03255,Không hiểu sao vẫn có người đăng ký kênh này,toxic,0,insult,False,[],không hiểu sao vẫn có người đăng ký kênh này,không hiểu sao vẫn có người đăng_ký kênh này,không hiểu sao vẫn có người đăng_ký kênh này
+vne_01079,"Như phim bom tấn, chất xĩu!",positive,2,cinematic,False,[],"như phim bom tấn , chất xĩu !","như phim bom tấn , chất xĩu !","như phim bom tấn , chất xĩu !"
+vne_01719,quán sống nhờ review chứ không nhờ chất lượng,negative,0,criticism,False,[],quán sống nhờ review chứ không nhờ chất lượng,quán sống nhờ review chứ không nhờ chất_lượng,quán sống nhờ review chứ không nhờ chất_lượng
+vne_01855,ai mà nghĩ ra kịch bản này hay dữ,positive,2,creativity,False,[],ai mà nghĩ ra kịch bản này hay dữ,ai mà nghĩ ra kịch_bản này hay dữ,ai mà nghĩ ra kịch_bản này hay dữ
+vne_02466,"với tui vậy là ổn rồi, không ý kiến",positive,2,appreciation,False,[],"với tui vậy là ổn rồi , không ý kiến","với tui vậy là ổn rồi , không ý_kiến","với tui vậy là ổn rồi , không ý_kiến"
+vne_01722,món này chắc dành cho rich kid thôi,neutral,1,affordability,False,[],món này chắc dành cho rich kid thôi,món này chắc dành cho rich kid thôi,món này chắc dành cho rich kid thôi
+vne_00166,Respect! Tôi admire bạn,positive,2,admiration,False,[],respect ! tôi admire bạn,respect ! tôi admire bạn,respect ! tôi admire bạn
+vne_02300,Quá hợp lý luôn rồi còn gì,positive,2,agreement,False,[],quá hợp lý luôn rồi còn gì,quá hợp_lý luôn rồi còn gì,quá hợp_lý luôn rồi còn gì
+vne_04414,phai noi la xem thua time,negative,0,disappointment,False,[],phai noi la xem thua time,phai noi la xem thua time,phai noi la xem thua time
+vne_03597,sao may cu khoe cai voc dang te hai do tren fb?,toxic,0,insult,True,"[""fb→facebook""]",sao may cu khoe cai voc dang te hai do tren facebook ?,sao may cu khoe cai voc dang te hai do tren fb ?,sao may cu khoe cai voc dang te hai do tren facebook ?
+vne_03958,Bạn đã gặp lỗi trong quá trình dùng chưa?,neutral,1,question,False,[],bạn đã gặp lỗi trong quá trình dùng chưa ?,bạn đã gặp lỗi trong quá_trình dùng chưa ?,bạn đã gặp lỗi trong quá_trình dùng chưa ?
+vne_02670,Càng nói càng thể hiện mình vô học,toxic,0,insult,False,[],càng nói càng thể hiện mình vô học,càng nói càng thể_hiện mình vô_học,càng nói càng thể_hiện mình vô_học
+vne_01922,"clip chỉ là vui thôi, đừng soi quá",positive,2,lighthearted,False,[],"clip chỉ là vui thôi , đừng soi quá","clip chỉ là vui thôi , đừng soi quá","clip chỉ là vui thôi , đừng soi quá"
+vne_01969,mỗi lần vô lớp là một buổi diễn thời trang,positive,2,humor,False,[],mỗi lần vô lớp là một buổi diễn thời trang,mỗi lần vô lớp là một buổi diễn thời_trang,mỗi lần vô lớp là một buổi diễn thời_trang
+vne_03063,Ảnh skincare mà da nhìn vẫn tệ,toxic,0,insult,False,[],ảnh skincare mà da nhìn vẫn tệ,ảnh skincare mà da nhìn vẫn tệ,ảnh skincare mà da nhìn vẫn tệ
+vne_04416,ko lay gi lam thu vi,negative,0,disappointment,True,"[""ko→không""]",không lay gi lam thu vi,ko lay gi lam thu_vi,không lay gi lam thu_vi
+vne_00990,"Fake vãi, chả tự nhiên tí nào!",negative,0,artificial,False,[],"fake vãi , chả tự nhiên tí nào !","fake vãi , chả tự_nhiên tí nào !","fake vãi , chả tự_nhiên tí nào !"
+vne_03553,sao may dam khoe cai chan cong queo do tren fb?,toxic,0,insult,True,"[""fb→facebook""]",sao may dam khoe cai chan cong queo do tren facebook ?,sao may dam khoe cai chan cong_queo do tren fb ?,sao may dam khoe cai chan cong_queo do tren facebook ?
+vne_03124,Post ảnh minimalist mà hoard stuff,toxic,0,insult,True,"[""post→đăng""]",đăng ảnh minimalist mà hoard stuff,post ảnh minimalist mà hoard stuff,đăng ảnh minimalist mà hoard stuff
+vne_02387,ai cũng nên trải qua để trưởng thành hơn,positive,2,useful,False,[],ai cũng nên trải qua để trưởng thành hơn,ai cũng_nên trải qua để trưởng_thành hơn,ai cũng_nên trải qua để trưởng_thành hơn
+vne_00097,"Content tốt, presentation chưa ổn",negative,0,mixed_feedback,False,[],"content tốt , presentation chưa ổn","content tốt , presentation chưa ổn","content tốt , presentation chưa ổn"
+vne_04718,den xanh chua sang da bam coi,negative,0,criticism,False,[],den xanh chua sang da bam coi,den xanh chua sang da bam coi,den xanh chua sang da bam coi
+vne_02757,Làm YouTube kiểu này nên nghỉ đi,toxic,0,insult,False,[],làm youtube kiểu này nên nghỉ đi,làm youtube kiểu này nên nghỉ đi,làm youtube kiểu này nên nghỉ đi
+vne_00670,"Chủ đề này đang rất hot, cảm ơn bạn đã viết",positive,2,trending,False,[],"chủ đề này đang rất hot , cảm ơn bạn đã viết","chủ_đề này đang rất hot , cảm_ơn bạn đã viết","chủ_đề này đang rất hot , cảm_ơn bạn đã viết"
+vne_03949,Bạn đánh giá sao về tổng thể sản phẩm?,neutral,1,question,False,[],bạn đánh giá sao về tổng thể sản phẩm ?,bạn đánh_giá sao về tổng_thể sản_phẩm ?,bạn đánh_giá sao về tổng_thể sản_phẩm ?
+vne_04252,Nhạc nền hơi ồn ào,negative,0,criticism,False,[],nhạc nền hơi ồn ào,nhạc nền hơi ồn_ào,nhạc nền hơi ồn_ào
+vne_00845,"Bạn ơi, làm tut chi tiết hơn nha?",neutral,1,request,False,[],"bạn ơi , làm tut chi tiết hơn nha ?","bạn ơi , làm tut chi_tiết hơn nha ?","bạn ơi , làm tut chi_tiết hơn nha ?"
+vne_01713,ăn xong ra quán khác ăn tiếp mới đủ,negative,0,satire,False,[],ăn xong ra quán khác ăn tiếp mới đủ,ăn xong ra quán khác ăn tiếp mới đủ,ăn xong ra quán khác ăn tiếp mới đủ
+vne_00147,Font chữ gì đây?,neutral,1,question,False,[],font chữ gì đây ?,font chữ gì đây ?,font chữ gì đây ?
+vne_04533,nuoc cham qua chua,negative,0,criticism,False,[],nuoc cham qua chua,nuoc cham qua chua,nuoc cham qua chua
+vne_04116,Sản phẩm dễ trầy xước khi sử dụng,negative,0,criticism,False,[],sản phẩm dễ trầy xước khi sử dụng,sản_phẩm dễ trầy_xước khi sử_dụng,sản_phẩm dễ trầy_xước khi sử_dụng
+vne_00226,"Valentine's Day is coming, tôi cần gấu",neutral,1,single_status,False,[],"valentine ' s day is coming , tôi cần gấu","valentine ' s day is coming , tôi cần gấu","valentine ' s day is coming , tôi cần gấu"
+vne_03756,Thời gian giao hàng khoảng bao lâu?,neutral,1,question,False,[],thời gian giao hàng khoảng bao lâu ?,thời_gian giao hàng khoảng bao_lâu ?,thời_gian giao hàng khoảng bao_lâu ?
+vne_02606,"Dạ, em nghèo :)))",positive,2,appreciation,False,"["":)))→cười""]","dạ , em nghèo cười","dạ , em nghèo : ) ) )","dạ , em nghèo cười"
+vne_03543,may co biet cai bung to nhu cai thung do te sao?,toxic,0,insult,True,"[""biet→biết""]",may co biết cai bung to nhu cai thung do te sao ?,may co biet cai bung to nhu cai thung do te sao ?,may co biết cai bung to nhu cai thung do te sao ?
+vne_02315,Hành xử quá văn minh luôn,positive,2,compliment,False,[],hành xử quá văn minh luôn,hành xử quá văn_minh luôn,hành xử quá văn_minh luôn
+vne_03926,Tôi cũng thích sản phẩm này,neutral,1,statement,False,[],tôi cũng thích sản phẩm này,tôi cũng thích sản_phẩm này,tôi cũng thích sản_phẩm này
+vne_00808,"Video này dài dòng quá, chán ghê",negative,0,boredom,False,[],"video này dài dòng quá , chán ghê","video này dài_dòng quá , chán ghê","video này dài_dòng quá , chán ghê"
+vne_00992,"Chill đi bạn ơi, bình tĩnh nào!",neutral,1,calm_down,False,[],"chill đi bạn ơi , bình tĩnh nào !","chill đi bạn ơi , bình_tĩnh nào !","chill đi bạn ơi , bình_tĩnh nào !"
+vne_03123,Story ask me anything mà không trả lời,toxic,0,insult,False,[],story ask me anything mà không trả lời,story ask me anything mà không trả_lời,story ask me anything mà không trả_lời
+vne_00193,Flex hard quá bạn ơi,negative,0,showing_off,True,"[""flex→khoe khoang""]",khoe khoang hard quá bạn ơi,flex hard quá bạn ơi,khoe_khoang hard quá bạn ơi
+vne_02308,Học hỏi được nhiều lắm luôn,positive,2,useful,False,[],học hỏi được nhiều lắm luôn,học_hỏi được nhiều lắm luôn,học_hỏi được nhiều lắm luôn
+vne_03518,cai mat may nhin map the ma cung dam post story?,toxic,0,insult,True,"[""post→đăng""]",cai mat may nhin map the ma cung dam đăng story ?,cai mat may nhin map the ma cung dam post story ?,cai mat may nhin map the ma cung dam đăng story ?
+vne_02327,Đẹp từ trong ra ngoài luôn,positive,2,compliment,False,[],đẹp từ trong ra ngoài luôn,đẹp từ trong ra ngoài luôn,đẹp từ trong ra ngoài luôn
+vne_01970,ủa đây là giảng đường hay studio vậy?,neutral,1,confused,False,[],ủa đây là giảng đường hay studio vậy ?,ủa đây là giảng_đường hay studio_vậy ?,ủa đây là giảng_đường hay studio_vậy ?
+vne_00738,Chúc bạn sớm bình phục nha,positive,2,care,False,[],chúc bạn sớm bình phục nha,chúc bạn sớm bình_phục nha,chúc bạn sớm bình_phục nha
+vne_04002,Đã thử nhưng không hiệu quả,negative,0,disappointment,False,[],đã thử nhưng không hiệu quả,đã thử nhưng không hiệu_quả,đã thử nhưng không hiệu_quả
+vne_02344,mỗi lần kiểm tra là hết hồn chim én luôn,positive,2,excitement,False,[],mỗi lần kiểm tra là hết hồn chim én luôn,mỗi lần kiểm_tra là hết_hồn chim én luôn,mỗi lần kiểm_tra là hết_hồn chim én luôn
+vne_01979,mình mà học lớp này là không tập trung nổi,positive,2,distracted,False,[],mình mà học lớp này là không tập trung nổi,mình mà học lớp này là không tập_trung nổi,mình mà học lớp này là không tập_trung nổi
+vne_01332,Mát mẻ thế này đi ăn lẩu là chuẩn,positive,2,neutral,False,[],mát mẻ thế này đi ăn lẩu là chuẩn,mát_mẻ thế này đi ăn lẩu là chuẩn,mát_mẻ thế này đi ăn lẩu là chuẩn
+vne_01464,đẹp quá đi mất thôi,positive,2,compliment,False,[],đẹp quá đi mất thôi,đẹp quá đi mất thôi,đẹp quá đi mất thôi
+vne_01164,"Đội bảo vệ lăng làm ăn kiểu gì, đuổi hết",negative,0,anger,False,[],"đội bảo vệ lăng làm ăn kiểu gì , đuổi hết","đội bảo_vệ lăng làm_ăn kiểu gì , đuổi hết","đội bảo_vệ lăng làm_ăn kiểu gì , đuổi hết"
+vne_04771,nguoi di bo khong co loi rieng,negative,0,criticism,True,"[""nguoi→người""]",người di bo khong co loi rieng,nguoi di_bo khong co loi rieng,người di_bo khong co loi rieng
+vne_00809,"Có gì đó không ổn, cần cải thiện",negative,0,criticism,False,[],"có gì đó không ổn , cần cải thiện","có gì đó không ổn , cần cải_thiện","có gì đó không ổn , cần cải_thiện"
+vne_04169,Không hiểu đoạn intro để làm gì,negative,0,criticism,False,[],không hiểu đoạn intro để làm gì,không hiểu đoạn intro để làm gì,không hiểu đoạn intro để làm gì
+vne_01106,"Ngáo đá chứ tâm thần gì, nhìn cái mặt là biết liền",toxic,0,insult,False,[],"ngáo đá chứ tâm thần gì , nhìn cái mặt là biết liền","ngáo đá chứ tâm_thần gì , nhìn cái mặt là biết liền","ngáo đá chứ tâm_thần gì , nhìn cái mặt là biết liền"
+vne_04280,Coi xong thấy thất vọng,negative,0,disappointment,False,[],coi xong thấy thất vọng,coi xong thấy thất_vọng,coi xong thấy thất_vọng
+vne_02998,Stream mà background noise như chợ búa,toxic,0,insult,False,[],stream mà background noise như chợ búa,stream mà background noise như chợ_búa,stream mà background noise như chợ_búa
+vne_01409,"Clip anh Huy vui, xem xong cười đau bụng 😄",positive,2,humor,False,"[""😄→cười""]","clip anh huy vui , xem xong cười đau bụng cười","clip anh huy vui , xem xong cười đau bụng 😄","clip anh huy vui , xem xong cười đau bụng cười"
+vne_00855,"Đang hot trên mạng, hay lắm bạn!",positive,2,buzzing,False,[],"đang hot trên mạng , hay lắm bạn !","đang hot trên mạng , hay lắm bạn !","đang hot trên mạng , hay lắm bạn !"
+vne_03327,may nghi may la hot trend ma cu khoe tren fb the?,toxic,0,insult,True,"[""trend→xu hướng"", ""fb→facebook""]",may nghi may la hot xu hướng ma cu khoe tren facebook the ?,may nghi may la hot_trend ma cu khoe tren fb the ?,may nghi may la hot xu_hướng ma cu khoe tren facebook the ?
+vne_04578,do an nhu chua nau chin,negative,0,criticism,False,[],do an nhu chua nau chin,do an nhu chua nau chin,do an nhu chua nau chin
+vne_04217,Không rõ nội dung clip,negative,0,criticism,False,[],không rõ nội dung clip,không rõ nội_dung clip,không rõ nội_dung clip
+vne_03164,Support mà không ward,toxic,0,insult,False,[],support mà không ward,support mà không ward,support mà không ward
+vne_01055,"Nói gì zậy, t hok hỉu gì hết?",neutral,1,confusion,True,"[""zậy→vậy"", ""hok→không""]","nói gì vậy , t không hỉu gì hết ?","nói gì zậy , t hok hỉu gì hết ?","nói gì vậy , t không hỉu gì hết ?"
+vne_02293,Hổng biết nói gì ngoài 2 chữ: Đỉnh!,positive,2,compliment,False,[],hổng biết nói gì ngoài 2 chữ : đỉnh !,hổng biết nói gì ngoài 2 chữ : đỉnh !,hổng biết nói gì ngoài 2 chữ : đỉnh !
+vne_02360,cảm xúc ùa về từng đợt luôn,positive,2,appreciation,False,[],cảm xúc ùa về từng đợt luôn,cảm_xúc ùa về từng đợt luôn,cảm_xúc ùa về từng đợt luôn
+vne_02935,Nội dung nhàm chán muốn tắt stream,toxic,0,insult,False,[],nội dung nhàm chán muốn tắt stream,nội_dung nhàm_chán muốn tắt_stream,nội_dung nhàm_chán muốn tắt_stream
+vne_02713,Mày đúng là hết thuốc chữa rồi,toxic,0,insult,False,[],mày đúng là hết thuốc chữa rồi,mày đúng là hết thuốc chữa rồi,mày đúng là hết thuốc chữa rồi
+vne_01239,"Sinh con ra khổ thế này, chán thật",toxic,0,sarcasm,False,[],"sinh con ra khổ thế này , chán thật","sinh con ra khổ thế này , chán thật","sinh con ra khổ thế này , chán thật"
+vne_00996,"Không đoán được, hay quá trời!",positive,2,amazement,False,[],"không đoán được , hay quá trời !","không đoán được , hay quá trời !","không đoán được , hay quá trời !"
+vne_02724,Làm YouTube mà chẳng ra cái gì,toxic,0,insult,False,[],làm youtube mà chẳng ra cái gì,làm youtube mà chẳng ra cái gì,làm youtube mà chẳng ra cái gì
+vne_03929,Tôi sẽ chờ đánh giá chi tiết từ bạn,neutral,1,statement,False,[],tôi sẽ chờ đánh giá chi tiết từ bạn,tôi sẽ chờ đánh_giá chi_tiết từ bạn,tôi sẽ chờ đánh_giá chi_tiết từ bạn
+vne_02025,có ai vô học mà không lôi máy quay ra không?,neutral,1,commentary,False,[],có ai vô học mà không lôi máy quay ra không ?,có ai vô_học mà không lôi máy quay ra không ?,có ai vô_học mà không lôi máy quay ra không ?
+vne_03719,Bạn có thể nói rõ hơn không?,neutral,1,request,False,[],bạn có thể nói rõ hơn không ?,bạn có_thể nói rõ hơn không ?,bạn có_thể nói rõ hơn không ?
+vne_00200,Overreacting! Phản ứng thái quá,negative,0,excessive,False,[],overreacting ! phản ứng thái quá,overreacting ! phản_ứng thái_quá,overreacting ! phản_ứng thái_quá
+vne_04591,ban an gi trong clip vay?,neutral,1,question,False,[],ban an gi trong clip vay ?,ban an gi trong clip vay ?,ban an gi trong clip vay ?
+vne_02485,Ước gì nhiều nơi làm ăn như vậy,positive,2,appreciation,False,[],ước gì nhiều nơi làm ăn như vậy,ước gì nhiều nơi làm_ăn như_vậy,ước gì nhiều nơi làm_ăn như_vậy
+vne_02978,Content create như copy paste,toxic,0,insult,False,[],content create như copy paste,content create như copy paste,content create như copy paste
+vne_04836,Người như này nên tránh xa,toxic,0,insult,False,[],người như này nên tránh xa,người như này nên tránh xa,người như này nên tránh xa
+vne_04729,khong co cam bien den giao thong,negative,0,criticism,False,[],khong co cam bien den giao thong,khong co cam bien den giao thong,khong co cam bien den giao thong
+vne_02343,thi xong là ngủ li bì luôn á,positive,2,appreciation,False,[],thi xong là ngủ li bì luôn á,thi xong là ngủ li_bì luôn á,thi xong là ngủ li_bì luôn á
+vne_02084,xem xong cảm giác yêu đời hơn hẳn,positive,2,emotion,False,[],xem xong cảm giác yêu đời hơn hẳn,xem xong cảm_giác yêu_đời hơn hẳn,xem xong cảm_giác yêu_đời hơn hẳn
+vne_03882,Tôi đã xem hết video,neutral,1,statement,False,[],tôi đã xem hết video,tôi đã xem hết video,tôi đã xem hết video
+vne_03264,"Nội dung nhảm nhí, toàn lặp lại ý cũ",toxic,0,insult,False,[],"nội dung nhảm nhí , toàn lặp lại ý cũ","nội_dung nhảm_nhí , toàn lặp lại ý cũ","nội_dung nhảm_nhí , toàn lặp lại ý cũ"
+vne_01374,20k ăn được gì ở quán cơm quê dượng bầu? 😢,negative,0,question,False,"[""😢→khóc"", ""20k→20 nghìn""]",20 nghìn ăn được gì ở quán cơm quê dượng bầu ? khóc,20k ăn được gì ở quán cơm quê dượng bầu ? 😢,20 nghìn ăn được gì ở quán cơm quê dượng bầu ? khóc
+vne_01553,"Doraemon không chỉ là phim, là cả thanh xuân",positive,2,nostalgia,False,[],"doraemon không chỉ là phim , là cả thanh xuân","doraemon không chỉ là phim , là cả thanh_xuân","doraemon không chỉ là phim , là cả thanh_xuân"
+vne_04720,xe tai chay vuot toc do,negative,0,criticism,False,[],xe tai chay vuot toc do,xe tai chay vuot toc do,xe tai chay vuot toc do
+vne_03272,Làm như vậy mà cũng đòi làm YouTuber,toxic,0,insult,False,[],làm như vậy mà cũng đòi làm youtuber,làm như vậy_mà cũng đòi làm youtuber,làm như vậy_mà cũng đòi làm youtuber
+vne_04199,Nội dung đơn giản quá,negative,0,criticism,False,[],nội dung đơn giản quá,nội_dung đơn_giản quá,nội_dung đơn_giản quá
+vne_00596,motd,neutral,1,makeup_of_day,False,[],motd,motd,motd
+vne_00064,Troll hay đấy! Upvote liền,positive,2,humor,False,[],troll hay đấy ! upvote liền,troll hay đấy ! upvote liền,troll hay đấy ! upvote liền
+vne_00575,honey skin,positive,2,golden_glow,False,[],honey skin,honey skin,honey skin
+vne_02063,"gây mê chưa đủ, phải gây thương nhớ",positive,2,flirt,False,[],"gây mê chưa đủ , phải gây thương nhớ","gây_mê chưa đủ , phải gây thương_nhớ","gây_mê chưa đủ , phải gây thương_nhớ"
+vne_02236,tưởng bạn này học diễn xuất luôn á,positive,2,acting,False,[],tưởng bạn này học diễn xuất luôn á,tưởng bạn này học diễn_xuất luôn á,tưởng bạn này học diễn_xuất luôn á
+vne_00907,"Cười xỉu với video này, hài quá!",positive,2,humor,False,[],"cười xỉu với video này , hài quá !","cười xỉu với video này , hài quá !","cười xỉu với video này , hài quá !"
+vne_03149,Mid laner mà farm kém hơn cả jungle,toxic,0,insult,False,[],mid laner mà farm kém hơn cả jungle,mid laner mà farm kém hơn cả jungle,mid laner mà farm kém hơn cả jungle
+vne_04769,xe bon nuoc di bat thuong,negative,0,criticism,False,[],xe bon nuoc di bat thuong,xe bon nuoc di_bat thuong,xe bon nuoc di_bat thuong
+vne_04585,menu nhieu nhung nhieu mon het,negative,0,complaint,False,[],menu nhieu nhung nhieu mon het,menu nhieu nhung nhieu mon het,menu nhieu nhung nhieu mon het
+vne_03059,Tag location sai để làm màu,toxic,0,insult,False,[],tag location sai để làm màu,tag location sai để làm màu,tag location sai để làm màu
+vne_02979,Stream mà attitude như ông chủ,toxic,0,insult,False,[],stream mà attitude như ông chủ,stream mà attitude như ông chủ,stream mà attitude như ông chủ
+vne_02594,Hạn chế kiểu này chỉ là tạm thời thôi,positive,2,appreciation,False,[],hạn chế kiểu này chỉ là tạm thời thôi,hạn_chế kiểu này chỉ là tạm_thời thôi,hạn_chế kiểu này chỉ là tạm_thời thôi
+vne_02445,"thấy vậy mà ngon đó, đừng đánh giá sớm",positive,2,useful,False,[],"thấy vậy mà ngon đó , đừng đánh giá sớm","thấy vậy_mà ngon đó , đừng đánh_giá sớm","thấy vậy_mà ngon đó , đừng đánh_giá sớm"
+vne_01841,nội dung đơn giản nhưng gợi mở suy nghĩ,positive,2,minimalism,False,[],nội dung đơn giản nhưng gợi mở suy nghĩ,nội_dung đơn_giản nhưng gợi_mở suy_nghĩ,nội_dung đơn_giản nhưng gợi_mở suy_nghĩ
+vne_04327,Không thích giao diện mới của game,negative,0,criticism,False,[],không thích giao diện mới của game,không thích giao_diện mới của game,không thích giao_diện mới của game
+vne_02859,Hàng không qua được kiểm định nào,toxic,0,insult,False,[],hàng không qua được kiểm định nào,hàng không qua được kiểm_định nào,hàng không qua được kiểm_định nào
+vne_03816,Có ai gặp trường hợp như mình không?,neutral,1,question,False,[],có ai gặp trường hợp như mình không ?,có ai gặp trường_hợp như mình không ?,có ai gặp trường_hợp như mình không ?
+vne_04145,Không thấy gì hài hước như mọi người nói,negative,0,criticism,False,[],không thấy gì hài hước như mọi người nói,không thấy gì hài_hước như mọi người nói,không thấy gì hài_hước như mọi người nói
+vne_04493,quan nay phuc vu cham qua,negative,0,complaint,False,[],quan nay phuc vu cham qua,quan nay phuc vu cham qua,quan nay phuc vu cham qua
+vne_04660,co video huong dan lam khong?,neutral,1,request,False,[],co video huong dan lam khong ?,co video huong dan lam khong ?,co video huong dan lam khong ?
+vne_01865,ae thanh hóa thì sao bác 🐧,neutral,1,question,True,"[""ae→anh em""]",anh em thanh hóa thì sao bác,ae thanh_hóa thì sao bác 🐧,anh_em thanh_hóa thì sao bác
+vne_02177,bị bắt quả tang ánh mắt hình viên đạn,positive,2,humor,False,[],bị bắt quả tang ánh mắt hình viên đạn,bị bắt quả_tang ánh mắt hình viên đạn,bị bắt quả_tang ánh mắt hình viên đạn
+vne_00848,"Hình không load được, check lại đi",neutral,1,technical_issue,False,[],"hình không load được , check lại đi","hình không load được , check lại đi","hình không load được , check lại đi"
+vne_00912,"Không có gì đặc biệt, bình thường thôi",negative,0,mediocre,False,[],"không có gì đặc biệt , bình thường thôi","không có gì đặc_biệt , bình_thường thôi","không có gì đặc_biệt , bình_thường thôi"
+vne_04596,ban tu nau hay dat tu quan vay?,neutral,1,question,False,[],ban tu nau hay dat tu quan vay ?,ban tu nau hay dat tu quan vay ?,ban tu nau hay dat tu quan vay ?
+vne_02389,có những bài học chỉ có trong quân ngũ mới có,positive,2,useful,False,[],có những bài học chỉ có trong quân ngũ mới có,có những bài_học chỉ có trong quân_ngũ mới có,có những bài_học chỉ có trong quân_ngũ mới có
+vne_01525,bạn này lồng Jaian hay ghê,positive,2,praise,False,[],bạn này lồng jaian hay ghê,bạn này lồng jaian hay ghê,bạn này lồng jaian hay ghê
+vne_03057,Bio viết như CEO mà thực tế thất nghiệp,toxic,0,insult,False,[],bio viết như ceo mà thực tế thất nghiệp,bio viết như ceo mà thực_tế thất_nghiệp,bio viết như ceo mà thực_tế thất_nghiệp
+vne_02760,Clip vô bổ vãi,toxic,0,insult,False,[],clip vô bổ vãi,clip vô_bổ vãi,clip vô_bổ vãi
+vne_04470,video lam chieu cho co,negative,0,criticism,False,[],video lam chieu cho co,video lam chieu cho co,video lam chieu cho co
+vne_03911,Bạn có thể hướng dẫn đăng ký bảo hành không?,neutral,1,request,False,[],bạn có thể hướng dẫn đăng ký bảo hành không ?,bạn có_thể hướng_dẫn đăng_ký bảo_hành không ?,bạn có_thể hướng_dẫn đăng_ký bảo_hành không ?
+vne_04179,Làm lại video khác được không,negative,0,criticism,False,[],làm lại video khác được không,làm lại video khác được không,làm lại video khác được không
+vne_02709,Loại này tốt nhất nên im lặng,toxic,0,insult,False,[],loại này tốt nhất nên im lặng,loại này tốt nhất nên im_lặng,loại này tốt nhất nên im_lặng
+vne_04627,ban dung cam am thanh nao vay?,neutral,1,question,False,[],ban dung cam am thanh nao vay ?,ban dung cam am thanh nao vay ?,ban dung cam am thanh nao vay ?
+vne_03480,"Người thì lùn, mặc gì cũng không đẹp nổi",toxic,0,bodyshaming,False,[],"người thì lùn , mặc gì cũng không đẹp nổi","người thì lùn , mặc gì cũng không đẹp nổi","người thì lùn , mặc gì cũng không đẹp nổi"
+vne_02616,sao không có cảnh báo rõ ràng hơn từ ngân hàng,positive,2,useful,False,[],sao không có cảnh báo rõ ràng hơn từ ngân hàng,sao không có cảnh_báo rõ_ràng hơn từ ngân_hàng,sao không có cảnh_báo rõ_ràng hơn từ ngân_hàng
+vne_04687,ban quay bang may nao ma chat luong the?,neutral,1,question,False,[],ban quay bang may nao ma chat luong the ?,ban quay bang may nao ma chat luong the ?,ban quay bang may nao ma chat luong the ?
+vne_04750,xe cho da cham nguoi,negative,0,disappointment,True,"[""nguoi→người""]",xe cho da cham người,xe cho da cham nguoi,xe cho da cham người
+vne_02021,tới trường mà như đi picnic,positive,2,relaxing,False,[],tới trường mà như đi picnic,tới trường mà như đi picnic,tới trường mà như đi picnic
+vne_04052,Sản phẩm bị lỗi từ khi nhận,negative,0,complaint,False,[],sản phẩm bị lỗi từ khi nhận,sản_phẩm bị lỗi từ khi nhận,sản_phẩm bị lỗi từ khi nhận
+vne_02448,ai chê thì thôi chứ tui vẫn thấy ổn,positive,2,appreciation,False,[],ai chê thì thôi chứ tui vẫn thấy ổn,ai chê thì_thôi chứ tui vẫn thấy ổn,ai chê thì_thôi chứ tui vẫn thấy ổn
+vne_01551,tui nghe phát đoán ra nhân vật luôn,positive,2,recognition,False,[],tui nghe phát đoán ra nhân vật luôn,tui nghe phát đoán ra nhân_vật luôn,tui nghe phát đoán ra nhân_vật luôn
+vne_04188,Không hiểu sao video này nổi,negative,0,criticism,False,[],không hiểu sao video này nổi,không hiểu sao video này nổi,không hiểu sao video này nổi
+vne_04737,khong co bien bao ro rang,negative,0,criticism,False,[],khong co bien bao ro rang,khong co bien bao ro rang,khong co bien bao ro rang
+vne_01375,Xã hội mới có quán cơm giá cổng trời thế này 🥺,negative,0,sarcasm,False,[],xã hội mới có quán cơm giá cổng trời thế này,xã_hội mới có quán cơm giá cổng trời thế này 🥺,xã_hội mới có quán cơm giá cổng trời thế này
+vne_01225,"Nghèo mà đẻ con, khổ cả đời chả xong",negative,0,anger,False,[],"nghèo mà đẻ con , khổ cả đời chả xong","nghèo mà đẻ con , khổ cả đời chả xong","nghèo mà đẻ con , khổ cả đời chả xong"
+vne_01009,"Cười xĩu vs clip nì, hài vl!",positive,2,humor,True,"[""vs→với"", ""vl→vãi lồn""]","cười xĩu với clip nì , hài vãi lồn !","cười xĩu vs clip nì , hài vl !","cười xĩu với clip nì , hài vãi lồn !"
+vne_01666,cap chạm đúng chỗ ngứa luôn nha,positive,2,funny,False,[],cap chạm đúng chỗ ngứa luôn nha,cap chạm đúng chỗ ngứa luôn nha,cap chạm đúng chỗ ngứa luôn nha
+vne_02342,phong cách không ai đỡ nổi,positive,2,compliment,False,[],phong cách không ai đỡ nổi,phong_cách không ai đỡ nổi,phong_cách không ai đỡ nổi
+vne_02282,số hưởng nhất VN:)),positive,2,appreciation,True,"[""vn→việt nam""]",số hưởng nhất việt nam : ) ),số hưởng nhất vn : ) ),số hưởng nhất việt_nam : ) )
+vne_02184,mắt kiểu: lại drama nữa hả trời,positive,2,reaction,False,[],mắt kiểu : lại drama nữa hả trời,mắt kiểu : lại drama nữa hả trời,mắt kiểu : lại drama nữa hả trời
+vne_02460,coi kỹ thì giá không cao đâu nha,positive,2,appreciation,False,[],coi kỹ thì giá không cao đâu nha,coi kỹ thì giá không cao đâu nha,coi kỹ thì giá không cao đâu nha
+vne_04767,canh sat giao thong khong xu ly vi pham ro rang,negative,0,complaint,False,[],canh sat giao thong khong xu ly vi pham ro rang,canh sat giao thong khong xu ly vi pham ro rang,canh sat giao thong khong xu ly vi pham ro rang
+vne_02536,Nên nhìn nhận đa chiều hơn,positive,2,useful,False,[],nên nhìn nhận đa chiều hơn,nên nhìn_nhận đa_chiều hơn,nên nhìn_nhận đa_chiều hơn
+vne_04798,Chơi bẩn quen rồi nên mặt dày thế,toxic,0,insult,False,[],chơi bẩn quen rồi nên mặt dày thế,chơi bẩn quen rồi nên mặt_dày thế,chơi bẩn quen rồi nên mặt_dày thế
+vne_03093,Story close friends mà add bừa,toxic,0,insult,False,[],story close friends mà add bừa,story close friends mà add bừa,story close friends mà add bừa
+vne_02666,Đừng làm bẩn mắt người khác nữa,toxic,0,insult,False,[],đừng làm bẩn mắt người khác nữa,đừng làm bẩn mắt người khác nữa,đừng làm bẩn mắt người khác nữa
+vne_03902,Bạn đã thử so sánh với hàng chính hãng chưa?,neutral,1,question,False,[],bạn đã thử so sánh với hàng chính hãng chưa ?,bạn đã thử so_sánh với hàng chính hãng chưa ?,bạn đã thử so_sánh với hàng chính hãng chưa ?
+vne_03883,Bạn mua sản phẩm này ở đâu?,neutral,1,question,False,[],bạn mua sản phẩm này ở đâu ?,bạn mua sản_phẩm này ở đâu ?,bạn mua sản_phẩm này ở đâu ?
+vne_02641,cảm ơn vì đã cảnh báo kịp thời,positive,2,gratitude,False,[],cảm ơn vì đã cảnh báo kịp thời,cảm_ơn vì đã cảnh_báo kịp_thời,cảm_ơn vì đã cảnh_báo kịp_thời
+vne_03098,Ảnh hair style mà như tai nạn,toxic,0,insult,False,[],ảnh hair style mà như tai nạn,ảnh hair style mà như tai_nạn,ảnh hair style mà như tai_nạn
+vne_02742,Không có tí sáng tạo nào luôn,toxic,0,insult,False,[],không có tí sáng tạo nào luôn,không có tí sáng_tạo nào luôn,không có tí sáng_tạo nào luôn
+vne_04770,duong cong va hep nguy hiem,negative,0,criticism,False,[],duong cong va hep nguy hiem,duong cong va hep nguy hiem,duong cong va hep nguy hiem
+vne_03982,Đóng gói không cẩn thận,negative,0,complaint,False,[],đóng gói không cẩn thận,đóng_gói không cẩn_thận,đóng_gói không cẩn_thận
+vne_02307,Trời ơi dễ thương quá,positive,2,compliment,False,[],trời ơi dễ thương quá,trời ơi dễ_thương quá,trời ơi dễ_thương quá
+vne_00887,"Try hard quá, bớt đi bạn ơi!",negative,0,criticism,False,[],"try hard quá , bớt đi bạn ơi !","try hard quá , bớt đi bạn ơi !","try hard quá , bớt đi bạn ơi !"
+vne_01552,mỗi lần buồn tui lại mở Doraemon coi,positive,2,comfort,False,[],mỗi lần buồn tui lại mở doraemon coi,mỗi lần buồn tui lại mở doraemon coi,mỗi lần buồn tui lại mở doraemon coi
+vne_02681,Sống kiểu bạn chắc chẳng ai ưa nổi,toxic,0,insult,False,[],sống kiểu bạn chắc chẳng ai ưa nổi,sống kiểu bạn chắc chẳng ai ưa nổi,sống kiểu bạn chắc chẳng ai ưa nổi
+vne_03056,Story highlight chỉ toàn selfie,toxic,0,insult,False,[],story highlight chỉ toàn selfie,story highlight chỉ toàn selfie,story highlight chỉ toàn selfie
+vne_00501,ai day,neutral,1,who,False,[],ai day,ai day,ai day
+vne_03843,Cần thêm trải nghiệm thực tế từ người dùng,neutral,1,statement,False,[],cần thêm trải nghiệm thực tế từ người dùng,cần thêm trải nghiệm thực_tế từ người dùng,cần thêm trải nghiệm thực_tế từ người dùng
+vne_03791,Cần tham khảo thêm ý kiến người khác,neutral,1,statement,False,[],cần tham khảo thêm ý kiến người khác,cần tham_khảo thêm ý_kiến người khác,cần tham_khảo thêm ý_kiến người khác
+vne_02408,quá trình không dễ dàng nhưng kết quả xứng đáng,positive,2,appreciation,False,[],quá trình không dễ dàng nhưng kết quả xứng đáng,quá_trình không dễ_dàng nhưng kết_quả xứng_đáng,quá_trình không dễ_dàng nhưng kết_quả xứng_đáng
+vne_04772,di xe ban dem rat nguy hiem,negative,0,criticism,False,[],di xe ban dem rat nguy hiem,di xe ban dem rat nguy hiem,di xe ban dem rat nguy hiem
+vne_03074,Post ảnh book mà chưa chắc đã đọc,toxic,0,insult,True,"[""post→đăng""]",đăng ảnh book mà chưa chắc đã đọc,post ảnh book mà chưa chắc đã đọc,đăng ảnh book mà chưa chắc đã đọc
+vne_03205,Inting khi không được position,toxic,0,insult,False,[],inting khi không được position,inting khi không được position,inting khi không được position
+vne_01473,lớn rồi mới hiểu đc ý nghĩa của nhạc này😥,positive,2,nostalgia,True,"[""😥→buồn"", ""đc→được""]",lớn rồi mới hiểu được ý nghĩa của nhạc này buồn,lớn rồi mới hiểu đc ý_nghĩa của nhạc này 😥,lớn rồi mới hiểu được ý_nghĩa của nhạc này buồn
+vne_03638,Đi đâu cũng thấy bạn xấu nổi bật,toxic,0,bodyshaming,False,[],đi đâu cũng thấy bạn xấu nổi bật,đi đâu cũng thấy bạn xấu nổi_bật,đi đâu cũng thấy bạn xấu nổi_bật
+vne_00015,Tôi không đồng ý với quan điểm này,negative,0,disagreement,False,[],tôi không đồng ý với quan điểm này,tôi không đồng_ý với quan_điểm này,tôi không đồng_ý với quan_điểm này
+vne_00777,"Đúng vibe tui luôn, yêu ghê!",positive,2,lifestyle,False,[],"đúng vibe tui luôn , yêu ghê !","đúng vibe tui luôn , yêu ghê !","đúng vibe tui luôn , yêu ghê !"
+vne_01995,cần thêm dàn đèn sân khấu là xong,positive,2,joke,False,[],cần thêm dàn đèn sân khấu là xong,cần thêm dàn đèn sân_khấu là xong,cần thêm dàn đèn sân_khấu là xong
+vne_04511,banh trang uot het,negative,0,complaint,False,[],banh trang uot het,banh trang uot het,banh trang uot het
+vne_03276,"Coi thấy bực mình, phí cả MB mạng",toxic,0,insult,False,[],"coi thấy bực mình , phí cả mb mạng","coi thấy bực_mình , phí cả mb mạng","coi thấy bực_mình , phí cả mb mạng"
+vne_01938,nhiều bạn tưởng đùa nhưng người khác tổn thương thật,negative,0,realization,False,[],nhiều bạn tưởng đùa nhưng người khác tổn thương thật,nhiều bạn tưởng đùa nhưng người khác tổn_thương thật,nhiều bạn tưởng đùa nhưng người khác tổn_thương thật
+vne_00784,"Ngại giùm luôn, awkward vãi",negative,0,awkward,False,[],"ngại giùm luôn , awkward vãi","ngại giùm luôn , awkward vãi","ngại giùm luôn , awkward vãi"
+vne_02647,Loại này chắc bố mẹ thất vọng lắm,toxic,0,insult,False,[],loại này chắc bố mẹ thất vọng lắm,loại này chắc bố_mẹ thất_vọng lắm,loại này chắc bố_mẹ thất_vọng lắm
+vne_02072,xem clip xong muốn học lại ngành y,positive,2,inspiration,False,[],xem clip xong muốn học lại ngành y,xem clip xong muốn học lại ngành y,xem clip xong muốn học lại ngành y
+vne_01759,cái quán này làm mình mất niềm tin vô review trên mạng,negative,0,disappointment,False,[],cái quán này làm mình mất niềm tin vô review trên mạng,cái quán này làm mình mất niềm tin vô review trên mạng,cái quán này làm mình mất niềm tin vô review trên mạng
+vne_02513,lớn r mà đầu nghĩ j v:),negative,0,appreciation,True,"[""r→rồi"", ""j→gì""]",lớn rồi mà đầu nghĩ gì v : ),lớn r mà đầu nghĩ j v : ),lớn rồi mà đầu nghĩ gì v : )
+vne_03231,Disengage khi team đang win fight,toxic,0,insult,False,[],disengage khi team đang win fight,disengage khi team đang win fight,disengage khi team đang win fight
+vne_01023,"Dm, clip nì rác vcl, xóa đi!",toxic,0,curse,True,"[""dm→địt mẹ"", ""vcl→vãi cả lồn""]","địt mẹ , clip nì rác vãi cả lồn , xóa đi !","dm , clip nì rác vcl , xóa đi !","địt_mẹ , clip nì rác vãi cả lồn , xóa đi !"
+vne_03244,Tier list worshipper mà skill C tier,toxic,0,insult,False,[],tier list worshipper mà skill c tier,tier list worshipper mà skill c tier,tier list worshipper mà skill c tier
+vne_04325,Thất vọng với update lần này,negative,0,disappointment,False,[],thất vọng với update lần này,thất_vọng với update lần này,thất_vọng với update lần này
+vne_02260,Bảo vệ như vậy mới đáng yêu chứ 😍,positive,2,compliment,False,"[""😍→yêu""]",bảo vệ như vậy mới đáng yêu chứ yêu,bảo_vệ như_vậy mới đáng yêu chứ 😍,bảo_vệ như_vậy mới đáng yêu chứ yêu
+vne_02902,Đặt hàng online như đánh may rủi,toxic,0,insult,False,[],đặt hàng online như đánh may rủi,đặt_hàng online như đánh may_rủi,đặt_hàng online như đánh may_rủi
+vne_03236,Item timing không biết gì,toxic,0,insult,False,[],item timing không biết gì,item timing không biết gì,item timing không biết gì
+vne_03360,may co biet cai cach viet status do nhin ngu the nao?,toxic,0,insult,True,"[""biet→biết""]",may co biết cai cach viet status do nhin ngu the nao ?,may co biet cai cach viet status do nhin ngu the nao ?,may co biết cai cach viet status do nhin ngu the nao ?
+vne_00212,OTP của tôi đây!,positive,2,shipping,False,[],otp của tôi đây !,otp của tôi đây !,otp của tôi đây !
+vne_03404,cai video do nhin ma chi muon report ngay!,toxic,0,insult,False,[],cai video do nhin ma chi muon report ngay !,cai video do nhin ma chi muon report ngay !,cai video do nhin ma chi muon report ngay !
+vne_01337,"Hè mà lạnh thế này, ve chắc shock nặng",toxic,0,sarcasm,False,[],"hè mà lạnh thế này , ve chắc shock nặng","hè mà lạnh thế này , ve chắc shock nặng","hè mà lạnh thế này , ve chắc shock nặng"
+vne_02905,Bán hàng mà không có chút lương tâm,toxic,0,insult,False,[],bán hàng mà không có chút lương tâm,bán hàng mà không có chút lương_tâm,bán hàng mà không có chút lương_tâm
+vne_03633,Giọng đã chua lại còn mặt xấu,toxic,0,bodyshaming,False,[],giọng đã chua lại còn mặt xấu,giọng đã chua lại còn mặt xấu,giọng đã chua lại còn mặt xấu
+vne_01349,"Vắt kiệt view cơm quê dượng bầu, Huy ơi!",neutral,1,humor,False,[],"vắt kiệt view cơm quê dượng bầu , huy ơi !","vắt kiệt view cơm quê dượng bầu , huy ơi !","vắt kiệt view cơm quê dượng bầu , huy ơi !"
+vne_01470,và sau này khi lớn khôn rồi,neutral,1,reflection,False,[],và sau này khi lớn khôn rồi,và sau_này khi lớn_khôn rồi,và sau_này khi lớn_khôn rồi
+vne_04821,Thích thể hiện mà không biết xấu hổ,toxic,0,insult,False,[],thích thể hiện mà không biết xấu hổ,thích thể_hiện mà không biết xấu_hổ,thích thể_hiện mà không biết xấu_hổ
+vne_00905,"Sáng tạo vãi, nội dung độc lạ luôn!",positive,2,creativity,False,[],"sáng tạo vãi , nội dung độc lạ luôn !","sáng_tạo vãi , nội_dung độc lạ luôn !","sáng_tạo vãi , nội_dung độc lạ luôn !"
+vne_04146,Comment cho có chứ video chán thật,negative,0,criticism,True,"[""comment→bình luận""]",bình luận cho có chứ video chán thật,comment cho có chứ video chán thật,bình_luận cho có chứ video chán thật
+vne_03831,Bạn thấy cách đóng gói thế nào?,neutral,1,question,False,[],bạn thấy cách đóng gói thế nào ?,bạn thấy cách đóng_gói thế_nào ?,bạn thấy cách đóng_gói thế_nào ?
+vne_03118,Post ảnh book recommendation mà chưa đọc,toxic,0,insult,True,"[""post→đăng""]",đăng ảnh book recommendation mà chưa đọc,post ảnh book recommendation mà chưa đọc,đăng ảnh book recommendation mà chưa đọc
+vne_00112,Meeting lúc mấy giờ?,neutral,1,question,False,[],meeting lúc mấy giờ ?,meeting lúc mấy giờ ?,meeting lúc mấy giờ ?
+vne_02740,Làm gì cũng thấy giả tạo,toxic,0,insult,False,[],làm gì cũng thấy giả tạo,làm gì cũng thấy giả_tạo,làm gì cũng thấy giả_tạo
+vne_00731,"Không sao đâu, cứ làm đi",neutral,1,dismissal,False,[],"không sao đâu , cứ làm đi","không sao đâu , cứ làm đi","không sao đâu , cứ làm đi"
+vne_03409,cai status nay nhin la biet khong co chat gi!,toxic,0,insult,True,"[""biet→biết""]",cai status nay nhin la biết khong co chat gi !,cai status nay nhin la biet khong co chat gi !,cai status nay nhin la biết khong co chat gi !
+vne_00827,"OK, tui hiểu rồi",neutral,1,acknowledgment,False,[],"ok , tui hiểu rồi","ok , tui hiểu rồi","ok , tui hiểu rồi"
+vne_01479,nghe hoài không chán luôn,positive,2,appreciation,False,[],nghe hoài không chán luôn,nghe hoài không chán luôn,nghe hoài không chán luôn
+vne_01395,Ăn cơm quê mà tưởng đang ở Dubai 😅,negative,0,humor,False,"[""😅→cười""]",ăn cơm quê mà tưởng đang ở dubai cười,ăn cơm quê mà tưởng đang ở dubai 😅,ăn cơm quê mà tưởng đang ở dubai cười
+vne_01198,"Phá di sản quốc gia mà ko bị gì, bất công vl",negative,0,anger,True,"[""ko→không"", ""vl→vãi lồn""]","phá di sản quốc gia mà không bị gì , bất công vãi lồn","phá di_sản quốc_gia mà ko bị gì , bất_công vl","phá di_sản quốc_gia mà không bị gì , bất_công vãi lồn"
+vne_00934,"Ờ, tui sẽ check sau",neutral,1,acknowledgment,False,[],"ờ , tui sẽ check sau","ờ , tui sẽ check sau","ờ , tui sẽ check sau"
+vne_01737,quán chỉ phù hợp để sống ảo,neutral,1,social\_use,False,[],quán chỉ phù hợp để sống ảo,quán chỉ phù_hợp để sống ảo,quán chỉ phù_hợp để sống ảo
+vne_01311,"Thời tiết bất ổn thế này, mai nóng lại chắc",negative,0,anger,False,[],"thời tiết bất ổn thế này , mai nóng lại chắc","thời_tiết bất_ổn thế này , mai nóng lại chắc","thời_tiết bất_ổn thế này , mai nóng lại chắc"
+vne_03715,Bạn đang dùng dòng điện thoại gì?,neutral,1,question,False,[],bạn đang dùng dòng điện thoại gì ?,bạn đang dùng dòng điện_thoại gì ?,bạn đang dùng dòng điện_thoại gì ?
+vne_02932,Chơi game tệ mà còn dạy người khác,toxic,0,insult,False,[],chơi game tệ mà còn dạy người khác,chơi game tệ mà còn dạy người khác,chơi game tệ mà còn dạy người khác
+vne_02265,Trân trọng từng hành động đẹp như này,positive,2,appreciation,False,[],trân trọng từng hành động đẹp như này,trân_trọng từng hành_động đẹp như này,trân_trọng từng hành_động đẹp như này
+vne_02150,mệt chết :))),neutral,1,exhausted,False,"["":)))→cười""]",mệt chết cười,mệt chết : ) ) ),mệt chết cười
+vne_03131,Ảnh self care mà mental health bad,toxic,0,insult,False,[],ảnh self care mà mental health bad,ảnh self care mà mental health bad,ảnh self care mà mental health bad
+vne_00047,Tùy bạn thôi,neutral,1,indifference,False,[],tùy bạn thôi,tùy bạn thôi,tùy bạn thôi
+vne_00759,"Đm, lừa đảo hả? Đừng tin!",toxic,0,warning,True,"[""đm→địt mẹ""]","địt mẹ , lừa đảo hả ? đừng tin !","đm , lừa_đảo hả ? đừng tin !","địt_mẹ , lừa_đảo hả ? đừng tin !"
+vne_04786,xe oto cho hang thi dong ma lam on,negative,0,complaint,False,[],xe oto cho hang thi dong ma lam on,xe oto cho hang thi dong ma lam on,xe oto cho hang thi dong ma lam on
+vne_04337,Không hài lòng với cơ chế giao dịch,negative,0,complaint,False,[],không hài lòng với cơ chế giao dịch,không hài_lòng với cơ_chế giao_dịch,không hài_lòng với cơ_chế giao_dịch
+vne_01282,Xin stk để hỗ trợ chút đỉnh,neutral,1,question,True,"[""stk→số tài khoản""]",xin số tài khoản để hỗ trợ chút đỉnh,xin stk để hỗ_trợ chút_đỉnh,xin số tài_khoản để hỗ_trợ chút_đỉnh
+vne_03657,Bạn đang dùng điện thoại gì quay vậy?,neutral,1,question,False,[],bạn đang dùng điện thoại gì quay vậy ?,bạn đang dùng điện_thoại gì quay vậy ?,bạn đang dùng điện_thoại gì quay vậy ?
+vne_02234,tui cười tới khan tiếng luôn á,positive,2,reaction,False,[],tui cười tới khan tiếng luôn á,tui cười tới khan tiếng luôn á,tui cười tới khan tiếng luôn á
+vne_03666,Bạn nói đúng,neutral,1,agreement,False,[],bạn nói đúng,bạn nói đúng,bạn nói đúng
+vne_04832,Tưởng ai hay ho lắm hoá ra cũng vậy,toxic,0,insult,False,[],tưởng ai hay ho lắm hoá ra cũng vậy,tưởng ai hay_ho lắm hoá_ra cũng vậy,tưởng ai hay_ho lắm hoá_ra cũng vậy
+vne_02054,Em nhận sâu🦋nhá,positive,2,flirty,False,[],em nhận sâu nhá,em nhận sâu 🦋 nhá,em nhận sâu nhá
+vne_02479,"Làm đường, xây cầu chứ không đi hô khẩu hiệu",positive,2,appreciation,False,[],"làm đường , xây cầu chứ không đi hô khẩu hiệu","làm đường , xây cầu chứ không đi hô khẩu_hiệu","làm đường , xây cầu chứ không đi hô khẩu_hiệu"
+vne_01245,"Nghèo thì ở vậy, đẻ chi cho khổ",negative,0,suggestion,False,[],"nghèo thì ở vậy , đẻ chi cho khổ","nghèo thì ở_vậy , đẻ chi cho khổ","nghèo thì ở_vậy , đẻ chi cho khổ"
+vne_01912,"từng bị trêu vì giọng quê, nên hiểu cảm giác",negative,0,empathy,False,[],"từng bị trêu vì giọng quê , nên hiểu cảm giác","từng bị trêu vì giọng quê , nên hiểu cảm_giác","từng bị trêu vì giọng quê , nên hiểu cảm_giác"
+vne_02786,Sản phẩm khác hoàn toàn mô tả,toxic,0,insult,False,[],sản phẩm khác hoàn toàn mô tả,sản_phẩm khác hoàn_toàn mô_tả,sản_phẩm khác hoàn_toàn mô_tả
+vne_04694,"duong ngap nhu song, khong chay xe noi",negative,0,complaint,False,[],"duong ngap nhu song , khong chay xe noi","duong ngap nhu song , khong chay xe noi","duong ngap nhu song , khong chay xe noi"
+vne_01776,vẫn chưa hiểu thông điệp lắm,neutral,1,confused,False,[],vẫn chưa hiểu thông điệp lắm,vẫn chưa hiểu thông_điệp lắm,vẫn chưa hiểu thông_điệp lắm
+vne_04332,Không thích cách cân bằng tướng hiện tại,negative,0,criticism,False,[],không thích cách cân bằng tướng hiện tại,không thích cách cân_bằng tướng hiện_tại,không thích cách cân_bằng tướng hiện_tại
+vne_02241,nhìu thằng con chửi bác bảo vệ chắc đó giờ k được ai dạy,positive,2,appreciation,True,"[""k→không""]",nhìu thằng con chửi bác bảo vệ chắc đó giờ không được ai dạy,nhìu thằng con chửi bác bảo_vệ chắc đó giờ k được ai dạy,nhìu thằng con chửi bác bảo_vệ chắc đó giờ không được ai dạy
+vne_02220,ai dám nói học sinh không biết diễn xuất,positive,2,student\_talent,False,[],ai dám nói học sinh không biết diễn xuất,ai dám nói học_sinh không biết diễn_xuất,ai dám nói học_sinh không biết diễn_xuất
+vne_02687,Cái loại gây ô nhiễm không gian mạng,toxic,0,insult,False,[],cái loại gây ô nhiễm không gian mạng,cái loại gây ô_nhiễm không_gian mạng,cái loại gây ô_nhiễm không_gian mạng
+vne_03735,Bạn có video hướng dẫn không?,neutral,1,request,False,[],bạn có video hướng dẫn không ?,bạn có video hướng_dẫn không ?,bạn có video hướng_dẫn không ?
+vne_02444,"mỗi người mỗi cảm nhận, đừng ép nhau",positive,2,appreciation,False,[],"mỗi người mỗi cảm nhận , đừng ép nhau","mỗi người mỗi cảm_nhận , đừng ép nhau","mỗi người mỗi cảm_nhận , đừng ép nhau"
+vne_01877,cái gì mà cứ đem vùng miền ra đùa vậy trời,negative,0,criticism,False,[],cái gì mà cứ đem vùng miền ra đùa vậy trời,cái gì mà cứ đem vùng miền ra đùa_vậy trời,cái gì mà cứ đem vùng miền ra đùa_vậy trời
+vne_04799,Chịu không nổi cái kiểu sống hai mặt,toxic,0,insult,False,[],chịu không nổi cái kiểu sống hai mặt,chịu không nổi cái kiểu sống hai mặt,chịu không nổi cái kiểu sống hai mặt
+vne_03655,"Đoạn này hơi nhanh, tôi xem chưa kịp",neutral,1,statement,False,[],"đoạn này hơi nhanh , tôi xem chưa kịp","đoạn này hơi nhanh , tôi xem chưa kịp","đoạn này hơi nhanh , tôi xem chưa kịp"
+vne_01186,Bảo vệ lăng chắc đi chơi nên ko thấy,negative,0,sarcasm,True,"[""ko→không""]",bảo vệ lăng chắc đi chơi nên không thấy,bảo_vệ lăng chắc đi chơi nên ko thấy,bảo_vệ lăng chắc đi chơi nên không thấy
+vne_00835,Chờ phần tiếp theo của bạn nha,neutral,1,anticipation,False,[],chờ phần tiếp theo của bạn nha,chờ phần tiếp_theo của bạn nha,chờ phần tiếp_theo của bạn nha
+vne_00745,"Video lag quá, fix giùm nha",neutral,1,technical_issue,False,[],"video lag quá , fix giùm nha","video lag quá , fix giùm nha","video lag quá , fix giùm nha"
+vne_02012,muốn xin slot học ké lớp này,positive,2,joke,False,[],muốn xin slot học ké lớp này,muốn xin slot học ké lớp này,muốn xin slot học ké lớp này
+vne_02929,Stream mà lag như rùa bò,toxic,0,insult,False,[],stream mà lag như rùa bò,stream mà lag như rùa bò,stream mà lag như rùa bò
+vne_04307,Không thấy vui như quảng cáo,negative,0,disappointment,False,[],không thấy vui như quảng cáo,không thấy vui như quảng_cáo,không thấy vui như quảng_cáo
+vne_00762,"Đồ rác rưởi, đừng đăng nữa",toxic,0,offensive,False,[],"đồ rác rưởi , đừng đăng nữa","đồ rác_rưởi , đừng đăng nữa","đồ rác_rưởi , đừng đăng nữa"
+vne_01501,nghe thôi đã thấy nhẹ lòng,positive,2,soothing,False,[],nghe thôi đã thấy nhẹ lòng,nghe thôi đã thấy nhẹ lòng,nghe thôi đã thấy nhẹ lòng
+vne_01500,giọng chị này gắn liền với cả thanh xuân tôi,positive,2,nostalgia,False,[],giọng chị này gắn liền với cả thanh xuân tôi,giọng chị này gắn liền với cả thanh_xuân tôi,giọng chị này gắn liền với cả thanh_xuân tôi
+vne_02055,Em nhận sâu🦋nhé,positive,2,flirty,False,[],em nhận sâu nhé,em nhận sâu 🦋 nhé,em nhận sâu nhé
+vne_01334,Thời tiết Hà Nội đúng là drama queen,negative,0,humor,False,[],thời tiết hà nội đúng là drama queen,thời_tiết hà_nội đúng là drama queen,thời_tiết hà_nội đúng là drama queen
+vne_01235,"Đã nghèo còn đẻ, đúng là hết nói",toxic,0,insult,False,[],"đã nghèo còn đẻ , đúng là hết nói","đã nghèo còn đẻ , đúng là hết nói","đã nghèo còn đẻ , đúng là hết nói"
+vne_01628,"tức ghê, sao mình nghĩ nhiều thế",neutral,1,overthinking,False,[],"tức ghê , sao mình nghĩ nhiều thế","tức ghê , sao mình nghĩ nhiều thế","tức ghê , sao mình nghĩ nhiều thế"
+vne_00138,Part 2 khi nào ra vậy?,neutral,1,anticipation,False,[],part 2 khi nào ra vậy ?,part 2 khi nào ra vậy ?,part 2 khi nào ra vậy ?
+vne_04525,"cha lua thiu, hoi moc",negative,0,complaint,False,[],"cha lua thiu , hoi moc","cha lua thiu , hoi moc","cha lua thiu , hoi moc"
+vne_02564,thế xem sẽ có phạm pháp không,positive,2,appreciation,False,[],thế xem sẽ có phạm pháp không,thế xem sẽ có phạm_pháp không,thế xem sẽ có phạm_pháp không
+vne_02764,Cứ tưởng nổi tiếng lắm,toxic,0,insult,False,[],cứ tưởng nổi tiếng lắm,cứ tưởng nổi_tiếng lắm,cứ tưởng nổi_tiếng lắm
+vne_00833,"Không sao, cứ tiếp tục nha",neutral,1,dismissal,False,[],"không sao , cứ tiếp tục nha","không sao , cứ tiếp_tục nha","không sao , cứ tiếp_tục nha"
+vne_01065,"Dm, lừa đảo hả? Đừng tin nha!",toxic,0,warning,True,"[""dm→địt mẹ""]","địt mẹ , lừa đảo hả ? đừng tin nha !","dm , lừa_đảo hả ? đừng tin nha !","địt_mẹ , lừa_đảo hả ? đừng tin nha !"
+vne_01003,"Tks b nhìu, info hữu ích vcl!",positive,2,gratitude,True,"[""tks→cảm ơn"", ""vcl→vãi cả lồn""]","cảm ơn b nhìu , info hữu ích vãi cả lồn !","tks b nhìu , info hữu_ích vcl !","cảm_ơn b nhìu , info hữu_ích vãi cả lồn !"
+vne_03004,Streamer fake enthusiasm suốt ngày,toxic,0,insult,False,[],streamer fake enthusiasm suốt ngày,streamer fake enthusiasm suốt ngày,streamer fake enthusiasm suốt ngày
+vne_02218,diễn mà như không diễn,positive,2,natural,False,[],diễn mà như không diễn,diễn mà như_không diễn,diễn mà như_không diễn
+vne_01775,mấy clip kiểu này hay mà hơi thiếu logic,neutral,1,critique,False,[],mấy clip kiểu này hay mà hơi thiếu logic,mấy clip kiểu này hay mà hơi thiếu logic,mấy clip kiểu này hay mà hơi thiếu logic
+vne_02736,Chán chẳng buồn bình luận,toxic,0,insult,False,[],chán chẳng buồn bình luận,chán chẳng buồn bình_luận,chán chẳng buồn bình_luận
+vne_01566,người Việt lồng giỏi thiệt chứ,positive,2,respect,False,[],người việt lồng giỏi thiệt chứ,người việt lồng giỏi thiệt chứ,người việt lồng giỏi thiệt chứ
+vne_01418,Dượng bầu vắt view cơm quê tới khô luôn 😂,neutral,1,humor,False,"[""😂→cười""]",dượng bầu vắt view cơm quê tới khô luôn cười,dượng bầu vắt view cơm quê tới khô luôn 😂,dượng bầu vắt view cơm quê tới khô luôn cười
+vne_01151,"Phá di sản quốc gia mà ko bị gì, bất công quá",negative,0,anger,True,"[""ko→không""]","phá di sản quốc gia mà không bị gì , bất công quá","phá di_sản quốc_gia mà ko bị gì , bất_công quá","phá di_sản quốc_gia mà không bị gì , bất_công quá"
+vne_01690,quán trang trí đẹp nhưng đồ ăn không tương xứng giá,negative,0,review,False,[],quán trang trí đẹp nhưng đồ ăn không tương xứng giá,quán trang_trí đẹp nhưng đồ ăn_không tương_xứng giá,quán trang_trí đẹp nhưng đồ ăn_không tương_xứng giá
+vne_00737,Happy new year! Chúc năm mới vui vẻ,positive,2,celebration,False,[],happy new year ! chúc năm mới vui vẻ,happy new year ! chúc năm mới vui_vẻ,happy new year ! chúc năm mới vui_vẻ
+vne_00764,"Chất quá, bạn là số 1!",positive,2,compliment,False,[],"chất quá , bạn là số 1 !","chất quá , bạn là số 1 !","chất quá , bạn là số 1 !"
+vne_02358,mấy bạn nhỏ giờ xịn ghê ha,positive,2,compliment,False,[],mấy bạn nhỏ giờ xịn ghê ha,mấy bạn nhỏ giờ xịn ghê ha,mấy bạn nhỏ giờ xịn ghê ha
+vne_02534,Giải trí nhẹ thôi nè,positive,2,appreciation,False,[],giải trí nhẹ thôi nè,giải_trí nhẹ thôi nè,giải_trí nhẹ thôi nè
+vne_04731,xe may chay len via he nhu cho khong nguoi,negative,0,criticism,True,"[""nguoi→người""]",xe may chay len via he nhu cho khong người,xe may chay len via he nhu cho khong nguoi,xe may chay len via he nhu cho khong người
+vne_02530,Nên học cách cảm thông nhiều hơn,positive,2,useful,False,[],nên học cách cảm thông nhiều hơn,nên học cách cảm_thông nhiều hơn,nên học cách cảm_thông nhiều hơn
+vne_00491,23333 trung funny,positive,2,chinese_laugh,False,[],23333 trung funny,23333 trung funny,23333 trung funny
+vne_04739,duong moi lam ma da bong troc,negative,0,criticism,False,[],duong moi lam ma da bong troc,duong moi lam ma da bong troc,duong moi lam ma da bong troc
+vne_04439,nghe muon tat am thanh,negative,0,disappointment,False,[],nghe muon tat am thanh,nghe muon tat am thanh,nghe muon tat am thanh
+vne_02864,Hàng về muốn đốt cho sạch,toxic,0,insult,False,[],hàng về muốn đốt cho sạch,hàng về muốn đốt cho sạch,hàng về muốn đốt cho sạch
+vne_04383,Không thấy vui như giới thiệu,negative,0,disappointment,False,[],không thấy vui như giới thiệu,không thấy vui như giới_thiệu,không thấy vui như giới_thiệu
+vne_04557,cha ca khong con nong,negative,0,criticism,False,[],cha ca khong con nong,cha ca khong con nong,cha ca khong con nong
+vne_00710,Thông tin này không đúng đâu bạn,negative,0,correction,False,[],thông tin này không đúng đâu bạn,thông_tin này không đúng đâu bạn,thông_tin này không đúng đâu bạn
+vne_04303,Matchmaking không công bằng chút nào,negative,0,criticism,False,[],matchmaking không công bằng chút nào,matchmaking không công_bằng chút nào,matchmaking không công_bằng chút nào
+vne_02284,:))) má anh vĩ ơiiiiii a vua chúa quáaa,positive,2,appreciation,True,"["":)))→cười"", ""ơiiiiii→ơi"", ""quáaa→quá""]",cười má anh vĩ ơi a vua chúa quá,: ) ) ) má anh vĩ ơiiiiii a vua chúa quáaa,cười má anh vĩ ơi a vua chúa quá
+vne_02013,cả lớp như bước ra từ phim điện ảnh,positive,2,style,False,[],cả lớp như bước ra từ phim điện ảnh,cả lớp như bước ra từ phim điện_ảnh,cả lớp như bước ra từ phim điện_ảnh
+vne_00751,"Trend này hot thật, bạn bắt kịp ghê",positive,2,trending,True,"[""trend→xu hướng""]","xu hướng này hot thật , bạn bắt kịp ghê","trend này hot thật , bạn bắt kịp ghê","xu_hướng này hot thật , bạn bắt kịp ghê"
+vne_03913,Bạn thấy chính sách đổi trả có dễ không?,neutral,1,question,False,[],bạn thấy chính sách đổi trả có dễ không ?,bạn thấy chính_sách đổi trả có_dễ không ?,bạn thấy chính_sách đổi trả có_dễ không ?
+vne_03520,may nghi body beo nhu banh bao do la dep a?,toxic,0,insult,False,[],may nghi body beo nhu banh bao do la dep a ?,may nghi body beo nhu banh bao do la dep a ?,may nghi body beo nhu banh bao do la dep a ?
+vne_04626,video quay ngoai troi ha?,neutral,1,question,False,[],video quay ngoai troi ha ?,video quay ngoai troi ha ?,video quay ngoai troi ha ?
+vne_03819,Bạn thấy phần mềm có ổn không?,neutral,1,question,False,[],bạn thấy phần mềm có ổn không ?,bạn thấy phần_mềm có ổn không ?,bạn thấy phần_mềm có ổn không ?
+vne_01793,mình từng trải qua đúng kiểu vậy luôn,positive,2,real\_life,False,[],mình từng trải qua đúng kiểu vậy luôn,mình từng trải qua đúng kiểu vậy luôn,mình từng trải qua đúng kiểu vậy luôn
+vne_00510,ko ro,neutral,1,unclear,True,"[""ko→không""]",không ro,ko ro,không ro
+vne_01866,dân quảng ninh cũng trắng trẻo mà🐥,positive,2,defense,False,[],dân quảng ninh cũng trắng trẻo mà,dân quảng_ninh cũng trắng_trẻo mà 🐥,dân quảng_ninh cũng trắng_trẻo mà
+vne_02663,Không biết điều thì im giùm cái,toxic,0,insult,False,[],không biết điều thì im giùm cái,không biết_điều thì im giùm cái,không biết_điều thì im giùm cái
+vne_03811,Có thể đóng gói kỹ không bạn?,neutral,1,request,False,[],có thể đóng gói kỹ không bạn ?,có_thể đóng_gói kỹ không bạn ?,có_thể đóng_gói kỹ không bạn ?
+vne_04697,"xe buyt dung bat ngo, nguy hiem",negative,0,criticism,False,[],"xe buyt dung bat ngo , nguy hiem","xe buyt dung bat ngo , nguy hiem","xe buyt dung bat ngo , nguy hiem"
+vne_03783,Sản phẩm có dễ vệ sinh không bạn?,neutral,1,question,False,[],sản phẩm có dễ vệ sinh không bạn ?,sản_phẩm có_dễ vệ_sinh không bạn ?,sản_phẩm có_dễ vệ_sinh không bạn ?
+vne_01149,Tâm thần thì gia đình phải quản lý chứ,neutral,1,suggestion,False,[],tâm thần thì gia đình phải quản lý chứ,tâm_thần thì gia_đình phải quản_lý chứ,tâm_thần thì gia_đình phải quản_lý chứ
+vne_00037,Tôi sẽ xem xét,neutral,1,consideration,False,[],tôi sẽ xem xét,tôi sẽ xem_xét,tôi sẽ xem_xét
+vne_04218,Xem video chán thật sự,negative,0,disappointment,False,[],xem video chán thật sự,xem video chán thật_sự,xem video chán thật_sự
+vne_04344,Không thích meta game hiện tại chút nào,negative,0,criticism,False,[],không thích meta game hiện tại chút nào,không thích meta game hiện_tại chút nào,không thích meta game hiện_tại chút nào
+vne_02627,mỗi ngày học thêm 1 điều mới,positive,2,useful,False,[],mỗi ngày học thêm 1 điều mới,mỗi ngày học thêm 1 điều mới,mỗi ngày học thêm 1 điều mới
+vne_01932,mấy cái clip vậy dễ bị bóp méo ý nghĩa,neutral,1,distortion,False,[],mấy cái clip vậy dễ bị bóp méo ý nghĩa,mấy cái clip vậy dễ bị bóp_méo ý_nghĩa,mấy cái clip vậy dễ bị bóp_méo ý_nghĩa
+vne_01610,cap không sai nhưng làm người ta phải suy nghĩ lại,positive,2,thoughtful,False,[],cap không sai nhưng làm người ta phải suy nghĩ lại,cap không sai nhưng làm người_ta phải suy_nghĩ_lại,cap không sai nhưng làm người_ta phải suy_nghĩ_lại
+vne_04804,Lên mạng kể khổ để câu thương hại à?,toxic,0,insult,False,[],lên mạng kể khổ để câu thương hại à ?,lên mạng kể khổ để câu thương_hại à ?,lên mạng kể khổ để câu thương_hại à ?
+vne_01930,mỗi lần vùng miền bị lôi ra là thấy drama,negative,0,drama,False,[],mỗi lần vùng miền bị lôi ra là thấy drama,mỗi lần vùng miền bị lôi ra là thấy drama,mỗi lần vùng miền bị lôi ra là thấy drama
+vne_04265,Nội dung cứ như copy lại,negative,0,criticism,False,[],nội dung cứ như copy lại,nội_dung cứ như copy lại,nội_dung cứ như copy lại
+vne_02892,Chất lượng như đồ chơi trẻ con,toxic,0,insult,False,[],chất lượng như đồ chơi trẻ con,chất_lượng như đồ_chơi trẻ_con,chất_lượng như đồ_chơi trẻ_con
+vne_01216,"Thương anh lắm, cố lên anh nhé",positive,2,neutral,False,[],"thương anh lắm , cố lên anh nhé","thương anh lắm , cố lên anh nhé","thương anh lắm , cố lên anh nhé"
+vne_03058,Ảnh OOTD mà outfit xấu kinh hoàng,toxic,0,insult,False,[],ảnh ootd mà outfit xấu kinh hoàng,ảnh ootd mà outfit xấu kinh_hoàng,ảnh ootd mà outfit xấu kinh_hoàng
+vne_04450,noi loi nhieu,negative,0,criticism,False,[],noi loi nhieu,noi loi nhieu,noi loi nhieu
+vne_04605,video nay co sub khong ban?,neutral,1,question,True,"[""sub→đăng ký""]",video nay co đăng ký khong ban ?,video nay co sub khong ban ?,video nay co đăng_ký khong ban ?
+vne_02515,Check biển số xe là ra ngay,positive,2,appreciation,False,[],check biển số xe là ra ngay,check biển số xe là ra ngay,check biển số xe là ra ngay
+vne_02068,vô bệnh viện mà không muốn xuất viện,positive,2,teasing,False,[],vô bệnh viện mà không muốn xuất viện,vô bệnh_viện mà không muốn xuất_viện,vô bệnh_viện mà không muốn xuất_viện
+vne_01949,"clip chỉ là 1 góc nhìn, đừng áp lên tất cả",neutral,1,perspective,False,[],"clip chỉ là 1 góc nhìn , đừng áp lên tất cả","clip chỉ là 1 góc nhìn , đừng áp lên tất_cả","clip chỉ là 1 góc nhìn , đừng áp lên tất_cả"
+vne_00921,"Đm, video này rác vcl, xóa đi!",toxic,0,curse,True,"[""đm→địt mẹ"", ""vcl→vãi cả lồn""]","địt mẹ , video này rác vãi cả lồn , xóa đi !","đm , video này rác vcl , xóa đi !","địt_mẹ , video này rác vãi cả lồn , xóa đi !"
+vne_00267,Killed it! Xuất sắc,positive,2,excellence,False,[],killed it ! xuất sắc,killed it ! xuất_sắc,killed it ! xuất_sắc
+vne_02102,clip này là nguồn năng lượng tích cực mỗi sáng,positive,2,positive\_vibes,False,[],clip này là nguồn năng lượng tích cực mỗi sáng,clip này là nguồn năng_lượng tích_cực mỗi sáng,clip này là nguồn năng_lượng tích_cực mỗi sáng
+vne_03182,Counter pick mà vẫn thua lane,toxic,0,insult,False,[],counter pick mà vẫn thua lane,counter pick mà vẫn thua lane,counter pick mà vẫn thua lane
+vne_04835,Cứ đóng vai đáng thương là được tha thứ à?,toxic,0,insult,False,[],cứ đóng vai đáng thương là được tha thứ à ?,cứ đóng vai đáng thương là được tha_thứ à ?,cứ đóng vai đáng thương là được tha_thứ à ?
+vne_01362,Cơm quê dượng bầu khịa anh Huy clip nữa nè,neutral,1,humor,False,[],cơm quê dượng bầu khịa anh huy clip nữa nè,cơm quê dượng bầu khịa anh huy clip nữa nè,cơm quê dượng bầu khịa anh huy clip nữa nè
+vne_03077,Post ảnh workout mà body fake,toxic,0,insult,True,"[""post→đăng""]",đăng ảnh workout mà body fake,post ảnh workout mà body fake,đăng ảnh workout mà body fake
+vne_04839,Lúc cần im thì lại lên tiếng,toxic,0,insult,False,[],lúc cần im thì lại lên tiếng,lúc cần im thì lại lên_tiếng,lúc cần im thì lại lên_tiếng
+vne_03332,may nghi post cai clip do len fb la ngau lam a?,toxic,0,insult,True,"[""post→đăng"", ""fb→facebook""]",may nghi đăng cai clip do len facebook la ngau lam a ?,may nghi_post cai clip do len fb la ngau lam a ?,may nghi đăng_cai clip do len facebook la ngau lam a ?
+vne_01398,"Clip anh Huy vui, xem xong muốn ăn cơm quê 😄",positive,2,neutral,False,"[""😄→cười""]","clip anh huy vui , xem xong muốn ăn cơm quê cười","clip anh huy vui , xem xong muốn ăn cơm quê 😄","clip anh huy vui , xem xong muốn ăn cơm quê cười"
+vne_04622,ngon nhin la biet,neutral,1,statement,True,"[""biet→biết""]",ngon nhin la biết,ngon nhin la biet,ngon nhin la biết
+vne_00217,Relationship này precious lắm,positive,2,precious,False,[],relationship này precious lắm,relationship này precious lắm,relationship này precious lắm
+vne_00098,Ý tưởng hay nhưng thực hiện chưa tốt,negative,0,constructive_criticism,False,[],ý tưởng hay nhưng thực hiện chưa tốt,ý_tưởng hay nhưng thực_hiện chưa tốt,ý_tưởng hay nhưng thực_hiện chưa tốt
+vne_04401,ko thu vi nhu mo ta,negative,0,disappointment,True,"[""ko→không""]",không thu vi nhu mo ta,ko thu vi nhu mo ta,không thu vi nhu mo ta
+vne_04569,tra sua nhin khong dep mat,negative,0,criticism,False,[],tra sua nhin khong dep mat,tra sua nhin khong dep mat,tra sua nhin khong dep mat
+vne_02804,Bán hàng mà chẳng biết xấu hổ,toxic,0,insult,False,[],bán hàng mà chẳng biết xấu hổ,bán hàng mà chẳng biết xấu_hổ,bán hàng mà chẳng biết xấu_hổ
+vne_01538,giọng lồng từng nhân vật khác nhau cực hay,positive,2,skill,False,[],giọng lồng từng nhân vật khác nhau cực hay,giọng lồng từng nhân_vật khác nhau cực hay,giọng lồng từng nhân_vật khác nhau cực hay
+vne_00142,Reaction video này đi,neutral,1,request,False,[],reaction video này đi,reaction video này đi,reaction video này đi
+vne_01346,Mát mẻ thế này đúng là trời chiều lòng người,positive,2,neutral,False,[],mát mẻ thế này đúng là trời chiều lòng người,mát_mẻ thế này đúng là trời chiều lòng người,mát_mẻ thế này đúng là trời chiều lòng người
+vne_00888,"Fake vcl, chả tự nhiên gì hết",negative,0,artificial,True,"[""vcl→vãi cả lồn""]","fake vãi cả lồn , chả tự nhiên gì hết","fake vcl , chả tự_nhiên gì hết","fake vãi cả lồn , chả tự_nhiên gì hết"
+vne_01846,clip này như thơ luôn á,positive,2,poetic,False,[],clip này như thơ luôn á,clip này như thơ luôn á,clip này như thơ luôn á
+vne_04509,cafe nhat va chua,negative,0,criticism,False,[],cafe nhat va chua,cafe nhat va chua,cafe nhat va chua
+vne_04290,Không rõ nội dung truyền tải,negative,0,criticism,False,[],không rõ nội dung truyền tải,không rõ nội_dung truyền_tải,không rõ nội_dung truyền_tải
+vne_03919,Bạn thấy hiệu suất sản phẩm ra sao?,neutral,1,question,False,[],bạn thấy hiệu suất sản phẩm ra sao ?,bạn thấy hiệu_suất sản_phẩm ra sao ?,bạn thấy hiệu_suất sản_phẩm ra sao ?
+vne_04603,cai nay la banh trang cuon phai khong?,neutral,1,question,False,[],cai nay la banh trang cuon phai khong ?,cai nay la banh trang cuon phai khong ?,cai nay la banh trang cuon phai khong ?
+vne_03501,Người đâu vừa lùn vừa béo,toxic,0,bodyshaming,False,[],người đâu vừa lùn vừa béo,người đâu vừa lùn vừa béo,người đâu vừa lùn vừa béo
+vne_02728,Xem clip thấy tệ vô cùng,toxic,0,insult,False,[],xem clip thấy tệ vô cùng,xem clip thấy tệ vô_cùng,xem clip thấy tệ vô_cùng
+vne_04555,quan an hoi hoi,negative,0,criticism,False,[],quan an hoi hoi,quan_an hoi hoi,quan_an hoi hoi
+vne_04879,Không liên quan mà vẫn thích nhảy vào,toxic,0,insult,False,[],không liên quan mà vẫn thích nhảy vào,không liên_quan mà vẫn thích nhảy vào,không liên_quan mà vẫn thích nhảy vào
+vne_02509,Rất mong nhà nước tạo điều kiện cho các đơn vị như vậy phát triển,positive,2,useful,False,[],rất mong nhà nước tạo điều kiện cho các đơn vị như vậy phát triển,rất mong nhà_nước tạo điều_kiện cho các đơn_vị như_vậy phát_triển,rất mong nhà_nước tạo điều_kiện cho các đơn_vị như_vậy phát_triển
+vne_04300,Nhân vật cân bằng kém quá,negative,0,criticism,False,[],nhân vật cân bằng kém quá,nhân_vật cân_bằng kém quá,nhân_vật cân_bằng kém quá
+vne_02115,phải gọi đây là chấn động thị giác,positive,2,dramatic,False,[],phải gọi đây là chấn động thị giác,phải gọi đây là chấn_động thị_giác,phải gọi đây là chấn_động thị_giác
+vne_03599,may co biet cai chan ngan do nhin te the nao?,toxic,0,insult,True,"[""biet→biết""]",may co biết cai chan ngan do nhin te the nao ?,may co biet cai chan ngan do nhin te the nao ?,may co biết cai chan ngan do nhin te the nao ?
+vne_03612,Răng khểnh lộn xộn nhìn kém duyên,toxic,0,bodyshaming,False,[],răng khểnh lộn xộn nhìn kém duyên,răng khểnh lộn_xộn nhìn kém duyên,răng khểnh lộn_xộn nhìn kém duyên
+vne_02799,Đồ không khác gì đồ secondhand,toxic,0,insult,False,[],đồ không khác gì đồ secondhand,đồ không khác gì đồ secondhand,đồ không khác gì đồ secondhand
+vne_02734,Chả hiểu sao có người đăng ký kênh này,toxic,0,insult,False,[],chả hiểu sao có người đăng ký kênh này,chả hiểu sao có người đăng_ký kênh này,chả hiểu sao có người đăng_ký kênh này
+vne_02419,trải nghiệm một lần để biết rõ bản thân hơn,positive,2,useful,False,[],trải nghiệm một lần để biết rõ bản thân hơn,trải nghiệm một lần để biết rõ bản_thân hơn,trải nghiệm một lần để biết rõ bản_thân hơn
+vne_00499,khi nao,neutral,1,when,False,[],khi nao,khi nao,khi nao
+vne_02601,Cười lăn với mấy lý do cấm app 🤣,positive,2,excitement,False,"[""🤣→cười""]",cười lăn với mấy lý do cấm app cười,cười lăn với mấy lý_do cấm app 🤣,cười lăn với mấy lý_do cấm app cười
+vne_04205,Không thấy hài hước gì hết,negative,0,criticism,False,[],không thấy hài hước gì hết,không thấy hài_hước gì hết,không thấy hài_hước gì hết
+vne_02896,Mua hàng như mua bực mình,toxic,0,insult,False,[],mua hàng như mua bực mình,mua hàng như mua bực_mình,mua hàng như mua bực_mình
+vne_02026,"đẹp là một chuyện, học hành mới là chính nha mấy bạn",neutral,1,reminder,False,[],"đẹp là một chuyện , học hành mới là chính nha mấy bạn","đẹp là một chuyện , học_hành mới là chính nha mấy bạn","đẹp là một chuyện , học_hành mới là chính nha mấy bạn"
+vne_01653,mỗi lần thấy clip có cap là tim lại đập thình thịch,positive,2,reaction,False,[],mỗi lần thấy clip có cap là tim lại đập thình thịch,mỗi lần thấy clip có cap là tim lại đập thình_thịch,mỗi lần thấy clip có cap là tim lại đập thình_thịch
+vne_02028,lớp tui hồi xưa không ai trang điểm bao giờ,neutral,1,contrast,False,[],lớp tui hồi xưa không ai trang điểm bao giờ,lớp tui hồi xưa không ai trang_điểm bao_giờ,lớp tui hồi xưa không ai trang_điểm bao_giờ
+vne_02146,ủa chú tín cx có ngiu cũ hả??,neutral,1,surprised,True,"[""cx→cũng""]",ủa chú tín cũng có ngiu cũ hả ? ?,ủa chú tín cx có ngiu cũ hả ? ?,ủa chú tín cũng có ngiu cũ hả ? ?
+vne_04278,Không thấy hay như mọi người nói,negative,0,criticism,False,[],không thấy hay như mọi người nói,không thấy hay như mọi người nói,không thấy hay như mọi người nói
+vne_01101,"Sáng tạo xĩu, lần đầu t thấy!",positive,2,originality,False,[],"sáng tạo xĩu , lần đầu t thấy !","sáng_tạo xĩu , lần đầu t thấy !","sáng_tạo xĩu , lần đầu t thấy !"
+vne_01573,2 lông mày của t bắt đầu skinship với nhau sau khi đọc cap,positive,2,funny,False,[],2 lông mày của t bắt đầu skinship với nhau sau khi đọc cap,2 lông_mày của t bắt_đầu skinship với nhau sau khi đọc cap,2 lông_mày của t bắt_đầu skinship với nhau sau khi đọc cap
+vne_00088,Có ai online không?,neutral,1,question,False,[],có ai online không ?,có ai online không ?,có ai online không ?
+vne_04178,Coi mà chả hiểu muốn truyền đạt gì,negative,0,criticism,False,[],coi mà chả hiểu muốn truyền đạt gì,coi mà chả hiểu muốn truyền_đạt gì,coi mà chả hiểu muốn truyền_đạt gì
+vne_04374,Hệ thống mua bán trong game bất tiện,negative,0,criticism,False,[],hệ thống mua bán trong game bất tiện,hệ_thống mua_bán trong game bất_tiện,hệ_thống mua_bán trong game bất_tiện
+vne_03920,Bạn có gặp lỗi khi sử dụng không?,neutral,1,question,False,[],bạn có gặp lỗi khi sử dụng không ?,bạn có gặp lỗi khi sử_dụng không ?,bạn có gặp lỗi khi sử_dụng không ?
+vne_01092,"Fake vcl, hok tự nhiên gì hết!",negative,0,artificial,True,"[""vcl→vãi cả lồn"", ""hok→không""]","fake vãi cả lồn , không tự nhiên gì hết !","fake vcl , hok tự_nhiên gì hết !","fake vãi cả lồn , không tự_nhiên gì hết !"
+vne_00484,lmao cuoi te,positive,2,hilarious,True,"[""lmao→cười""]",cười cuoi te,lmao cuoi te,cười cuoi te
+vne_02955,Stream như đang diễn kịch câm,toxic,0,insult,False,[],stream như đang diễn kịch câm,stream như đang diễn kịch_câm,stream như đang diễn kịch_câm
+vne_02784,Đặt hàng trăm lần rồi mà lần nào cũng lỗi,toxic,0,insult,False,[],đặt hàng trăm lần rồi mà lần nào cũng lỗi,đặt_hàng trăm lần rồi mà lần nào cũng lỗi,đặt_hàng trăm lần rồi mà lần nào cũng lỗi
+vne_03624,Thấy cái bụng là muốn né xa 10 mét,toxic,0,bodyshaming,False,[],thấy cái bụng là muốn né xa 10 mét,thấy cái bụng là muốn né xa 10 mét,thấy cái bụng là muốn né xa 10 mét
+vne_00481,vl,toxic,0,abbreviation_vulgar,True,"[""vl→vãi lồn""]",vãi lồn,vl,vãi lồn
+vne_00027,Thằng này chắc bị điên,toxic,0,insult,False,[],thằng này chắc bị điên,thằng này chắc bị điên,thằng này chắc bị điên
+vne_01772,cảm thấy hơi bị lú sau khi xem,neutral,1,confusion,False,[],cảm thấy hơi bị lú sau khi xem,cảm_thấy hơi bị lú sau khi xem,cảm_thấy hơi bị lú sau khi xem
+vne_03592,may nghi khoe cai eo to nhu thung do la dep a?,toxic,0,insult,False,[],may nghi khoe cai eo to nhu thung do la dep a ?,may nghi khoe cai eo to nhu thung do la dep a ?,may nghi khoe cai eo to nhu thung do la dep a ?
+vne_04403,no dung lap di lap lai,negative,0,criticism,False,[],no dung lap di lap lai,no dung lap di_lap lai,no dung lap di_lap lai
+vne_03167,ADC positioning như đứng ăn đòn,toxic,0,insult,False,[],adc positioning như đứng ăn đòn,adc positioning như đứng ăn đòn,adc positioning như đứng ăn đòn
+vne_00053,Fake news! Đừng tin,negative,0,warning,False,[],fake news ! đừng tin,fake news ! đừng tin,fake news ! đừng tin
+vne_02800,Hàng xài được 1 ngày thì hỏng,toxic,0,insult,False,[],hàng xài được 1 ngày thì hỏng,hàng xài được 1 ngày thì hỏng,hàng xài được 1 ngày thì hỏng
+vne_03313,sao may khong nhin lai minh truoc khi di comment?,toxic,0,insult,True,"[""comment→bình luận""]",sao may khong nhin lai minh truoc khi di bình luận ?,sao may khong nhin lai minh truoc khi di_comment ?,sao may khong nhin lai minh truoc khi di_bình_luận ?
+vne_04753,van con nguoi leo rao chan bang xe,negative,0,criticism,True,"[""nguoi→người""]",van con người leo rao chan bang xe,van con nguoi leo rao chan bang xe,van con_người leo rao chan bang xe
+vne_04490,video nhu may chup,negative,0,criticism,False,[],video nhu may chup,video nhu may chup,video nhu may chup
+vne_01327,Mát thế này cứ như ở Sapa chứ Hà Nội đâu,positive,2,humor,False,[],mát thế này cứ như ở sapa chứ hà nội đâu,mát thế này cứ như ở sapa chứ hà_nội đâu,mát thế này cứ như ở sapa chứ hà_nội đâu
+vne_00244,Foreshadowing! Báo hiệu trước,positive,2,literary_appreciation,False,[],foreshadowing ! báo hiệu trước,foreshadowing ! báo_hiệu trước,foreshadowing ! báo_hiệu trước
+vne_00916,"Nội dung này chán, cần cải thiện nhiều",negative,0,criticism,False,[],"nội dung này chán , cần cải thiện nhiều","nội_dung này chán , cần cải_thiện nhiều","nội_dung này chán , cần cải_thiện nhiều"
+vne_04550,bun bo khong co thit,negative,0,complaint,False,[],bun bo khong co thit,bun bo khong co thit,bun bo khong co thit
+vne_03341,cai cach may viet status nhin la biet khong co hoc!,toxic,0,insult,True,"[""biet→biết""]",cai cach may viet status nhin la biết khong co hoc !,cai cach may viet status nhin la biet khong co hoc !,cai cach may viet status nhin la biết khong co hoc !
+vne_02406,tình đồng đội là thứ không gì thay thế được,positive,2,appreciation,False,[],tình đồng đội là thứ không gì thay thế được,tình đồng_đội là thứ không gì thay_thế được,tình đồng_đội là thứ không gì thay_thế được
+vne_02633,chia sẻ thêm cách phòng tránh đi mọi người,positive,2,useful,False,[],chia sẻ thêm cách phòng tránh đi mọi người,chia_sẻ thêm cách phòng_tránh đi mọi người,chia_sẻ thêm cách phòng_tránh đi mọi người
+vne_03677,Không liên quan lắm,neutral,1,statement,False,[],không liên quan lắm,không liên_quan lắm,không liên_quan lắm
+vne_02104,em sẽ tái khám mỗi tuần chỉ để nhìn thấy anh,positive,2,flirt,False,[],em sẽ tái khám mỗi tuần chỉ để nhìn thấy anh,em sẽ tái_khám mỗi tuần chỉ để nhìn thấy anh,em sẽ tái_khám mỗi tuần chỉ để nhìn thấy anh
+vne_03435,may co biet cai cach an mac do nhin re tien?,toxic,0,insult,True,"[""biet→biết""]",may co biết cai cach an mac do nhin re tien ?,may co biet cai cach an mac do nhin re tien ?,may co biết cai cach an mac do nhin re tien ?
+vne_01040,"Tạm oke, nhưng cx hok ấn tượng!",neutral,1,mediocre,True,"[""cx→cũng"", ""hok→không""]","tạm oke , nhưng cũng không ấn tượng !","tạm oke , nhưng cx hok ấn_tượng !","tạm oke , nhưng cũng không ấn_tượng !"
+vne_03240,Draft strategy như đùa,toxic,0,insult,False,[],draft strategy như đùa,draft strategy như đùa,draft strategy như đùa
+vne_03945,Bạn thấy sản phẩm dễ bảo trì không?,neutral,1,question,False,[],bạn thấy sản phẩm dễ bảo trì không ?,bạn thấy sản_phẩm dễ bảo_trì không ?,bạn thấy sản_phẩm dễ bảo_trì không ?
+vne_03795,Bạn thấy phần mềm ổn không?,neutral,1,question,False,[],bạn thấy phần mềm ổn không ?,bạn thấy phần_mềm ổn không ?,bạn thấy phần_mềm ổn không ?
+vne_03683,Đây là phiên bản mới nhất à?,neutral,1,question,False,[],đây là phiên bản mới nhất à ?,đây là phiên_bản mới nhất à ?,đây là phiên_bản mới nhất à ?
+vne_04113,Không thấy phụ kiện kèm theo,negative,0,complaint,False,[],không thấy phụ kiện kèm theo,không thấy phụ_kiện kèm theo,không thấy phụ_kiện kèm theo
+vne_02377,mấy bạn học sinh giờ khác thật,positive,2,appreciation,False,[],mấy bạn học sinh giờ khác thật,mấy bạn học_sinh giờ khác thật,mấy bạn học_sinh giờ khác thật
+vne_01990,xem clip mà tự dưng thấy thiếu năng lượng,neutral,1,envy,False,[],xem clip mà tự dưng thấy thiếu năng lượng,xem clip mà tự_dưng thấy thiếu năng_lượng,xem clip mà tự_dưng thấy thiếu năng_lượng
+vne_03386,may co biet cai anh do nhin xau xi ra sao khong?,toxic,0,insult,True,"[""biet→biết""]",may co biết cai anh do nhin xau xi ra sao khong ?,may co biet cai anh do nhin xau xi ra sao khong ?,may co biết cai anh do nhin xau xi ra sao khong ?
+vne_02916,Giao hàng chậm như thời đồ đá,toxic,0,insult,False,[],giao hàng chậm như thời đồ đá,giao hàng chậm như thời đồ đá,giao hàng chậm như thời đồ đá
+vne_01911,mỗi lần có chuyện này lại gây war hoài,negative,0,repetitive,False,[],mỗi lần có chuyện này lại gây war hoài,mỗi lần có chuyện này lại gây war hoài,mỗi lần có chuyện này lại gây war hoài
+vne_00881,"Đôi này cute vãi, ship nhiệt tình!",positive,2,relationship_goals,False,[],"đôi này cute vãi , ship nhiệt tình !","đôi này cute vãi , ship nhiệt_tình !","đôi này cute vãi , ship nhiệt_tình !"
+vne_00531,no cap,positive,2,truth,False,[],no cap,no cap,no cap
+vne_03317,may nghi post cai do len fb la ai cung thich a?,toxic,0,insult,True,"[""post→đăng"", ""fb→facebook"", ""thich→thích""]",may nghi đăng cai do len facebook la ai cung thích a ?,may nghi_post cai do len fb la ai cung thich a ?,may nghi đăng_cai do len facebook la ai cung thích a ?
+vne_03268,"Clip rác thật sự, chẳng mang lại giá trị gì",toxic,0,insult,False,[],"clip rác thật sự , chẳng mang lại giá trị gì","clip rác thật_sự , chẳng mang lại giá_trị gì","clip rác thật_sự , chẳng mang lại giá_trị gì"
+vne_03804,Bạn đánh giá thế nào về độ bền sản phẩm?,neutral,1,question,False,[],bạn đánh giá thế nào về độ bền sản phẩm ?,bạn đánh_giá thế_nào về độ bền sản_phẩm ?,bạn đánh_giá thế_nào về độ bền sản_phẩm ?
+vne_00515,cai deo gi,toxic,0,wtf_vulgar,False,[],cai deo gi,cai deo gi,cai deo gi
+vne_03568,may nghi khoe cai chan ngan do la ngau lam a?,toxic,0,insult,False,[],may nghi khoe cai chan ngan do la ngau lam a ?,may nghi khoe cai chan ngan do la ngau lam a ?,may nghi khoe cai chan ngan do la ngau lam a ?
+vne_03569,sao may dam mac quan bo voi cai body te the do?,toxic,0,insult,False,[],sao may dam mac quan bo voi cai body te the do ?,sao may dam mac quan bo voi cai body te the do ?,sao may dam mac quan bo voi cai body te the do ?
+vne_03105,Story template mà điền thông tin fake,toxic,0,insult,False,[],story template mà điền thông tin fake,story template mà điền thông_tin fake,story template mà điền thông_tin fake
+vne_00938,"Tạm được, nhưng chưa ấn tượng",neutral,1,mediocre,False,[],"tạm được , nhưng chưa ấn tượng","tạm được , nhưng chưa ấn_tượng","tạm được , nhưng chưa ấn_tượng"
+vne_01796,chắc tui phải xem lại lần nữa mới hiểu,neutral,1,rewatch,False,[],chắc tui phải xem lại lần nữa mới hiểu,chắc tui phải xem_lại lần nữa mới hiểu,chắc tui phải xem_lại lần nữa mới hiểu
+vne_04109,Không hài lòng về chính sách bảo hành,negative,0,complaint,False,[],không hài lòng về chính sách bảo hành,không hài_lòng về chính_sách bảo_hành,không hài_lòng về chính_sách bảo_hành
+vne_01403,"Cơm quê giá Dubai, ăn xong muốn lên cổng trời 😅",negative,0,humor,False,"[""😅→cười""]","cơm quê giá dubai , ăn xong muốn lên cổng trời cười","cơm quê giá dubai , ăn xong muốn lên cổng trời 😅","cơm quê giá dubai , ăn xong muốn lên cổng trời cười"
+vne_04652,co cong thuc do an nay khong?,neutral,1,question,False,[],co cong thuc do an nay khong ?,co cong thuc do an nay khong ?,co cong thuc do an nay khong ?
+vne_01597,giỡn vậy chứ cap gì nghe thấm quá,positive,2,realization,False,[],giỡn vậy chứ cap gì nghe thấm quá,giỡn_vậy chứ cap gì nghe thấm quá,giỡn_vậy chứ cap gì nghe thấm quá
+vne_03749,Sản phẩm này làm được gì nữa không?,neutral,1,question,False,[],sản phẩm này làm được gì nữa không ?,sản_phẩm này làm được gì nữa không ?,sản_phẩm này làm được gì nữa không ?
+vne_04407,ko co thong diep ro rang,negative,0,criticism,True,"[""ko→không""]",không co thong diep ro rang,ko co thong diep ro rang,không co thong diep ro rang
+vne_03909,Cần thêm nhận xét từ khách đã dùng,neutral,1,request,False,[],cần thêm nhận xét từ khách đã dùng,cần thêm nhận_xét từ khách đã dùng,cần thêm nhận_xét từ khách đã dùng
+vne_03113,Ảnh new haircut mà như cắt bằng cưa,toxic,0,insult,False,[],ảnh new haircut mà như cắt bằng cưa,ảnh new haircut mà như cắt bằng cưa,ảnh new haircut mà như cắt bằng cưa
+vne_01607,muốn lưu cái clip này để gửi lúc cãi nhau,positive,2,humor,False,[],muốn lưu cái clip này để gửi lúc cãi nhau,muốn lưu cái clip này để gửi lúc cãi nhau,muốn lưu cái clip này để gửi lúc cãi nhau
+vne_01161,Ai thả ông này ra mà để vô phá vậy,neutral,1,question,False,[],ai thả ông này ra mà để vô phá vậy,ai thả ông này ra mà để vô phá_vậy,ai thả ông này ra mà để vô phá_vậy
+vne_04724,ke vach duong qua mo,negative,0,criticism,False,[],ke vach duong qua mo,ke vach duong qua mo,ke vach duong qua mo
+vne_03298,sao may cu thich di drama voi nguoi khac the?,toxic,0,insult,True,"[""thich→thích"", ""nguoi→người""]",sao may cu thích di drama voi người khac the ?,sao may cu thich di_drama voi nguoi khac the ?,sao may cu thích di_drama voi người khac the ?
+vne_03262,"Reaction mà như đọc kịch bản, giả quá",toxic,0,insult,False,[],"reaction mà như đọc kịch bản , giả quá","reaction mà như đọc kịch_bản , giả quá","reaction mà như đọc kịch_bản , giả quá"
+vne_02876,Khách hàng với shop như thù với oán,toxic,0,insult,False,[],khách hàng với shop như thù với oán,khách_hàng với shop như thù với oán,khách_hàng với shop như thù với oán
+vne_03186,Poke damage như gãi ngứa,toxic,0,insult,False,[],poke damage như gãi ngứa,poke damage như gãi ngứa,poke damage như gãi ngứa
+vne_02456,giá trị nằm ở chất lượng món ăn,positive,2,appreciation,False,[],giá trị nằm ở chất lượng món ăn,giá_trị nằm ở chất_lượng món ăn,giá_trị nằm ở chất_lượng món ăn
+vne_02545,Càng xem càng thấy dễ thương ghê,positive,2,compliment,False,[],càng xem càng thấy dễ thương ghê,càng xem càng thấy dễ_thương ghê,càng xem càng thấy dễ_thương ghê
+vne_01715,quán đông nhưng không hiểu lý do,negative,0,confusion,False,[],quán đông nhưng không hiểu lý do,quán đông nhưng không hiểu lý_do,quán đông nhưng không hiểu lý_do
+vne_02524,Clip vui thôi đừng nghĩ nhiều,positive,2,appreciation,False,[],clip vui thôi đừng nghĩ nhiều,clip vui thôi đừng nghĩ nhiều,clip vui thôi đừng nghĩ nhiều
+vne_01141,"Hài hước ghê, phá ngai vàng mà tỉnh bơ luôn",neutral,1,humor,False,[],"hài hước ghê , phá ngai vàng mà tỉnh bơ luôn","hài_hước ghê , phá ngai vàng mà tỉnh_bơ luôn","hài_hước ghê , phá ngai vàng mà tỉnh_bơ luôn"
+vne_01220,"Nhìn clip mà thương, ai giúp được thì giúp đi",neutral,1,neutral,False,[],"nhìn clip mà thương , ai giúp được thì giúp đi","nhìn clip mà thương , ai giúp được thì giúp đi","nhìn clip mà thương , ai giúp được thì giúp đi"
+vne_03750,Bạn dùng thử chưa?,neutral,1,question,False,[],bạn dùng thử chưa ?,bạn dùng thử chưa ?,bạn dùng thử chưa ?
+vne_04009,Chưa nhận được hàng dù đã đặt lâu,negative,0,complaint,False,[],chưa nhận được hàng dù đã đặt lâu,chưa nhận được hàng dù đã đặt lâu,chưa nhận được hàng dù đã đặt lâu
+vne_03165,Jungle không biết objective,toxic,0,insult,False,[],jungle không biết objective,jungle không biết objective,jungle không biết objective
+vne_01643,bạn mình mới chia tay mà tôi tag nó vô đây đúng không sai,toxic,0,provocative,False,[],bạn mình mới chia tay mà tôi tag nó vô đây đúng không sai,bạn mình mới chia_tay mà tôi tag nó vô đây đúng không sai,bạn mình mới chia_tay mà tôi tag nó vô đây đúng không sai
+vne_03526,cai anh do nhin cai bung may ma muon tat ngay!,toxic,0,insult,False,[],cai anh do nhin cai bung may ma muon tat ngay !,cai anh do nhin cai bung may ma muon tat ngay !,cai anh do nhin cai bung may ma muon tat ngay !
