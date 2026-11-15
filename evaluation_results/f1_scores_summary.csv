@@ -1,0 +1,5 @@
+﻿Model_Dataset,Split,Model,N_Samples,N_Errors,Error_Rate_%,Accuracy,Macro_F1,F1_Negative,F1_Neutral,F1_Positive
+Baseline_Test,test,Baseline,490,80,16.33,0.8367,0.8108,0.8982,0.7385,0.7958
+Proposed_Test,test,Proposed,490,73,14.9,0.851,0.8291,0.9051,0.7624,0.8198
+Baseline_Teencode,test_teencode,Baseline,50,4,8.0,0.92,0.8533,0.96,0.8,0.8
+Proposed_Teencode,test_teencode,Proposed,50,3,6.0,0.94,0.8947,0.961,0.9231,0.8

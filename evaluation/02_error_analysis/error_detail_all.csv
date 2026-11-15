@@ -1,0 +1,819 @@
+﻿model,test_set,comment,true_name,pred_name,error_type,confidence,replacements,is_teencode,category
+Baseline,test,slow burn,Positive,Negative,Positive -> Negative,0.735178,[],False,gradual_development
+Baseline,test,"lúc đầu tưởng bình thường, đọc cap xong ngồi đơ",Positive,Negative,Positive -> Negative,0.8716951,[],False,funny
+Baseline,test,copy that,Neutral,Negative,Neutral -> Negative,0.99479866,[],False,acknowledged
+Baseline,test,"em không sao, chỉ là hơi tê tê chân mày thôi",Positive,Neutral,Positive -> Neutral,0.9561109,[],False,funny
+Baseline,test,"Nói thì hay lắm, coi làm được gì không",Positive,Neutral,Positive -> Neutral,0.9830425,[],False,appreciation
+Baseline,test,Chưa bao giờ thấy ai xử lý hay vậy,Positive,Negative,Positive -> Negative,0.56996036,[],False,compliment
+Baseline,test,quán này nổi nhờ tên tuổi người nổi tiếng thôi,Negative,Positive,Negative -> Positive,0.7415409,[],False,popularity\_bias
+Baseline,test,ai chê thì thôi chứ tui vẫn thấy ổn,Positive,Neutral,Positive -> Neutral,0.58492076,[],False,appreciation
+Baseline,test,ủa là trứng luộc xong chiên hả?,Neutral,Negative,Neutral -> Negative,0.7282433,[],False,question
+Baseline,test,có phải trả tiền thêm để được ăn ở quận 1 không vậy?,Negative,Neutral,Negative -> Neutral,0.98706424,[],False,teasing
+Baseline,test,Cần cải thiện một số điểm,Negative,Neutral,Negative -> Neutral,0.80841684,[],False,constructive_criticism
+Baseline,test,Thời tiết Hà Nội nay lạ lùng ghê,Neutral,Positive,Neutral -> Positive,0.9634429,[],False,neutral
+Baseline,test,plot hole,Negative,Positive,Negative -> Positive,0.87976146,[],False,story_inconsistency
+Baseline,test,One more episode syndrome,Positive,Negative,Positive -> Negative,0.9658896,[],False,compelling
+Baseline,test,"clip chỉ là 1 góc nhìn, đừng áp lên tất cả",Neutral,Positive,Neutral -> Positive,0.979787,[],False,perspective
+Baseline,test,Làm vậy chỉ khiến người ta tò mò hơn thôi,Positive,Negative,Positive -> Negative,0.808669,[],False,appreciation
+Baseline,test,"Hình không load được, check lại đi",Neutral,Negative,Neutral -> Negative,0.7329611,[],False,technical_issue
+Baseline,test,vật lý hay tâm lý trị liệu vậy trời,Positive,Neutral,Positive -> Neutral,0.9045645,[],False,playful
+Baseline,test,Óc chó vừa thôi bạn ơi,Negative,Neutral,Negative -> Neutral,0.83020633,[],False,insult
+Baseline,test,nhiều khi nói chơi mà người ta để bụng đó,Neutral,Positive,Neutral -> Positive,0.71617204,[],False,observation
+Baseline,test,deus ex machina,Negative,Positive,Negative -> Positive,0.64339685,[],False,convenient_solution
+Baseline,test,"Cơm quê vắt khô, view thì cứ lên đều 😎",Positive,Negative,Positive -> Negative,0.9925524,[],False,neutral
+Baseline,test,Ủa sao nghe giọng quen dữ vậy trời,Neutral,Positive,Neutral -> Positive,0.9805007,[],False,familiarity
+Baseline,test,Greedy for resources,Negative,Positive,Negative -> Positive,0.94319886,[],False,insult
+Baseline,test,góp ý thì quán k quan tâm luôn,Positive,Neutral,Positive -> Neutral,0.8172249,[],True,appreciation
+Baseline,test,diễn sâu như vũng lầy vậy đó,Positive,Negative,Positive -> Negative,0.99492514,[],False,wordplay
+Baseline,test,rat ok,Positive,Neutral,Positive -> Neutral,0.9857918,[],False,good
+Baseline,test,Skill shot accuracy 10%,Negative,Positive,Negative -> Positive,0.5253328,[],False,insult
+Baseline,test,mỗi lần có chuyện này lại gây war hoài,Negative,Positive,Negative -> Positive,0.98911285,[],False,repetitive
+Baseline,test,go off,Positive,Neutral,Positive -> Neutral,0.94333535,[],False,expression_support
+Baseline,test,"Thôi cho ông này vô bệnh viện tâm thần đi, thả ra nguy hiểm xã hội",Neutral,Negative,Neutral -> Negative,0.8750895,[],False,suggestion
+Baseline,test,Thằng này chắc bị điên,Negative,Neutral,Negative -> Neutral,0.43542182,[],True,insult
+Baseline,test,"Không mới mẻ gì cả, chuyện thường thôi",Positive,Neutral,Positive -> Neutral,0.9519575,[],False,appreciation
+Baseline,test,vcl,Negative,Neutral,Negative -> Neutral,0.54038733,[],True,abbreviation_vulgar
+Baseline,test,nhin do an dep mat qua,Neutral,Negative,Neutral -> Negative,0.99052435,[],False,statement
+Baseline,test,Slow down a bit,Neutral,Negative,Neutral -> Negative,0.82163906,[],False,suggestion
+Baseline,test,học thì ít mà chồng đ..t thì nhiều nè 😁😁😁,Negative,Positive,Negative -> Positive,0.8309153,[],False,vulgar
+Baseline,test,may gio,Neutral,Negative,Neutral -> Negative,0.99509925,[],False,what_time
+Baseline,test,mấy bạn này chắc học trường nghệ thuật,Neutral,Positive,Neutral -> Positive,0.7781076,[],False,guess
+Baseline,test,Humble brag đúng không?,Negative,Neutral,Negative -> Neutral,0.9875838,[],False,criticism
+Baseline,test,Cứ như bị nghiện nổi tiếng ấy,Negative,Positive,Negative -> Positive,0.9844199,[],False,insult
+Baseline,test,Rome wasn't built in a day,Neutral,Positive,Neutral -> Positive,0.493716,[],False,patience
+Baseline,test,"Dạ, em nghèo :)))",Positive,Neutral,Positive -> Neutral,0.7210332,[],False,appreciation
+Baseline,test,xin lịch làm việc để còn book khám luôn,Positive,Neutral,Positive -> Neutral,0.50386,[],False,joke
+Baseline,test,Nhìn dậy mà bót với liên😭,Negative,Positive,Negative -> Positive,0.9846348,[],False,appearance
+Baseline,test,"Đù má, làm cái gì kỳ vậy?",Negative,Neutral,Negative -> Neutral,0.9860697,[],False,vulgar
+Baseline,test,Chuyện đâu còn có đó mà lo,Positive,Negative,Positive -> Negative,0.98339313,[],False,appreciation
+Baseline,test,First! Đầu tiên,Neutral,Positive,Neutral -> Positive,0.9383234,[],False,milestone
+Baseline,test,đẹp mà còn học giỏi nữa thì chịu sao nổi,Positive,Negative,Positive -> Negative,0.9260197,[],False,praise
+Baseline,test,"Hè mà lạnh 20 độ, đúng kiểu Hà Nội :))",Positive,Negative,Positive -> Negative,0.9313943,[],False,humor
+Baseline,test,No spoilers please!,Neutral,Positive,Neutral -> Positive,0.941459,[],False,request
+Baseline,test,spill the tea,Neutral,Positive,Neutral -> Positive,0.52646476,[],False,share_gossip
+Baseline,test,Thân hình như cây cột mỡ luôn ấy,Negative,Positive,Negative -> Positive,0.971626,[],False,bodyshaming
+Baseline,test,Respect! Tôi admire bạn,Positive,Neutral,Positive -> Neutral,0.84338635,[],False,admiration
+Baseline,test,Tôi cũng thích sản phẩm này,Neutral,Positive,Neutral -> Positive,0.9059194,[],False,statement
+Baseline,test,Cái cap hại cái chân mày,Positive,Negative,Positive -> Negative,0.99534094,[],False,humor
+Baseline,test,"B giải thích dễ hỉu, thik ghê!",Positive,Negative,Positive -> Negative,0.9931726,[],True,appreciation
+Baseline,test,"Hà Nội lạnh 20 độ, tưởng đang ở Đà Lạt",Neutral,Negative,Neutral -> Negative,0.96648574,[],False,humor
+Baseline,test,Ngân hàng nên có xác minh nhiều lớp hơn,Positive,Neutral,Positive -> Neutral,0.5295674,[],False,useful
+Baseline,test,"Hình không load được, check lại đi",Neutral,Negative,Neutral -> Negative,0.7329613,[],False,technical_issue
+Baseline,test,Anh Huy nhìn giống nhân viên quán luôn á 😆,Neutral,Positive,Neutral -> Positive,0.94756967,[],False,humor
+Baseline,test,mỗi người xem chắc sẽ có cảm nhận riêng,Neutral,Positive,Neutral -> Positive,0.9434906,[],False,subjective
+Baseline,test,Ủa anh này lồng tiếng nobita thiệt luôn hả?,Neutral,Positive,Neutral -> Positive,0.51178604,[],False,question
+Baseline,test,t tưởng là meme ai ngờ gây tranh cãi,Neutral,Negative,Neutral -> Negative,0.9194838,[],False,surprised
+Baseline,test,Ai ngờ hè mà lôi chăn bông ra đắp :)),Neutral,Negative,Neutral -> Negative,0.9826555,[],False,humor
+Baseline,test,giờ đi học phải có aesthetic mới chịu à?,Neutral,Negative,Neutral -> Negative,0.82113767,[],False,question
+Baseline,test,Cơm quê dượng bầu khịa anh Huy clip nữa nè,Neutral,Negative,Neutral -> Negative,0.74244326,[],False,humor
+Baseline,test,đang học mà cứ tưởng đang quay tiktok,Neutral,Positive,Neutral -> Positive,0.9707578,[],False,social\_media
+Baseline,test,mình nhớ sai lớp rồi sao ta,Neutral,Negative,Neutral -> Negative,0.77473736,[],False,confusion
+Baseline,test,"cứ làm khổ gia đình ,cả nước cả nghìn người đi được",Positive,Negative,Positive -> Negative,0.99264455,[],False,appreciation
+Baseline,test,Rome wasn't built in a day,Neutral,Positive,Neutral -> Positive,0.49371523,[],False,patience
+Baseline,test,Chặn vậy thì bao nhiêu app khác cũng nên chặn luôn,Positive,Negative,Positive -> Negative,0.8373283,[],False,appreciation
+Baseline,test,chia sẻ thêm cách phòng tránh đi mọi người,Positive,Neutral,Positive -> Neutral,0.9836662,[],False,useful
+Baseline,test,Tôi cũng nghĩ vậy,Positive,Neutral,Positive -> Neutral,0.8543442,[],False,agreement
+Baseline,test,mình không hiểu sao có người khen được,Negative,Positive,Negative -> Positive,0.89896315,[],False,doubt
+Baseline,test,lip combo,Positive,Negative,Positive -> Negative,0.53358066,[],False,lipstick_combination
+Baseline,test,Never sacrifice for team,Negative,Positive,Negative -> Positive,0.96767485,[],False,insult
+Baseline,test,Ai mà chơi nổi với thứ như này,Negative,Positive,Negative -> Positive,0.9635677,[],False,insult
+Baseline,test,"Ủa e , sao em bảo em với nó chỉ là bạn?",Negative,Neutral,Negative -> Neutral,0.8317557,[],False,suspicion
+Baseline,test,ổng lồng trẻ con mà ổng cũng trẻ con nx 😆,Positive,Negative,Positive -> Negative,0.86893857,[],False,humor
+Baseline,test_teencode,góp ý thì quán k quan tâm luôn,Positive,Neutral,Positive -> Neutral,0.8172249,[],True,appreciation
+Baseline,test_teencode,Thằng này chắc bị điên,Negative,Neutral,Negative -> Neutral,0.4354218,[],True,insult
+Baseline,test_teencode,vcl,Negative,Neutral,Negative -> Neutral,0.54038733,[],True,abbreviation_vulgar
+Baseline,test_teencode,"B giải thích dễ hỉu, thik ghê!",Positive,Negative,Positive -> Negative,0.99317235,[],True,appreciation
+Baseline,noise_10,tuyet voi qua,Positive,Negative,Positive -> Negative,0.9988734,[],False,excellent
+Baseline,noise_10,quán sống nhờ review chứ không nhờ chất lượng,Negative,Positive,Negative -> Positive,0.9706614,[],False,criticism
+Baseline,noise_10,"clip chỉ là vui thôi, đừng soi quá",Positive,Neutral,Positive -> Neutral,0.99677986,[],False,lighthearted
+Baseline,noise_10,ăn xong ra quán khác ăn tiếp mới đủ,Negative,Neutral,Negative -> Neutral,0.98743385,[],False,satire
+Baseline,noise_10,"valentine's day is coming, tui cần gấu",Neutral,Positive,Neutral -> Positive,0.7011451,[],False,single_status
+Baseline,noise_10,"dạ, em nghèo :)))",Positive,Neutral,Positive -> Neutral,0.74625003,"["":)))→cười""]",False,appreciation
+Baseline,noise_10,flex hard quá bạn ơi,Negative,Positive,Negative -> Positive,0.88953,"[""flex→khoe khoang""]",True,showing_off
+Baseline,noise_10,có ai vô học mà không lôi máy quay ra không?,Neutral,Positive,Neutral -> Positive,0.9976814,[],False,commentary
+Baseline,noise_10,20k ăn được gi ở quán cơm quê dượng bầu? 😢,Negative,Neutral,Negative -> Neutral,0.9985328,"[""😢→khóc"", ""20k→20 nghìn""]",False,question
+Baseline,noise_10,honey skin,Positive,Neutral,Positive -> Neutral,0.9123033,[],False,golden_glow
+Baseline,noise_10,hạn chế kiểuuuuu này chỉ là tạm thời thôi,Positive,Neutral,Positive -> Neutral,0.48280513,"[""kiểuuuuu→kiểu""]",True,appreciation
+Baseline,noise_10,bị bắt quả tang ánh mắt hình viên đạn,Positive,Negative,Positive -> Negative,0.9964734,[],False,humor
+Baseline,noise_10,"kcgi đặc biệt, bình thường thôi",Negative,Neutral,Negative -> Neutral,0.9981426,[],False,mediocre
+Baseline,noise_10,bạn này lồng jaian hay ghê,Positive,Neutral,Positive -> Neutral,0.9641453,[],False,praise
+Baseline,noise_10,làm lại video khác được không,Negative,Neutral,Negative -> Neutral,0.9937078,[],False,criticism
+Baseline,noise_10,xã hội mới có quán cơm giá cổng trùi thế này 🥺,Negative,Positive,Negative -> Positive,0.92480606,"[""trùi→trời""]",True,sarcasm
+Baseline,noise_10,cap chạm đúng chỗ ngứa lun nha,Positive,Neutral,Positive -> Neutral,0.9574481,[],False,funny
+Baseline,noise_10,mắt kiểu: lại drama nữa hả trời,Positive,Negative,Positive -> Negative,0.9977831,[],False,reaction
+Baseline,noise_10,di xe ban dem rat nguy hiem,Negative,Neutral,Negative -> Neutral,0.99558336,[],False,criticism
+Baseline,noise_10,cần thêm dàn đèn sân khấu là xong,Positive,Neutral,Positive -> Neutral,0.64447445,[],False,joke
+Baseline,noise_10,nhiều bạn tưởng đùa nhưng người khác tổn thương thật,Negative,Positive,Negative -> Positive,0.9395252,[],False,realization
+Baseline,noise_10,cái quán này làm mình mất niềm tin vô review trên mạng,Negative,Positive,Negative -> Positive,0.921565,[],False,disappointment
+Baseline,noise_10,lớn r mà đầu nghĩ j v:),Negative,Positive,Negative -> Positive,0.53861916,"[""r→rồi"", ""j→gì""]",True,appreciation
+Baseline,noise_10,"hè mà lạnh thế này, ve chắc shock nặg",Negative,Neutral,Negative -> Neutral,0.9643312,"[""nặg→nặng""]",True,sarcasm
+Baseline,noise_10,và sau này khi lớn khôn rồi,Neutral,Positive,Neutral -> Positive,0.99825615,[],False,reflection
+Baseline,noise_10,"không sao đâu, cứ làm đi",Neutral,Positive,Neutral -> Positive,0.6960761,[],False,dismissal
+Baseline,noise_10,ăn cơm quê mà tưởng đang ở dubai 😅,Negative,Neutral,Negative -> Neutral,0.9959422,"[""😅→cười""]",False,humor
+Baseline,noise_10,quán chỉ phù hợp để sống ảo,Neutral,Negative,Neutral -> Negative,0.9993967,[],False,social\_use
+Baseline,noise_10,mệt chết :))),Neutral,Negative,Neutral -> Negative,0.99861634,"["":)))→cười""]",False,exhausted
+Baseline,noise_10,pn nói đúng,Neutral,Negative,Neutral -> Negative,0.9872679,"[""pn→bạn""]",True,agreement
+Baseline,noise_10,"từng bị trêu vì giọng quê, nên hiểu cảm giác",Negative,Neutral,Negative -> Neutral,0.6726825,[],False,empathy
+Baseline,noise_10,vẫn chưa hiểu thôg điệp lắm,Neutral,Negative,Neutral -> Negative,0.99916923,"[""thôg→thông""]",True,confused
+Baseline,noise_10,nhìu thằng con chửi bác bảo zệ chắc đó giờ k được ai dạy,Positive,Negative,Positive -> Negative,0.9986406,"[""zệ→vệ"", ""k→không""]",True,appreciation
+Baseline,noise_10,ai dám nói học sinh không biết diễn xuất,Positive,Negative,Positive -> Negative,0.699416,[],False,student\_talent
+Baseline,noise_10,"đoạn này hơi nhanh, tôi xem chưa kịp",Neutral,Negative,Neutral -> Negative,0.9891221,[],False,statement
+Baseline,noise_10,mún xin slot học ké lớp này,Positive,Neutral,Positive -> Neutral,0.7995824,[],False,joke
+Baseline,noise_10,"tức ghê, sao mình nghĩ nhiều thế",Neutral,Negative,Neutral -> Negative,0.95824486,[],False,overthinking
+Baseline,noise_10,"không sao, cứ tiếp tục nha",Neutral,Positive,Neutral -> Positive,0.97773904,[],False,dismissal
+Baseline,noise_10,diễn mà như không diễn,Positive,Negative,Positive -> Negative,0.99935454,[],False,natural
+Baseline,noise_10,mấy clip kiểu này hay mà hơi thiếu logic,Neutral,Negative,Neutral -> Negative,0.9988166,[],False,critique
+Baseline,noise_10,23333 trung funny,Positive,Negative,Positive -> Negative,0.9509522,[],False,chinese_laugh
+Baseline,noise_10,nghe muon tat am thanh,Negative,Neutral,Negative -> Neutral,0.80145144,[],False,disappointment
+Baseline,noise_10,ko ro,Neutral,Negative,Neutral -> Negative,0.80515146,"[""ko→không""]",True,unclear
+Baseline,noise_10,mấy cái clip vậy dễ bị bóp méo ý nghĩa,Neutral,Negative,Neutral -> Negative,0.9991978,[],False,distortion
+Baseline,noise_10,vô bệnh viện mà không mún xuất viện,Positive,Negative,Positive -> Negative,0.8058049,[],False,teasing
+Baseline,noise_10,"clip chỉ là 1 góc nhìn, đừng áp lên tất cả",Neutral,Positive,Neutral -> Positive,0.95000094,[],False,perspective
+Baseline,noise_10,ngon nhin la biet,Neutral,Positive,Neutral -> Positive,0.9956999,"[""biet→biết""]",True,statement
+Baseline,noise_10,relationship này precious lắm,Positive,Negative,Positive -> Negative,0.405247,[],False,precious
+Baseline,noise_10,"đẹp là một chuyện, học hành mới là chính nha mấy bạn",Neutral,Positive,Neutral -> Positive,0.998362,[],False,reminder
+Baseline,noise_10,vl,Negative,Neutral,Negative -> Neutral,0.9805716,"[""vl→vãi lồn""]",True,abbreviation_vulgar
+Baseline,noise_10,cảm thấy hơi bị lú sau khi xem,Neutral,Negative,Neutral -> Negative,0.9993912,[],False,confusion
+Baseline,noise_10,no dung lap di lap lai,Negative,Positive,Negative -> Positive,0.9555897,[],False,criticism
+Baseline,noise_10,chia sẻ thêm cách phòng tránh đi mọi người,Positive,Neutral,Positive -> Neutral,0.99556303,[],False,useful
+Baseline,noise_10,không liên quan lắm,Neutral,Negative,Neutral -> Negative,0.9989747,[],False,statement
+Baseline,noise_10,xem clip mà tự dưng thấy thiếu năng lượng,Neutral,Negative,Neutral -> Negative,0.99877053,[],False,envy
+Baseline,noise_10,mỗi lần có chuyện này lại gây war hoài,Negative,Positive,Negative -> Positive,0.7821703,[],False,repetitive
+Baseline,noise_10,no cap,Positive,Neutral,Positive -> Neutral,0.99827945,[],False,truth
+Baseline,noise_10,chắc tui phải xem lại lần nữa ms hiểu,Neutral,Positive,Neutral -> Positive,0.5804041,"[""ms→mới""]",True,rewatch
+Baseline,noise_10,clip vui thôi đừng nghĩ nhiều,Positive,Neutral,Positive -> Neutral,0.93500817,[],False,appreciation
+Baseline,noise_10,bạn mình mới chia tay mà tôi tag nó vô đây đúg không sai,Negative,Neutral,Negative -> Neutral,0.9851376,"[""đúg→đúng""]",True,provocative
+Baseline,noise_30,tuyet voi qua,Positive,Negative,Positive -> Negative,0.9988734,[],False,excellent
+Baseline,noise_30,món này chắc dàh cho rich kid thôi,Neutral,Positive,Neutral -> Positive,0.98935646,"[""dàh→dành""]",True,affordability
+Baseline,noise_30,"clip chỉ là vui thôi, đừng soi quá",Positive,Neutral,Positive -> Neutral,0.99677986,[],False,lighthearted
+Baseline,noise_30,ăn xog ra quán khác ăn tiếp ms đủ,Negative,Neutral,Negative -> Neutral,0.9957669,"[""xog→xong"", ""ms→mới""]",True,satire
+Baseline,noise_30,"valentine's day is coming, tôi cần gấu",Neutral,Positive,Neutral -> Positive,0.5178391,[],False,single_status
+Baseline,noise_30,"dạ, e nghèo :)))",Positive,Negative,Positive -> Negative,0.52888936,"["":)))→cười""]",False,appreciation
+Baseline,noise_30,flex hard quá bạn ơi,Negative,Positive,Negative -> Positive,0.88953,"[""flex→khoe khoang""]",True,showing_off
+Baseline,noise_30,có ai zô họk mà không lôi máy quay ra không?,Neutral,Positive,Neutral -> Positive,0.9756857,"[""zô→vô"", ""họk→học""]",True,commentary
+Baseline,noise_30,20k ăn được gì ở quánnn cơm quê dượng bầu? 😢,Negative,Neutral,Negative -> Neutral,0.99848807,"[""😢→khóc"", ""20k→20 nghìn"", ""quánnn→quán""]",True,question
+Baseline,noise_30,nội dung đơn giản wa,Negative,Neutral,Negative -> Neutral,0.991268,"[""wa→quá""]",True,criticism
+Baseline,noise_30,honey skin,Positive,Neutral,Positive -> Neutral,0.9123033,[],False,golden_glow
+Baseline,noise_30,hạn chế kiểu này chỉ là tạm thời thui,Positive,Negative,Positive -> Negative,0.9900692,[],False,appreciation
+Baseline,noise_30,bị bắt quả tang ánh mắt hìh viên đạn,Positive,Negative,Positive -> Negative,0.99577385,"[""hìh→hình""]",True,humor
+Baseline,noise_30,"kcgi đặc biệt, bình thường thôi",Negative,Neutral,Negative -> Neutral,0.9981426,[],False,mediocre
+Baseline,noise_30,bạn này lồng jaian hay ghê,Positive,Neutral,Positive -> Neutral,0.9641453,[],False,praise
+Baseline,noise_30,làm lại video khác dc không,Negative,Neutral,Negative -> Neutral,0.98112214,"[""dc→được""]",True,criticism
+Baseline,noise_30,xã hội mới có quán cơm já cổng trời thế này 🥺,Negative,Positive,Negative -> Positive,0.99687517,"[""já→giá""]",True,sarcasm
+Baseline,noise_30,mắt kiểu: lại drama nữa hả trời,Positive,Negative,Positive -> Negative,0.9977831,[],False,reaction
+Baseline,noise_30,coi kỹ thỳ giá hôg cao đâu nha,Positive,Neutral,Positive -> Neutral,0.9979412,"[""thỳ→thì"", ""hôg→không""]",True,appreciation
+Baseline,noise_30,di xe ban dem rat nguy hiem,Negative,Neutral,Negative -> Neutral,0.99558336,[],False,criticism
+Baseline,noise_30,nhiều bạn tưởng đùa nhưng người khác tổn thương thiệt,Negative,Positive,Negative -> Positive,0.9869675,[],False,realization
+Baseline,noise_30,cái quán này lm mình mất niềm tin vô review trên mạg,Negative,Positive,Negative -> Positive,0.9616117,"[""lm→làm"", ""mạg→mạng""]",True,disappointment
+Baseline,noise_30,lớn r mà đầu nghĩ j v:),Negative,Positive,Negative -> Positive,0.53861916,"[""r→rồi"", ""j→gì""]",True,appreciation
+Baseline,noise_30,kai video do nhin ma chi muon report ngay!,Negative,Positive,Negative -> Positive,0.84801,[],False,insult
+Baseline,noise_30,"hè mà lạnh thế này, ve chắc shock nặg",Negative,Neutral,Negative -> Neutral,0.9643312,"[""nặg→nặng""]",True,sarcasm
+Baseline,noise_30,và sau này khi lớn khôn rồi,Neutral,Positive,Neutral -> Positive,0.99825615,[],False,reflection
+Baseline,noise_30,thích thể hiện mà không biet quê,Negative,Positive,Negative -> Positive,0.9953276,"[""biet→biết""]",True,insult
+Baseline,noise_30,ăn cơm quê mà tưởng dg ở dubai 😅,Negative,Neutral,Negative -> Neutral,0.992359,"[""😅→cười"", ""dg→đang""]",True,humor
+Baseline,noise_30,quán chỉ phù hợp để sốg ảo,Neutral,Negative,Neutral -> Negative,0.99918,"[""sốg→sống""]",True,social\_use
+Baseline,noise_30,mệt chết :))),Neutral,Negative,Neutral -> Negative,0.99861634,"["":)))→cười""]",False,exhausted
+Baseline,noise_30,bạn nói đúng,Neutral,Positive,Neutral -> Positive,0.63116,[],False,agreement
+Baseline,noise_30,"từg bị trêu vì giọng quê, nên hiểu cảm giác",Negative,Neutral,Negative -> Neutral,0.68305856,"[""từg→từng""]",True,empathy
+Baseline,noise_30,vẫn chưa hiểu thông điệp lắm,Neutral,Negative,Neutral -> Negative,0.99933654,[],False,confused
+Baseline,noise_30,nhìu thằg con chửiii bác bảo vệ chắc đó giờ k được ai dạy,Positive,Neutral,Positive -> Neutral,0.9880155,"[""thằg→thằng"", ""chửiii→chửi"", ""k→không""]",True,appreciation
+Baseline,noise_30,ai zám nói học sinh không biết diễn xuất,Positive,Negative,Positive -> Negative,0.9786623,"[""zám→dám""]",True,student\_talent
+Baseline,noise_30,cái ji mà cứ đem vùg miền ra đùa vậy trời,Negative,Positive,Negative -> Positive,0.98034185,"[""ji→gì"", ""vùg→vùng""]",True,criticism
+Baseline,noise_30,em nhận sâu🦋nhé,Positive,Neutral,Positive -> Neutral,0.99830675,[],False,flirty
+Baseline,noise_30,"tức ghê, sao mình nghĩ nhiều thế",Neutral,Negative,Neutral -> Negative,0.95824486,[],False,overthinking
+Baseline,noise_30,thế xem sẽ có phạm fáp không,Positive,Neutral,Positive -> Neutral,0.99464935,[],False,appreciation
+Baseline,noise_30,"không sao, cứ tiếp tục nha",Neutral,Positive,Neutral -> Positive,0.97773904,[],False,dismissal
+Baseline,noise_30,diễn mà như không diễn,Positive,Negative,Positive -> Negative,0.99935454,[],False,natural
+Baseline,noise_30,mấy clip kiểu này hay mà hơi thiếu logic,Neutral,Negative,Neutral -> Negative,0.9988166,[],False,critique
+Baseline,noise_30,23333 trung funny,Positive,Negative,Positive -> Negative,0.9509522,[],False,chinese_laugh
+Baseline,noise_30,nghe muon tat am thanh,Negative,Neutral,Negative -> Neutral,0.80145144,[],False,disappointment
+Baseline,noise_30,ko ro,Neutral,Negative,Neutral -> Negative,0.80515146,"[""ko→không""]",True,unclear
+Baseline,noise_30,mấy cái clip vậy dễ bị bóp méo ý nghĩaaaaa,Neutral,Negative,Neutral -> Negative,0.99860066,"[""nghĩaaaaa→nghĩa""]",True,distortion
+Baseline,noise_30,vô bệnh viện mà kh muốn xuất viện,Positive,Negative,Positive -> Negative,0.97835493,"[""kh→không""]",True,teasing
+Baseline,noise_30,"clip chỉ là 1 góc nhìn, đừng áp lên tất cả",Neutral,Positive,Neutral -> Positive,0.95000094,[],False,perspective
+Baseline,noise_30,ngon nhin la biet,Neutral,Positive,Neutral -> Positive,0.9956999,"[""biet→biết""]",True,statement
+Baseline,noise_30,relationship này precious lắm,Positive,Negative,Positive -> Negative,0.405247,[],False,precious
+Baseline,noise_30,"đẹp là một chuyện, học hành mớj là chính nha mấy bn",Neutral,Positive,Neutral -> Positive,0.99838257,"[""mớj→mới"", ""bn→bạn""]",True,reminder
+Baseline,noise_30,lmao cuoiiiii te,Positive,Negative,Positive -> Negative,0.9845495,"[""lmao→cười"", ""cuoiiiii→cuoi""]",True,hilarious
+Baseline,noise_30,vl,Negative,Neutral,Negative -> Neutral,0.9805716,"[""vl→vãi lồn""]",True,abbreviation_vulgar
+Baseline,noise_30,cảm thấy hơi bị lú sau khi xem,Neutral,Negative,Neutral -> Negative,0.9993912,[],False,confusion
+Baseline,noise_30,no dung lap di lap lai,Negative,Positive,Negative -> Positive,0.9555897,[],False,criticism
+Baseline,noise_30,mát thế này cứ nkư ở sapa chứ hà nội đâu,Positive,Neutral,Positive -> Neutral,0.58395123,"[""nkư→như""]",True,humor
+Baseline,noise_30,chia sẻ thêm cách phòng tránh đi mọi người,Positive,Neutral,Positive -> Neutral,0.99556303,[],False,useful
+Baseline,noise_30,klq lắm,Neutral,Negative,Neutral -> Negative,0.9990164,"[""klq→không liên quan""]",True,statement
+Baseline,noise_30,xem clip mà tự dưng thấyyyyy thiếu năg lượng,Neutral,Negative,Neutral -> Negative,0.99819297,"[""thấyyyyy→thấy"", ""năg→năng""]",True,envy
+Baseline,noise_30,mỗi lần có chuện này lại gây war hoài,Negative,Positive,Negative -> Positive,0.97271687,"[""chuện→chuyện""]",True,repetitive
+Baseline,noise_30,no cap,Positive,Neutral,Positive -> Neutral,0.99827945,[],False,truth
+Baseline,noise_30,bn mình ms chia tay mà tôi tag nó vô đây đúng không sai,Negative,Neutral,Negative -> Neutral,0.8149956,"[""bn→bạn"", ""ms→mới""]",True,provocative
+Baseline,noise_50,tuyet zoi wa,Positive,Negative,Positive -> Negative,0.9938962,"[""zoi→voi"", ""wa→quá""]",True,excellent
+Baseline,noise_50,quán sốg nhờ review chứ kg nhờ chấtttt lượng,Negative,Positive,Negative -> Positive,0.99227726,"[""sốg→sống"", ""chấtttt→chất""]",True,criticism
+Baseline,noise_50,"với tui dzậy là ổn rùi, không ý kiến",Positive,Neutral,Positive -> Neutral,0.96683675,"[""dzậy→vậy""]",True,appreciation
+Baseline,noise_50,món này chắc dàh cho rich kid thôi,Neutral,Positive,Neutral -> Positive,0.98935646,"[""dàh→dành""]",True,affordability
+Baseline,noise_50,càng ns càg thể hiện mih vô họk,Negative,Positive,Negative -> Positive,0.9982672,"[""ns→nói"", ""càg→càng"", ""mih→mình"", ""họk→học""]",True,insult
+Baseline,noise_50,"clip chỉỉỉỉỉ là vui thôi, đừg soi quá",Positive,Neutral,Positive -> Neutral,0.95612776,"[""chỉỉỉỉỉ→chỉ"", ""đừg→đừng""]",True,lighthearted
+Baseline,noise_50,ăn xog ra quán khác ăn tiếp mới đủ,Negative,Neutral,Negative -> Neutral,0.99737906,"[""xog→xong""]",True,satire
+Baseline,noise_50,"valentine's day is coming, tôi cần gấu",Neutral,Positive,Neutral -> Positive,0.5178391,[],False,single_status
+Baseline,noise_50,"dạ, e nghèo :)))",Positive,Negative,Positive -> Negative,0.52888936,"["":)))→cười""]",False,appreciation
+Baseline,noise_50,flex hard quá pn ơi,Negative,Positive,Negative -> Positive,0.99442565,"[""flex→khoe khoang"", ""pn→bạn""]",True,showing_off
+Baseline,noise_50,họk hỏi được nhjeu lắm lun,Positive,Neutral,Positive -> Neutral,0.99243695,"[""họk→học"", ""nhjeu→nhiều""]",True,useful
+Baseline,noise_50,đẹp qa ik mất thoy,Positive,Negative,Positive -> Negative,0.9993292,"[""ik→đi"", ""thoy→thôi""]",True,compliment
+Baseline,noise_50,có ai vô họk mà không lôi máy quay ra ko?,Neutral,Positive,Neutral -> Positive,0.95197135,"[""họk→học"", ""ko→không""]",True,commentary
+Baseline,noise_50,thi xog là ngủ li bì luôn á,Positive,Negative,Positive -> Negative,0.8391797,"[""xog→xong""]",True,appreciation
+Baseline,noise_50,tui đã xem hết video,Neutral,Positive,Neutral -> Positive,0.92710674,[],False,statement
+Baseline,noise_50,20k ăn đươc gì ở quán kơm quê dượng bầu? 😢,Negative,Neutral,Negative -> Neutral,0.9985505,"[""😢→khóc"", ""20k→20 nghìn"", ""đươc→được""]",True,question
+Baseline,noise_50,honey skin,Positive,Neutral,Positive -> Neutral,0.9123033,[],False,golden_glow
+Baseline,noise_50,hạn chế kiểu này chỉ là tạm thời thôi,Positive,Neutral,Positive -> Neutral,0.7335253,[],False,appreciation
+Baseline,noise_50,bị bắt quả tang ánh mắt hìh viên đạn,Positive,Negative,Positive -> Negative,0.99577385,"[""hìh→hình""]",True,humor
+Baseline,noise_50,"không có gì đặc biệt, bình thường thoy",Negative,Neutral,Negative -> Neutral,0.9981943,"[""thoy→thôi""]",True,mediocre
+Baseline,noise_50,lm lại video khác được kh,Negative,Neutral,Negative -> Neutral,0.9947699,"[""lm→làm"", ""kh→không""]",True,criticism
+Baseline,noise_50,tới trườg mà nkư đi picnic,Positive,Neutral,Positive -> Neutral,0.9473715,"[""trườg→trường"", ""nkư→như""]",True,relaxing
+Baseline,noise_50,xã hội mới có quán cơm giá cổng trời thế này 🥺,Negative,Positive,Negative -> Positive,0.8508788,[],False,sarcasm
+Baseline,noise_50,mắt kiểu: lại drama nữaaaaa hả trùi,Positive,Negative,Positive -> Negative,0.99860966,"[""nữaaaaa→nữa"", ""trùi→trời""]",True,reaction
+Baseline,noise_50,coi kỹ thỳ giá kh cao đâu nhaa,Positive,Neutral,Positive -> Neutral,0.99810153,"[""thỳ→thì"", ""kh→không"", ""nhaa→nha""]",True,appreciation
+Baseline,noise_50,di xe ban dem rat nguy hiem,Negative,Neutral,Negative -> Neutral,0.99558336,[],False,criticism
+Baseline,noise_50,nhìu bạn tưởng đùa nhưng ngkhác tổn thươg thật,Negative,Positive,Negative -> Positive,0.95049137,"[""ngkhác→người khác"", ""thươg→thương""]",True,realization
+Baseline,noise_50,cái quán này lm mình mất niềm tin vô review trên mạng,Negative,Positive,Negative -> Positive,0.9006757,"[""lm→làm""]",True,disappointment
+Baseline,noise_50,lớn r mà đầu nghĩ j v:),Negative,Positive,Negative -> Positive,0.53861916,"[""r→rồi"", ""j→gì""]",True,appreciation
+Baseline,noise_50,"hè mà lạnh thế này, ve chắc shock nặg",Negative,Neutral,Negative -> Neutral,0.9643312,"[""nặg→nặng""]",True,sarcasm
+Baseline,noise_50,và sau này khi lớn khôn rồi,Neutral,Positive,Neutral -> Positive,0.99825615,[],False,reflection
+Baseline,noise_50,ăn cơm quê mà tưởng đag ở dubai 😅,Negative,Neutral,Negative -> Neutral,0.96618694,"[""😅→cười"", ""đag→đang""]",True,humor
+Baseline,noise_50,quán chỉ fù hợp để sốg ảo,Neutral,Negative,Neutral -> Negative,0.9992291,"[""sốg→sống""]",True,social\_use
+Baseline,noise_50,mệt chết :))),Neutral,Negative,Neutral -> Negative,0.99861634,"["":)))→cười""]",False,exhausted
+Baseline,noise_50,bạn nói đúng,Neutral,Positive,Neutral -> Positive,0.63116,[],False,agreement
+Baseline,noise_50,"từng bị trêu vì giọng quê, nên hiểu kảm jác",Negative,Neutral,Negative -> Neutral,0.9071018,"[""kảm→cảm"", ""jác→giác""]",True,empathy
+Baseline,noise_50,vẫn chưa hiểu thôg điệp lắmmmm,Neutral,Negative,Neutral -> Negative,0.99873537,"[""thôg→thông"", ""lắmmmm→lắm""]",True,confused
+Baseline,noise_50,nhìu thằng con chửi bác bảo vệ chắc đó jo k đuợc ai dạy,Positive,Negative,Positive -> Negative,0.99678457,"[""jo→giờ"", ""k→không"", ""đuợc→được""]",True,appreciation
+Baseline,noise_50,ai zám ns học sinh khôg bik diễn xuất,Positive,Neutral,Positive -> Neutral,0.99794513,"[""zám→dám"", ""ns→nói"", ""khôg→không"", ""bik→biết""]",True,student\_talent
+Baseline,noise_50,cái gi mà cứ đem vùng miền ra đùa v trùi,Negative,Positive,Negative -> Positive,0.5416202,"[""trùi→trời""]",True,criticism
+Baseline,noise_50,"đoạn này hơi nhanh, tôi xem chx kịp",Neutral,Negative,Neutral -> Negative,0.95612156,"[""chx→chưa""]",True,statement
+Baseline,noise_50,"video lag qá, fix jùm nhaa",Neutral,Negative,Neutral -> Negative,0.9992072,"[""qá→quá"", ""jùm→giùm"", ""nhaa→nha""]",True,technical_issue
+Baseline,noise_50,mún xin slot học ké lớp nàyyyyy,Positive,Neutral,Positive -> Neutral,0.96674067,"[""nàyyyyy→này""]",True,joke
+Baseline,noise_50,"tức ghê, sao mjh nghĩ nhiều thế",Neutral,Negative,Neutral -> Negative,0.96306455,"[""mjh→mình""]",True,overthinking
+Baseline,noise_50,thế xem sẽ có phạm pháp hôg,Positive,Negative,Positive -> Negative,0.99855334,"[""hôg→không""]",True,appreciation
+Baseline,noise_50,cứ tưởg nổiiii tiếng lắm,Negative,Positive,Negative -> Positive,0.6793239,"[""tưởg→tưởng"", ""nổiiii→nổi""]",True,insult
+Baseline,noise_50,"không sao, cứ tiếp tục nha",Neutral,Positive,Neutral -> Positive,0.97773904,[],False,dismissal
+Baseline,noise_50,diễn mà như không diễn,Positive,Negative,Positive -> Negative,0.99935454,[],False,natural
+Baseline,noise_50,mấy clip kiểu này hay mà hơi thiếu logic,Neutral,Negative,Neutral -> Negative,0.9988166,[],False,critique
+Baseline,noise_50,nghe muon tat am thah,Negative,Positive,Negative -> Positive,0.5055405,[],False,disappointment
+Baseline,noise_50,ko ro,Neutral,Negative,Neutral -> Negative,0.80515146,"[""ko→không""]",True,unclear
+Baseline,noise_50,mấy kái clip vậy dễ bị bóp méo ý nghĩa,Neutral,Negative,Neutral -> Negative,0.99930525,"[""kái→cái""]",True,distortion
+Baseline,noise_50,"clip chỉ là 1 góc nhìn, đừg áp lên tất cả",Neutral,Positive,Neutral -> Positive,0.9568679,"[""đừg→đừng""]",True,perspective
+Baseline,noise_50,"clip anh huy vui, xem xong mún ăn cơmmmm quê 😄",Positive,Neutral,Positive -> Neutral,0.9954275,"[""😄→cười"", ""cơmmmm→cơm""]",True,neutral
+Baseline,noise_50,ngon nhinnn la biet,Neutral,Positive,Neutral -> Positive,0.9883143,"[""nhinnn→nhin"", ""biet→biết""]",True,statement
+Baseline,noise_50,relationship này precious lắm,Positive,Negative,Positive -> Negative,0.405247,[],False,precious
+Baseline,noise_50,cai nay la banh trag cuon phai khog?,Neutral,Negative,Neutral -> Negative,0.8859096,"[""trag→trang""]",True,question
+Baseline,noise_50,"đẹp là một chuện, họk hành mới là chính nha mấy bạn",Neutral,Positive,Neutral -> Positive,0.9984452,"[""chuện→chuyện"", ""họk→học""]",True,reminder
+Baseline,noise_50,coi mà chảảảảả hiểu mún truyền đạttttt rì,Negative,Positive,Negative -> Positive,0.99680316,"[""chảảảảả→chả"", ""đạttttt→đạt"", ""rì→gì""]",True,criticism
+Baseline,noise_50,vl,Negative,Neutral,Negative -> Neutral,0.9805716,"[""vl→vãi lồn""]",True,abbreviation_vulgar
+Baseline,noise_50,cảm thấyyyy hơi bịịịịị lú sau khi xem,Neutral,Negative,Neutral -> Negative,0.9993063,"[""thấyyyy→thấy"", ""bịịịịị→bị""]",True,confusion
+Baseline,noise_50,no dung lap di lap lai,Negative,Positive,Negative -> Positive,0.9555896,[],False,criticism
+Baseline,noise_50,không liên quan lắm,Neutral,Negative,Neutral -> Negative,0.9989747,[],False,statement
+Baseline,noise_50,mấy b họk sinh jo khác thật,Positive,Neutral,Positive -> Neutral,0.8982336,"[""họk→học"", ""jo→giờ""]",True,appreciation
+Baseline,noise_50,xem clip mà tự dưng thấy thiếu năg lượng,Neutral,Negative,Neutral -> Negative,0.9990829,"[""năg→năng""]",True,envy
+Baseline,noise_50,mỗi lần có chuện này lại gây war hoài,Negative,Positive,Negative -> Positive,0.97271687,"[""chuện→chuyện""]",True,repetitive
+Baseline,noise_50,no cap,Positive,Neutral,Positive -> Neutral,0.99827945,[],False,truth
+Baseline,noise_50,giỡn v chứ cap gì nghe thấm wa,Positive,Negative,Positive -> Negative,0.9944412,"[""wa→quá""]",True,realization
+Baseline,noise_50,clip zui thôi đừng nghĩ nhìu,Positive,Negative,Positive -> Negative,0.91538006,"[""zui→vui""]",True,appreciation
+Baseline,noise_50,bạn mình ms chia tay mà tôi tag nó zô đây đúg không sai,Negative,Positive,Negative -> Positive,0.8143295,"[""ms→mới"", ""zô→vô"", ""đúg→đúng""]",True,provocative
+Baseline,khong_dau,Thu an hai xa hoi la day,Negative,Positive,Negative -> Positive,0.9851216,[],False,insult
+Baseline,khong_dau,Noi dung thieu chieu sau va kho hieu,Negative,Positive,Negative -> Positive,0.997145,[],False,criticism
+Baseline,khong_dau,Lam on dung xuat hien tren mang nua,Negative,Positive,Negative -> Positive,0.9851254,[],False,insult
+Baseline,khong_dau,tuyet voi qua,Positive,Negative,Positive -> Negative,0.9988734,[],False,excellent
+Baseline,khong_dau,Khong hieu sao van co nguoi dang ky kenh nay,Negative,Positive,Negative -> Positive,0.7125038,"[""nguoi→người""]",True,insult
+Baseline,khong_dau,quan song nho review chu khong nho chat luong,Negative,Positive,Negative -> Positive,0.9605413,[],False,criticism
+Baseline,khong_dau,ai ma nghi ra kich ban nay hay du,Positive,Neutral,Positive -> Neutral,0.84323287,[],False,creativity
+Baseline,khong_dau,mon nay chac danh cho rich kid thoi,Neutral,Positive,Neutral -> Positive,0.9985483,[],False,affordability
+Baseline,khong_dau,Cang noi cang the hien minh vo hoc,Negative,Positive,Negative -> Positive,0.9860561,[],False,insult
+Baseline,khong_dau,Anh skincare ma da nhin van te,Negative,Neutral,Negative -> Neutral,0.9979075,[],False,insult
+Baseline,khong_dau,ai cung nen trai qua de truong thanh hon,Positive,Neutral,Positive -> Neutral,0.8599556,[],False,useful
+Baseline,khong_dau,an xong ra quan khac an tiep moi du,Negative,Positive,Negative -> Positive,0.9660849,[],False,satire
+Baseline,khong_dau,San pham de tray xuoc khi su dung,Negative,Positive,Negative -> Positive,0.80636317,[],False,criticism
+Baseline,khong_dau,"Da, em ngheo :)))",Positive,Negative,Positive -> Negative,0.96574724,"["":)))→cười""]",False,appreciation
+Baseline,khong_dau,Hanh xu qua van minh luon,Positive,Negative,Positive -> Negative,0.9712861,[],False,compliment
+Baseline,khong_dau,Toi cung thich san pham nay,Neutral,Positive,Neutral -> Positive,0.71332395,"[""thich→thích""]",True,statement
+Baseline,khong_dau,"Chill di ban oi, binh tinh nao!",Neutral,Positive,Neutral -> Positive,0.9943973,[],False,calm_down
+Baseline,khong_dau,Story ask me anything ma khong tra loi,Negative,Positive,Negative -> Positive,0.9976674,[],False,insult
+Baseline,khong_dau,Chuc ban som binh phuc nha,Positive,Neutral,Positive -> Neutral,0.98038703,[],False,care
+Baseline,khong_dau,Da thu nhung khong hieu qua,Negative,Positive,Negative -> Positive,0.9971836,[],False,disappointment
+Baseline,khong_dau,dep qua di mat thoi,Positive,Neutral,Positive -> Neutral,0.98868924,[],False,compliment
+Baseline,khong_dau,Coi xong thay that vong,Negative,Positive,Negative -> Positive,0.6610165,[],False,disappointment
+Baseline,khong_dau,May dung la het thuoc chua roi,Negative,Positive,Negative -> Positive,0.9981487,[],False,insult
+Baseline,khong_dau,Toi se cho danh gia chi tiet tu ban,Neutral,Positive,Neutral -> Positive,0.9981717,[],False,statement
+Baseline,khong_dau,Overreacting! Phan ung thai qua,Negative,Positive,Negative -> Positive,0.9927164,[],False,excessive
+Baseline,khong_dau,Uoc gi nhieu noi lam an nhu vay,Positive,Negative,Positive -> Negative,0.6604363,[],False,appreciation
+Baseline,khong_dau,Nguoi nhu nay nen tranh xa,Negative,Positive,Negative -> Positive,0.92423785,"[""nguoi→người""]",True,insult
+Baseline,khong_dau,thi xong la ngu li bi luon a,Positive,Negative,Positive -> Negative,0.99939096,[],False,appreciation
+Baseline,khong_dau,Toi da xem het video,Neutral,Positive,Neutral -> Positive,0.9680756,[],False,statement
+Baseline,khong_dau,20k an duoc gi o quan com que duong bau? ,Negative,Neutral,Negative -> Neutral,0.99766195,"[""20k→20 nghìn""]",False,question
+Baseline,khong_dau,Lam nhu vay ma cung doi lam YouTuber,Negative,Positive,Negative -> Positive,0.99538726,[],False,insult
+Baseline,khong_dau,Noi dung don gian qua,Negative,Positive,Negative -> Positive,0.9931231,[],False,criticism
+Baseline,khong_dau,honey skin,Positive,Neutral,Positive -> Neutral,0.9123033,[],False,golden_glow
+Baseline,khong_dau,"gay me chua du, phai gay thuong nho",Positive,Negative,Positive -> Negative,0.99929774,[],False,flirt
+Baseline,khong_dau,noi dung don gian nhung goi mo suy nghi,Positive,Negative,Positive -> Negative,0.92852294,[],False,minimalism
+Baseline,khong_dau,ban nay long Jaian hay ghe,Positive,Neutral,Positive -> Neutral,0.9986284,[],False,praise
+Baseline,khong_dau,Bio viet nhu CEO ma thuc te that nghiep,Negative,Positive,Negative -> Positive,0.96588767,[],False,insult
+Baseline,khong_dau,"Nguoi thi lun, mac gi cung khong dep noi",Negative,Neutral,Negative -> Neutral,0.80581224,"[""nguoi→người""]",True,bodyshaming
+Baseline,khong_dau,sao khong co canh bao ro rang hon tu ngan hang,Positive,Negative,Positive -> Negative,0.9988555,[],False,useful
+Baseline,khong_dau,Xa hoi moi co quan com gia cong troi the nay ,Negative,Positive,Negative -> Positive,0.9958942,[],False,sarcasm
+Baseline,khong_dau,"Ngheo ma de con, kho ca doi cha xong",Negative,Positive,Negative -> Positive,0.9974377,[],False,anger
+Baseline,khong_dau,phong cach khong ai do noi,Positive,Negative,Positive -> Negative,0.9975452,[],False,compliment
+Baseline,khong_dau,so huong nhat VN:)),Positive,Negative,Positive -> Negative,0.86936986,"[""vn→việt nam""]",True,appreciation
+Baseline,khong_dau,mat kieu: lai drama nua ha troi,Positive,Negative,Positive -> Negative,0.9522117,[],False,reaction
+Baseline,khong_dau,coi ky thi gia khong cao dau nha,Positive,Neutral,Positive -> Neutral,0.9910097,[],False,appreciation
+Baseline,khong_dau,Nen nhin nhan da chieu hon,Positive,Negative,Positive -> Negative,0.6626506,[],False,useful
+Baseline,khong_dau,Choi ban quen roi nen mat day the,Negative,Positive,Negative -> Positive,0.99781185,[],False,insult
+Baseline,khong_dau,Dung lam ban mat nguoi khac nua,Negative,Positive,Negative -> Positive,0.9979736,"[""nguoi→người""]",True,insult
+Baseline,khong_dau,Anh hair style ma nhu tai nan,Negative,Neutral,Negative -> Neutral,0.9973417,[],False,insult
+Baseline,khong_dau,moi lan buon tui lai mo Doraemon coi,Positive,Neutral,Positive -> Neutral,0.98573226,[],False,comfort
+Baseline,khong_dau,Song kieu ban chac chang ai ua noi,Negative,Positive,Negative -> Positive,0.94565016,[],False,insult
+Baseline,khong_dau,Can them trai nghiem thuc te tu nguoi dung,Neutral,Positive,Neutral -> Positive,0.989002,"[""nguoi→người""]",True,statement
+Baseline,khong_dau,Can tham khao them y kien nguoi khac,Neutral,Positive,Neutral -> Positive,0.99843293,"[""nguoi→người""]",True,statement
+Baseline,khong_dau,di xe ban dem rat nguy hiem,Negative,Neutral,Negative -> Neutral,0.99558336,[],False,criticism
+Baseline,khong_dau,Post anh book ma chua chac da doc,Negative,Neutral,Negative -> Neutral,0.998295,"[""post→đăng""]",True,insult
+Baseline,khong_dau,Di dau cung thay ban xau noi bat,Negative,Positive,Negative -> Positive,0.57516336,[],False,bodyshaming
+Baseline,khong_dau,Toi khong dong y voi quan diem nay,Negative,Positive,Negative -> Positive,0.9870727,[],False,disagreement
+Baseline,khong_dau,can them dan den san khau la xong,Positive,Neutral,Positive -> Neutral,0.9921244,[],False,joke
+Baseline,khong_dau,"Coi thay buc minh, phi ca MB mang",Negative,Positive,Negative -> Positive,0.9921749,[],False,insult
+Baseline,khong_dau,nhieu ban tuong dua nhung nguoi khac ton thuong that,Negative,Positive,Negative -> Positive,0.99768865,"[""nguoi→người""]",True,realization
+Baseline,khong_dau,Loai nay chac bo me that vong lam,Negative,Positive,Negative -> Positive,0.9950718,[],False,insult
+Baseline,khong_dau,cai quan nay lam minh mat niem tin vo review tren mang,Negative,Positive,Negative -> Positive,0.9978538,[],False,disappointment
+Baseline,khong_dau,"Dm, clip ni rac vcl, xoa di!",Negative,Neutral,Negative -> Neutral,0.99716896,"[""dm→địt mẹ"", ""vcl→vãi cả lồn""]",True,curse
+Baseline,khong_dau,That vong voi update lan nay,Negative,Neutral,Negative -> Neutral,0.7968111,[],False,disappointment
+Baseline,khong_dau,"He ma lanh the nay, ve chac shock nang",Negative,Positive,Negative -> Positive,0.9983803,[],False,sarcasm
+Baseline,khong_dau,Ban hang ma khong co chut luong tam,Negative,Neutral,Negative -> Neutral,0.99841857,[],False,insult
+Baseline,khong_dau,"Vat kiet view com que duong bau, Huy oi!",Neutral,Positive,Neutral -> Positive,0.9610156,[],False,humor
+Baseline,khong_dau,va sau nay khi lon khon roi,Neutral,Positive,Neutral -> Positive,0.9961732,[],False,reflection
+Baseline,khong_dau,Thich the hien ma khong biet xau ho,Negative,Positive,Negative -> Positive,0.9957365,"[""thich→thích"", ""biet→biết""]",True,insult
+Baseline,khong_dau,Post anh book recommendation ma chua doc,Negative,Neutral,Negative -> Neutral,0.98932076,"[""post→đăng""]",True,insult
+Baseline,khong_dau,"Khong sao dau, cu lam di",Neutral,Negative,Neutral -> Negative,0.99922264,[],False,dismissal
+Baseline,khong_dau,An com que ma tuong dang o Dubai ,Negative,Positive,Negative -> Positive,0.91338927,[],False,humor
+Baseline,khong_dau,"Pha di san quoc gia ma ko bi gi, bat cong vl",Negative,Positive,Negative -> Positive,0.98920995,"[""ko→không"", ""vl→vãi lồn""]",True,anger
+Baseline,khong_dau,quan chi phu hop de song ao,Neutral,Negative,Neutral -> Negative,0.99860066,[],False,social\_use
+Baseline,khong_dau,"Thoi tiet bat on the nay, mai nong lai chac",Negative,Positive,Negative -> Positive,0.9961384,[],False,anger
+Baseline,khong_dau,met chet :))),Neutral,Negative,Neutral -> Negative,0.9987037,"["":)))→cười""]",False,exhausted
+Baseline,khong_dau,Anh self care ma mental health bad,Negative,Positive,Negative -> Positive,0.91640395,[],False,insult
+Baseline,khong_dau,"Dm, lua dao ha? Dung tin!",Negative,Positive,Negative -> Positive,0.7823625,"[""dm→địt mẹ""]",True,warning
+Baseline,khong_dau,Xin stk de ho tro chut dinh,Neutral,Positive,Neutral -> Positive,0.9734629,"[""stk→số tài khoản""]",True,question
+Baseline,khong_dau,Tuong ai hay ho lam hoa ra cung vay,Negative,Positive,Negative -> Positive,0.99836224,[],False,insult
+Baseline,khong_dau,Em nhan saunha,Positive,Neutral,Positive -> Neutral,0.81712246,[],False,flirty
+Baseline,khong_dau,"Ngheo thi o vay, de chi cho kho",Negative,Positive,Negative -> Positive,0.994189,[],False,suggestion
+Baseline,khong_dau,"tung bi treu vi giong que, nen hieu cam giac",Negative,Positive,Negative -> Positive,0.994576,[],False,empathy
+Baseline,khong_dau,van chua hieu thong diep lam,Neutral,Positive,Neutral -> Positive,0.9876208,[],False,confused
+Baseline,khong_dau,Khong thay vui nhu quang cao,Negative,Positive,Negative -> Positive,0.99533856,[],False,disappointment
+Baseline,khong_dau,"Do rac ruoi, dung dang nua",Negative,Neutral,Negative -> Neutral,0.8954932,[],False,offensive
+Baseline,khong_dau,Em nhan saunhe,Positive,Neutral,Positive -> Neutral,0.99848795,[],False,flirty
+Baseline,khong_dau,Thoi tiet Ha Noi dung la drama queen,Negative,Positive,Negative -> Positive,0.9975432,[],False,humor
+Baseline,khong_dau,"Da ngheo con de, dung la het noi",Negative,Positive,Negative -> Positive,0.9982248,[],False,insult
+Baseline,khong_dau,"Dm, lua dao ha? Dung tin nha!",Negative,Neutral,Negative -> Neutral,0.94985336,"[""dm→địt mẹ""]",True,warning
+Baseline,khong_dau,"Tks b nhiu, info huu ich vcl!",Positive,Neutral,Positive -> Neutral,0.99795145,"[""tks→cảm ơn"", ""vcl→vãi cả lồn""]",True,gratitude
+Baseline,khong_dau,dien ma nhu khong dien,Positive,Negative,Positive -> Negative,0.9991555,[],False,natural
+Baseline,khong_dau,may clip kieu nay hay ma hoi thieu logic,Neutral,Positive,Neutral -> Positive,0.9884504,[],False,critique
+Baseline,khong_dau,Duong bau vat view com que toi kho luon ,Neutral,Positive,Neutral -> Positive,0.7331069,[],False,humor
+Baseline,khong_dau,"Pha di san quoc gia ma ko bi gi, bat cong qua",Negative,Positive,Negative -> Positive,0.99498427,"[""ko→không""]",True,anger
+Baseline,khong_dau,quan trang tri dep nhung do an khong tuong xung gia,Negative,Positive,Negative -> Positive,0.99312544,[],False,review
+Baseline,khong_dau,"Chat qua, ban la so 1!",Positive,Neutral,Positive -> Neutral,0.9984779,[],False,compliment
+Baseline,khong_dau,may ban nho gio xin ghe ha,Positive,Negative,Positive -> Negative,0.998176,[],False,compliment
+Baseline,khong_dau,23333 trung funny,Positive,Negative,Positive -> Negative,0.9509522,[],False,chinese_laugh
+Baseline,khong_dau,nghe muon tat am thanh,Negative,Neutral,Negative -> Neutral,0.80145144,[],False,disappointment
+Baseline,khong_dau,Khong thay vui nhu gioi thieu,Negative,Positive,Negative -> Positive,0.9983234,[],False,disappointment
+Baseline,khong_dau,Thong tin nay khong dung dau ban,Negative,Positive,Negative -> Positive,0.9637034,[],False,correction
+Baseline,khong_dau,"Trend nay hot that, ban bat kip ghe",Positive,Neutral,Positive -> Neutral,0.99855405,"[""trend→xu hướng""]",True,trending
+Baseline,khong_dau,ko ro,Neutral,Negative,Neutral -> Negative,0.80515146,"[""ko→không""]",True,unclear
+Baseline,khong_dau,Tam than thi gia dinh phai quan ly chu,Neutral,Positive,Neutral -> Positive,0.99837804,[],False,suggestion
+Baseline,khong_dau,may cai clip vay de bi bop meo y nghia,Neutral,Negative,Neutral -> Negative,0.9993606,[],False,distortion
+Baseline,khong_dau,Len mang ke kho de cau thuong hai a?,Negative,Neutral,Negative -> Neutral,0.9985055,[],False,insult
+Baseline,khong_dau,moi lan vung mien bi loi ra la thay drama,Negative,Positive,Negative -> Positive,0.9982185,[],False,drama
+Baseline,khong_dau,"Thuong anh lam, co len anh nhe",Positive,Neutral,Positive -> Neutral,0.9964121,[],False,neutral
+Baseline,khong_dau,Anh OOTD ma outfit xau kinh hoang,Negative,Neutral,Negative -> Neutral,0.994578,[],False,insult
+Baseline,khong_dau,Check bien so xe la ra ngay,Positive,Neutral,Positive -> Neutral,0.92617154,[],False,appreciation
+Baseline,khong_dau,"clip chi la 1 goc nhin, dung ap len tat ca",Neutral,Positive,Neutral -> Positive,0.998565,[],False,perspective
+Baseline,khong_dau,"Dm, video nay rac vcl, xoa di!",Negative,Neutral,Negative -> Neutral,0.9986234,"[""dm→địt mẹ"", ""vcl→vãi cả lồn""]",True,curse
+Baseline,khong_dau,Cu dong vai dang thuong la duoc tha thu a?,Negative,Neutral,Negative -> Neutral,0.97745925,[],False,insult
+Baseline,khong_dau,Com que duong bau khia anh Huy clip nua ne,Neutral,Positive,Neutral -> Positive,0.99308187,[],False,humor
+Baseline,khong_dau,Luc can im thi lai len tieng,Negative,Positive,Negative -> Positive,0.8738127,[],False,insult
+Baseline,khong_dau,"Clip anh Huy vui, xem xong muon an com que ",Positive,Neutral,Positive -> Neutral,0.72017884,[],False,neutral
+Baseline,khong_dau,ngon nhin la biet,Neutral,Positive,Neutral -> Positive,0.9956999,"[""biet→biết""]",True,statement
+Baseline,khong_dau,Relationship nay precious lam,Positive,Negative,Positive -> Negative,0.9849203,[],False,precious
+Baseline,khong_dau,Y tuong hay nhung thuc hien chua tot,Negative,Positive,Negative -> Positive,0.9969976,[],False,constructive_criticism
+Baseline,khong_dau,Ban hang ma chang biet xau ho,Negative,Neutral,Negative -> Neutral,0.9975508,"[""biet→biết""]",True,insult
+Baseline,khong_dau,Nguoi dau vua lun vua beo,Negative,Positive,Negative -> Positive,0.9985203,"[""nguoi→người""]",True,bodyshaming
+Baseline,khong_dau,phai goi day la chan dong thi giac,Positive,Negative,Positive -> Negative,0.8756331,[],False,dramatic
+Baseline,khong_dau,Cha hieu sao co nguoi dang ky kenh nay,Negative,Neutral,Negative -> Neutral,0.9245412,"[""nguoi→người""]",True,insult
+Baseline,khong_dau,"dep la mot chuyen, hoc hanh moi la chinh nha may ban",Neutral,Positive,Neutral -> Positive,0.99781173,[],False,reminder
+Baseline,khong_dau,lop tui hoi xua khong ai trang diem bao gio,Neutral,Positive,Neutral -> Positive,0.88264686,[],False,contrast
+Baseline,khong_dau,"Sang tao xiu, lan dau t thay!",Positive,Neutral,Positive -> Neutral,0.9980463,[],False,originality
+Baseline,khong_dau,Coi ma cha hieu muon truyen dat gi,Negative,Positive,Negative -> Positive,0.99621046,[],False,criticism
+Baseline,khong_dau,Thay cai bung la muon ne xa 10 met,Negative,Positive,Negative -> Positive,0.98430645,[],False,bodyshaming
+Baseline,khong_dau,vl,Negative,Neutral,Negative -> Neutral,0.9805716,"[""vl→vãi lồn""]",True,abbreviation_vulgar
+Baseline,khong_dau,cam thay hoi bi lu sau khi xem,Neutral,Negative,Neutral -> Negative,0.99914336,[],False,confusion
+Baseline,khong_dau,no dung lap di lap lai,Negative,Positive,Negative -> Positive,0.9555897,[],False,criticism
+Baseline,khong_dau,Hang xai duoc 1 ngay thi hong,Negative,Positive,Negative -> Positive,0.99634004,[],False,insult
+Baseline,khong_dau,Khong lien quan lam,Neutral,Negative,Neutral -> Negative,0.9990921,[],False,statement
+Baseline,khong_dau,"Tam oke, nhung cx hok an tuong!",Neutral,Positive,Neutral -> Positive,0.99757594,"[""cx→cũng"", ""hok→không""]",True,mediocre
+Baseline,khong_dau,xem clip ma tu dung thay thieu nang luong,Neutral,Positive,Neutral -> Positive,0.99813,[],False,envy
+Baseline,khong_dau,no cap,Positive,Neutral,Positive -> Neutral,0.99827945,[],False,truth
+Baseline,khong_dau,"Clip rac that su, chang mang lai gia tri gi",Negative,Positive,Negative -> Positive,0.9927879,[],False,insult
+Baseline,khong_dau,"Tam duoc, nhung chua an tuong",Neutral,Positive,Neutral -> Positive,0.9955987,[],False,mediocre
+Baseline,khong_dau,chac tui phai xem lai lan nua moi hieu,Neutral,Positive,Neutral -> Positive,0.9976503,[],False,rewatch
+Baseline,khong_dau,Khong hai long ve chinh sach bao hanh,Negative,Positive,Negative -> Positive,0.97324455,[],False,complaint
+Baseline,khong_dau,Can them nhan xet tu khach da dung,Neutral,Positive,Neutral -> Positive,0.9773691,[],False,request
+Baseline,khong_dau,Anh new haircut ma nhu cat bang cua,Negative,Neutral,Negative -> Neutral,0.95932245,[],False,insult
+Baseline,khong_dau,muon luu cai clip nay de gui luc cai nhau,Positive,Negative,Positive -> Negative,0.9991497,[],False,humor
+Baseline,khong_dau,Ai tha ong nay ra ma de vo pha vay,Neutral,Positive,Neutral -> Positive,0.9982374,[],False,question
+Baseline,khong_dau,ban minh moi chia tay ma toi tag no vo day dung khong sai,Negative,Positive,Negative -> Positive,0.9976751,[],False,provocative
+Proposed,test,"lúc đầu tưởng bình thường, đọc cap xong ngồi đơ",Positive,Negative,Positive -> Negative,0.8669249,[],False,funny
+Proposed,test,copy that,Neutral,Negative,Neutral -> Negative,0.98616207,[],False,acknowledged
+Proposed,test,Góc quay cũng chỉnh chu ghê,Positive,Neutral,Positive -> Neutral,0.4299965,[],False,compliment
+Proposed,test,"em không sao, chỉ là hơi tê tê chân mày thôi",Positive,Neutral,Positive -> Neutral,0.8983478,[],False,funny
+Proposed,test,"Nói thì hay lắm, coi làm được gì không",Positive,Neutral,Positive -> Neutral,0.9707191,[],False,appreciation
+Proposed,test,Chưa bao giờ thấy ai xử lý hay vậy,Positive,Negative,Positive -> Negative,0.95723724,[],False,compliment
+Proposed,test,quán này nổi nhờ tên tuổi người nổi tiếng thôi,Negative,Neutral,Negative -> Neutral,0.6430496,[],False,popularity\_bias
+Proposed,test,ai chê thì thôi chứ tui vẫn thấy ổn,Positive,Neutral,Positive -> Neutral,0.51493204,[],False,appreciation
+Proposed,test,Chơi rank mà như chơi AI,Negative,Positive,Negative -> Positive,0.73049647,[],False,insult
+Proposed,test,có phải trả tiền thêm để được ăn ở quận 1 không vậy?,Negative,Neutral,Negative -> Neutral,0.9825267,[],False,teasing
+Proposed,test,Cần cải thiện một số điểm,Negative,Neutral,Negative -> Neutral,0.5489549,[],False,constructive_criticism
+Proposed,test,Đánh giá tốt toàn seeder thôi,Negative,Positive,Negative -> Positive,0.4458485,[],False,insult
+Proposed,test,Thời tiết Hà Nội nay lạ lùng ghê,Neutral,Positive,Neutral -> Positive,0.57232004,[],False,neutral
+Proposed,test,plot hole,Negative,Positive,Negative -> Positive,0.901226,[],False,story_inconsistency
+Proposed,test,One more episode syndrome,Positive,Negative,Positive -> Negative,0.8219961,[],False,compelling
+Proposed,test,"clip chỉ là 1 góc nhìn, đừng áp lên tất cả",Neutral,Positive,Neutral -> Positive,0.7610327,[],False,perspective
+Proposed,test,Óc chó vừa thôi bạn ơi,Negative,Neutral,Negative -> Neutral,0.9602133,[],False,insult
+Proposed,test,nhiều khi nói chơi mà người ta để bụng đó,Neutral,Negative,Neutral -> Negative,0.66050386,[],False,observation
+Proposed,test,deus ex machina,Negative,Positive,Negative -> Positive,0.6560018,[],False,convenient_solution
+Proposed,test,"Cơm quê vắt khô, view thì cứ lên đều 😎",Positive,Negative,Positive -> Negative,0.52952045,[],False,neutral
+Proposed,test,Ủa sao nghe giọng quen dữ vậy trời,Neutral,Positive,Neutral -> Positive,0.9798202,[],False,familiarity
+Proposed,test,Greedy for resources,Negative,Positive,Negative -> Positive,0.90007347,[],False,insult
+Proposed,test,k rep ở lại lớppp 🫵🫵,Positive,Negative,Positive -> Negative,0.92001796,[],True,teasing
+Proposed,test,góp ý thì quán k quan tâm luôn,Positive,Negative,Positive -> Negative,0.8228011,[],True,appreciation
+Proposed,test,diễn sâu như vũng lầy vậy đó,Positive,Negative,Positive -> Negative,0.98872256,[],False,wordplay
+Proposed,test,mỗi lần vùng miền bị lôi ra là thấy drama,Negative,Positive,Negative -> Positive,0.4174663,[],False,drama
+Proposed,test,rat ok,Positive,Neutral,Positive -> Neutral,0.97747415,[],False,good
+Proposed,test,Skill shot accuracy 10%,Negative,Positive,Negative -> Positive,0.9359835,[],False,insult
+Proposed,test,go off,Positive,Neutral,Positive -> Neutral,0.63946587,[],False,expression_support
+Proposed,test,"Thôi cho ông này vô bệnh viện tâm thần đi, thả ra nguy hiểm xã hội",Neutral,Negative,Neutral -> Negative,0.69141805,[],False,suggestion
+Proposed,test,Thằng này chắc bị điên,Negative,Neutral,Negative -> Neutral,0.605474,[],True,insult
+Proposed,test,"Không mới mẻ gì cả, chuyện thường thôi",Positive,Neutral,Positive -> Neutral,0.7770891,[],False,appreciation
+Proposed,test,nhin do an dep mat qua,Neutral,Negative,Neutral -> Negative,0.98960227,[],False,statement
+Proposed,test,Khoe khoang gì mà nhiều thế?,Negative,Neutral,Negative -> Neutral,0.8882093,[],False,showing_off
+Proposed,test,học thì ít mà chồng đ..t thì nhiều nè 😁😁😁,Negative,Positive,Negative -> Positive,0.7146528,[],False,vulgar
+Proposed,test,may gio,Neutral,Negative,Neutral -> Negative,0.9900339,[],False,what_time
+Proposed,test,xem vd\nđọc cap trên vd\nđọc cap\nnhăn mặt\nvô bl,Neutral,Negative,Neutral -> Negative,0.49713105,[],False,reaction
+Proposed,test,xin lỗi chứ tui cười hơi to,Positive,Neutral,Positive -> Neutral,0.7514683,[],False,laughter
+Proposed,test,Humble brag đúng không?,Negative,Neutral,Negative -> Neutral,0.98158413,[],False,criticism
+Proposed,test,Saw it coming from miles away,Negative,Neutral,Negative -> Neutral,0.3913904,[],False,obvious
+Proposed,test,Cứ như bị nghiện nổi tiếng ấy,Negative,Positive,Negative -> Positive,0.9375534,[],False,insult
+Proposed,test,Rome wasn't built in a day,Neutral,Positive,Neutral -> Positive,0.7232472,[],False,patience
+Proposed,test,"Dạ, em nghèo :)))",Positive,Negative,Positive -> Negative,0.4720481,[],False,appreciation
+Proposed,test,xin lịch làm việc để còn book khám luôn,Positive,Neutral,Positive -> Neutral,0.5217723,[],False,joke
+Proposed,test,Nhìn dậy mà bót với liên😭,Negative,Positive,Negative -> Positive,0.92899764,[],False,appearance
+Proposed,test,"Đù má, làm cái gì kỳ vậy?",Negative,Neutral,Negative -> Neutral,0.934604,[],False,vulgar
+Proposed,test,Chuyện đâu còn có đó mà lo,Positive,Negative,Positive -> Negative,0.74233544,[],False,appreciation
+Proposed,test,First! Đầu tiên,Neutral,Positive,Neutral -> Positive,0.9393369,[],False,milestone
+Proposed,test,đẹp mà còn học giỏi nữa thì chịu sao nổi,Positive,Negative,Positive -> Negative,0.46480772,[],False,praise
+Proposed,test,spill the tea,Neutral,Positive,Neutral -> Positive,0.656786,[],False,share_gossip
+Proposed,test,Thân hình như cây cột mỡ luôn ấy,Negative,Positive,Negative -> Positive,0.6253939,[],False,bodyshaming
+Proposed,test,Respect! Tôi admire bạn,Positive,Neutral,Positive -> Neutral,0.95800424,[],False,admiration
+Proposed,test,Cái cap hại cái chân mày,Positive,Negative,Positive -> Negative,0.9899136,[],False,humor
+Proposed,test,"Hà Nội lạnh 20 độ, tưởng đang ở Đà Lạt",Neutral,Negative,Neutral -> Negative,0.8696727,[],False,humor
+Proposed,test,Anh Huy nhìn giống nhân viên quán luôn á 😆,Neutral,Positive,Neutral -> Positive,0.91611516,[],False,humor
+Proposed,test,mỗi người xem chắc sẽ có cảm nhận riêng,Neutral,Positive,Neutral -> Positive,0.55555683,[],False,subjective
+Proposed,test,purr,Positive,Neutral,Positive -> Neutral,0.6540087,[],False,approval_gen_z
+Proposed,test,t tưởng là meme ai ngờ gây tranh cãi,Neutral,Negative,Neutral -> Negative,0.86076117,[],False,surprised
+Proposed,test,Ai ngờ hè mà lôi chăn bông ra đắp :)),Neutral,Negative,Neutral -> Negative,0.72399986,[],False,humor
+Proposed,test,giờ đi học phải có aesthetic mới chịu à?,Neutral,Negative,Neutral -> Negative,0.8327898,[],False,question
+Proposed,test,Cơm quê dượng bầu khịa anh Huy clip nữa nè,Neutral,Positive,Neutral -> Positive,0.49757022,[],False,humor
+Proposed,test,"Bình thường, không có gì nổi bật",Neutral,Negative,Neutral -> Negative,0.8455935,[],False,mediocre
+Proposed,test,đang học mà cứ tưởng đang quay tiktok,Neutral,Positive,Neutral -> Positive,0.65835524,[],False,social\_media
+Proposed,test,mình nhớ sai lớp rồi sao ta,Neutral,Negative,Neutral -> Negative,0.6276955,[],False,confusion
+Proposed,test,"cứ làm khổ gia đình ,cả nước cả nghìn người đi được",Positive,Negative,Positive -> Negative,0.98536754,[],False,appreciation
+Proposed,test,Rome wasn't built in a day,Neutral,Positive,Neutral -> Positive,0.7232472,[],False,patience
+Proposed,test,"Hài vl, chắc tưởng mình là hoàng đế",Neutral,Positive,Neutral -> Positive,0.47171873,[],False,humor
+Proposed,test,Chặn vậy thì bao nhiêu app khác cũng nên chặn luôn,Positive,Negative,Positive -> Negative,0.49095917,[],False,appreciation
+Proposed,test,chia sẻ thêm cách phòng tránh đi mọi người,Positive,Neutral,Positive -> Neutral,0.9735344,[],False,useful
+Proposed,test,Tôi cũng nghĩ vậy,Positive,Neutral,Positive -> Neutral,0.85213214,[],False,agreement
+Proposed,test,Never sacrifice for team,Negative,Positive,Negative -> Positive,0.89489865,[],False,insult
+Proposed,test,"Ủa e , sao em bảo em với nó chỉ là bạn?",Negative,Neutral,Negative -> Neutral,0.8766717,[],False,suspicion
+Proposed,test,Em nhận sâu🦋nhá,Positive,Neutral,Positive -> Neutral,0.93275446,[],False,flirty
+Proposed,test_teencode,k rep ở lại lớppp 🫵🫵,Positive,Negative,Positive -> Negative,0.9200179,[],True,teasing
+Proposed,test_teencode,góp ý thì quán k quan tâm luôn,Positive,Negative,Positive -> Negative,0.8228011,[],True,appreciation
+Proposed,test_teencode,Thằng này chắc bị điên,Negative,Neutral,Negative -> Neutral,0.605474,[],True,insult
+Proposed,noise_10,tuyet voi qua,Positive,Negative,Positive -> Negative,0.99961936,[],False,excellent
+Proposed,noise_10,quán sống nhờ review chứ không nhờ chất lượng,Negative,Neutral,Negative -> Neutral,0.6175767,[],False,criticism
+Proposed,noise_10,respect! tui admire bạn,Positive,Neutral,Positive -> Neutral,0.83519703,[],False,admiration
+Proposed,noise_10,"clip chỉ là vui thôi, đừng soi quá",Positive,Neutral,Positive -> Neutral,0.99590933,[],False,lighthearted
+Proposed,noise_10,ăn xong ra quán khác ăn tiếp mới đủ,Negative,Neutral,Negative -> Neutral,0.9944404,[],False,satire
+Proposed,noise_10,"valentine's day is coming, tui cần gấu",Neutral,Positive,Neutral -> Positive,0.95819366,[],False,single_status
+Proposed,noise_10,"dạ, em nghèo :)))",Positive,Neutral,Positive -> Neutral,0.9985862,"["":)))→cười""]",False,appreciation
+Proposed,noise_10,tôi cũng thích sản phẩm này,Neutral,Positive,Neutral -> Positive,0.9943686,[],False,statement
+Proposed,noise_10,có ai vô học mà không lôi máy quay ra không?,Neutral,Positive,Neutral -> Positive,0.9989586,[],False,commentary
+Proposed,noise_10,20k ăn được gi ở quán cơm quê dượng bầu? 😢,Negative,Neutral,Negative -> Neutral,0.9989843,"[""😢→khóc"", ""20k→20 nghìn""]",False,question
+Proposed,noise_10,honey skin,Positive,Negative,Positive -> Negative,0.9258227,[],False,golden_glow
+Proposed,noise_10,hạn chế kiểuuuuu này chỉ là tạm thời thôi,Positive,Neutral,Positive -> Neutral,0.699892,"[""kiểuuuuu→kiểu""]",True,appreciation
+Proposed,noise_10,"kcgi đặc biệt, bình thường thôi",Negative,Neutral,Negative -> Neutral,0.99454826,[],False,mediocre
+Proposed,noise_10,bạn này lồng jaian hay ghê,Positive,Neutral,Positive -> Neutral,0.9975212,[],False,praise
+Proposed,noise_10,làm lại video khác được không,Negative,Neutral,Negative -> Neutral,0.9989674,[],False,criticism
+Proposed,noise_10,xã hội mới có quán cơm giá cổng trùi thế này 🥺,Negative,Neutral,Negative -> Neutral,0.9770189,"[""trùi→trời""]",True,sarcasm
+Proposed,noise_10,cap chạm đúng chỗ ngứa lun nha,Positive,Neutral,Positive -> Neutral,0.9975527,[],False,funny
+Proposed,noise_10,mắt kiểu: lại drama nữa hả trời,Positive,Negative,Positive -> Negative,0.9983094,[],False,reaction
+Proposed,noise_10,coi kỹ thì giá không cao đâu nha,Positive,Neutral,Positive -> Neutral,0.850628,[],False,appreciation
+Proposed,noise_10,nên nhìn nhận đa chiều hơn,Positive,Neutral,Positive -> Neutral,0.99730384,[],False,useful
+Proposed,noise_10,di xe ban dem rat nguy hiem,Negative,Neutral,Negative -> Neutral,0.35584298,[],False,criticism
+Proposed,noise_10,lớn rồi mới hiểu đc ý nghĩa của nhạc này😥,Positive,Neutral,Positive -> Neutral,0.9585933,"[""😥→buồn"", ""đc→được""]",True,nostalgia
+Proposed,noise_10,nhiều bạn tưởng đùa nhưng người khác tổn thương thật,Negative,Positive,Negative -> Positive,0.950054,[],False,realization
+Proposed,noise_10,otp của tôi đây!,Positive,Neutral,Positive -> Neutral,0.9990546,[],False,shipping
+Proposed,noise_10,và sau này khi lớn khôn rồi,Neutral,Positive,Neutral -> Positive,0.99944836,[],False,reflection
+Proposed,noise_10,ăn cơm quê mà tưởng đang ở dubai 😅,Negative,Neutral,Negative -> Neutral,0.9990839,"[""😅→cười""]",False,humor
+Proposed,noise_10,quán chỉ phù hợp để sống ảo,Neutral,Negative,Neutral -> Negative,0.99965084,[],False,social\_use
+Proposed,noise_10,mệt chết :))),Neutral,Positive,Neutral -> Positive,0.9991573,"["":)))→cười""]",False,exhausted
+Proposed,noise_10,pn nói đúng,Neutral,Positive,Neutral -> Positive,0.9984371,"[""pn→bạn""]",True,agreement
+Proposed,noise_10,em nhận sâu🦋nhá,Positive,Neutral,Positive -> Neutral,0.73757166,[],False,flirty
+Proposed,noise_10,"từng bị trêu vì giọng quê, nên hiểu cảm giác",Negative,Neutral,Negative -> Neutral,0.9972427,[],False,empathy
+Proposed,noise_10,vẫn chưa hiểu thôg điệp lắm,Neutral,Negative,Neutral -> Negative,0.9996563,"[""thôg→thông""]",True,confused
+Proposed,noise_10,nhìu thằng con chửi bác bảo zệ chắc đó giờ k được ai dạy,Positive,Negative,Positive -> Negative,0.9994192,"[""zệ→vệ"", ""k→không""]",True,appreciation
+Proposed,noise_10,"đoạn này hơi nhanh, tôi xem chưa kịp",Neutral,Negative,Neutral -> Negative,0.9816928,[],False,statement
+Proposed,noise_10,e nhận sâu🦋nhé,Positive,Neutral,Positive -> Neutral,0.62129176,[],False,flirty
+Proposed,noise_10,thời tiết hà nội đúng là drama queen,Negative,Neutral,Negative -> Neutral,0.7316102,[],False,humor
+Proposed,noise_10,"tức ghê, sao mình nghĩ nhiều thế",Neutral,Negative,Neutral -> Negative,0.92331034,[],False,overthinking
+Proposed,noise_10,thếếếế xem sẽ cóóóó phạm pháp kh,Positive,Neutral,Positive -> Neutral,0.9808415,"[""thếếếế→thế"", ""cóóóó→có"", ""kh→không""]",True,appreciation
+Proposed,noise_10,diễn mà như không diễn,Positive,Negative,Positive -> Negative,0.99968636,[],False,natural
+Proposed,noise_10,mấy clip kiểu này hay mà hơi thiếu logic,Neutral,Negative,Neutral -> Negative,0.99919075,[],False,critique
+Proposed,noise_10,nghe muon tat am thanh,Negative,Neutral,Negative -> Neutral,0.9975249,[],False,disappointment
+Proposed,noise_10,mấy cái clip vậy dễ bị bóp méo ý nghĩa,Neutral,Negative,Neutral -> Negative,0.9935736,[],False,distortion
+Proposed,noise_10,mỗi lần vùng miền bị lôi ra là thấy drama,Negative,Neutral,Negative -> Neutral,0.98656344,[],False,drama
+Proposed,noise_10,check biển số xe là ra ngay,Positive,Neutral,Positive -> Neutral,0.99723214,[],False,appreciation
+Proposed,noise_10,vô bệnh viện mà không mún xuất viện,Positive,Negative,Positive -> Negative,0.924671,[],False,teasing
+Proposed,noise_10,"clip chỉ là 1 góc nhìn, đừng áp lên tất cả",Neutral,Positive,Neutral -> Positive,0.9486455,[],False,perspective
+Proposed,noise_10,quan an hoi hoi,Negative,Neutral,Negative -> Neutral,0.5176502,[],False,criticism
+Proposed,noise_10,"đẹp là một chuyện, học hành mới là chính nha mấy bạn",Neutral,Positive,Neutral -> Positive,0.9994579,[],False,reminder
+Proposed,noise_10,cảm thấy hơi bị lú sau khi xem,Neutral,Negative,Neutral -> Negative,0.9996923,[],False,confusion
+Proposed,noise_10,no dung lap di lap lai,Negative,Positive,Negative -> Positive,0.99085957,[],False,criticism
+Proposed,noise_10,chia sẻ thêm cách phòng tránh đi mọi người,Positive,Neutral,Positive -> Neutral,0.9992557,[],False,useful
+Proposed,noise_10,không liên quan lắm,Neutral,Negative,Neutral -> Negative,0.9996419,[],False,statement
+Proposed,noise_10,xem clip mà tự dưng thấy thiếu năng lượng,Neutral,Negative,Neutral -> Negative,0.73391396,[],False,envy
+Proposed,noise_10,no cap,Positive,Neutral,Positive -> Neutral,0.9988945,[],False,truth
+Proposed,noise_10,quánnnn đông nhưng không hiểu lý do,Negative,Neutral,Negative -> Neutral,0.9966217,"[""quánnnn→quán""]",True,confusion
+Proposed,noise_30,tuyet voi qua,Positive,Negative,Positive -> Negative,0.99961936,[],False,excellent
+Proposed,noise_30,wán sống nhờ review chứ ko nhờ chất lượng,Negative,Neutral,Negative -> Neutral,0.6175767,"[""wán→quán"", ""ko→không""]",True,criticism
+Proposed,noise_30,respect! tôi admire bợn,Positive,Neutral,Positive -> Neutral,0.99907315,[],False,admiration
+Proposed,noise_30,"clip chỉ là vui thôi, đừng soi quá",Positive,Neutral,Positive -> Neutral,0.99590933,[],False,lighthearted
+Proposed,noise_30,ăn xog ra quán khác ăn tiếp ms đủ,Negative,Neutral,Negative -> Neutral,0.9944404,"[""xog→xong"", ""ms→mới""]",True,satire
+Proposed,noise_30,"dạ, e nghèo :)))",Positive,Neutral,Positive -> Neutral,0.998444,"["":)))→cười""]",False,appreciation
+Proposed,noise_30,tôi cũng thích sản phẩm này,Neutral,Positive,Neutral -> Positive,0.9943686,[],False,statement
+Proposed,noise_30,có ai zô họk mà không lôi máy quay ra không?,Neutral,Positive,Neutral -> Positive,0.9989586,"[""zô→vô"", ""họk→học""]",True,commentary
+Proposed,noise_30,20k ăn được gì ở quánnn cơm quê dượng bầu? 😢,Negative,Neutral,Negative -> Neutral,0.99888045,"[""😢→khóc"", ""20k→20 nghìn"", ""quánnn→quán""]",True,question
+Proposed,noise_30,honey skin,Positive,Negative,Positive -> Negative,0.9258227,[],False,golden_glow
+Proposed,noise_30,"kcgi đặc biệt, bình thường thôi",Negative,Neutral,Negative -> Neutral,0.99454826,[],False,mediocre
+Proposed,noise_30,bạn này lồng jaian hay ghê,Positive,Neutral,Positive -> Neutral,0.9975212,[],False,praise
+Proposed,noise_30,làm lại video khác dc không,Negative,Neutral,Negative -> Neutral,0.9989674,"[""dc→được""]",True,criticism
+Proposed,noise_30,xã hội mới có quán cơm já cổng trời thế này 🥺,Negative,Neutral,Negative -> Neutral,0.9770189,"[""já→giá""]",True,sarcasm
+Proposed,noise_30,mắt kiểu: lại drama nữa hả trời,Positive,Negative,Positive -> Negative,0.9983094,[],False,reaction
+Proposed,noise_30,coi kỹ thỳ giá hôg cao đâu nha,Positive,Neutral,Positive -> Neutral,0.850628,"[""thỳ→thì"", ""hôg→không""]",True,appreciation
+Proposed,noise_30,nên nhìn nhận đa chiều hơn,Positive,Neutral,Positive -> Neutral,0.99730384,[],False,useful
+Proposed,noise_30,di xe ban dem rat nguy hiem,Negative,Neutral,Negative -> Neutral,0.35584298,[],False,criticism
+Proposed,noise_30,lớn zùi mới hiểu đc ý nghĩa của nhạc này😥,Positive,Neutral,Positive -> Neutral,0.9585933,"[""😥→buồn"", ""zùi→rồi"", ""đc→được""]",True,nostalgia
+Proposed,noise_30,nhiều bạn tưởng đùa nhưng người khác tổn thương thiệt,Negative,Positive,Negative -> Positive,0.98869425,[],False,realization
+Proposed,noise_30,otp của tôi đây!,Positive,Neutral,Positive -> Neutral,0.9990546,[],False,shipping
+Proposed,noise_30,kai video do nhin ma chi muon report ngay!,Negative,Neutral,Negative -> Neutral,0.6232782,[],False,insult
+Proposed,noise_30,và sau này khi lớn khôn rồi,Neutral,Positive,Neutral -> Positive,0.99944836,[],False,reflection
+Proposed,noise_30,ăn cơm quê mà tưởng dg ở dubai 😅,Negative,Neutral,Negative -> Neutral,0.9990839,"[""😅→cười"", ""dg→đang""]",True,humor
+Proposed,noise_30,quán chỉ phù hợp để sốg ảo,Neutral,Negative,Neutral -> Negative,0.99965084,"[""sốg→sống""]",True,social\_use
+Proposed,noise_30,mệt chết :))),Neutral,Positive,Neutral -> Positive,0.9991573,"["":)))→cười""]",False,exhausted
+Proposed,noise_30,bạn nói đúng,Neutral,Positive,Neutral -> Positive,0.9984371,[],False,agreement
+Proposed,noise_30,em nhận sâu🦋nhá,Positive,Neutral,Positive -> Neutral,0.73757166,[],False,flirty
+Proposed,noise_30,"từg bị trêu vì giọng quê, nên hiểu cảm giác",Negative,Neutral,Negative -> Neutral,0.9972427,"[""từg→từng""]",True,empathy
+Proposed,noise_30,vẫn chưa hiểu thông điệp lắm,Neutral,Negative,Neutral -> Negative,0.9996563,[],False,confused
+Proposed,noise_30,nhìu thằg con chửiii bác bảo vệ chắc đó giờ k được ai dạy,Positive,Negative,Positive -> Negative,0.9994192,"[""thằg→thằng"", ""chửiii→chửi"", ""k→không""]",True,appreciation
+Proposed,noise_30,em nhận sâu🦋nhé,Positive,Neutral,Positive -> Neutral,0.9990872,[],False,flirty
+Proposed,noise_30,thời tiết hà nội đúng là drama queen,Negative,Neutral,Negative -> Neutral,0.7316102,[],False,humor
+Proposed,noise_30,"tức ghê, sao mình nghĩ nhiều thế",Neutral,Negative,Neutral -> Negative,0.92331034,[],False,overthinking
+Proposed,noise_30,thế xem sẽ có phạm fáp không,Positive,Neutral,Positive -> Neutral,0.9980628,[],False,appreciation
+Proposed,noise_30,diễn mà như không diễn,Positive,Negative,Positive -> Negative,0.99968636,[],False,natural
+Proposed,noise_30,mấy clip kiểu này hay mà hơi thiếu logic,Neutral,Negative,Neutral -> Negative,0.99919075,[],False,critique
+Proposed,noise_30,nghe muon tat am thanh,Negative,Neutral,Negative -> Neutral,0.9975249,[],False,disappointment
+Proposed,noise_30,mấy cái clip vậy dễ bị bóp méo ý nghĩaaaaa,Neutral,Negative,Neutral -> Negative,0.9935736,"[""nghĩaaaaa→nghĩa""]",True,distortion
+Proposed,noise_30,mỗi lần vùng miền bị lôi ra là thấy drama,Negative,Neutral,Negative -> Neutral,0.98656344,[],False,drama
+Proposed,noise_30,check biển số xe là ra ngay,Positive,Neutral,Positive -> Neutral,0.99723214,[],False,appreciation
+Proposed,noise_30,vô bệnh viện mà kh muốn xuất viện,Positive,Negative,Positive -> Negative,0.99553275,"[""kh→không""]",True,teasing
+Proposed,noise_30,"clip chỉ là 1 góc nhìn, đừng áp lên tất cả",Neutral,Positive,Neutral -> Positive,0.9486455,[],False,perspective
+Proposed,noise_30,quan an hoi hoi,Negative,Neutral,Negative -> Neutral,0.5176502,[],False,criticism
+Proposed,noise_30,"đẹp là một chuyện, học hành mớj là chính nha mấy bn",Neutral,Positive,Neutral -> Positive,0.9994579,"[""mớj→mới"", ""bn→bạn""]",True,reminder
+Proposed,noise_30,cảm thấy hơi bị lú sau khi xem,Neutral,Negative,Neutral -> Negative,0.9996923,[],False,confusion
+Proposed,noise_30,no dung lap di lap lai,Negative,Positive,Negative -> Positive,0.99085957,[],False,criticism
+Proposed,noise_30,chia sẻ thêm cách phòng tránh đi mọi người,Positive,Neutral,Positive -> Neutral,0.9992557,[],False,useful
+Proposed,noise_30,klq lắm,Neutral,Negative,Neutral -> Negative,0.9996419,"[""klq→không liên quan""]",True,statement
+Proposed,noise_30,xem clip mà tự dưng thấyyyyy thiếu năg lượng,Neutral,Negative,Neutral -> Negative,0.73391396,"[""thấyyyyy→thấy"", ""năg→năng""]",True,envy
+Proposed,noise_30,no cap,Positive,Neutral,Positive -> Neutral,0.9988945,[],False,truth
+Proposed,noise_30,co cong thuc do an nay khog?,Neutral,Negative,Neutral -> Negative,0.6496154,[],False,question
+Proposed,noise_30,wán đôg nhưq không hiểu lý do,Negative,Neutral,Negative -> Neutral,0.9966217,"[""wán→quán"", ""đôg→đông"", ""nhưq→nhưng""]",True,confusion
+Proposed,noise_50,tuyet zoi wa,Positive,Negative,Positive -> Negative,0.99969256,"[""zoi→voi"", ""wa→quá""]",True,excellent
+Proposed,noise_50,quán sốg nhờ review chứ kg nhờ chấtttt lượng,Negative,Positive,Negative -> Positive,0.9978308,"[""sốg→sống"", ""chấtttt→chất""]",True,criticism
+Proposed,noise_50,"clip chỉỉỉỉỉ là vui thôi, đừg soi quá",Positive,Neutral,Positive -> Neutral,0.99590933,"[""chỉỉỉỉỉ→chỉ"", ""đừg→đừng""]",True,lighthearted
+Proposed,noise_50,ăn xog ra quán khác ăn tiếp mới đủ,Negative,Neutral,Negative -> Neutral,0.9944404,"[""xog→xong""]",True,satire
+Proposed,noise_50,"dạ, e nghèo :)))",Positive,Neutral,Positive -> Neutral,0.998444,"["":)))→cười""]",False,appreciation
+Proposed,noise_50,tui cx thích sản phẩm này,Neutral,Positive,Neutral -> Positive,0.9995529,"[""cx→cũng""]",True,statement
+Proposed,noise_50,có ai vô họk mà không lôi máy quay ra ko?,Neutral,Positive,Neutral -> Positive,0.9989586,"[""họk→học"", ""ko→không""]",True,commentary
+Proposed,noise_50,20k ăn đươc gì ở quán kơm quê dượng bầu? 😢,Negative,Neutral,Negative -> Neutral,0.9988876,"[""😢→khóc"", ""20k→20 nghìn"", ""đươc→được""]",True,question
+Proposed,noise_50,honey skin,Positive,Negative,Positive -> Negative,0.9258227,[],False,golden_glow
+Proposed,noise_50,hạn chế kiểu này chỉ là tạm thời thôi,Positive,Neutral,Positive -> Neutral,0.699892,[],False,appreciation
+Proposed,noise_50,hông thấy gì hài hước nkư mọi người ns,Negative,Positive,Negative -> Positive,0.9839484,"[""nkư→như"", ""ns→nói""]",True,criticism
+Proposed,noise_50,"không có gì đặc biệt, bình thường thoy",Negative,Neutral,Negative -> Neutral,0.99926585,"[""thoy→thôi""]",True,mediocre
+Proposed,noise_50,bạn này lồg jaian hay ghê,Positive,Neutral,Positive -> Neutral,0.9975212,"[""lồg→lồng""]",True,praise
+Proposed,noise_50,lm lại video khác được kh,Negative,Neutral,Negative -> Neutral,0.9989674,"[""lm→làm"", ""kh→không""]",True,criticism
+Proposed,noise_50,xã hội mới có quán cơm giá cổng trời thế này 🥺,Negative,Neutral,Negative -> Neutral,0.9770189,[],False,sarcasm
+Proposed,noise_50,phong cách hông ai đỡ nổi,Positive,Negative,Positive -> Negative,0.99613804,[],False,compliment
+Proposed,noise_50,mắt kiểu: lại drama nữaaaaa hả trùi,Positive,Negative,Positive -> Negative,0.9983094,"[""nữaaaaa→nữa"", ""trùi→trời""]",True,reaction
+Proposed,noise_50,coi kỹ thỳ giá kh cao đâu nhaa,Positive,Neutral,Positive -> Neutral,0.850628,"[""thỳ→thì"", ""kh→không"", ""nhaa→nha""]",True,appreciation
+Proposed,noise_50,nên nhìn nhận đa chiều hơn,Positive,Neutral,Positive -> Neutral,0.99730384,[],False,useful
+Proposed,noise_50,mỗi lần bùn tui lại mở doraemon coi,Positive,Neutral,Positive -> Neutral,0.980568,[],False,comfort
+Proposed,noise_50,di xe ban dem rat nguy hiem,Negative,Neutral,Negative -> Neutral,0.35584298,[],False,criticism
+Proposed,noise_50,lớn rồi mới hiểu đc ý nghĩa của nhạc này😥,Positive,Neutral,Positive -> Neutral,0.9585933,"[""😥→buồn"", ""đc→được""]",True,nostalgia
+Proposed,noise_50,nhìu bạn tưởng đùa nhưng ngkhác tổn thươg thật,Negative,Positive,Negative -> Positive,0.6928582,"[""ngkhác→người khác"", ""thươg→thương""]",True,realization
+Proposed,noise_50,otpppp kủa t đây!,Positive,Neutral,Positive -> Neutral,0.9991738,"[""otpppp→otp"", ""kủa→của""]",True,shipping
+Proposed,noise_50,và sau này khi lớn khôn rồi,Neutral,Positive,Neutral -> Positive,0.99944836,[],False,reflection
+Proposed,noise_50,ăn cơm quê mà tưởng đag ở dubai 😅,Negative,Neutral,Negative -> Neutral,0.9990839,"[""😅→cười"", ""đag→đang""]",True,humor
+Proposed,noise_50,quán chỉ fù hợp để sốg ảo,Neutral,Negative,Neutral -> Negative,0.99967265,"[""sốg→sống""]",True,social\_use
+Proposed,noise_50,mệt chết :))),Neutral,Positive,Neutral -> Positive,0.9991573,"["":)))→cười""]",False,exhausted
+Proposed,noise_50,bạn nói đúng,Neutral,Positive,Neutral -> Positive,0.9984371,[],False,agreement
+Proposed,noise_50,e nhận sâu🦋nhá,Positive,Neutral,Positive -> Neutral,0.9991078,[],False,flirty
+Proposed,noise_50,"từng bị trêu vì giọng quê, nên hiểu kảm jác",Negative,Neutral,Negative -> Neutral,0.9972427,"[""kảm→cảm"", ""jác→giác""]",True,empathy
+Proposed,noise_50,vẫn chưa hiểu thôg điệp lắmmmm,Neutral,Negative,Neutral -> Negative,0.9996563,"[""thôg→thông"", ""lắmmmm→lắm""]",True,confused
+Proposed,noise_50,nhìu thằng con chửi bác bảo vệ chắc đó jo k đuợc ai dạy,Positive,Negative,Positive -> Negative,0.9994192,"[""jo→giờ"", ""k→không"", ""đuợc→được""]",True,appreciation
+Proposed,noise_50,"đoạn này hơi nhanh, tôi xem chx kịp",Neutral,Negative,Neutral -> Negative,0.9816928,"[""chx→chưa""]",True,statement
+Proposed,noise_50,e nhận sâu🦋nhoé,Positive,Neutral,Positive -> Neutral,0.62129176,"[""nhoé→nhé""]",True,flirty
+Proposed,noise_50,thời tiết hààààà nội đúng là drama queen,Negative,Neutral,Negative -> Neutral,0.7316102,"[""hààààà→hà""]",True,humor
+Proposed,noise_50,"tức ghê, sao mjh nghĩ nhiều thế",Neutral,Negative,Neutral -> Negative,0.92331034,"[""mjh→mình""]",True,overthinking
+Proposed,noise_50,thế xem sẽ có phạm pháp hôg,Positive,Neutral,Positive -> Neutral,0.9808415,"[""hôg→không""]",True,appreciation
+Proposed,noise_50,diễn mà như không diễn,Positive,Negative,Positive -> Negative,0.99968636,[],False,natural
+Proposed,noise_50,mấy clip kiểu này hay mà hơi thiếu logic,Neutral,Negative,Neutral -> Negative,0.99919075,[],False,critique
+Proposed,noise_50,nghe muon tat am thah,Negative,Neutral,Negative -> Neutral,0.9983133,[],False,disappointment
+Proposed,noise_50,mấy kái clip vậy dễ bị bóp méo ý nghĩa,Neutral,Negative,Neutral -> Negative,0.9935736,"[""kái→cái""]",True,distortion
+Proposed,noise_50,mỗi lần vùng miền bị lôi ra là thấy drama,Negative,Neutral,Negative -> Neutral,0.98656344,[],False,drama
+Proposed,noise_50,check biển số xe là ra ngay,Positive,Neutral,Positive -> Neutral,0.99723214,[],False,appreciation
+Proposed,noise_50,vô bệnh ziện mà hok mún xuất viện,Positive,Negative,Positive -> Negative,0.924671,"[""ziện→viện"", ""hok→không""]",True,teasing
+Proposed,noise_50,"clip chỉ là 1 góc nhìn, đừg áp lên tất cả",Neutral,Positive,Neutral -> Positive,0.9486455,"[""đừg→đừng""]",True,perspective
+Proposed,noise_50,hông rõ nội dung truyền tải,Negative,Neutral,Negative -> Neutral,0.99756527,[],False,criticism
+Proposed,noise_50,quan an hoi hoi,Negative,Neutral,Negative -> Neutral,0.5176502,[],False,criticism
+Proposed,noise_50,"đẹp là một chuện, họk hành mới là chính nha mấy bạn",Neutral,Positive,Neutral -> Positive,0.9994579,"[""chuện→chuyện"", ""họk→học""]",True,reminder
+Proposed,noise_50,cảm thấyyyy hơi bịịịịị lú sau khi xem,Neutral,Negative,Neutral -> Negative,0.9996923,"[""thấyyyy→thấy"", ""bịịịịị→bị""]",True,confusion
+Proposed,noise_50,no dung lap di lap lai,Negative,Positive,Negative -> Positive,0.99085957,[],False,criticism
+Proposed,noise_50,chia sẻ thêm cách phòg tránh đi mọi người,Positive,Neutral,Positive -> Neutral,0.9992557,"[""phòg→phòng""]",True,useful
+Proposed,noise_50,không liên quan lắm,Neutral,Negative,Neutral -> Negative,0.9996419,[],False,statement
+Proposed,noise_50,xem clip mà tự dưng thấy thiếu năg lượng,Neutral,Negative,Neutral -> Negative,0.73391396,"[""năg→năng""]",True,envy
+Proposed,noise_50,no cap,Positive,Neutral,Positive -> Neutral,0.9988945,[],False,truth
+Proposed,noise_50,giỡn v chứ cap gì nghe thấm wa,Positive,Negative,Positive -> Negative,0.7976455,"[""wa→quá""]",True,realization
+Proposed,noise_50,quán đôg nhưg không hiểu lý do,Negative,Neutral,Negative -> Neutral,0.9966217,"[""đôg→đông"", ""nhưg→nhưng""]",True,confusion
+Proposed,noise_50,clip zui thôi đừng nghĩ nhìu,Positive,Neutral,Positive -> Neutral,0.99771214,"[""zui→vui""]",True,appreciation
+Proposed,khong_dau,Thu an hai xa hoi la day,Negative,Neutral,Negative -> Neutral,0.60261285,[],False,insult
+Proposed,khong_dau,Noi dung thieu chieu sau va kho hieu,Negative,Positive,Negative -> Positive,0.86762094,[],False,criticism
+Proposed,khong_dau,Lam on dung xuat hien tren mang nua,Negative,Positive,Negative -> Positive,0.99771994,[],False,insult
+Proposed,khong_dau,tuyet voi qua,Positive,Negative,Positive -> Negative,0.99961936,[],False,excellent
+Proposed,khong_dau,Khong hieu sao van co nguoi dang ky kenh nay,Negative,Positive,Negative -> Positive,0.9955622,"[""nguoi→người""]",True,insult
+Proposed,khong_dau,quan song nho review chu khong nho chat luong,Negative,Positive,Negative -> Positive,0.99679524,[],False,criticism
+Proposed,khong_dau,ai ma nghi ra kich ban nay hay du,Positive,Neutral,Positive -> Neutral,0.9905674,[],False,creativity
+Proposed,khong_dau,mon nay chac danh cho rich kid thoi,Neutral,Positive,Neutral -> Positive,0.9993431,[],False,affordability
+Proposed,khong_dau,Cang noi cang the hien minh vo hoc,Negative,Positive,Negative -> Positive,0.9991757,[],False,insult
+Proposed,khong_dau,Anh skincare ma da nhin van te,Negative,Neutral,Negative -> Neutral,0.9959942,[],False,insult
+Proposed,khong_dau,ai cung nen trai qua de truong thanh hon,Positive,Neutral,Positive -> Neutral,0.9953186,[],False,useful
+Proposed,khong_dau,Lam YouTube kieu nay nen nghi di,Negative,Positive,Negative -> Positive,0.8991473,[],False,insult
+Proposed,khong_dau,an xong ra quan khac an tiep moi du,Negative,Positive,Negative -> Positive,0.9701933,[],False,satire
+Proposed,khong_dau,San pham de tray xuoc khi su dung,Negative,Positive,Negative -> Positive,0.9951905,[],False,criticism
+Proposed,khong_dau,"Valentine's Day is coming, toi can gau",Neutral,Positive,Neutral -> Positive,0.7952678,[],False,single_status
+Proposed,khong_dau,"Da, em ngheo :)))",Positive,Neutral,Positive -> Neutral,0.9991737,"["":)))→cười""]",False,appreciation
+Proposed,khong_dau,"Chill di ban oi, binh tinh nao!",Neutral,Positive,Neutral -> Positive,0.98985684,[],False,calm_down
+Proposed,khong_dau,Story ask me anything ma khong tra loi,Negative,Positive,Negative -> Positive,0.9973073,[],False,insult
+Proposed,khong_dau,Khong hieu doan intro de lam gi,Negative,Positive,Negative -> Positive,0.98947424,[],False,criticism
+Proposed,khong_dau,Khong ro noi dung clip,Negative,Positive,Negative -> Positive,0.9990675,[],False,criticism
+Proposed,khong_dau,"Noi gi zay, t hok hiu gi het?",Neutral,Negative,Neutral -> Negative,0.9989839,"[""zay→vay"", ""hok→không""]",True,confusion
+Proposed,khong_dau,May dung la het thuoc chua roi,Negative,Positive,Negative -> Positive,0.99034166,[],False,insult
+Proposed,khong_dau,"Sinh con ra kho the nay, chan that",Negative,Positive,Negative -> Positive,0.9987526,[],False,sarcasm
+Proposed,khong_dau,Toi se cho danh gia chi tiet tu ban,Neutral,Positive,Neutral -> Positive,0.9979892,[],False,statement
+Proposed,khong_dau,Overreacting! Phan ung thai qua,Negative,Positive,Negative -> Positive,0.9987488,[],False,excessive
+Proposed,khong_dau,thi xong la ngu li bi luon a,Positive,Negative,Positive -> Negative,0.999699,[],False,appreciation
+Proposed,khong_dau,20k an duoc gi o quan com que duong bau? ,Negative,Neutral,Negative -> Neutral,0.9675058,"[""20k→20 nghìn""]",False,question
+Proposed,khong_dau,Lam nhu vay ma cung doi lam YouTuber,Negative,Positive,Negative -> Positive,0.96813744,[],False,insult
+Proposed,khong_dau,Noi dung don gian qua,Negative,Positive,Negative -> Positive,0.996079,[],False,criticism
+Proposed,khong_dau,honey skin,Positive,Negative,Positive -> Negative,0.9258227,[],False,golden_glow
+Proposed,khong_dau,"gay me chua du, phai gay thuong nho",Positive,Negative,Positive -> Negative,0.9642362,[],False,flirt
+Proposed,khong_dau,Hang khong qua duoc kiem dinh nao,Negative,Positive,Negative -> Positive,0.45953262,[],False,insult
+Proposed,khong_dau,Khong thay gi hai huoc nhu moi nguoi noi,Negative,Positive,Negative -> Positive,0.97504663,"[""nguoi→người""]",True,criticism
+Proposed,khong_dau,"Khong co gi dac biet, binh thuong thoi",Negative,Positive,Negative -> Positive,0.8457566,"[""biet→biết""]",True,mediocre
+Proposed,khong_dau,ban nay long Jaian hay ghe,Positive,Neutral,Positive -> Neutral,0.9992231,[],False,praise
+Proposed,khong_dau,Bio viet nhu CEO ma thuc te that nghiep,Negative,Positive,Negative -> Positive,0.99849904,[],False,insult
+Proposed,khong_dau,Loai nay tot nhat nen im lang,Negative,Positive,Negative -> Positive,0.9753077,[],False,insult
+Proposed,khong_dau,"Nguoi thi lun, mac gi cung khong dep noi",Negative,Positive,Negative -> Positive,0.99528223,"[""nguoi→người""]",True,bodyshaming
+Proposed,khong_dau,sao khong co canh bao ro rang hon tu ngan hang,Positive,Negative,Positive -> Negative,0.99919957,[],False,useful
+Proposed,khong_dau,Khong hieu sao video nay noi,Negative,Neutral,Negative -> Neutral,0.98396933,[],False,criticism
+Proposed,khong_dau,Xa hoi moi co quan com gia cong troi the nay ,Negative,Positive,Negative -> Positive,0.9974668,[],False,sarcasm
+Proposed,khong_dau,"Ngheo ma de con, kho ca doi cha xong",Negative,Positive,Negative -> Positive,0.99541855,[],False,anger
+Proposed,khong_dau,phong cach khong ai do noi,Positive,Negative,Positive -> Negative,0.9995276,[],False,compliment
+Proposed,khong_dau,coi ky thi gia khong cao dau nha,Positive,Neutral,Positive -> Neutral,0.99507844,[],False,appreciation
+Proposed,khong_dau,Choi ban quen roi nen mat day the,Negative,Positive,Negative -> Positive,0.8557316,[],False,insult
+Proposed,khong_dau,Dung lam ban mat nguoi khac nua,Negative,Positive,Negative -> Positive,0.99355245,"[""nguoi→người""]",True,insult
+Proposed,khong_dau,Anh hair style ma nhu tai nan,Negative,Neutral,Negative -> Neutral,0.575226,[],False,insult
+Proposed,khong_dau,Song kieu ban chac chang ai ua noi,Negative,Positive,Negative -> Positive,0.96467054,[],False,insult
+Proposed,khong_dau,Can them trai nghiem thuc te tu nguoi dung,Neutral,Positive,Neutral -> Positive,0.9942367,"[""nguoi→người""]",True,statement
+Proposed,khong_dau,Can tham khao them y kien nguoi khac,Neutral,Positive,Neutral -> Positive,0.7278285,"[""nguoi→người""]",True,statement
+Proposed,khong_dau,di xe ban dem rat nguy hiem,Negative,Neutral,Negative -> Neutral,0.35584298,[],False,criticism
+Proposed,khong_dau,Di dau cung thay ban xau noi bat,Negative,Positive,Negative -> Positive,0.9973149,[],False,bodyshaming
+Proposed,khong_dau,Toi khong dong y voi quan diem nay,Negative,Positive,Negative -> Positive,0.9327585,[],False,disagreement
+Proposed,khong_dau,can them dan den san khau la xong,Positive,Neutral,Positive -> Neutral,0.8049407,[],False,joke
+Proposed,khong_dau,"Coi thay buc minh, phi ca MB mang",Negative,Positive,Negative -> Positive,0.59166586,[],False,insult
+Proposed,khong_dau,nhieu ban tuong dua nhung nguoi khac ton thuong that,Negative,Positive,Negative -> Positive,0.9983725,"[""nguoi→người""]",True,realization
+Proposed,khong_dau,"Ngai gium luon, awkward vai",Negative,Neutral,Negative -> Neutral,0.86390233,[],False,awkward
+Proposed,khong_dau,Loai nay chac bo me that vong lam,Negative,Positive,Negative -> Positive,0.99645114,[],False,insult
+Proposed,khong_dau,cai quan nay lam minh mat niem tin vo review tren mang,Negative,Positive,Negative -> Positive,0.99929774,[],False,disappointment
+Proposed,khong_dau,"Dm, clip ni rac vcl, xoa di!",Negative,Positive,Negative -> Positive,0.876083,"[""dm→địt mẹ"", ""vcl→vãi cả lồn""]",True,curse
+Proposed,khong_dau,That vong voi update lan nay,Negative,Neutral,Negative -> Neutral,0.96562284,[],False,disappointment
+Proposed,khong_dau,"He ma lanh the nay, ve chac shock nang",Negative,Positive,Negative -> Positive,0.99598336,[],False,sarcasm
+Proposed,khong_dau,Ban hang ma khong co chut luong tam,Negative,Neutral,Negative -> Neutral,0.87887204,[],False,insult
+Proposed,khong_dau,"Vat kiet view com que duong bau, Huy oi!",Neutral,Positive,Neutral -> Positive,0.9987286,[],False,humor
+Proposed,khong_dau,va sau nay khi lon khon roi,Neutral,Positive,Neutral -> Positive,0.9734789,[],False,reflection
+Proposed,khong_dau,Thich the hien ma khong biet xau ho,Negative,Positive,Negative -> Positive,0.92542803,"[""thich→thích"", ""biet→biết""]",True,insult
+Proposed,khong_dau,Post anh book recommendation ma chua doc,Negative,Neutral,Negative -> Neutral,0.6724728,"[""post→đăng""]",True,insult
+Proposed,khong_dau,Lam gi cung thay gia tao,Negative,Positive,Negative -> Positive,0.980839,[],False,insult
+Proposed,khong_dau,"Khong sao dau, cu lam di",Neutral,Negative,Neutral -> Negative,0.99952924,[],False,dismissal
+Proposed,khong_dau,nghe hoai khong chan luon,Positive,Negative,Positive -> Negative,0.8077788,[],False,appreciation
+Proposed,khong_dau,An com que ma tuong dang o Dubai ,Negative,Positive,Negative -> Positive,0.9739457,[],False,humor
+Proposed,khong_dau,quan chi phu hop de song ao,Neutral,Negative,Neutral -> Negative,0.9968663,[],False,social\_use
+Proposed,khong_dau,"Thoi tiet bat on the nay, mai nong lai chac",Negative,Positive,Negative -> Positive,0.99661297,[],False,anger
+Proposed,khong_dau,Tran trong tung hanh dong dep nhu nay,Positive,Neutral,Positive -> Neutral,0.8585095,[],False,appreciation
+Proposed,khong_dau,met chet :))),Neutral,Positive,Neutral -> Positive,0.9634335,"["":)))→cười""]",False,exhausted
+Proposed,khong_dau,Anh self care ma mental health bad,Negative,Neutral,Negative -> Neutral,0.95160484,[],False,insult
+Proposed,khong_dau,"Dm, lua dao ha? Dung tin!",Negative,Neutral,Negative -> Neutral,0.8391394,"[""dm→địt mẹ""]",True,warning
+Proposed,khong_dau,Khong hai long voi co che giao dich,Negative,Positive,Negative -> Positive,0.68230194,[],False,complaint
+Proposed,khong_dau,Tuong ai hay ho lam hoa ra cung vay,Negative,Neutral,Negative -> Neutral,0.55598146,[],False,insult
+Proposed,khong_dau,Em nhan saunha,Positive,Neutral,Positive -> Neutral,0.999225,[],False,flirty
+Proposed,khong_dau,"Lam duong, xay cau chu khong di ho khau hieu",Positive,Negative,Positive -> Negative,0.9035498,[],False,appreciation
+Proposed,khong_dau,"Ngheo thi o vay, de chi cho kho",Negative,Neutral,Negative -> Neutral,0.9542208,[],False,suggestion
+Proposed,khong_dau,"tung bi treu vi giong que, nen hieu cam giac",Negative,Positive,Negative -> Positive,0.9457781,[],False,empathy
+Proposed,khong_dau,San pham khac hoan toan mo ta,Negative,Positive,Negative -> Positive,0.8731712,[],False,insult
+Proposed,khong_dau,van chua hieu thong diep lam,Neutral,Negative,Neutral -> Negative,0.96752083,[],False,confused
+Proposed,khong_dau,Khong thich cach can bang tuong hien tai,Negative,Positive,Negative -> Positive,0.5250621,"[""thich→thích""]",True,criticism
+Proposed,khong_dau,nhiu thang con chui bac bao ve chac do gio k duoc ai day,Positive,Negative,Positive -> Negative,0.9619412,"[""k→không""]",True,appreciation
+Proposed,khong_dau,Chiu khong noi cai kieu song hai mat,Negative,Positive,Negative -> Positive,0.98707354,[],False,insult
+Proposed,khong_dau,Khong thay vui nhu quang cao,Negative,Positive,Negative -> Positive,0.999246,[],False,disappointment
+Proposed,khong_dau,"Do rac ruoi, dung dang nua",Negative,Neutral,Negative -> Neutral,0.99660254,[],False,offensive
+Proposed,khong_dau,Em nhan saunhe,Positive,Neutral,Positive -> Neutral,0.9992494,[],False,flirty
+Proposed,khong_dau,Thoi tiet Ha Noi dung la drama queen,Negative,Positive,Negative -> Positive,0.999276,[],False,humor
+Proposed,khong_dau,"Da ngheo con de, dung la het noi",Negative,Positive,Negative -> Positive,0.9991186,[],False,insult
+Proposed,khong_dau,"Dm, lua dao ha? Dung tin nha!",Negative,Neutral,Negative -> Neutral,0.9977456,"[""dm→địt mẹ""]",True,warning
+Proposed,khong_dau,dien ma nhu khong dien,Positive,Negative,Positive -> Negative,0.9991652,[],False,natural
+Proposed,khong_dau,may clip kieu nay hay ma hoi thieu logic,Neutral,Positive,Neutral -> Positive,0.9995455,[],False,critique
+Proposed,khong_dau,Duong bau vat view com que toi kho luon ,Neutral,Positive,Neutral -> Positive,0.70208174,[],False,humor
+Proposed,khong_dau,quan trang tri dep nhung do an khong tuong xung gia,Negative,Positive,Negative -> Positive,0.99939716,[],False,review
+Proposed,khong_dau,may ban nho gio xin ghe ha,Positive,Negative,Positive -> Negative,0.8825929,[],False,compliment
+Proposed,khong_dau,nghe muon tat am thanh,Negative,Neutral,Negative -> Neutral,0.9975249,[],False,disappointment
+Proposed,khong_dau,Khong thay vui nhu gioi thieu,Negative,Positive,Negative -> Positive,0.9986644,[],False,disappointment
+Proposed,khong_dau,Thong tin nay khong dung dau ban,Negative,Neutral,Negative -> Neutral,0.98878783,[],False,correction
+Proposed,khong_dau,Matchmaking khong cong bang chut nao,Negative,Positive,Negative -> Positive,0.985078,[],False,criticism
+Proposed,khong_dau,dan quang ninh cung trang treo ma,Positive,Neutral,Positive -> Neutral,0.99798286,[],False,defense
+Proposed,khong_dau,Khong biet dieu thi im gium cai,Negative,Neutral,Negative -> Neutral,0.893324,"[""biet→biết""]",True,insult
+Proposed,khong_dau,Tam than thi gia dinh phai quan ly chu,Neutral,Positive,Neutral -> Positive,0.9987556,[],False,suggestion
+Proposed,khong_dau,Xem video chan that su,Negative,Neutral,Negative -> Neutral,0.9967585,[],False,disappointment
+Proposed,khong_dau,Khong thich meta game hien tai chut nao,Negative,Positive,Negative -> Positive,0.6316569,"[""thich→thích""]",True,criticism
+Proposed,khong_dau,may cai clip vay de bi bop meo y nghia,Neutral,Negative,Neutral -> Negative,0.99968314,[],False,distortion
+Proposed,khong_dau,cap khong sai nhung lam nguoi ta phai suy nghi lai,Positive,Negative,Positive -> Negative,0.52051693,"[""nguoi→người""]",True,thoughtful
+Proposed,khong_dau,Len mang ke kho de cau thuong hai a?,Negative,Neutral,Negative -> Neutral,0.9985759,[],False,insult
+Proposed,khong_dau,"Thuong anh lam, co len anh nhe",Positive,Neutral,Positive -> Neutral,0.98924595,[],False,neutral
+Proposed,khong_dau,Anh OOTD ma outfit xau kinh hoang,Negative,Neutral,Negative -> Neutral,0.99441904,[],False,insult
+Proposed,khong_dau,Check bien so xe la ra ngay,Positive,Neutral,Positive -> Neutral,0.9814218,[],False,appreciation
+Proposed,khong_dau,"clip chi la 1 goc nhin, dung ap len tat ca",Neutral,Positive,Neutral -> Positive,0.9991725,[],False,perspective
+Proposed,khong_dau,Cu dong vai dang thuong la duoc tha thu a?,Negative,Neutral,Negative -> Neutral,0.99891245,[],False,insult
+Proposed,khong_dau,Com que duong bau khia anh Huy clip nua ne,Neutral,Positive,Neutral -> Positive,0.99885404,[],False,humor
+Proposed,khong_dau,Luc can im thi lai len tieng,Negative,Neutral,Negative -> Neutral,0.897619,[],False,insult
+Proposed,khong_dau,Relationship nay precious lam,Positive,Negative,Positive -> Negative,0.99347514,[],False,precious
+Proposed,khong_dau,Y tuong hay nhung thuc hien chua tot,Negative,Positive,Negative -> Positive,0.98939556,[],False,constructive_criticism
+Proposed,khong_dau,Khong ro noi dung truyen tai,Negative,Positive,Negative -> Positive,0.99859613,[],False,criticism
+Proposed,khong_dau,Nguoi dau vua lun vua beo,Negative,Positive,Negative -> Positive,0.9874533,"[""nguoi→người""]",True,bodyshaming
+Proposed,khong_dau,quan an hoi hoi,Negative,Neutral,Negative -> Neutral,0.5176502,[],False,criticism
+Proposed,khong_dau,Khong lien quan ma van thich nhay vao,Negative,Positive,Negative -> Positive,0.9904744,"[""thich→thích""]",True,insult
+Proposed,khong_dau,Cha hieu sao co nguoi dang ky kenh nay,Negative,Positive,Negative -> Positive,0.96333647,"[""nguoi→người""]",True,insult
+Proposed,khong_dau,Cuoi lan voi may ly do cam app ,Positive,Negative,Positive -> Negative,0.9995691,[],False,excitement
+Proposed,khong_dau,"dep la mot chuyen, hoc hanh moi la chinh nha may ban",Neutral,Positive,Neutral -> Positive,0.9993705,[],False,reminder
+Proposed,khong_dau,lop tui hoi xua khong ai trang diem bao gio,Neutral,Positive,Neutral -> Positive,0.95083666,[],False,contrast
+Proposed,khong_dau,ua chu tin cx co ngiu cu ha??,Neutral,Negative,Neutral -> Negative,0.95072347,"[""cx→cũng""]",True,surprised
+Proposed,khong_dau,Coi ma cha hieu muon truyen dat gi,Negative,Positive,Negative -> Positive,0.99706715,[],False,criticism
+Proposed,khong_dau,Dat hang tram lan roi ma lan nao cung loi,Negative,Positive,Negative -> Positive,0.92562723,[],False,insult
+Proposed,khong_dau,Thay cai bung la muon ne xa 10 met,Negative,Positive,Negative -> Positive,0.8081061,[],False,bodyshaming
+Proposed,khong_dau,cam thay hoi bi lu sau khi xem,Neutral,Negative,Neutral -> Negative,0.99944764,[],False,confusion
+Proposed,khong_dau,no dung lap di lap lai,Negative,Positive,Negative -> Positive,0.99085957,[],False,criticism
+Proposed,khong_dau,ADC positioning nhu dung an don,Negative,Positive,Negative -> Positive,0.9849701,[],False,insult
+Proposed,khong_dau,Hang xai duoc 1 ngay thi hong,Negative,Positive,Negative -> Positive,0.99635375,[],False,insult
+Proposed,khong_dau,"Noi dung nay chan, can cai thien nhieu",Negative,Positive,Negative -> Positive,0.8931494,[],False,criticism
+Proposed,khong_dau,chia se them cach phong tranh di moi nguoi,Positive,Neutral,Positive -> Neutral,0.70366186,"[""nguoi→người""]",True,useful
+Proposed,khong_dau,Khong lien quan lam,Neutral,Negative,Neutral -> Negative,0.89199233,[],False,statement
+Proposed,khong_dau,"Tam oke, nhung cx hok an tuong!",Neutral,Negative,Neutral -> Negative,0.99960977,"[""cx→cũng"", ""hok→không""]",True,mediocre
+Proposed,khong_dau,xem clip ma tu dung thay thieu nang luong,Neutral,Positive,Neutral -> Positive,0.84918374,[],False,envy
+Proposed,khong_dau,moi lan co chuyen nay lai gay war hoai,Negative,Positive,Negative -> Positive,0.9973948,[],False,repetitive
+Proposed,khong_dau,no cap,Positive,Neutral,Positive -> Neutral,0.9988945,[],False,truth
+Proposed,khong_dau,"Clip rac that su, chang mang lai gia tri gi",Negative,Positive,Negative -> Positive,0.99589705,[],False,insult
+Proposed,khong_dau,"Tam duoc, nhung chua an tuong",Neutral,Negative,Neutral -> Negative,0.9065212,[],False,mediocre
+Proposed,khong_dau,chac tui phai xem lai lan nua moi hieu,Neutral,Positive,Neutral -> Positive,0.90066516,[],False,rewatch
+Proposed,khong_dau,Khong hai long ve chinh sach bao hanh,Negative,Positive,Negative -> Positive,0.98174584,[],False,complaint
+Proposed,khong_dau,gion vay chu cap gi nghe tham qua,Positive,Neutral,Positive -> Neutral,0.998931,[],False,realization
+Proposed,khong_dau,Anh new haircut ma nhu cat bang cua,Negative,Neutral,Negative -> Neutral,0.8745099,[],False,insult
+Proposed,khong_dau,muon luu cai clip nay de gui luc cai nhau,Positive,Negative,Positive -> Negative,0.99720407,[],False,humor
+Proposed,khong_dau,Ai tha ong nay ra ma de vo pha vay,Neutral,Positive,Neutral -> Positive,0.83031034,[],False,question
+Proposed,khong_dau,gia tri nam o chat luong mon an,Positive,Negative,Positive -> Negative,0.9823318,[],False,appreciation
+Proposed,khong_dau,"Hai huoc ghe, pha ngai vang ma tinh bo luon",Neutral,Positive,Neutral -> Positive,0.865695,[],False,humor
+Proposed,khong_dau,ban minh moi chia tay ma toi tag no vo day dung khong sai,Negative,Positive,Negative -> Positive,0.9971656,[],False,provocative

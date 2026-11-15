@@ -1,0 +1,4 @@
+﻿model_dataset,comment,true_label_name,pred_label_name,error_type,confidence,is_teencode,category
+Proposed_Teencode,k rep ở lại lớppp 🫵🫵,Positive,Negative,Positive → Negative,0.9200179,True,teasing
+Proposed_Teencode,góp ý thì quán k quan tâm luôn,Positive,Negative,Positive → Negative,0.8228011,True,appreciation
+Proposed_Teencode,Thằng này chắc bị điên,Negative,Neutral,Negative → Neutral,0.605474,True,insult
