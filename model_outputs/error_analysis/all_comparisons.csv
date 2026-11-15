@@ -1,0 +1,449 @@
+﻿id,comment,true_label,baseline_pred,baseline_name,baseline_confidence,proposed_pred,proposed_name,proposed_confidence,baseline_correct,proposed_correct,error_type
+vne_04833,Có tiếng mà không có tâm,0,0,negative,0.9992291,0,negative,0.999688,True,True,Both correct
+vne_02675,Thứ ăn hại xã hội là đây,0,0,negative,0.99913377,0,negative,0.99963665,True,True,Both correct
+vne_00676,Nội dung thiếu chiều sâu và khó hiểu,0,0,negative,0.9993942,0,negative,0.9997023,True,True,Both correct
+vne_02707,Làm ơn đừng xuất hiện trên mạng nữa,0,0,negative,0.99917406,0,negative,0.9996501,True,True,Both correct
+vne_00459,tuyet voi qua,2,0,negative,0.9988734,0,negative,0.99961936,False,False,Both wrong
+vne_03198,Chat toxic thay vì focus game,0,0,negative,0.99919194,0,negative,0.99956185,True,True,Both correct
+vne_01847,góc máy đẹp lạ mà rất điện ảnh,2,2,positive,0.997969,2,positive,0.999433,True,True,Both correct
+vne_00839,"Chúc năm mới vui vẻ, phát tài!",2,2,positive,0.9983341,2,positive,0.9994536,True,True,Both correct
+vne_03255,Không hiểu sao vẫn có người đăng ký kênh này,0,0,negative,0.99898964,0,negative,0.996518,True,True,Both correct
+vne_01079,"Như phim bom tấn, chất xĩu!",2,2,positive,0.9986089,2,positive,0.9995988,True,True,Both correct
+vne_01719,quán sống nhờ review chứ không nhờ chất lượng,0,2,positive,0.9706614,1,neutral,0.6175767,False,False,Both wrong
+vne_01855,ai mà nghĩ ra kịch bản này hay dữ,2,2,positive,0.99611306,2,positive,0.9995753,True,True,Both correct
+vne_02466,"với tui vậy là ổn rồi, không ý kiến",2,2,positive,0.99604493,2,positive,0.99946827,True,True,Both correct
+vne_01722,món này chắc dành cho rich kid thôi,1,1,neutral,0.9942439,1,neutral,0.9992224,True,True,Both correct
+vne_00166,Respect! Tôi admire bạn,2,2,positive,0.99843115,1,neutral,0.7794831,True,False,Baseline only correct
+vne_02300,Quá hợp lý luôn rồi còn gì,2,2,positive,0.9986217,2,positive,0.99960846,True,True,Both correct
+vne_04414,phai noi la xem thua time,0,0,negative,0.9993082,0,negative,0.9996673,True,True,Both correct
+vne_03597,sao may cu khoe cai voc dang te hai do tren fb?,0,0,negative,0.99940884,0,negative,0.99971515,True,True,Both correct
+vne_03958,Bạn đã gặp lỗi trong quá trình dùng chưa?,1,1,neutral,0.9986155,1,neutral,0.99924856,True,True,Both correct
+vne_02670,Càng nói càng thể hiện mình vô học,0,0,negative,0.99936503,0,negative,0.99970156,True,True,Both correct
+vne_01922,"clip chỉ là vui thôi, đừng soi quá",2,1,neutral,0.99677986,1,neutral,0.99590933,False,False,Both wrong
+vne_01969,mỗi lần vô lớp là một buổi diễn thời trang,2,2,positive,0.9967449,2,positive,0.99915934,True,True,Both correct
+vne_03063,Ảnh skincare mà da nhìn vẫn tệ,0,0,negative,0.9991891,0,negative,0.99969256,True,True,Both correct
+vne_04416,ko lay gi lam thu vi,0,0,negative,0.99928755,0,negative,0.9995653,True,True,Both correct
+vne_00990,"Fake vãi, chả tự nhiên tí nào!",0,0,negative,0.99938285,0,negative,0.99968266,True,True,Both correct
+vne_03553,sao may dam khoe cai chan cong queo do tren fb?,0,0,negative,0.9993981,0,negative,0.9997148,True,True,Both correct
+vne_03124,Post ảnh minimalist mà hoard stuff,0,0,negative,0.9994461,0,negative,0.99970275,True,True,Both correct
+vne_02387,ai cũng nên trải qua để trưởng thành hơn,2,2,positive,0.9982728,2,positive,0.9995054,True,True,Both correct
+vne_00097,"Content tốt, presentation chưa ổn",0,0,negative,0.9990483,0,negative,0.99960965,True,True,Both correct
+vne_04718,den xanh chua sang da bam coi,0,0,negative,0.994055,0,negative,0.99921095,True,True,Both correct
+vne_02757,Làm YouTube kiểu này nên nghỉ đi,0,0,negative,0.9994048,0,negative,0.9996903,True,True,Both correct
+vne_00670,"Chủ đề này đang rất hot, cảm ơn bạn đã viết",2,2,positive,0.998423,2,positive,0.9995763,True,True,Both correct
+vne_03949,Bạn đánh giá sao về tổng thể sản phẩm?,1,1,neutral,0.9985765,1,neutral,0.99913245,True,True,Both correct
+vne_04252,Nhạc nền hơi ồn ào,0,0,negative,0.99941313,0,negative,0.9996716,True,True,Both correct
+vne_00845,"Bạn ơi, làm tut chi tiết hơn nha?",1,1,neutral,0.99848664,1,neutral,0.99904996,True,True,Both correct
+vne_01713,ăn xong ra quán khác ăn tiếp mới đủ,0,1,neutral,0.98743385,1,neutral,0.9944404,False,False,Both wrong
+vne_00147,Font chữ gì đây?,1,1,neutral,0.9984383,1,neutral,0.9990897,True,True,Both correct
+vne_04533,nuoc cham qua chua,0,0,negative,0.9993862,0,negative,0.99967706,True,True,Both correct
+vne_04116,Sản phẩm dễ trầy xước khi sử dụng,0,0,negative,0.9993617,0,negative,0.99940526,True,True,Both correct
+vne_00226,"Valentine's Day is coming, tôi cần gấu",1,2,positive,0.5178391,1,neutral,0.8568491,False,True,Proposed only correct
+vne_03756,Thời gian giao hàng khoảng bao lâu?,1,1,neutral,0.9984946,1,neutral,0.99903226,True,True,Both correct
+vne_02606,"Dạ, em nghèo :)))",2,1,neutral,0.74625003,1,neutral,0.9985862,False,False,Both wrong
+vne_03543,may co biet cai bung to nhu cai thung do te sao?,0,0,negative,0.99939466,0,negative,0.9997155,True,True,Both correct
+vne_02315,Hành xử quá văn minh luôn,2,2,positive,0.99858993,2,positive,0.99956626,True,True,Both correct
+vne_03926,Tôi cũng thích sản phẩm này,1,1,neutral,0.9919774,2,positive,0.9943686,True,False,Baseline only correct
+vne_00808,"Video này dài dòng quá, chán ghê",0,0,negative,0.9994205,0,negative,0.9996954,True,True,Both correct
+vne_00992,"Chill đi bạn ơi, bình tĩnh nào!",1,1,neutral,0.9984989,1,neutral,0.9991912,True,True,Both correct
+vne_03123,Story ask me anything mà không trả lời,0,0,negative,0.9987527,0,negative,0.9991654,True,True,Both correct
+vne_00193,Flex hard quá bạn ơi,0,2,positive,0.88953,0,negative,0.9997117,False,True,Proposed only correct
+vne_02308,Học hỏi được nhiều lắm luôn,2,2,positive,0.99848264,2,positive,0.9996,True,True,Both correct
+vne_03518,cai mat may nhin map the ma cung dam post story?,0,0,negative,0.99944514,0,negative,0.9997117,True,True,Both correct
+vne_02327,Đẹp từ trong ra ngoài luôn,2,2,positive,0.9985415,2,positive,0.9996137,True,True,Both correct
+vne_01970,ủa đây là giảng đường hay studio vậy?,1,1,neutral,0.99617946,1,neutral,0.9990087,True,True,Both correct
+vne_00738,Chúc bạn sớm bình phục nha,2,2,positive,0.99823475,2,positive,0.9995419,True,True,Both correct
+vne_04002,Đã thử nhưng không hiệu quả,0,0,negative,0.99327517,0,negative,0.957653,True,True,Both correct
+vne_02344,mỗi lần kiểm tra là hết hồn chim én luôn,2,2,positive,0.99779105,2,positive,0.99766695,True,True,Both correct
+vne_01979,mình mà học lớp này là không tập trung nổi,2,2,positive,0.9974533,2,positive,0.9987446,True,True,Both correct
+vne_01332,Mát mẻ thế này đi ăn lẩu là chuẩn,2,2,positive,0.9981377,2,positive,0.9991616,True,True,Both correct
+vne_01464,đẹp quá đi mất thôi,2,2,positive,0.9986124,2,positive,0.9996117,True,True,Both correct
+vne_01164,"Đội bảo vệ lăng làm ăn kiểu gì, đuổi hết",0,0,negative,0.9994172,0,negative,0.9996954,True,True,Both correct
+vne_04771,nguoi di bo khong co loi rieng,0,0,negative,0.9692561,0,negative,0.9996406,True,True,Both correct
+vne_00809,"Có gì đó không ổn, cần cải thiện",0,0,negative,0.9992919,0,negative,0.9996753,True,True,Both correct
+vne_04169,Không hiểu đoạn intro để làm gì,0,0,negative,0.99938476,0,negative,0.99968827,True,True,Both correct
+vne_01106,"Ngáo đá chứ tâm thần gì, nhìn cái mặt là biết liền",0,0,negative,0.9991812,0,negative,0.999495,True,True,Both correct
+vne_04280,Coi xong thấy thất vọng,0,0,negative,0.99936885,0,negative,0.9992848,True,True,Both correct
+vne_02998,Stream mà background noise như chợ búa,0,0,negative,0.9994235,0,negative,0.9996922,True,True,Both correct
+vne_01409,"Clip anh Huy vui, xem xong cười đau bụng 😄",2,2,positive,0.99865305,2,positive,0.99960834,True,True,Both correct
+vne_00855,"Đang hot trên mạng, hay lắm bạn!",2,2,positive,0.9978421,2,positive,0.9996,True,True,Both correct
+vne_03327,may nghi may la hot trend ma cu khoe tren fb the?,0,0,negative,0.99939764,0,negative,0.9997042,True,True,Both correct
+vne_04578,do an nhu chua nau chin,0,0,negative,0.9992279,0,negative,0.99955624,True,True,Both correct
+vne_04217,Không rõ nội dung clip,0,0,negative,0.99940133,0,negative,0.99967635,True,True,Both correct
+vne_03164,Support mà không ward,0,0,negative,0.99928266,0,negative,0.999572,True,True,Both correct
+vne_01055,"Nói gì zậy, t hok hỉu gì hết?",1,1,neutral,0.9975109,1,neutral,0.99666685,True,True,Both correct
+vne_02293,Hổng biết nói gì ngoài 2 chữ: Đỉnh!,2,2,positive,0.99810886,2,positive,0.9995352,True,True,Both correct
+vne_02360,cảm xúc ùa về từng đợt luôn,2,2,positive,0.9985649,2,positive,0.99961555,True,True,Both correct
+vne_02935,Nội dung nhàm chán muốn tắt stream,0,0,negative,0.9994442,0,negative,0.99969625,True,True,Both correct
+vne_02713,Mày đúng là hết thuốc chữa rồi,0,0,negative,0.9993668,0,negative,0.9996563,True,True,Both correct
+vne_01239,"Sinh con ra khổ thế này, chán thật",0,0,negative,0.99943465,0,negative,0.99968064,True,True,Both correct
+vne_00996,"Không đoán được, hay quá trời!",2,2,positive,0.99856395,2,positive,0.9995968,True,True,Both correct
+vne_02724,Làm YouTube mà chẳng ra cái gì,0,0,negative,0.9993926,0,negative,0.9997063,True,True,Both correct
+vne_03929,Tôi sẽ chờ đánh giá chi tiết từ bạn,1,1,neutral,0.9985708,1,neutral,0.9992243,True,True,Both correct
+vne_02025,có ai vô học mà không lôi máy quay ra không?,1,2,positive,0.9976814,2,positive,0.9989586,False,False,Both wrong
+vne_03719,Bạn có thể nói rõ hơn không?,1,1,neutral,0.9984145,1,neutral,0.9991461,True,True,Both correct
+vne_00200,Overreacting! Phản ứng thái quá,0,0,negative,0.99937123,0,negative,0.9996799,True,True,Both correct
+vne_04591,ban an gi trong clip vay?,1,1,neutral,0.9986009,1,neutral,0.9990827,True,True,Both correct
+vne_02485,Ước gì nhiều nơi làm ăn như vậy,2,2,positive,0.9985275,2,positive,0.9995646,True,True,Both correct
+vne_02978,Content create như copy paste,0,0,negative,0.999443,0,negative,0.9996995,True,True,Both correct
+vne_04836,Người như này nên tránh xa,0,0,negative,0.9986987,0,negative,0.9994955,True,True,Both correct
+vne_04729,khong co cam bien den giao thong,0,0,negative,0.9978587,0,negative,0.9746747,True,True,Both correct
+vne_02343,thi xong là ngủ li bì luôn á,2,2,positive,0.8074013,2,positive,0.97244847,True,True,Both correct
+vne_02084,xem xong cảm giác yêu đời hơn hẳn,2,2,positive,0.99834526,2,positive,0.99960226,True,True,Both correct
+vne_03882,Tôi đã xem hết video,1,1,neutral,0.99839044,1,neutral,0.9992353,True,True,Both correct
+vne_03264,"Nội dung nhảm nhí, toàn lặp lại ý cũ",0,0,negative,0.999413,0,negative,0.9996743,True,True,Both correct
+vne_01374,20k ăn được gì ở quán cơm quê dượng bầu? 😢,0,1,neutral,0.99851865,1,neutral,0.99888045,False,False,Both wrong
+vne_01553,"Doraemon không chỉ là phim, là cả thanh xuân",2,2,positive,0.9985643,2,positive,0.9995865,True,True,Both correct
+vne_04720,xe tai chay vuot toc do,0,0,negative,0.9994123,0,negative,0.99970573,True,True,Both correct
+vne_03272,Làm như vậy mà cũng đòi làm YouTuber,0,0,negative,0.99931633,0,negative,0.99965477,True,True,Both correct
+vne_04199,Nội dung đơn giản quá,0,0,negative,0.9982516,0,negative,0.9996891,True,True,Both correct
+vne_00596,motd,1,1,neutral,0.99831176,1,neutral,0.9990513,True,True,Both correct
+vne_00064,Troll hay đấy! Upvote liền,2,2,positive,0.998247,2,positive,0.99956876,True,True,Both correct
+vne_00575,honey skin,2,1,neutral,0.9123033,0,negative,0.9258227,False,False,Both wrong
+vne_02063,"gây mê chưa đủ, phải gây thương nhớ",2,2,positive,0.9977337,2,positive,0.99912745,True,True,Both correct
+vne_02236,tưởng bạn này học diễn xuất luôn á,2,2,positive,0.95253295,2,positive,0.9995473,True,True,Both correct
+vne_00907,"Cười xỉu với video này, hài quá!",2,2,positive,0.9985104,2,positive,0.9995869,True,True,Both correct
+vne_03149,Mid laner mà farm kém hơn cả jungle,0,0,negative,0.9993525,0,negative,0.99969566,True,True,Both correct
+vne_04769,xe bon nuoc di bat thuong,0,0,negative,0.99928916,0,negative,0.9996655,True,True,Both correct
+vne_04585,menu nhieu nhung nhieu mon het,0,0,negative,0.9981121,0,negative,0.99719185,True,True,Both correct
+vne_03059,Tag location sai để làm màu,0,0,negative,0.99942505,0,negative,0.9997105,True,True,Both correct
+vne_02979,Stream mà attitude như ông chủ,0,0,negative,0.99939156,0,negative,0.9996792,True,True,Both correct
+vne_02594,Hạn chế kiểu này chỉ là tạm thời thôi,2,1,neutral,0.73352754,1,neutral,0.699892,False,False,Both wrong
+vne_02445,"thấy vậy mà ngon đó, đừng đánh giá sớm",2,2,positive,0.7474699,2,positive,0.9837208,True,True,Both correct
+vne_01841,nội dung đơn giản nhưng gợi mở suy nghĩ,2,2,positive,0.9949234,2,positive,0.99761224,True,True,Both correct
+vne_04327,Không thích giao diện mới của game,0,0,negative,0.9994093,0,negative,0.9996971,True,True,Both correct
+vne_02859,Hàng không qua được kiểm định nào,0,0,negative,0.9993856,0,negative,0.9996909,True,True,Both correct
+vne_03816,Có ai gặp trường hợp như mình không?,1,1,neutral,0.99761343,1,neutral,0.9756967,True,True,Both correct
+vne_04145,Không thấy gì hài hước như mọi người nói,0,0,negative,0.9994351,0,negative,0.99968755,True,True,Both correct
+vne_04493,quan nay phuc vu cham qua,0,0,negative,0.9988105,0,negative,0.9959622,True,True,Both correct
+vne_04660,co video huong dan lam khong?,1,1,neutral,0.9985067,1,neutral,0.9981772,True,True,Both correct
+vne_01865,ae thanh hóa thì sao bác 🐧,1,1,neutral,0.9984499,1,neutral,0.99855477,True,True,Both correct
+vne_02177,bị bắt quả tang ánh mắt hình viên đạn,2,0,negative,0.9964734,2,positive,0.936248,False,True,Proposed only correct
+vne_00848,"Hình không load được, check lại đi",1,1,neutral,0.99743325,1,neutral,0.9991032,True,True,Both correct
+vne_00912,"Không có gì đặc biệt, bình thường thôi",0,1,neutral,0.9977915,1,neutral,0.99926585,False,False,Both wrong
+vne_04596,ban tu nau hay dat tu quan vay?,1,1,neutral,0.9985077,1,neutral,0.99830437,True,True,Both correct
+vne_02389,có những bài học chỉ có trong quân ngũ mới có,2,2,positive,0.9985378,2,positive,0.99959177,True,True,Both correct
+vne_01525,bạn này lồng Jaian hay ghê,2,1,neutral,0.9641453,1,neutral,0.9975212,False,False,Both wrong
+vne_03057,Bio viết như CEO mà thực tế thất nghiệp,0,0,negative,0.9993974,0,negative,0.99969053,True,True,Both correct
+vne_02760,Clip vô bổ vãi,0,0,negative,0.999443,0,negative,0.99970657,True,True,Both correct
+vne_04470,video lam chieu cho co,0,0,negative,0.99917054,0,negative,0.999701,True,True,Both correct
+vne_03911,Bạn có thể hướng dẫn đăng ký bảo hành không?,1,1,neutral,0.99851125,1,neutral,0.99914336,True,True,Both correct
+vne_04179,Làm lại video khác được không,0,1,neutral,0.9937078,1,neutral,0.9989674,False,False,Both wrong
+vne_02709,Loại này tốt nhất nên im lặng,0,0,negative,0.99920565,0,negative,0.998816,True,True,Both correct
+vne_04627,ban dung cam am thanh nao vay?,1,1,neutral,0.998519,1,neutral,0.9992094,True,True,Both correct
+vne_03480,"Người thì lùn, mặc gì cũng không đẹp nổi",0,0,negative,0.9992933,0,negative,0.99964476,True,True,Both correct
+vne_02616,sao không có cảnh báo rõ ràng hơn từ ngân hàng,2,2,positive,0.9863056,2,positive,0.99781007,True,True,Both correct
+vne_04687,ban quay bang may nao ma chat luong the?,1,1,neutral,0.9985495,1,neutral,0.99899346,True,True,Both correct
+vne_04750,xe cho da cham nguoi,0,0,negative,0.9994281,0,negative,0.9997002,True,True,Both correct
+vne_02021,tới trường mà như đi picnic,2,2,positive,0.91882193,2,positive,0.99604154,True,True,Both correct
+vne_04052,Sản phẩm bị lỗi từ khi nhận,0,0,negative,0.9988864,0,negative,0.9996656,True,True,Both correct
+vne_02448,ai chê thì thôi chứ tui vẫn thấy ổn,2,2,positive,0.99793506,2,positive,0.9995308,True,True,Both correct
+vne_01551,tui nghe phát đoán ra nhân vật luôn,2,2,positive,0.99776804,2,positive,0.9996025,True,True,Both correct
+vne_04188,Không hiểu sao video này nổi,0,0,negative,0.9994148,0,negative,0.9996934,True,True,Both correct
+vne_04737,khong co bien bao ro rang,0,0,negative,0.9985329,0,negative,0.9806723,True,True,Both correct
+vne_01375,Xã hội mới có quán cơm giá cổng trời thế này 🥺,0,2,positive,0.8508788,1,neutral,0.9770189,False,False,Both wrong
+vne_01225,"Nghèo mà đẻ con, khổ cả đời chả xong",0,0,negative,0.99939823,0,negative,0.9996898,True,True,Both correct
+vne_01009,"Cười xĩu vs clip nì, hài vl!",2,2,positive,0.9985845,2,positive,0.99956805,True,True,Both correct
+vne_01666,cap chạm đúng chỗ ngứa luôn nha,2,2,positive,0.9973748,2,positive,0.9916825,True,True,Both correct
+vne_02342,phong cách không ai đỡ nổi,2,2,positive,0.9977143,2,positive,0.9995797,True,True,Both correct
+vne_02282,số hưởng nhất VN:)),2,2,positive,0.8136171,2,positive,0.99490416,True,True,Both correct
+vne_02184,mắt kiểu: lại drama nữa hả trời,2,0,negative,0.9977831,0,negative,0.9983094,False,False,Both wrong
+vne_02460,coi kỹ thì giá không cao đâu nha,2,2,positive,0.80469596,1,neutral,0.850628,True,False,Baseline only correct
+vne_04767,canh sat giao thong khong xu ly vi pham ro rang,0,0,negative,0.64553344,0,negative,0.9976496,True,True,Both correct
+vne_02536,Nên nhìn nhận đa chiều hơn,2,2,positive,0.9718872,1,neutral,0.99730384,True,False,Baseline only correct
+vne_04798,Chơi bẩn quen rồi nên mặt dày thế,0,0,negative,0.99940634,0,negative,0.9996989,True,True,Both correct
+vne_03093,Story close friends mà add bừa,0,0,negative,0.9994197,0,negative,0.99968755,True,True,Both correct
+vne_02666,Đừng làm bẩn mắt người khác nữa,0,0,negative,0.9965305,0,negative,0.91408914,True,True,Both correct
+vne_03902,Bạn đã thử so sánh với hàng chính hãng chưa?,1,1,neutral,0.9985825,1,neutral,0.9992269,True,True,Both correct
+vne_03883,Bạn mua sản phẩm này ở đâu?,1,1,neutral,0.99855715,1,neutral,0.9991167,True,True,Both correct
+vne_02641,cảm ơn vì đã cảnh báo kịp thời,2,2,positive,0.99845314,2,positive,0.9995857,True,True,Both correct
+vne_03098,Ảnh hair style mà như tai nạn,0,0,negative,0.9994067,0,negative,0.9996741,True,True,Both correct
+vne_02742,Không có tí sáng tạo nào luôn,0,0,negative,0.9993831,0,negative,0.99969983,True,True,Both correct
+vne_04770,duong cong va hep nguy hiem,0,0,negative,0.99931145,0,negative,0.9996427,True,True,Both correct
+vne_03982,Đóng gói không cẩn thận,0,0,negative,0.9992373,0,negative,0.9996424,True,True,Both correct
+vne_02307,Trời ơi dễ thương quá,2,2,positive,0.9983656,2,positive,0.9994968,True,True,Both correct
+vne_00887,"Try hard quá, bớt đi bạn ơi!",0,0,negative,0.9993874,0,negative,0.99969697,True,True,Both correct
+vne_01552,mỗi lần buồn tui lại mở Doraemon coi,2,2,positive,0.9695459,2,positive,0.9976726,True,True,Both correct
+vne_02681,Sống kiểu bạn chắc chẳng ai ưa nổi,0,0,negative,0.99922526,0,negative,0.9996772,True,True,Both correct
+vne_03056,Story highlight chỉ toàn selfie,0,0,negative,0.99943036,0,negative,0.9996809,True,True,Both correct
+vne_00501,ai day,1,1,neutral,0.9985184,1,neutral,0.99903893,True,True,Both correct
+vne_03843,Cần thêm trải nghiệm thực tế từ người dùng,1,1,neutral,0.99803025,1,neutral,0.9991726,True,True,Both correct
+vne_03791,Cần tham khảo thêm ý kiến người khác,1,1,neutral,0.998579,1,neutral,0.9992292,True,True,Both correct
+vne_02408,quá trình không dễ dàng nhưng kết quả xứng đáng,2,2,positive,0.99840504,2,positive,0.99954045,True,True,Both correct
+vne_04772,di xe ban dem rat nguy hiem,0,1,neutral,0.99558336,1,neutral,0.35584298,False,False,Both wrong
+vne_03074,Post ảnh book mà chưa chắc đã đọc,0,0,negative,0.9994253,0,negative,0.99968314,True,True,Both correct
+vne_03205,Inting khi không được position,0,0,negative,0.99886346,0,negative,0.9992894,True,True,Both correct
+vne_01473,lớn rồi mới hiểu đc ý nghĩa của nhạc này😥,2,2,positive,0.99798644,1,neutral,0.9585933,True,False,Baseline only correct
+vne_03638,Đi đâu cũng thấy bạn xấu nổi bật,0,0,negative,0.99930847,0,negative,0.99953306,True,True,Both correct
+vne_00015,Tôi không đồng ý với quan điểm này,0,0,negative,0.9988589,0,negative,0.9996107,True,True,Both correct
+vne_00777,"Đúng vibe tui luôn, yêu ghê!",2,2,positive,0.9986083,2,positive,0.99963045,True,True,Both correct
+vne_01995,cần thêm dàn đèn sân khấu là xong,2,1,neutral,0.64447445,2,positive,0.9865362,False,True,Proposed only correct
+vne_04511,banh trang uot het,0,0,negative,0.9992392,0,negative,0.99963963,True,True,Both correct
+vne_03276,"Coi thấy bực mình, phí cả MB mạng",0,0,negative,0.99941766,0,negative,0.99965453,True,True,Both correct
+vne_01938,nhiều bạn tưởng đùa nhưng người khác tổn thương thật,0,2,positive,0.9395252,2,positive,0.950054,False,False,Both wrong
+vne_00784,"Ngại giùm luôn, awkward vãi",0,0,negative,0.9992021,0,negative,0.99964976,True,True,Both correct
+vne_02647,Loại này chắc bố mẹ thất vọng lắm,0,0,negative,0.9993808,0,negative,0.9995735,True,True,Both correct
+vne_02072,xem clip xong muốn học lại ngành y,2,2,positive,0.9812635,2,positive,0.9994968,True,True,Both correct
+vne_01759,cái quán này làm mình mất niềm tin vô review trên mạng,0,2,positive,0.921565,0,negative,0.9955852,False,True,Proposed only correct
+vne_02513,lớn r mà đầu nghĩ j v:),0,2,positive,0.53861916,0,negative,0.99966526,False,True,Proposed only correct
+vne_03231,Disengage khi team đang win fight,0,0,negative,0.9992823,0,negative,0.9994874,True,True,Both correct
+vne_01023,"Dm, clip nì rác vcl, xóa đi!",0,0,negative,0.9994406,0,negative,0.99965215,True,True,Both correct
+vne_03244,Tier list worshipper mà skill C tier,0,0,negative,0.9993242,0,negative,0.999683,True,True,Both correct
+vne_04325,Thất vọng với update lần này,0,0,negative,0.99934906,0,negative,0.99957854,True,True,Both correct
+vne_02260,Bảo vệ như vậy mới đáng yêu chứ 😍,2,2,positive,0.9986089,2,positive,0.9996024,True,True,Both correct
+vne_02902,Đặt hàng online như đánh may rủi,0,0,negative,0.9994429,0,negative,0.9996824,True,True,Both correct
+vne_03236,Item timing không biết gì,0,0,negative,0.9994079,0,negative,0.99971277,True,True,Both correct
+vne_03360,may co biet cai cach viet status do nhin ngu the nao?,0,0,negative,0.9994281,0,negative,0.99971443,True,True,Both correct
+vne_00212,OTP của tôi đây!,2,2,positive,0.9983078,1,neutral,0.9990546,True,False,Baseline only correct
+vne_03404,cai video do nhin ma chi muon report ngay!,0,0,negative,0.9994307,0,negative,0.99969244,True,True,Both correct
+vne_01337,"Hè mà lạnh thế này, ve chắc shock nặng",0,1,neutral,0.5512843,0,negative,0.9843305,False,True,Proposed only correct
+vne_02905,Bán hàng mà không có chút lương tâm,0,0,negative,0.9992489,0,negative,0.99967194,True,True,Both correct
+vne_03633,Giọng đã chua lại còn mặt xấu,0,0,negative,0.9993932,0,negative,0.9996815,True,True,Both correct
+vne_01349,"Vắt kiệt view cơm quê dượng bầu, Huy ơi!",1,1,neutral,0.9421273,1,neutral,0.994557,True,True,Both correct
+vne_01470,và sau này khi lớn khôn rồi,1,2,positive,0.99825615,2,positive,0.99944836,False,False,Both wrong
+vne_04821,Thích thể hiện mà không biết xấu hổ,0,0,negative,0.9970005,0,negative,0.9995334,True,True,Both correct
+vne_00905,"Sáng tạo vãi, nội dung độc lạ luôn!",2,2,positive,0.9985317,2,positive,0.9996074,True,True,Both correct
+vne_04146,Comment cho có chứ video chán thật,0,0,negative,0.99935776,0,negative,0.99962294,True,True,Both correct
+vne_03831,Bạn thấy cách đóng gói thế nào?,1,1,neutral,0.9984573,1,neutral,0.9991198,True,True,Both correct
+vne_03118,Post ảnh book recommendation mà chưa đọc,0,0,negative,0.9994307,0,negative,0.99968135,True,True,Both correct
+vne_00112,Meeting lúc mấy giờ?,1,1,neutral,0.998447,1,neutral,0.99881387,True,True,Both correct
+vne_02740,Làm gì cũng thấy giả tạo,0,0,negative,0.9994055,0,negative,0.9996965,True,True,Both correct
+vne_00731,"Không sao đâu, cứ làm đi",1,2,positive,0.6960761,1,neutral,0.99908066,False,True,Proposed only correct
+vne_03409,cai status nay nhin la biet khong co chat gi!,0,0,negative,0.9993944,0,negative,0.9996908,True,True,Both correct
+vne_00827,"OK, tui hiểu rồi",1,1,neutral,0.9983552,1,neutral,0.99923694,True,True,Both correct
+vne_01479,nghe hoài không chán luôn,2,2,positive,0.99847656,2,positive,0.9996013,True,True,Both correct
+vne_01395,Ăn cơm quê mà tưởng đang ở Dubai 😅,0,1,neutral,0.9959422,1,neutral,0.9990839,False,False,Both wrong
+vne_01198,"Phá di sản quốc gia mà ko bị gì, bất công vl",0,0,negative,0.99937385,0,negative,0.9996861,True,True,Both correct
+vne_00934,"Ờ, tui sẽ check sau",1,1,neutral,0.99856985,1,neutral,0.9992467,True,True,Both correct
+vne_01737,quán chỉ phù hợp để sống ảo,1,0,negative,0.9993967,0,negative,0.99965084,False,False,Both wrong
+vne_01311,"Thời tiết bất ổn thế này, mai nóng lại chắc",0,0,negative,0.99873143,0,negative,0.99933136,True,True,Both correct
+vne_03715,Bạn đang dùng dòng điện thoại gì?,1,1,neutral,0.9986077,1,neutral,0.9991652,True,True,Both correct
+vne_02932,Chơi game tệ mà còn dạy người khác,0,0,negative,0.99941385,0,negative,0.9996871,True,True,Both correct
+vne_02265,Trân trọng từng hành động đẹp như này,2,2,positive,0.99848574,2,positive,0.9996068,True,True,Both correct
+vne_02150,mệt chết :))),1,0,negative,0.99861634,2,positive,0.9991573,False,False,Both wrong
+vne_03131,Ảnh self care mà mental health bad,0,0,negative,0.9993857,0,negative,0.9997061,True,True,Both correct
+vne_00047,Tùy bạn thôi,1,1,neutral,0.9981166,1,neutral,0.9989441,True,True,Both correct
+vne_00759,"Đm, lừa đảo hả? Đừng tin!",0,0,negative,0.99935156,0,negative,0.9996644,True,True,Both correct
+vne_04786,xe oto cho hang thi dong ma lam on,0,0,negative,0.99750406,0,negative,0.9995857,True,True,Both correct
+vne_04337,Không hài lòng với cơ chế giao dịch,0,0,negative,0.9994286,0,negative,0.9996909,True,True,Both correct
+vne_01282,Xin stk để hỗ trợ chút đỉnh,1,1,neutral,0.9477236,1,neutral,0.9989441,True,True,Both correct
+vne_03657,Bạn đang dùng điện thoại gì quay vậy?,1,1,neutral,0.99855095,1,neutral,0.99913365,True,True,Both correct
+vne_02234,tui cười tới khan tiếng luôn á,2,2,positive,0.9986486,2,positive,0.9996132,True,True,Both correct
+vne_03666,Bạn nói đúng,1,2,positive,0.63116,2,positive,0.9984371,False,False,Both wrong
+vne_04832,Tưởng ai hay ho lắm hoá ra cũng vậy,0,0,negative,0.9201218,0,negative,0.9183339,True,True,Both correct
+vne_02054,Em nhận sâu🦋nhá,2,2,positive,0.99618465,1,neutral,0.73757166,True,False,Baseline only correct
+vne_02479,"Làm đường, xây cầu chứ không đi hô khẩu hiệu",2,2,positive,0.9968369,2,positive,0.9981067,True,True,Both correct
+vne_01245,"Nghèo thì ở vậy, đẻ chi cho khổ",0,0,negative,0.9993499,0,negative,0.99962616,True,True,Both correct
+vne_01912,"từng bị trêu vì giọng quê, nên hiểu cảm giác",0,1,neutral,0.6726825,1,neutral,0.9972427,False,False,Both wrong
+vne_02786,Sản phẩm khác hoàn toàn mô tả,0,0,negative,0.9993568,0,negative,0.99966466,True,True,Both correct
+vne_04694,"duong ngap nhu song, khong chay xe noi",0,0,negative,0.99940515,0,negative,0.9996742,True,True,Both correct
+vne_01776,vẫn chưa hiểu thông điệp lắm,1,0,negative,0.99933654,0,negative,0.9996563,False,False,Both wrong
+vne_04332,Không thích cách cân bằng tướng hiện tại,0,0,negative,0.9994012,0,negative,0.9996171,True,True,Both correct
+vne_02241,nhìu thằng con chửi bác bảo vệ chắc đó giờ k được ai dạy,2,0,negative,0.99843544,0,negative,0.9994192,False,False,Both wrong
+vne_02220,ai dám nói học sinh không biết diễn xuất,2,0,negative,0.699416,2,positive,0.99816763,False,True,Proposed only correct
+vne_02687,Cái loại gây ô nhiễm không gian mạng,0,0,negative,0.9993098,0,negative,0.9996823,True,True,Both correct
+vne_03735,Bạn có video hướng dẫn không?,1,1,neutral,0.99850637,1,neutral,0.9991543,True,True,Both correct
+vne_02444,"mỗi người mỗi cảm nhận, đừng ép nhau",2,2,positive,0.99396604,2,positive,0.9982395,True,True,Both correct
+vne_01877,cái gì mà cứ đem vùng miền ra đùa vậy trời,0,0,negative,0.99493647,0,negative,0.9994949,True,True,Both correct
+vne_04799,Chịu không nổi cái kiểu sống hai mặt,0,0,negative,0.99915063,0,negative,0.99950325,True,True,Both correct
+vne_03655,"Đoạn này hơi nhanh, tôi xem chưa kịp",1,0,negative,0.9891221,0,negative,0.9816928,False,False,Both wrong
+vne_01186,Bảo vệ lăng chắc đi chơi nên ko thấy,0,0,negative,0.9994168,0,negative,0.99970573,True,True,Both correct
+vne_00835,Chờ phần tiếp theo của bạn nha,1,1,neutral,0.99845004,1,neutral,0.99926275,True,True,Both correct
+vne_00745,"Video lag quá, fix giùm nha",1,1,neutral,0.99775875,1,neutral,0.9974316,True,True,Both correct
+vne_02012,muốn xin slot học ké lớp này,2,2,positive,0.7940906,2,positive,0.98933023,True,True,Both correct
+vne_02929,Stream mà lag như rùa bò,0,0,negative,0.999361,0,negative,0.99967587,True,True,Both correct
+vne_04307,Không thấy vui như quảng cáo,0,0,negative,0.99943966,0,negative,0.9996884,True,True,Both correct
+vne_00762,"Đồ rác rưởi, đừng đăng nữa",0,0,negative,0.9994081,0,negative,0.9996878,True,True,Both correct
+vne_01501,nghe thôi đã thấy nhẹ lòng,2,2,positive,0.9982931,2,positive,0.9995727,True,True,Both correct
+vne_01500,giọng chị này gắn liền với cả thanh xuân tôi,2,2,positive,0.99859303,2,positive,0.99958557,True,True,Both correct
+vne_02055,Em nhận sâu🦋nhé,2,1,neutral,0.99830675,1,neutral,0.9990872,False,False,Both wrong
+vne_01334,Thời tiết Hà Nội đúng là drama queen,0,0,negative,0.9985154,1,neutral,0.7316102,True,False,Baseline only correct
+vne_01235,"Đã nghèo còn đẻ, đúng là hết nói",0,0,negative,0.99934095,0,negative,0.99968684,True,True,Both correct
+vne_01628,"tức ghê, sao mình nghĩ nhiều thế",1,0,negative,0.95824486,0,negative,0.92331034,False,False,Both wrong
+vne_00138,Part 2 khi nào ra vậy?,1,1,neutral,0.99836797,1,neutral,0.9989862,True,True,Both correct
+vne_04525,"cha lua thiu, hoi moc",0,0,negative,0.99942136,0,negative,0.99966323,True,True,Both correct
+vne_02564,thế xem sẽ có phạm pháp không,2,1,neutral,0.60839885,1,neutral,0.9808415,False,False,Both wrong
+vne_02764,Cứ tưởng nổi tiếng lắm,0,0,negative,0.9980263,0,negative,0.99821305,True,True,Both correct
+vne_00833,"Không sao, cứ tiếp tục nha",1,2,positive,0.97773904,1,neutral,0.99925154,False,True,Proposed only correct
+vne_01065,"Dm, lừa đảo hả? Đừng tin nha!",0,0,negative,0.99921894,0,negative,0.9996252,True,True,Both correct
+vne_01003,"Tks b nhìu, info hữu ích vcl!",2,2,positive,0.99794286,2,positive,0.9996055,True,True,Both correct
+vne_03004,Streamer fake enthusiasm suốt ngày,0,0,negative,0.99943775,0,negative,0.9996971,True,True,Both correct
+vne_02218,diễn mà như không diễn,2,0,negative,0.99935454,0,negative,0.99968636,False,False,Both wrong
+vne_01775,mấy clip kiểu này hay mà hơi thiếu logic,1,0,negative,0.9988166,0,negative,0.99919075,False,False,Both wrong
+vne_02736,Chán chẳng buồn bình luận,0,0,negative,0.9993813,0,negative,0.9994419,True,True,Both correct
+vne_01566,người Việt lồng giỏi thiệt chứ,2,2,positive,0.99851364,2,positive,0.9995968,True,True,Both correct
+vne_01418,Dượng bầu vắt view cơm quê tới khô luôn 😂,1,1,neutral,0.9963516,1,neutral,0.9992342,True,True,Both correct
+vne_01151,"Phá di sản quốc gia mà ko bị gì, bất công quá",0,0,negative,0.9993698,0,negative,0.9996556,True,True,Both correct
+vne_01690,quán trang trí đẹp nhưng đồ ăn không tương xứng giá,0,0,negative,0.9966833,0,negative,0.9980009,True,True,Both correct
+vne_00737,Happy new year! Chúc năm mới vui vẻ,2,2,positive,0.99844474,2,positive,0.9994679,True,True,Both correct
+vne_00764,"Chất quá, bạn là số 1!",2,2,positive,0.99856913,2,positive,0.9996057,True,True,Both correct
+vne_02358,mấy bạn nhỏ giờ xịn ghê ha,2,2,positive,0.99829596,2,positive,0.99892956,True,True,Both correct
+vne_02534,Giải trí nhẹ thôi nè,2,2,positive,0.6832617,2,positive,0.97301763,True,True,Both correct
+vne_04731,xe may chay len via he nhu cho khong nguoi,0,0,negative,0.99941576,0,negative,0.999696,True,True,Both correct
+vne_02530,Nên học cách cảm thông nhiều hơn,2,2,positive,0.99842024,2,positive,0.9995453,True,True,Both correct
+vne_00491,23333 trung funny,2,0,negative,0.9509522,2,positive,0.65516376,False,True,Proposed only correct
+vne_04739,duong moi lam ma da bong troc,0,0,negative,0.9993906,0,negative,0.99951565,True,True,Both correct
+vne_04439,nghe muon tat am thanh,0,1,neutral,0.80145144,1,neutral,0.9975249,False,False,Both wrong
+vne_02864,Hàng về muốn đốt cho sạch,0,0,negative,0.999406,0,negative,0.9996933,True,True,Both correct
+vne_04383,Không thấy vui như giới thiệu,0,0,negative,0.99943346,0,negative,0.9996891,True,True,Both correct
+vne_04557,cha ca khong con nong,0,0,negative,0.9173823,0,negative,0.9962373,True,True,Both correct
+vne_00710,Thông tin này không đúng đâu bạn,0,0,negative,0.99826777,0,negative,0.99964786,True,True,Both correct
+vne_04303,Matchmaking không công bằng chút nào,0,0,negative,0.9994424,0,negative,0.99971074,True,True,Both correct
+vne_02284,:))) má anh vĩ ơiiiiii a vua chúa quáaa,2,2,positive,0.99819297,2,positive,0.99813133,True,True,Both correct
+vne_02013,cả lớp như bước ra từ phim điện ảnh,2,2,positive,0.9983151,2,positive,0.9995291,True,True,Both correct
+vne_00751,"Trend này hot thật, bạn bắt kịp ghê",2,2,positive,0.9983096,2,positive,0.99949276,True,True,Both correct
+vne_03913,Bạn thấy chính sách đổi trả có dễ không?,1,1,neutral,0.99853754,1,neutral,0.9991923,True,True,Both correct
+vne_03520,may nghi body beo nhu banh bao do la dep a?,0,0,negative,0.99944454,0,negative,0.9996791,True,True,Both correct
+vne_04626,video quay ngoai troi ha?,1,1,neutral,0.9985421,1,neutral,0.9990736,True,True,Both correct
+vne_03819,Bạn thấy phần mềm có ổn không?,1,1,neutral,0.9985066,1,neutral,0.9991672,True,True,Both correct
+vne_01793,mình từng trải qua đúng kiểu vậy luôn,2,2,positive,0.99860674,2,positive,0.99961483,True,True,Both correct
+vne_00510,ko ro,1,0,negative,0.80515146,1,neutral,0.998252,False,True,Proposed only correct
+vne_01866,dân quảng ninh cũng trắng trẻo mà🐥,2,2,positive,0.99807173,2,positive,0.99886525,True,True,Both correct
+vne_02663,Không biết điều thì im giùm cái,0,0,negative,0.9993044,0,negative,0.9996704,True,True,Both correct
+vne_03811,Có thể đóng gói kỹ không bạn?,1,1,neutral,0.9985305,1,neutral,0.9992187,True,True,Both correct
+vne_04697,"xe buyt dung bat ngo, nguy hiem",0,0,negative,0.9993617,0,negative,0.999602,True,True,Both correct
+vne_03783,Sản phẩm có dễ vệ sinh không bạn?,1,1,neutral,0.99830866,1,neutral,0.9991787,True,True,Both correct
+vne_01149,Tâm thần thì gia đình phải quản lý chứ,1,1,neutral,0.98031646,1,neutral,0.99887675,True,True,Both correct
+vne_00037,Tôi sẽ xem xét,1,1,neutral,0.99854845,1,neutral,0.9991804,True,True,Both correct
+vne_04218,Xem video chán thật sự,0,0,negative,0.99943775,0,negative,0.9996884,True,True,Both correct
+vne_04344,Không thích meta game hiện tại chút nào,0,0,negative,0.9993937,0,negative,0.99968696,True,True,Both correct
+vne_02627,mỗi ngày học thêm 1 điều mới,2,2,positive,0.9984578,2,positive,0.99960154,True,True,Both correct
+vne_01932,mấy cái clip vậy dễ bị bóp méo ý nghĩa,1,0,negative,0.9991978,0,negative,0.9935736,False,False,Both wrong
+vne_01610,cap không sai nhưng làm người ta phải suy nghĩ lại,2,2,positive,0.9972166,2,positive,0.99944085,True,True,Both correct
+vne_04804,Lên mạng kể khổ để câu thương hại à?,0,0,negative,0.9992901,0,negative,0.99967206,True,True,Both correct
+vne_01930,mỗi lần vùng miền bị lôi ra là thấy drama,0,0,negative,0.7459537,1,neutral,0.98656344,True,False,Baseline only correct
+vne_04265,Nội dung cứ như copy lại,0,0,negative,0.99941134,0,negative,0.99970007,True,True,Both correct
+vne_02892,Chất lượng như đồ chơi trẻ con,0,0,negative,0.9994019,0,negative,0.9996952,True,True,Both correct
+vne_01216,"Thương anh lắm, cố lên anh nhé",2,2,positive,0.99851686,2,positive,0.99957925,True,True,Both correct
+vne_03058,Ảnh OOTD mà outfit xấu kinh hoàng,0,0,negative,0.99943215,0,negative,0.9996798,True,True,Both correct
+vne_04450,noi loi nhieu,0,0,negative,0.99888295,0,negative,0.9996057,True,True,Both correct
+vne_04605,video nay co sub khong ban?,1,1,neutral,0.99858,1,neutral,0.99912924,True,True,Both correct
+vne_02515,Check biển số xe là ra ngay,2,2,positive,0.7715924,1,neutral,0.99723214,True,False,Baseline only correct
+vne_02068,vô bệnh viện mà không muốn xuất viện,2,0,negative,0.99153346,0,negative,0.99553275,False,False,Both wrong
+vne_01949,"clip chỉ là 1 góc nhìn, đừng áp lên tất cả",1,2,positive,0.95000094,2,positive,0.9486455,False,False,Both wrong
+vne_00921,"Đm, video này rác vcl, xóa đi!",0,0,negative,0.9993924,0,negative,0.999622,True,True,Both correct
+vne_00267,Killed it! Xuất sắc,2,2,positive,0.99837506,2,positive,0.99957997,True,True,Both correct
+vne_02102,clip này là nguồn năng lượng tích cực mỗi sáng,2,2,positive,0.9985405,2,positive,0.99960595,True,True,Both correct
+vne_03182,Counter pick mà vẫn thua lane,0,0,negative,0.9991485,0,negative,0.99953234,True,True,Both correct
+vne_04835,Cứ đóng vai đáng thương là được tha thứ à?,0,0,negative,0.99934155,0,negative,0.9996019,True,True,Both correct
+vne_01362,Cơm quê dượng bầu khịa anh Huy clip nữa nè,1,1,neutral,0.9977018,1,neutral,0.99885976,True,True,Both correct
+vne_03077,Post ảnh workout mà body fake,0,0,negative,0.9994492,0,negative,0.9997004,True,True,Both correct
+vne_04839,Lúc cần im thì lại lên tiếng,0,0,negative,0.8359468,0,negative,0.52416295,True,True,Both correct
+vne_03332,may nghi post cai clip do len fb la ngau lam a?,0,0,negative,0.9994343,0,negative,0.99965143,True,True,Both correct
+vne_01398,"Clip anh Huy vui, xem xong muốn ăn cơm quê 😄",2,2,positive,0.9968335,2,positive,0.9995869,True,True,Both correct
+vne_04622,ngon nhin la biet,1,2,positive,0.9956999,1,neutral,0.9990815,False,True,Proposed only correct
+vne_00217,Relationship này precious lắm,2,0,negative,0.405247,2,positive,0.99952316,False,True,Proposed only correct
+vne_00098,Ý tưởng hay nhưng thực hiện chưa tốt,0,0,negative,0.7783377,0,negative,0.9986675,True,True,Both correct
+vne_04401,ko thu vi nhu mo ta,0,0,negative,0.9993063,0,negative,0.9995285,True,True,Both correct
+vne_04569,tra sua nhin khong dep mat,0,0,negative,0.99397486,0,negative,0.9990933,True,True,Both correct
+vne_02804,Bán hàng mà chẳng biết xấu hổ,0,0,negative,0.9993647,0,negative,0.999691,True,True,Both correct
+vne_01538,giọng lồng từng nhân vật khác nhau cực hay,2,2,positive,0.99752384,2,positive,0.9995203,True,True,Both correct
+vne_00142,Reaction video này đi,1,1,neutral,0.9985317,1,neutral,0.9990735,True,True,Both correct
+vne_01346,Mát mẻ thế này đúng là trời chiều lòng người,2,2,positive,0.99853706,2,positive,0.9995659,True,True,Both correct
+vne_00888,"Fake vcl, chả tự nhiên gì hết",0,0,negative,0.999413,0,negative,0.9996822,True,True,Both correct
+vne_01846,clip này như thơ luôn á,2,2,positive,0.9986272,2,positive,0.99960977,True,True,Both correct
+vne_04509,cafe nhat va chua,0,0,negative,0.9987488,0,negative,0.9988422,True,True,Both correct
+vne_04290,Không rõ nội dung truyền tải,0,0,negative,0.99941576,0,negative,0.9996972,True,True,Both correct
+vne_03919,Bạn thấy hiệu suất sản phẩm ra sao?,1,1,neutral,0.998467,1,neutral,0.9990877,True,True,Both correct
+vne_04603,cai nay la banh trang cuon phai khong?,1,1,neutral,0.9971204,1,neutral,0.9988813,True,True,Both correct
+vne_03501,Người đâu vừa lùn vừa béo,0,0,negative,0.9985386,0,negative,0.99962175,True,True,Both correct
+vne_02728,Xem clip thấy tệ vô cùng,0,0,negative,0.9994286,0,negative,0.999681,True,True,Both correct
+vne_04555,quan an hoi hoi,0,0,negative,0.91184574,1,neutral,0.5176502,True,False,Baseline only correct
+vne_04879,Không liên quan mà vẫn thích nhảy vào,0,0,negative,0.9993125,0,negative,0.9996308,True,True,Both correct
+vne_02509,Rất mong nhà nước tạo điều kiện cho các đơn vị như vậy phát triển,2,2,positive,0.99840206,2,positive,0.9995339,True,True,Both correct
+vne_04300,Nhân vật cân bằng kém quá,0,0,negative,0.99939775,0,negative,0.9996866,True,True,Both correct
+vne_02115,phải gọi đây là chấn động thị giác,2,2,positive,0.99778396,2,positive,0.99957496,True,True,Both correct
+vne_03599,may co biet cai chan ngan do nhin te the nao?,0,0,negative,0.99943334,0,negative,0.99970394,True,True,Both correct
+vne_03612,Răng khểnh lộn xộn nhìn kém duyên,0,0,negative,0.9994048,0,negative,0.99968135,True,True,Both correct
+vne_02799,Đồ không khác gì đồ secondhand,0,0,negative,0.9993843,0,negative,0.99967813,True,True,Both correct
+vne_02734,Chả hiểu sao có người đăng ký kênh này,0,0,negative,0.9993137,0,negative,0.99909735,True,True,Both correct
+vne_02419,trải nghiệm một lần để biết rõ bản thân hơn,2,2,positive,0.99843985,2,positive,0.9995796,True,True,Both correct
+vne_00499,khi nao,1,1,neutral,0.99836105,1,neutral,0.99917334,True,True,Both correct
+vne_02601,Cười lăn với mấy lý do cấm app 🤣,2,2,positive,0.9976786,2,positive,0.9962521,True,True,Both correct
+vne_04205,Không thấy hài hước gì hết,0,0,negative,0.99941444,0,negative,0.99968684,True,True,Both correct
+vne_02896,Mua hàng như mua bực mình,0,0,negative,0.9994242,0,negative,0.9997048,True,True,Both correct
+vne_02026,"đẹp là một chuyện, học hành mới là chính nha mấy bạn",1,2,positive,0.998362,2,positive,0.9994579,False,False,Both wrong
+vne_01653,mỗi lần thấy clip có cap là tim lại đập thình thịch,2,2,positive,0.9974287,2,positive,0.99908805,True,True,Both correct
+vne_02028,lớp tui hồi xưa không ai trang điểm bao giờ,1,1,neutral,0.80998623,1,neutral,0.96769583,True,True,Both correct
+vne_02146,ủa chú tín cx có ngiu cũ hả??,1,1,neutral,0.9984952,1,neutral,0.9989391,True,True,Both correct
+vne_04278,Không thấy hay như mọi người nói,0,0,negative,0.999432,0,negative,0.99970275,True,True,Both correct
+vne_01101,"Sáng tạo xĩu, lần đầu t thấy!",2,2,positive,0.9985838,2,positive,0.99961203,True,True,Both correct
+vne_01573,2 lông mày của t bắt đầu skinship với nhau sau khi đọc cap,2,2,positive,0.9980457,2,positive,0.99938345,True,True,Both correct
+vne_00088,Có ai online không?,1,1,neutral,0.99855405,1,neutral,0.9991264,True,True,Both correct
+vne_04178,Coi mà chả hiểu muốn truyền đạt gì,0,0,negative,0.99888223,0,negative,0.99942744,True,True,Both correct
+vne_04374,Hệ thống mua bán trong game bất tiện,0,0,negative,0.99939525,0,negative,0.99959475,True,True,Both correct
+vne_03920,Bạn có gặp lỗi khi sử dụng không?,1,1,neutral,0.99854904,1,neutral,0.9991892,True,True,Both correct
+vne_01092,"Fake vcl, hok tự nhiên gì hết!",0,0,negative,0.99941194,0,negative,0.99969494,True,True,Both correct
+vne_00484,lmao cuoi te,2,2,positive,0.996421,2,positive,0.9995983,True,True,Both correct
+vne_02955,Stream như đang diễn kịch câm,0,0,negative,0.999433,0,negative,0.9996933,True,True,Both correct
+vne_02784,Đặt hàng trăm lần rồi mà lần nào cũng lỗi,0,0,negative,0.9992643,0,negative,0.99961996,True,True,Both correct
+vne_03624,Thấy cái bụng là muốn né xa 10 mét,0,0,negative,0.9990833,0,negative,0.99929893,True,True,Both correct
+vne_00481,vl,0,1,neutral,0.9805716,0,negative,0.99969435,False,True,Proposed only correct
+vne_00027,Thằng này chắc bị điên,0,0,negative,0.99846566,0,negative,0.9988009,True,True,Both correct
+vne_01772,cảm thấy hơi bị lú sau khi xem,1,0,negative,0.9993912,0,negative,0.9996923,False,False,Both wrong
+vne_03592,may nghi khoe cai eo to nhu thung do la dep a?,0,0,negative,0.99940455,0,negative,0.99971324,True,True,Both correct
+vne_04403,no dung lap di lap lai,0,2,positive,0.9555897,2,positive,0.99085957,False,False,Both wrong
+vne_03167,ADC positioning như đứng ăn đòn,0,0,negative,0.9994247,0,negative,0.99968004,True,True,Both correct
+vne_00053,Fake news! Đừng tin,0,0,negative,0.9993179,0,negative,0.99954814,True,True,Both correct
+vne_02800,Hàng xài được 1 ngày thì hỏng,0,0,negative,0.9993305,0,negative,0.9996413,True,True,Both correct
+vne_03313,sao may khong nhin lai minh truoc khi di comment?,0,0,negative,0.99939144,0,negative,0.99967325,True,True,Both correct
+vne_04753,van con nguoi leo rao chan bang xe,0,0,negative,0.9994466,0,negative,0.99969006,True,True,Both correct
+vne_04490,video nhu may chup,0,0,negative,0.9989491,0,negative,0.99964786,True,True,Both correct
+vne_01327,Mát thế này cứ như ở Sapa chứ Hà Nội đâu,2,2,positive,0.80880475,2,positive,0.9047837,True,True,Both correct
+vne_00244,Foreshadowing! Báo hiệu trước,2,2,positive,0.9978163,2,positive,0.99925333,True,True,Both correct
+vne_00916,"Nội dung này chán, cần cải thiện nhiều",0,0,negative,0.9994191,0,negative,0.99968004,True,True,Both correct
+vne_04550,bun bo khong co thit,0,0,negative,0.9990631,0,negative,0.99963343,True,True,Both correct
+vne_03341,cai cach may viet status nhin la biet khong co hoc!,0,0,negative,0.9993678,0,negative,0.99970216,True,True,Both correct
+vne_02406,tình đồng đội là thứ không gì thay thế được,2,2,positive,0.9984303,2,positive,0.99957186,True,True,Both correct
+vne_02633,chia sẻ thêm cách phòng tránh đi mọi người,2,1,neutral,0.99556303,1,neutral,0.9992557,False,False,Both wrong
+vne_03677,Không liên quan lắm,1,0,negative,0.9989747,0,negative,0.9996419,False,False,Both wrong
+vne_02104,em sẽ tái khám mỗi tuần chỉ để nhìn thấy anh,2,2,positive,0.99859315,2,positive,0.99957114,True,True,Both correct
+vne_03435,may co biet cai cach an mac do nhin re tien?,0,0,negative,0.99942905,0,negative,0.9997061,True,True,Both correct
+vne_01040,"Tạm oke, nhưng cx hok ấn tượng!",1,1,neutral,0.99670154,1,neutral,0.7119674,True,True,Both correct
+vne_03240,Draft strategy như đùa,0,0,negative,0.99939823,0,negative,0.9996526,True,True,Both correct
+vne_03945,Bạn thấy sản phẩm dễ bảo trì không?,1,1,neutral,0.9985185,1,neutral,0.9989009,True,True,Both correct
+vne_03795,Bạn thấy phần mềm ổn không?,1,1,neutral,0.9985293,1,neutral,0.9991697,True,True,Both correct
+vne_03683,Đây là phiên bản mới nhất à?,1,1,neutral,0.9984226,1,neutral,0.9991105,True,True,Both correct
+vne_04113,Không thấy phụ kiện kèm theo,0,0,negative,0.9993513,0,negative,0.9996346,True,True,Both correct
+vne_02377,mấy bạn học sinh giờ khác thật,2,2,positive,0.95663303,2,positive,0.9973304,True,True,Both correct
+vne_01990,xem clip mà tự dưng thấy thiếu năng lượng,1,0,negative,0.99877053,0,negative,0.73391396,False,False,Both wrong
+vne_03386,may co biet cai anh do nhin xau xi ra sao khong?,0,0,negative,0.9994423,0,negative,0.9997031,True,True,Both correct
+vne_02916,Giao hàng chậm như thời đồ đá,0,0,negative,0.9993962,0,negative,0.9996637,True,True,Both correct
+vne_01911,mỗi lần có chuyện này lại gây war hoài,0,2,positive,0.7821703,0,negative,0.70794755,False,True,Proposed only correct
+vne_00881,"Đôi này cute vãi, ship nhiệt tình!",2,2,positive,0.9986085,2,positive,0.99959725,True,True,Both correct
+vne_00531,no cap,2,1,neutral,0.99827945,1,neutral,0.9988945,False,False,Both wrong
+vne_03317,may nghi post cai do len fb la ai cung thich a?,0,0,negative,0.9993912,0,negative,0.99966395,True,True,Both correct
+vne_03268,"Clip rác thật sự, chẳng mang lại giá trị gì",0,0,negative,0.9994221,0,negative,0.9996809,True,True,Both correct
+vne_03804,Bạn đánh giá thế nào về độ bền sản phẩm?,1,1,neutral,0.99854773,1,neutral,0.99908626,True,True,Both correct
+vne_00515,cai deo gi,0,0,negative,0.9993703,0,negative,0.99967337,True,True,Both correct
+vne_03568,may nghi khoe cai chan ngan do la ngau lam a?,0,0,negative,0.9994062,0,negative,0.99970907,True,True,Both correct
+vne_03569,sao may dam mac quan bo voi cai body te the do?,0,0,negative,0.9994215,0,negative,0.9997129,True,True,Both correct
+vne_03105,Story template mà điền thông tin fake,0,0,negative,0.9994374,0,negative,0.9997032,True,True,Both correct
+vne_00938,"Tạm được, nhưng chưa ấn tượng",1,1,neutral,0.9967873,1,neutral,0.99882776,True,True,Both correct
+vne_01796,chắc tui phải xem lại lần nữa mới hiểu,1,1,neutral,0.6293936,1,neutral,0.99863845,True,True,Both correct
+vne_04109,Không hài lòng về chính sách bảo hành,0,0,negative,0.99944216,0,negative,0.99969256,True,True,Both correct
+vne_01403,"Cơm quê giá Dubai, ăn xong muốn lên cổng trời 😅",0,0,negative,0.99849606,0,negative,0.9993382,True,True,Both correct
+vne_04652,co cong thuc do an nay khong?,1,1,neutral,0.99846184,1,neutral,0.9962094,True,True,Both correct
+vne_01597,giỡn vậy chứ cap gì nghe thấm quá,2,2,positive,0.9884899,2,positive,0.9992624,True,True,Both correct
+vne_03749,Sản phẩm này làm được gì nữa không?,1,1,neutral,0.9977964,1,neutral,0.999106,True,True,Both correct
+vne_04407,ko co thong diep ro rang,0,0,negative,0.9993001,0,negative,0.99939656,True,True,Both correct
+vne_03909,Cần thêm nhận xét từ khách đã dùng,1,1,neutral,0.9984018,1,neutral,0.99913687,True,True,Both correct
+vne_03113,Ảnh new haircut mà như cắt bằng cưa,0,0,negative,0.99943036,0,negative,0.999666,True,True,Both correct
+vne_01607,muốn lưu cái clip này để gửi lúc cãi nhau,2,2,positive,0.99778557,2,positive,0.99941325,True,True,Both correct
+vne_01161,Ai thả ông này ra mà để vô phá vậy,1,1,neutral,0.9985177,1,neutral,0.99909914,True,True,Both correct
+vne_04724,ke vach duong qua mo,0,0,negative,0.99942446,0,negative,0.99970263,True,True,Both correct
+vne_03298,sao may cu thich di drama voi nguoi khac the?,0,0,negative,0.99940693,0,negative,0.9997155,True,True,Both correct
+vne_03262,"Reaction mà như đọc kịch bản, giả quá",0,0,negative,0.9994435,0,negative,0.9996965,True,True,Both correct
+vne_02876,Khách hàng với shop như thù với oán,0,0,negative,0.9993918,0,negative,0.99966216,True,True,Both correct
+vne_03186,Poke damage như gãi ngứa,0,0,negative,0.99942976,0,negative,0.99970144,True,True,Both correct
+vne_02456,giá trị nằm ở chất lượng món ăn,2,2,positive,0.9980332,2,positive,0.999508,True,True,Both correct
+vne_02545,Càng xem càng thấy dễ thương ghê,2,2,positive,0.9985537,2,positive,0.9996159,True,True,Both correct
+vne_01715,quán đông nhưng không hiểu lý do,0,1,neutral,0.56736714,1,neutral,0.9966217,False,False,Both wrong
+vne_02524,Clip vui thôi đừng nghĩ nhiều,2,1,neutral,0.93500817,2,positive,0.7873459,False,True,Proposed only correct
+vne_01141,"Hài hước ghê, phá ngai vàng mà tỉnh bơ luôn",1,1,neutral,0.994379,1,neutral,0.99906486,True,True,Both correct
+vne_01220,"Nhìn clip mà thương, ai giúp được thì giúp đi",1,1,neutral,0.9981324,1,neutral,0.99925786,True,True,Both correct
+vne_03750,Bạn dùng thử chưa?,1,1,neutral,0.998565,1,neutral,0.99917597,True,True,Both correct
+vne_04009,Chưa nhận được hàng dù đã đặt lâu,0,0,negative,0.9753862,0,negative,0.9996338,True,True,Both correct
+vne_03165,Jungle không biết objective,0,0,negative,0.99941623,0,negative,0.99960726,True,True,Both correct
+vne_01643,bạn mình mới chia tay mà tôi tag nó vô đây đúng không sai,0,1,neutral,0.9871262,0,negative,0.5436731,False,True,Proposed only correct
+vne_03526,cai anh do nhin cai bung may ma muon tat ngay!,0,0,negative,0.9994363,0,negative,0.99968255,True,True,Both correct

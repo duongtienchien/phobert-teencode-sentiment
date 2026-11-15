@@ -1,0 +1,12 @@
+﻿id,comment,true_label,baseline_pred,baseline_name,baseline_confidence,proposed_pred,proposed_name,proposed_confidence,baseline_correct,proposed_correct,error_type
+vne_00166,Respect! Tôi admire bạn,2,2,positive,0.99843115,1,neutral,0.7794831,True,False,Baseline only correct
+vne_03926,Tôi cũng thích sản phẩm này,1,1,neutral,0.9919774,2,positive,0.9943686,True,False,Baseline only correct
+vne_02460,coi kỹ thì giá không cao đâu nha,2,2,positive,0.80469596,1,neutral,0.850628,True,False,Baseline only correct
+vne_02536,Nên nhìn nhận đa chiều hơn,2,2,positive,0.9718872,1,neutral,0.99730384,True,False,Baseline only correct
+vne_01473,lớn rồi mới hiểu đc ý nghĩa của nhạc này😥,2,2,positive,0.99798644,1,neutral,0.9585933,True,False,Baseline only correct
+vne_00212,OTP của tôi đây!,2,2,positive,0.9983078,1,neutral,0.9990546,True,False,Baseline only correct
+vne_02054,Em nhận sâu🦋nhá,2,2,positive,0.99618465,1,neutral,0.73757166,True,False,Baseline only correct
+vne_01334,Thời tiết Hà Nội đúng là drama queen,0,0,negative,0.9985154,1,neutral,0.7316102,True,False,Baseline only correct
+vne_01930,mỗi lần vùng miền bị lôi ra là thấy drama,0,0,negative,0.7459537,1,neutral,0.98656344,True,False,Baseline only correct
+vne_02515,Check biển số xe là ra ngay,2,2,positive,0.7715924,1,neutral,0.99723214,True,False,Baseline only correct
+vne_04555,quan an hoi hoi,0,0,negative,0.91184574,1,neutral,0.5176502,True,False,Baseline only correct

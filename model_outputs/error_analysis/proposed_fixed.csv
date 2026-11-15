@@ -1,0 +1,19 @@
+﻿id,comment,true_label,baseline_pred,baseline_name,baseline_confidence,proposed_pred,proposed_name,proposed_confidence,baseline_correct,proposed_correct,error_type
+vne_00226,"Valentine's Day is coming, tôi cần gấu",1,2,positive,0.5178391,1,neutral,0.8568491,False,True,Proposed only correct
+vne_00193,Flex hard quá bạn ơi,0,2,positive,0.88953,0,negative,0.9997117,False,True,Proposed only correct
+vne_02177,bị bắt quả tang ánh mắt hình viên đạn,2,0,negative,0.9964734,2,positive,0.936248,False,True,Proposed only correct
+vne_01995,cần thêm dàn đèn sân khấu là xong,2,1,neutral,0.64447445,2,positive,0.9865362,False,True,Proposed only correct
+vne_01759,cái quán này làm mình mất niềm tin vô review trên mạng,0,2,positive,0.921565,0,negative,0.9955852,False,True,Proposed only correct
+vne_02513,lớn r mà đầu nghĩ j v:),0,2,positive,0.53861916,0,negative,0.99966526,False,True,Proposed only correct
+vne_01337,"Hè mà lạnh thế này, ve chắc shock nặng",0,1,neutral,0.5512843,0,negative,0.9843305,False,True,Proposed only correct
+vne_00731,"Không sao đâu, cứ làm đi",1,2,positive,0.6960761,1,neutral,0.99908066,False,True,Proposed only correct
+vne_02220,ai dám nói học sinh không biết diễn xuất,2,0,negative,0.699416,2,positive,0.99816763,False,True,Proposed only correct
+vne_00833,"Không sao, cứ tiếp tục nha",1,2,positive,0.97773904,1,neutral,0.99925154,False,True,Proposed only correct
+vne_00491,23333 trung funny,2,0,negative,0.9509522,2,positive,0.65516376,False,True,Proposed only correct
+vne_00510,ko ro,1,0,negative,0.80515146,1,neutral,0.998252,False,True,Proposed only correct
+vne_04622,ngon nhin la biet,1,2,positive,0.9956999,1,neutral,0.9990815,False,True,Proposed only correct
+vne_00217,Relationship này precious lắm,2,0,negative,0.405247,2,positive,0.99952316,False,True,Proposed only correct
+vne_00481,vl,0,1,neutral,0.9805716,0,negative,0.99969435,False,True,Proposed only correct
+vne_01911,mỗi lần có chuyện này lại gây war hoài,0,2,positive,0.7821703,0,negative,0.70794755,False,True,Proposed only correct
+vne_02524,Clip vui thôi đừng nghĩ nhiều,2,1,neutral,0.93500817,2,positive,0.7873459,False,True,Proposed only correct
+vne_01643,bạn mình mới chia tay mà tôi tag nó vô đây đúng không sai,0,1,neutral,0.9871262,0,negative,0.5436731,False,True,Proposed only correct
