@@ -1,0 +1,72 @@
+﻿id,comment,true_label,baseline_pred,baseline_name,baseline_confidence,proposed_pred,proposed_name,proposed_confidence,baseline_correct,proposed_correct,error_type
+vne_00459,tuyet voi qua,2,0,negative,0.9988734,0,negative,0.99961936,False,False,Both wrong
+vne_01719,quán sống nhờ review chứ không nhờ chất lượng,0,2,positive,0.9706614,1,neutral,0.6175767,False,False,Both wrong
+vne_00166,Respect! Tôi admire bạn,2,2,positive,0.99843115,1,neutral,0.7794831,True,False,Baseline only correct
+vne_01922,"clip chỉ là vui thôi, đừng soi quá",2,1,neutral,0.99677986,1,neutral,0.99590933,False,False,Both wrong
+vne_01713,ăn xong ra quán khác ăn tiếp mới đủ,0,1,neutral,0.98743385,1,neutral,0.9944404,False,False,Both wrong
+vne_00226,"Valentine's Day is coming, tôi cần gấu",1,2,positive,0.5178391,1,neutral,0.8568491,False,True,Proposed only correct
+vne_02606,"Dạ, em nghèo :)))",2,1,neutral,0.74625003,1,neutral,0.9985862,False,False,Both wrong
+vne_03926,Tôi cũng thích sản phẩm này,1,1,neutral,0.9919774,2,positive,0.9943686,True,False,Baseline only correct
+vne_00193,Flex hard quá bạn ơi,0,2,positive,0.88953,0,negative,0.9997117,False,True,Proposed only correct
+vne_02025,có ai vô học mà không lôi máy quay ra không?,1,2,positive,0.9976814,2,positive,0.9989586,False,False,Both wrong
+vne_01374,20k ăn được gì ở quán cơm quê dượng bầu? 😢,0,1,neutral,0.99851865,1,neutral,0.99888045,False,False,Both wrong
+vne_00575,honey skin,2,1,neutral,0.9123033,0,negative,0.9258227,False,False,Both wrong
+vne_02594,Hạn chế kiểu này chỉ là tạm thời thôi,2,1,neutral,0.73352754,1,neutral,0.699892,False,False,Both wrong
+vne_02177,bị bắt quả tang ánh mắt hình viên đạn,2,0,negative,0.9964734,2,positive,0.936248,False,True,Proposed only correct
+vne_00912,"Không có gì đặc biệt, bình thường thôi",0,1,neutral,0.9977915,1,neutral,0.99926585,False,False,Both wrong
+vne_01525,bạn này lồng Jaian hay ghê,2,1,neutral,0.9641453,1,neutral,0.9975212,False,False,Both wrong
+vne_04179,Làm lại video khác được không,0,1,neutral,0.9937078,1,neutral,0.9989674,False,False,Both wrong
+vne_01375,Xã hội mới có quán cơm giá cổng trời thế này 🥺,0,2,positive,0.8508788,1,neutral,0.9770189,False,False,Both wrong
+vne_02184,mắt kiểu: lại drama nữa hả trời,2,0,negative,0.9977831,0,negative,0.9983094,False,False,Both wrong
+vne_02460,coi kỹ thì giá không cao đâu nha,2,2,positive,0.80469596,1,neutral,0.850628,True,False,Baseline only correct
+vne_02536,Nên nhìn nhận đa chiều hơn,2,2,positive,0.9718872,1,neutral,0.99730384,True,False,Baseline only correct
+vne_04772,di xe ban dem rat nguy hiem,0,1,neutral,0.99558336,1,neutral,0.35584298,False,False,Both wrong
+vne_01473,lớn rồi mới hiểu đc ý nghĩa của nhạc này😥,2,2,positive,0.99798644,1,neutral,0.9585933,True,False,Baseline only correct
+vne_01995,cần thêm dàn đèn sân khấu là xong,2,1,neutral,0.64447445,2,positive,0.9865362,False,True,Proposed only correct
+vne_01938,nhiều bạn tưởng đùa nhưng người khác tổn thương thật,0,2,positive,0.9395252,2,positive,0.950054,False,False,Both wrong
+vne_01759,cái quán này làm mình mất niềm tin vô review trên mạng,0,2,positive,0.921565,0,negative,0.9955852,False,True,Proposed only correct
+vne_02513,lớn r mà đầu nghĩ j v:),0,2,positive,0.53861916,0,negative,0.99966526,False,True,Proposed only correct
+vne_00212,OTP của tôi đây!,2,2,positive,0.9983078,1,neutral,0.9990546,True,False,Baseline only correct
+vne_01337,"Hè mà lạnh thế này, ve chắc shock nặng",0,1,neutral,0.5512843,0,negative,0.9843305,False,True,Proposed only correct
+vne_01470,và sau này khi lớn khôn rồi,1,2,positive,0.99825615,2,positive,0.99944836,False,False,Both wrong
+vne_00731,"Không sao đâu, cứ làm đi",1,2,positive,0.6960761,1,neutral,0.99908066,False,True,Proposed only correct
+vne_01395,Ăn cơm quê mà tưởng đang ở Dubai 😅,0,1,neutral,0.9959422,1,neutral,0.9990839,False,False,Both wrong
+vne_01737,quán chỉ phù hợp để sống ảo,1,0,negative,0.9993967,0,negative,0.99965084,False,False,Both wrong
+vne_02150,mệt chết :))),1,0,negative,0.99861634,2,positive,0.9991573,False,False,Both wrong
+vne_03666,Bạn nói đúng,1,2,positive,0.63116,2,positive,0.9984371,False,False,Both wrong
+vne_02054,Em nhận sâu🦋nhá,2,2,positive,0.99618465,1,neutral,0.73757166,True,False,Baseline only correct
+vne_01912,"từng bị trêu vì giọng quê, nên hiểu cảm giác",0,1,neutral,0.6726825,1,neutral,0.9972427,False,False,Both wrong
+vne_01776,vẫn chưa hiểu thông điệp lắm,1,0,negative,0.99933654,0,negative,0.9996563,False,False,Both wrong
+vne_02241,nhìu thằng con chửi bác bảo vệ chắc đó giờ k được ai dạy,2,0,negative,0.99843544,0,negative,0.9994192,False,False,Both wrong
+vne_02220,ai dám nói học sinh không biết diễn xuất,2,0,negative,0.699416,2,positive,0.99816763,False,True,Proposed only correct
+vne_03655,"Đoạn này hơi nhanh, tôi xem chưa kịp",1,0,negative,0.9891221,0,negative,0.9816928,False,False,Both wrong
+vne_02055,Em nhận sâu🦋nhé,2,1,neutral,0.99830675,1,neutral,0.9990872,False,False,Both wrong
+vne_01334,Thời tiết Hà Nội đúng là drama queen,0,0,negative,0.9985154,1,neutral,0.7316102,True,False,Baseline only correct
+vne_01628,"tức ghê, sao mình nghĩ nhiều thế",1,0,negative,0.95824486,0,negative,0.92331034,False,False,Both wrong
+vne_02564,thế xem sẽ có phạm pháp không,2,1,neutral,0.60839885,1,neutral,0.9808415,False,False,Both wrong
+vne_00833,"Không sao, cứ tiếp tục nha",1,2,positive,0.97773904,1,neutral,0.99925154,False,True,Proposed only correct
+vne_02218,diễn mà như không diễn,2,0,negative,0.99935454,0,negative,0.99968636,False,False,Both wrong
+vne_01775,mấy clip kiểu này hay mà hơi thiếu logic,1,0,negative,0.9988166,0,negative,0.99919075,False,False,Both wrong
+vne_00491,23333 trung funny,2,0,negative,0.9509522,2,positive,0.65516376,False,True,Proposed only correct
+vne_04439,nghe muon tat am thanh,0,1,neutral,0.80145144,1,neutral,0.9975249,False,False,Both wrong
+vne_00510,ko ro,1,0,negative,0.80515146,1,neutral,0.998252,False,True,Proposed only correct
+vne_01932,mấy cái clip vậy dễ bị bóp méo ý nghĩa,1,0,negative,0.9991978,0,negative,0.9935736,False,False,Both wrong
+vne_01930,mỗi lần vùng miền bị lôi ra là thấy drama,0,0,negative,0.7459537,1,neutral,0.98656344,True,False,Baseline only correct
+vne_02515,Check biển số xe là ra ngay,2,2,positive,0.7715924,1,neutral,0.99723214,True,False,Baseline only correct
+vne_02068,vô bệnh viện mà không muốn xuất viện,2,0,negative,0.99153346,0,negative,0.99553275,False,False,Both wrong
+vne_01949,"clip chỉ là 1 góc nhìn, đừng áp lên tất cả",1,2,positive,0.95000094,2,positive,0.9486455,False,False,Both wrong
+vne_04622,ngon nhin la biet,1,2,positive,0.9956999,1,neutral,0.9990815,False,True,Proposed only correct
+vne_00217,Relationship này precious lắm,2,0,negative,0.405247,2,positive,0.99952316,False,True,Proposed only correct
+vne_04555,quan an hoi hoi,0,0,negative,0.91184574,1,neutral,0.5176502,True,False,Baseline only correct
+vne_02026,"đẹp là một chuyện, học hành mới là chính nha mấy bạn",1,2,positive,0.998362,2,positive,0.9994579,False,False,Both wrong
+vne_00481,vl,0,1,neutral,0.9805716,0,negative,0.99969435,False,True,Proposed only correct
+vne_01772,cảm thấy hơi bị lú sau khi xem,1,0,negative,0.9993912,0,negative,0.9996923,False,False,Both wrong
+vne_04403,no dung lap di lap lai,0,2,positive,0.9555897,2,positive,0.99085957,False,False,Both wrong
+vne_02633,chia sẻ thêm cách phòng tránh đi mọi người,2,1,neutral,0.99556303,1,neutral,0.9992557,False,False,Both wrong
+vne_03677,Không liên quan lắm,1,0,negative,0.9989747,0,negative,0.9996419,False,False,Both wrong
+vne_01990,xem clip mà tự dưng thấy thiếu năng lượng,1,0,negative,0.99877053,0,negative,0.73391396,False,False,Both wrong
+vne_01911,mỗi lần có chuyện này lại gây war hoài,0,2,positive,0.7821703,0,negative,0.70794755,False,True,Proposed only correct
+vne_00531,no cap,2,1,neutral,0.99827945,1,neutral,0.9988945,False,False,Both wrong
+vne_01715,quán đông nhưng không hiểu lý do,0,1,neutral,0.56736714,1,neutral,0.9966217,False,False,Both wrong
+vne_02524,Clip vui thôi đừng nghĩ nhiều,2,1,neutral,0.93500817,2,positive,0.7873459,False,True,Proposed only correct
+vne_01643,bạn mình mới chia tay mà tôi tag nó vô đây đúng không sai,0,1,neutral,0.9871262,0,negative,0.5436731,False,True,Proposed only correct

@@ -1,0 +1,13 @@
+﻿model,test_set,macro_f1,accuracy,status
+Baseline,test,0.8108,0.8367,OK
+Proposed,test,0.8291,0.851,OK
+Baseline,test_teencode,0.8533,0.92,OK
+Proposed,test_teencode,0.8947,0.94,OK
+Baseline,test_noise_10,,,PENDING
+Proposed,test_noise_10,,,PENDING
+Baseline,test_noise_30,,,PENDING
+Proposed,test_noise_30,,,PENDING
+Baseline,test_noise_50,,,PENDING
+Proposed,test_noise_50,,,PENDING
+Baseline,test_khong_dau,,,PENDING
+Proposed,test_khong_dau,,,PENDING

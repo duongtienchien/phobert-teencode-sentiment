@@ -1,0 +1,11 @@
+﻿input_raw,step1_normalized,step1_replacements,step2_segmented,step3_label_id,step3_label_name,step3_confidence,pipeline_ok
+ko thik cai nay chut nao het,khong thich cai nay chut nao het,"['ko→khong', 'thik→thich']",khong thich cai nay chut nao het,,PENDING (can GPU),,False
+"bai nay hay that su, cam on ban nhieu lam","bai nay hay that su, cam on ban nhieu lam",[],"bai nay hay that su , cam on ban nhieu lam",,PENDING (can GPU),,False
+"binh thuong thoi, khong co gi dac biet","binh thuong thoi, khong co gi dac biet",[],"binh thuong thoi , khong co gi dac biet",,PENDING (can GPU),,False
+may co biet cai do nhin nham ra sao ko?,may co biet cai do nhin nham ra sao khong?,['ko→khong'],may co biet cai do nhin nham ra sao khong ?,,PENDING (can GPU),,False
+"tui lam het roi, dc roi nhe","toi lam het roi, duoc roi nhe","['tui→toi', 'dc→duoc']","toi lam het roi , duoc roi_nhe",,PENDING (can GPU),,False
+"reaction cho co, chang co tam gi het","reaction cho co, chang co tam gi het",[],"reaction cho co , chang co tam gi het",,PENDING (can GPU),,False
+"san pham ok lam, giao hang nhanh, se mua lai","san pham ok lam, giao hang nhanh, se mua lai",[],"san pham ok lam , giao hang nhanh , se mua lai",,PENDING (can GPU),,False
+"chat luong te qua, that vong","chat luong te qua, that vong",[],"chat luong te qua , that vong",,PENDING (can GPU),,False
+"mk thay cung duoc, khong qua tot cung khong qua xau","minh thay cung duoc, khong qua tot cung khong qua xau",['mk→minh'],"minh thay cung duoc , khong qua tot cung khong qua xau",,PENDING (can GPU),,False
+slow burn,slow burn,[],slow burn,,PENDING (can GPU),,False

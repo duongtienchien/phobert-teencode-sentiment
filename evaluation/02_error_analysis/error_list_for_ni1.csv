@@ -1,0 +1,161 @@
+﻿model,test_set,comment,true_name,pred_name,error_type,confidence,replacements,is_teencode
+Baseline,test,slow burn,Positive,Negative,Positive -> Negative,0.735178,[],False
+Baseline,test,"lúc đầu tưởng bình thường, đọc cap xong ngồi đơ",Positive,Negative,Positive -> Negative,0.8716951,[],False
+Baseline,test,copy that,Neutral,Negative,Neutral -> Negative,0.99479866,[],False
+Baseline,test,"em không sao, chỉ là hơi tê tê chân mày thôi",Positive,Neutral,Positive -> Neutral,0.9561109,[],False
+Baseline,test,"Nói thì hay lắm, coi làm được gì không",Positive,Neutral,Positive -> Neutral,0.9830425,[],False
+Baseline,test,Chưa bao giờ thấy ai xử lý hay vậy,Positive,Negative,Positive -> Negative,0.56996036,[],False
+Baseline,test,quán này nổi nhờ tên tuổi người nổi tiếng thôi,Negative,Positive,Negative -> Positive,0.7415409,[],False
+Baseline,test,ai chê thì thôi chứ tui vẫn thấy ổn,Positive,Neutral,Positive -> Neutral,0.58492076,[],False
+Baseline,test,ủa là trứng luộc xong chiên hả?,Neutral,Negative,Neutral -> Negative,0.7282433,[],False
+Baseline,test,có phải trả tiền thêm để được ăn ở quận 1 không vậy?,Negative,Neutral,Negative -> Neutral,0.98706424,[],False
+Baseline,test,Cần cải thiện một số điểm,Negative,Neutral,Negative -> Neutral,0.80841684,[],False
+Baseline,test,Thời tiết Hà Nội nay lạ lùng ghê,Neutral,Positive,Neutral -> Positive,0.9634429,[],False
+Baseline,test,plot hole,Negative,Positive,Negative -> Positive,0.87976146,[],False
+Baseline,test,One more episode syndrome,Positive,Negative,Positive -> Negative,0.9658896,[],False
+Baseline,test,"clip chỉ là 1 góc nhìn, đừng áp lên tất cả",Neutral,Positive,Neutral -> Positive,0.979787,[],False
+Baseline,test,Làm vậy chỉ khiến người ta tò mò hơn thôi,Positive,Negative,Positive -> Negative,0.808669,[],False
+Baseline,test,"Hình không load được, check lại đi",Neutral,Negative,Neutral -> Negative,0.7329611,[],False
+Baseline,test,vật lý hay tâm lý trị liệu vậy trời,Positive,Neutral,Positive -> Neutral,0.9045645,[],False
+Baseline,test,Óc chó vừa thôi bạn ơi,Negative,Neutral,Negative -> Neutral,0.83020633,[],False
+Baseline,test,nhiều khi nói chơi mà người ta để bụng đó,Neutral,Positive,Neutral -> Positive,0.71617204,[],False
+Baseline,test,deus ex machina,Negative,Positive,Negative -> Positive,0.64339685,[],False
+Baseline,test,"Cơm quê vắt khô, view thì cứ lên đều 😎",Positive,Negative,Positive -> Negative,0.9925524,[],False
+Baseline,test,Ủa sao nghe giọng quen dữ vậy trời,Neutral,Positive,Neutral -> Positive,0.9805007,[],False
+Baseline,test,Greedy for resources,Negative,Positive,Negative -> Positive,0.94319886,[],False
+Baseline,test,góp ý thì quán k quan tâm luôn,Positive,Neutral,Positive -> Neutral,0.8172249,[],True
+Baseline,test,diễn sâu như vũng lầy vậy đó,Positive,Negative,Positive -> Negative,0.99492514,[],False
+Baseline,test,rat ok,Positive,Neutral,Positive -> Neutral,0.9857918,[],False
+Baseline,test,Skill shot accuracy 10%,Negative,Positive,Negative -> Positive,0.5253328,[],False
+Baseline,test,mỗi lần có chuyện này lại gây war hoài,Negative,Positive,Negative -> Positive,0.98911285,[],False
+Baseline,test,go off,Positive,Neutral,Positive -> Neutral,0.94333535,[],False
+Baseline,test,"Thôi cho ông này vô bệnh viện tâm thần đi, thả ra nguy hiểm xã hội",Neutral,Negative,Neutral -> Negative,0.8750895,[],False
+Baseline,test,Thằng này chắc bị điên,Negative,Neutral,Negative -> Neutral,0.43542182,[],True
+Baseline,test,"Không mới mẻ gì cả, chuyện thường thôi",Positive,Neutral,Positive -> Neutral,0.9519575,[],False
+Baseline,test,vcl,Negative,Neutral,Negative -> Neutral,0.54038733,[],True
+Baseline,test,nhin do an dep mat qua,Neutral,Negative,Neutral -> Negative,0.99052435,[],False
+Baseline,test,Slow down a bit,Neutral,Negative,Neutral -> Negative,0.82163906,[],False
+Baseline,test,học thì ít mà chồng đ..t thì nhiều nè 😁😁😁,Negative,Positive,Negative -> Positive,0.8309153,[],False
+Baseline,test,may gio,Neutral,Negative,Neutral -> Negative,0.99509925,[],False
+Baseline,test,mấy bạn này chắc học trường nghệ thuật,Neutral,Positive,Neutral -> Positive,0.7781076,[],False
+Baseline,test,Humble brag đúng không?,Negative,Neutral,Negative -> Neutral,0.9875838,[],False
+Baseline,test,Cứ như bị nghiện nổi tiếng ấy,Negative,Positive,Negative -> Positive,0.9844199,[],False
+Baseline,test,Rome wasn't built in a day,Neutral,Positive,Neutral -> Positive,0.493716,[],False
+Baseline,test,"Dạ, em nghèo :)))",Positive,Neutral,Positive -> Neutral,0.7210332,[],False
+Baseline,test,xin lịch làm việc để còn book khám luôn,Positive,Neutral,Positive -> Neutral,0.50386,[],False
+Baseline,test,Nhìn dậy mà bót với liên😭,Negative,Positive,Negative -> Positive,0.9846348,[],False
+Baseline,test,"Đù má, làm cái gì kỳ vậy?",Negative,Neutral,Negative -> Neutral,0.9860697,[],False
+Baseline,test,Chuyện đâu còn có đó mà lo,Positive,Negative,Positive -> Negative,0.98339313,[],False
+Baseline,test,First! Đầu tiên,Neutral,Positive,Neutral -> Positive,0.9383234,[],False
+Baseline,test,đẹp mà còn học giỏi nữa thì chịu sao nổi,Positive,Negative,Positive -> Negative,0.9260197,[],False
+Baseline,test,"Hè mà lạnh 20 độ, đúng kiểu Hà Nội :))",Positive,Negative,Positive -> Negative,0.9313943,[],False
+Baseline,test,No spoilers please!,Neutral,Positive,Neutral -> Positive,0.941459,[],False
+Baseline,test,spill the tea,Neutral,Positive,Neutral -> Positive,0.52646476,[],False
+Baseline,test,Thân hình như cây cột mỡ luôn ấy,Negative,Positive,Negative -> Positive,0.971626,[],False
+Baseline,test,Respect! Tôi admire bạn,Positive,Neutral,Positive -> Neutral,0.84338635,[],False
+Baseline,test,Tôi cũng thích sản phẩm này,Neutral,Positive,Neutral -> Positive,0.9059194,[],False
+Baseline,test,Cái cap hại cái chân mày,Positive,Negative,Positive -> Negative,0.99534094,[],False
+Baseline,test,"B giải thích dễ hỉu, thik ghê!",Positive,Negative,Positive -> Negative,0.9931726,[],True
+Baseline,test,"Hà Nội lạnh 20 độ, tưởng đang ở Đà Lạt",Neutral,Negative,Neutral -> Negative,0.96648574,[],False
+Baseline,test,Ngân hàng nên có xác minh nhiều lớp hơn,Positive,Neutral,Positive -> Neutral,0.5295674,[],False
+Baseline,test,"Hình không load được, check lại đi",Neutral,Negative,Neutral -> Negative,0.7329613,[],False
+Baseline,test,Anh Huy nhìn giống nhân viên quán luôn á 😆,Neutral,Positive,Neutral -> Positive,0.94756967,[],False
+Baseline,test,mỗi người xem chắc sẽ có cảm nhận riêng,Neutral,Positive,Neutral -> Positive,0.9434906,[],False
+Baseline,test,Ủa anh này lồng tiếng nobita thiệt luôn hả?,Neutral,Positive,Neutral -> Positive,0.51178604,[],False
+Baseline,test,t tưởng là meme ai ngờ gây tranh cãi,Neutral,Negative,Neutral -> Negative,0.9194838,[],False
+Baseline,test,Ai ngờ hè mà lôi chăn bông ra đắp :)),Neutral,Negative,Neutral -> Negative,0.9826555,[],False
+Baseline,test,giờ đi học phải có aesthetic mới chịu à?,Neutral,Negative,Neutral -> Negative,0.82113767,[],False
+Baseline,test,Cơm quê dượng bầu khịa anh Huy clip nữa nè,Neutral,Negative,Neutral -> Negative,0.74244326,[],False
+Baseline,test,đang học mà cứ tưởng đang quay tiktok,Neutral,Positive,Neutral -> Positive,0.9707578,[],False
+Baseline,test,mình nhớ sai lớp rồi sao ta,Neutral,Negative,Neutral -> Negative,0.77473736,[],False
+Baseline,test,"cứ làm khổ gia đình ,cả nước cả nghìn người đi được",Positive,Negative,Positive -> Negative,0.99264455,[],False
+Baseline,test,Rome wasn't built in a day,Neutral,Positive,Neutral -> Positive,0.49371523,[],False
+Baseline,test,Chặn vậy thì bao nhiêu app khác cũng nên chặn luôn,Positive,Negative,Positive -> Negative,0.8373283,[],False
+Baseline,test,chia sẻ thêm cách phòng tránh đi mọi người,Positive,Neutral,Positive -> Neutral,0.9836662,[],False
+Baseline,test,Tôi cũng nghĩ vậy,Positive,Neutral,Positive -> Neutral,0.8543442,[],False
+Baseline,test,mình không hiểu sao có người khen được,Negative,Positive,Negative -> Positive,0.89896315,[],False
+Baseline,test,lip combo,Positive,Negative,Positive -> Negative,0.53358066,[],False
+Baseline,test,Never sacrifice for team,Negative,Positive,Negative -> Positive,0.96767485,[],False
+Baseline,test,Ai mà chơi nổi với thứ như này,Negative,Positive,Negative -> Positive,0.9635677,[],False
+Baseline,test,"Ủa e , sao em bảo em với nó chỉ là bạn?",Negative,Neutral,Negative -> Neutral,0.8317557,[],False
+Baseline,test,ổng lồng trẻ con mà ổng cũng trẻ con nx 😆,Positive,Negative,Positive -> Negative,0.86893857,[],False
+Proposed,test,"lúc đầu tưởng bình thường, đọc cap xong ngồi đơ",Positive,Negative,Positive -> Negative,0.8669249,[],False
+Proposed,test,copy that,Neutral,Negative,Neutral -> Negative,0.98616207,[],False
+Proposed,test,Góc quay cũng chỉnh chu ghê,Positive,Neutral,Positive -> Neutral,0.4299965,[],False
+Proposed,test,"em không sao, chỉ là hơi tê tê chân mày thôi",Positive,Neutral,Positive -> Neutral,0.8983478,[],False
+Proposed,test,"Nói thì hay lắm, coi làm được gì không",Positive,Neutral,Positive -> Neutral,0.9707191,[],False
+Proposed,test,Chưa bao giờ thấy ai xử lý hay vậy,Positive,Negative,Positive -> Negative,0.95723724,[],False
+Proposed,test,quán này nổi nhờ tên tuổi người nổi tiếng thôi,Negative,Neutral,Negative -> Neutral,0.6430496,[],False
+Proposed,test,ai chê thì thôi chứ tui vẫn thấy ổn,Positive,Neutral,Positive -> Neutral,0.51493204,[],False
+Proposed,test,Chơi rank mà như chơi AI,Negative,Positive,Negative -> Positive,0.73049647,[],False
+Proposed,test,có phải trả tiền thêm để được ăn ở quận 1 không vậy?,Negative,Neutral,Negative -> Neutral,0.9825267,[],False
+Proposed,test,Cần cải thiện một số điểm,Negative,Neutral,Negative -> Neutral,0.5489549,[],False
+Proposed,test,Đánh giá tốt toàn seeder thôi,Negative,Positive,Negative -> Positive,0.4458485,[],False
+Proposed,test,Thời tiết Hà Nội nay lạ lùng ghê,Neutral,Positive,Neutral -> Positive,0.57232004,[],False
+Proposed,test,plot hole,Negative,Positive,Negative -> Positive,0.901226,[],False
+Proposed,test,One more episode syndrome,Positive,Negative,Positive -> Negative,0.8219961,[],False
+Proposed,test,"clip chỉ là 1 góc nhìn, đừng áp lên tất cả",Neutral,Positive,Neutral -> Positive,0.7610327,[],False
+Proposed,test,Óc chó vừa thôi bạn ơi,Negative,Neutral,Negative -> Neutral,0.9602133,[],False
+Proposed,test,nhiều khi nói chơi mà người ta để bụng đó,Neutral,Negative,Neutral -> Negative,0.66050386,[],False
+Proposed,test,deus ex machina,Negative,Positive,Negative -> Positive,0.6560018,[],False
+Proposed,test,"Cơm quê vắt khô, view thì cứ lên đều 😎",Positive,Negative,Positive -> Negative,0.52952045,[],False
+Proposed,test,Ủa sao nghe giọng quen dữ vậy trời,Neutral,Positive,Neutral -> Positive,0.9798202,[],False
+Proposed,test,Greedy for resources,Negative,Positive,Negative -> Positive,0.90007347,[],False
+Proposed,test,k rep ở lại lớppp 🫵🫵,Positive,Negative,Positive -> Negative,0.92001796,[],True
+Proposed,test,góp ý thì quán k quan tâm luôn,Positive,Negative,Positive -> Negative,0.8228011,[],True
+Proposed,test,diễn sâu như vũng lầy vậy đó,Positive,Negative,Positive -> Negative,0.98872256,[],False
+Proposed,test,mỗi lần vùng miền bị lôi ra là thấy drama,Negative,Positive,Negative -> Positive,0.4174663,[],False
+Proposed,test,rat ok,Positive,Neutral,Positive -> Neutral,0.97747415,[],False
+Proposed,test,Skill shot accuracy 10%,Negative,Positive,Negative -> Positive,0.9359835,[],False
+Proposed,test,go off,Positive,Neutral,Positive -> Neutral,0.63946587,[],False
+Proposed,test,"Thôi cho ông này vô bệnh viện tâm thần đi, thả ra nguy hiểm xã hội",Neutral,Negative,Neutral -> Negative,0.69141805,[],False
+Proposed,test,Thằng này chắc bị điên,Negative,Neutral,Negative -> Neutral,0.605474,[],True
+Proposed,test,"Không mới mẻ gì cả, chuyện thường thôi",Positive,Neutral,Positive -> Neutral,0.7770891,[],False
+Proposed,test,nhin do an dep mat qua,Neutral,Negative,Neutral -> Negative,0.98960227,[],False
+Proposed,test,Khoe khoang gì mà nhiều thế?,Negative,Neutral,Negative -> Neutral,0.8882093,[],False
+Proposed,test,học thì ít mà chồng đ..t thì nhiều nè 😁😁😁,Negative,Positive,Negative -> Positive,0.7146528,[],False
+Proposed,test,may gio,Neutral,Negative,Neutral -> Negative,0.9900339,[],False
+Proposed,test,xem vd\nđọc cap trên vd\nđọc cap\nnhăn mặt\nvô bl,Neutral,Negative,Neutral -> Negative,0.49713105,[],False
+Proposed,test,xin lỗi chứ tui cười hơi to,Positive,Neutral,Positive -> Neutral,0.7514683,[],False
+Proposed,test,Humble brag đúng không?,Negative,Neutral,Negative -> Neutral,0.98158413,[],False
+Proposed,test,Saw it coming from miles away,Negative,Neutral,Negative -> Neutral,0.3913904,[],False
+Proposed,test,Cứ như bị nghiện nổi tiếng ấy,Negative,Positive,Negative -> Positive,0.9375534,[],False
+Proposed,test,Rome wasn't built in a day,Neutral,Positive,Neutral -> Positive,0.7232472,[],False
+Proposed,test,"Dạ, em nghèo :)))",Positive,Negative,Positive -> Negative,0.4720481,[],False
+Proposed,test,xin lịch làm việc để còn book khám luôn,Positive,Neutral,Positive -> Neutral,0.5217723,[],False
+Proposed,test,Nhìn dậy mà bót với liên😭,Negative,Positive,Negative -> Positive,0.92899764,[],False
+Proposed,test,"Đù má, làm cái gì kỳ vậy?",Negative,Neutral,Negative -> Neutral,0.934604,[],False
+Proposed,test,Chuyện đâu còn có đó mà lo,Positive,Negative,Positive -> Negative,0.74233544,[],False
+Proposed,test,First! Đầu tiên,Neutral,Positive,Neutral -> Positive,0.9393369,[],False
+Proposed,test,đẹp mà còn học giỏi nữa thì chịu sao nổi,Positive,Negative,Positive -> Negative,0.46480772,[],False
+Proposed,test,spill the tea,Neutral,Positive,Neutral -> Positive,0.656786,[],False
+Proposed,test,Thân hình như cây cột mỡ luôn ấy,Negative,Positive,Negative -> Positive,0.6253939,[],False
+Proposed,test,Respect! Tôi admire bạn,Positive,Neutral,Positive -> Neutral,0.95800424,[],False
+Proposed,test,Cái cap hại cái chân mày,Positive,Negative,Positive -> Negative,0.9899136,[],False
+Proposed,test,"Hà Nội lạnh 20 độ, tưởng đang ở Đà Lạt",Neutral,Negative,Neutral -> Negative,0.8696727,[],False
+Proposed,test,Anh Huy nhìn giống nhân viên quán luôn á 😆,Neutral,Positive,Neutral -> Positive,0.91611516,[],False
+Proposed,test,mỗi người xem chắc sẽ có cảm nhận riêng,Neutral,Positive,Neutral -> Positive,0.55555683,[],False
+Proposed,test,purr,Positive,Neutral,Positive -> Neutral,0.6540087,[],False
+Proposed,test,t tưởng là meme ai ngờ gây tranh cãi,Neutral,Negative,Neutral -> Negative,0.86076117,[],False
+Proposed,test,Ai ngờ hè mà lôi chăn bông ra đắp :)),Neutral,Negative,Neutral -> Negative,0.72399986,[],False
+Proposed,test,giờ đi học phải có aesthetic mới chịu à?,Neutral,Negative,Neutral -> Negative,0.8327898,[],False
+Proposed,test,Cơm quê dượng bầu khịa anh Huy clip nữa nè,Neutral,Positive,Neutral -> Positive,0.49757022,[],False
+Proposed,test,"Bình thường, không có gì nổi bật",Neutral,Negative,Neutral -> Negative,0.8455935,[],False
+Proposed,test,đang học mà cứ tưởng đang quay tiktok,Neutral,Positive,Neutral -> Positive,0.65835524,[],False
+Proposed,test,mình nhớ sai lớp rồi sao ta,Neutral,Negative,Neutral -> Negative,0.6276955,[],False
+Proposed,test,"cứ làm khổ gia đình ,cả nước cả nghìn người đi được",Positive,Negative,Positive -> Negative,0.98536754,[],False
+Proposed,test,Rome wasn't built in a day,Neutral,Positive,Neutral -> Positive,0.7232472,[],False
+Proposed,test,"Hài vl, chắc tưởng mình là hoàng đế",Neutral,Positive,Neutral -> Positive,0.47171873,[],False
+Proposed,test,Chặn vậy thì bao nhiêu app khác cũng nên chặn luôn,Positive,Negative,Positive -> Negative,0.49095917,[],False
+Proposed,test,chia sẻ thêm cách phòng tránh đi mọi người,Positive,Neutral,Positive -> Neutral,0.9735344,[],False
+Proposed,test,Tôi cũng nghĩ vậy,Positive,Neutral,Positive -> Neutral,0.85213214,[],False
+Proposed,test,Never sacrifice for team,Negative,Positive,Negative -> Positive,0.89489865,[],False
+Proposed,test,"Ủa e , sao em bảo em với nó chỉ là bạn?",Negative,Neutral,Negative -> Neutral,0.8766717,[],False
+Proposed,test,Em nhận sâu🦋nhá,Positive,Neutral,Positive -> Neutral,0.93275446,[],False
+Baseline,test_teencode,góp ý thì quán k quan tâm luôn,Positive,Neutral,Positive -> Neutral,0.8172249,[],True
+Baseline,test_teencode,Thằng này chắc bị điên,Negative,Neutral,Negative -> Neutral,0.4354218,[],True
+Baseline,test_teencode,vcl,Negative,Neutral,Negative -> Neutral,0.54038733,[],True
+Baseline,test_teencode,"B giải thích dễ hỉu, thik ghê!",Positive,Negative,Positive -> Negative,0.99317235,[],True
+Proposed,test_teencode,k rep ở lại lớppp 🫵🫵,Positive,Negative,Positive -> Negative,0.9200179,[],True
+Proposed,test_teencode,góp ý thì quán k quan tâm luôn,Positive,Negative,Positive -> Negative,0.8228011,[],True
+Proposed,test_teencode,Thằng này chắc bị điên,Negative,Neutral,Negative -> Neutral,0.605474,[],True

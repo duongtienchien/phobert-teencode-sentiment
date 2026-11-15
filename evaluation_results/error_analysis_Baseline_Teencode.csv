@@ -1,0 +1,5 @@
+﻿model_dataset,comment,true_label_name,pred_label_name,error_type,confidence,is_teencode,category
+Baseline_Teencode,góp ý thì quán k quan tâm luôn,Positive,Neutral,Positive → Neutral,0.8172249,True,appreciation
+Baseline_Teencode,Thằng này chắc bị điên,Negative,Neutral,Negative → Neutral,0.4354218,True,insult
+Baseline_Teencode,vcl,Negative,Neutral,Negative → Neutral,0.54038733,True,abbreviation_vulgar
+Baseline_Teencode,"B giải thích dễ hỉu, thik ghê!",Positive,Negative,Positive → Negative,0.99317235,True,appreciation
