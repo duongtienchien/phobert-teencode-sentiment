@@ -32,7 +32,8 @@ BATCH_SIZE = 8
 EPOCHS = 3
 LEARNING_RATE = 2e-5
 
-SEED = 42
+# Chay 3 seed cho ca Baseline va Proposed
+SEEDS = [42, 123, 456]
 
 LABEL_NAMES = [
     "negative",
@@ -40,7 +41,10 @@ LABEL_NAMES = [
     "positive"
 ]
 
-os.makedirs("model_outputs", exist_ok=True)
+DATA_DIR = "data/v2"
+OUTPUT_DIR = "model_outputs"
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 print("=" * 60)
 print("PHOBERT - TEENCODE SENTIMENT")
@@ -51,12 +55,12 @@ print(
     "CUDA" if torch.cuda.is_available() else "CPU"
 )
 
+print("Cac seed:", SEEDS)
+
 
 # ==========================================
 # 2. DOC DU LIEU
 # ==========================================
-
-DATA_DIR = "data/v2"
 
 train_df = pd.read_csv(
     f"{DATA_DIR}/train_aug.csv"
@@ -66,7 +70,6 @@ val_df = pd.read_csv(
     f"{DATA_DIR}/val.csv"
 )
 
-# Cac tap test can danh gia
 test_sets = {
     "test": pd.read_csv(f"{DATA_DIR}/test.csv"),
 
@@ -249,7 +252,6 @@ def save_predictions(
         axis=-1
     )
 
-    # Tinh xac suat du doan
     logits = torch.tensor(
         output.predictions
     )
@@ -259,7 +261,6 @@ def save_predictions(
         dim=-1
     ).numpy()
 
-    # Tao bang ket qua
     result = dataframe.copy()
 
     result["true_label"] = (
@@ -282,7 +283,6 @@ def save_predictions(
         encoding="utf-8-sig"
     )
 
-    # Tinh cac chi so
     accuracy = accuracy_score(
         result["true_label"],
         predictions
@@ -296,7 +296,6 @@ def save_predictions(
         zero_division=0
     )
 
-    # Classification Report
     report = classification_report(
         result["true_label"],
         predictions,
@@ -319,15 +318,9 @@ def save_predictions(
     )
 
     print("\nTap du lieu:", filename)
-
     print("Accuracy:", round(accuracy, 4))
-
     print("Macro F1:", round(macro_f1, 4))
-
-    print(
-        "Da luu:",
-        filename
-    )
+    print("Da luu:", filename)
 
     return {
         "accuracy": accuracy,
@@ -342,18 +335,19 @@ def save_predictions(
 def train_one_model(
     model_title,
     text_column,
-    output_dir
+    output_dir,
+    seed
 ):
 
     print("\n" + "=" * 60)
-
     print("BAT DAU HUAN LUYEN:", model_title)
-
+    print("Seed:", seed)
     print("Cot du lieu:", text_column)
-
+    print("Thu muc:", output_dir)
     print("=" * 60)
 
-    # Chuan bi du lieu
+    os.makedirs(output_dir, exist_ok=True)
+
     train_dataset = SentimentDataset(
         train_df,
         text_column
@@ -364,10 +358,9 @@ def train_one_model(
         text_column
     )
 
-    # Dam bao cung seed
-    set_seed(SEED)
+    # Dat seed truoc khi khoi tao model
+    set_seed(seed)
 
-    # Khoi tao PhoBERT
     model = AutoModelForSequenceClassification.from_pretrained(
         MODEL_NAME,
         num_labels=3,
@@ -385,7 +378,6 @@ def train_one_model(
         }
     )
 
-    # Cau hinh huan luyen
     args = TrainingArguments(
 
         output_dir=output_dir,
@@ -416,14 +408,13 @@ def train_one_model(
 
         report_to="none",
 
-        seed=SEED,
+        seed=seed,
 
-        data_seed=SEED,
+        data_seed=seed,
 
         dataloader_num_workers=0
     )
 
-    # Tao Trainer
     trainer = Trainer(
 
         model=model,
@@ -441,18 +432,27 @@ def train_one_model(
         compute_metrics=compute_metrics
     )
 
-    # Bat dau huan luyen
+    # Huan luyen
     trainer.train()
 
-    # Luu mo hinh tot nhat
+    # Luu checkpoint tot nhat
     trainer.save_model(output_dir)
 
     tokenizer.save_pretrained(output_dir)
+
+    # Luu trang thai huan luyen de kiem tra seed
+    trainer.state.save_to_json(
+        os.path.join(
+            output_dir,
+            "trainer_state.json"
+        )
+    )
 
     # Danh gia validation
     val_metrics = trainer.evaluate()
 
     print("\nKET QUA VALIDATION:", model_title)
+    print("Seed:", seed)
 
     for key, value in val_metrics.items():
 
@@ -464,18 +464,17 @@ def train_one_model(
                 round(value, 4)
             )
 
-    # Danh gia tat ca tap test
+    # Danh gia cac tap test
     all_results = []
 
-    prefix = output_dir.replace(
-        "\\",
-        "/"
-    ).split("/")[-1]
+    prefix = os.path.basename(
+        os.path.normpath(output_dir)
+    )
 
     for test_name, test_df in test_sets.items():
 
-        filename = (
-            f"model_outputs/"
+        filename = os.path.join(
+            OUTPUT_DIR,
             f"{prefix}_{test_name}_predictions.csv"
         )
 
@@ -488,6 +487,8 @@ def train_one_model(
 
         all_results.append({
 
+            "seed": seed,
+
             "model": model_title,
 
             "dataset": test_name,
@@ -499,6 +500,8 @@ def train_one_model(
         })
 
     return {
+
+        "seed": seed,
 
         "model": model_title,
 
@@ -515,99 +518,161 @@ def train_one_model(
 
 
 # ==========================================
-# 9. CHAY HAI THI NGHIEM
+# 9. CHAY CAC SEED
 # ==========================================
 
-results = []
+all_seed_results = []
 
-# ------------------------------------------
-# BASELINE
-# Su dung du lieu chua chuan hoa Teencode
-# ------------------------------------------
+for seed in SEEDS:
 
-baseline_result = train_one_model(
+    print("\n" + "=" * 70)
+    print("BAT DAU SEED:", seed)
+    print("=" * 70)
 
-    "Baseline",
+    # Thu muc rieng cho tung seed
+    baseline_dir = os.path.join(
+        OUTPUT_DIR,
+        f"baseline_model_seed{seed}"
+    )
 
-    "text_raw_segmented",
+    proposed_dir = os.path.join(
+        OUTPUT_DIR,
+        f"proposed_model_seed{seed}"
+    )
 
-    "baseline_model"
-)
+    # --------------------------------------
+    # BASELINE
+    # --------------------------------------
 
-results.append(baseline_result)
+    baseline_result = train_one_model(
+        "Baseline",
+        "text_raw_segmented",
+        baseline_dir,
+        seed
+    )
 
+    # --------------------------------------
+    # PROPOSED
+    # --------------------------------------
 
-# ------------------------------------------
-# PROPOSED
-# Su dung du lieu da chuan hoa Teencode
-# ------------------------------------------
+    proposed_result = train_one_model(
+        "Proposed",
+        "text_normalized_segmented",
+        proposed_dir,
+        seed
+    )
 
-proposed_result = train_one_model(
+    # --------------------------------------
+    # LUU KET QUA VALIDATION
+    # --------------------------------------
 
-    "Proposed",
+    validation_results = []
 
-    "text_normalized_segmented",
+    for result in [baseline_result, proposed_result]:
 
-    "proposed_model"
-)
+        validation_results.append({
+            "seed": seed,
+            "model": result["model"],
+            "accuracy": result["val_accuracy"],
+            "macro_f1": result["val_macro_f1"]
+        })
 
-results.append(proposed_result)
+    validation_df = pd.DataFrame(validation_results)
 
+    validation_filename = os.path.join(
+        OUTPUT_DIR,
+        f"validation_comparison_seed{seed}.csv"
+    )
 
-# ==========================================
-# 10. LUU BANG SO SANH
-# ==========================================
+    validation_df.to_csv(
+        validation_filename,
+        index=False,
+        encoding="utf-8-sig"
+    )
 
-# So sanh Validation
-validation_results = []
+    # --------------------------------------
+    # LUU KET QUA TEST
+    # --------------------------------------
 
-for result in results:
+    test_results = []
 
-    validation_results.append({
+    for result in [baseline_result, proposed_result]:
 
-        "model": result["model"],
+        test_results.extend(result["test_results"])
 
-        "accuracy": result["val_accuracy"],
+    test_results_df = pd.DataFrame(test_results)
 
-        "macro_f1": result["val_macro_f1"]
+    test_filename = os.path.join(
+        OUTPUT_DIR,
+        f"test_comparison_seed{seed}.csv"
+    )
 
+    test_results_df.to_csv(
+        test_filename,
+        index=False,
+        encoding="utf-8-sig"
+    )
+
+    # --------------------------------------
+    # GOM KET QUA
+    # --------------------------------------
+
+    all_seed_results.append({
+        "seed": seed,
+        "validation": validation_results,
+        "test": test_results
     })
 
+    print("\nDA HOAN TAT SEED:", seed)
 
-validation_df = pd.DataFrame(
-    validation_results
+    print("Validation:", validation_filename)
+    print("Test:", test_filename)
+
+
+# ==========================================
+# 10. TONG HOP KET QUA CAC SEED
+# ==========================================
+
+all_validation_results = []
+all_test_results = []
+
+for seed_result in all_seed_results:
+
+    all_validation_results.extend(
+        seed_result["validation"]
+    )
+
+    all_test_results.extend(
+        seed_result["test"]
+    )
+
+
+# Tong hop Validation
+all_validation_df = pd.DataFrame(
+    all_validation_results
 )
 
-validation_df.to_csv(
-
-    "model_outputs/validation_comparison.csv",
-
+all_validation_df.to_csv(
+    os.path.join(
+        OUTPUT_DIR,
+        "validation_comparison_all_seeds.csv"
+    ),
     index=False,
-
     encoding="utf-8-sig"
 )
 
 
-# So sanh tat ca tap Test
-test_results = []
-
-for result in results:
-
-    test_results.extend(
-        result["test_results"]
-    )
-
-
-test_results_df = pd.DataFrame(
-    test_results
+# Tong hop Test
+all_test_df = pd.DataFrame(
+    all_test_results
 )
 
-test_results_df.to_csv(
-
-    "model_outputs/test_comparison.csv",
-
+all_test_df.to_csv(
+    os.path.join(
+        OUTPUT_DIR,
+        "test_comparison_all_seeds.csv"
+    ),
     index=False,
-
     encoding="utf-8-sig"
 )
 
@@ -616,29 +681,23 @@ test_results_df.to_csv(
 # 11. IN KET QUA CUOI CUNG
 # ==========================================
 
-print("\n" + "=" * 60)
-
-print("SO SANH VALIDATION")
-
-print("=" * 60)
+print("\n" + "=" * 70)
+print("TONG HOP KET QUA VALIDATION")
+print("=" * 70)
 
 print(
-    validation_df.to_string(index=False)
+    all_validation_df.to_string(index=False)
 )
 
-
-print("\n" + "=" * 60)
-
-print("SO SANH TAT CA TAP TEST")
-
-print("=" * 60)
+print("\n" + "=" * 70)
+print("TONG HOP KET QUA TEST")
+print("=" * 70)
 
 print(
-    test_results_df.to_string(index=False)
+    all_test_df.to_string(index=False)
 )
 
-
-print("\nHOAN TAT HUAN LUYEN!")
+print("\nHOAN TAT TAT CA CAC SEED!")
 
 print(
     "Ket qua duoc luu trong thu muc model_outputs/"
